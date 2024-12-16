@@ -1,17 +1,23 @@
-name: Daily X User Fetch
+name: Update User Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 00:00 执行
+    - cron: '0 0 * * *'  # 每天运行
   workflow_dispatch:      # 允许手动触发
 
 jobs:
-  fetch:
+  update-data:
     runs-on: ubuntu-latest
-    
     steps:
-      - uses: actions/checkout@v4
-      
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}  # 使用你设置的 secret
+          
+      - name: Setup Git
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
         with:
@@ -25,9 +31,8 @@ jobs:
           GET_ID_X_TOKEN: ${{ secrets.GET_ID_X_TOKEN }}
         run: bun run scripts/index.ts
         
-      - name: Commit and push if changes exist
+      - name: Commit and push changes
         run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add accounts/*.json
-          git diff --staged --quiet || (git commit -m "chore: update user data [skip ci]" && git push) 
+          git add .
+          git commit -m "chore: update user data [skip ci]" || exit 0
+          git push
