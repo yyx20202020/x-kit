@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的专栏：https://t.co/n3aQPcb9yX ;  独立开发者，NuxtBase作者",
+      "followersCount": 22585,
+      "friendsCount": 457,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GfFlUKzawAEl7x0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1869388586585608428",
+    "fullText": "AI开发者在对接Dify的API时，API Access这个页面是需要登录态的，所以不能直接给到Cursor读取使用，有人说在dify-docs仓库下也没有找到，这让AI直接接入Dify的API很困难。其实这个页面是在dify/web/app下，对应的仓库地址如下（拿去丢给Cursor吧）： https://t.co/JUUD7y8Rgl"
+  },
+  {
+    "user": {
       "screenName": "nextify2024",
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
       "description": "某不知名 HK 创业公司 CEO ，关不关注我的代码 https://t.co/h2isoGsGIV ，我们都是好朋友 🫡",
-      "followersCount": 23155,
+      "followersCount": 23154,
       "friendsCount": 342,
       "location": "HK"
     },
@@ -37,8 +54,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的专栏：https://t.co/n3aQPcb9yX ;  独立开发者，NuxtBase作者",
-      "followersCount": 22579,
-      "friendsCount": 455,
+      "followersCount": 22585,
+      "friendsCount": 457,
       "location": "Hong Kong"
     },
     "images": [],
@@ -52,7 +69,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5441,
+      "followersCount": 5451,
       "friendsCount": 514,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -84,7 +101,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98207,
+      "followersCount": 98215,
       "friendsCount": 1232,
       "location": "Chicago, IL"
     },
@@ -101,8 +118,8 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 2863,
-      "friendsCount": 1073,
+      "followersCount": 2867,
+      "friendsCount": 1074,
       "location": ""
     },
     "images": [
@@ -118,7 +135,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 146619,
+      "followersCount": 146620,
       "friendsCount": 446,
       "location": "中华人民共和国"
     },
@@ -135,7 +152,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17191,
+      "followersCount": 17194,
       "friendsCount": 92,
       "location": "China"
     },
@@ -150,7 +167,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50416,
+      "followersCount": 50415,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -167,7 +184,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5441,
+      "followersCount": 5451,
       "friendsCount": 514,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -184,7 +201,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17191,
+      "followersCount": 17194,
       "friendsCount": 92,
       "location": "China"
     },
@@ -214,7 +231,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50416,
+      "followersCount": 50415,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -246,6 +263,21 @@
       "name": "Cloud 66",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1533734251421741056/a-6gfBvT_normal.jpg",
       "description": "Deploy your code directly from your repo to any cloud in minutes. \nHave a question? Book a demo at https://t.co/KIq3uCUk98\n#RubyonRails #Kubernetes #JAMstack #DevOps",
+      "followersCount": 10897,
+      "friendsCount": 9757,
+      "location": "London, San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cloud66/status/1869279949590278320",
+    "fullText": "⚡️ Want the simplicity of Heroku but need more control? With Cloud 66, you can have both."
+  },
+  {
+    "user": {
+      "screenName": "cloud66",
+      "name": "Cloud 66",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1533734251421741056/a-6gfBvT_normal.jpg",
+      "description": "Deploy your code directly from your repo to any cloud in minutes. \nHave a question? Book a demo at https://t.co/KIq3uCUk98\n#RubyonRails #Kubernetes #JAMstack #DevOps",
       "followersCount": 10893,
       "friendsCount": 9757,
       "location": "London, San Francisco"
@@ -261,7 +293,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98207,
+      "followersCount": 98215,
       "friendsCount": 1232,
       "location": "Chicago, IL"
     },
@@ -278,7 +310,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99008,
+      "followersCount": 99012,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -295,7 +327,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99008,
+      "followersCount": 99012,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -331,8 +363,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的专栏：https://t.co/n3aQPcb9yX ;  独立开发者，NuxtBase作者",
-      "followersCount": 22579,
-      "friendsCount": 455,
+      "followersCount": 22585,
+      "friendsCount": 457,
       "location": "Hong Kong"
     },
     "images": [
@@ -349,7 +381,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98207,
+      "followersCount": 98215,
       "friendsCount": 1232,
       "location": "Chicago, IL"
     },
@@ -364,7 +396,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50416,
+      "followersCount": 50415,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -396,7 +428,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99008,
+      "followersCount": 99012,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -413,7 +445,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99008,
+      "followersCount": 99012,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -430,7 +462,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6164,
+      "followersCount": 6165,
       "friendsCount": 719,
       "location": "San Jose, CA"
     },
@@ -463,7 +495,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 40029,
+      "followersCount": 40030,
       "friendsCount": 305,
       "location": ""
     },
@@ -478,7 +510,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6164,
+      "followersCount": 6165,
       "friendsCount": 719,
       "location": "San Jose, CA"
     },
@@ -493,7 +525,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99008,
+      "followersCount": 99012,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -510,7 +542,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 40029,
+      "followersCount": 40030,
       "friendsCount": 305,
       "location": ""
     },
@@ -525,7 +557,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 40029,
+      "followersCount": 40030,
       "friendsCount": 305,
       "location": ""
     },
@@ -540,7 +572,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99008,
+      "followersCount": 99012,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -773,7 +805,7 @@
       "name": "War Robots",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1108024983798853632/XhuNovgE_normal.png",
       "description": "Official account of War Robots. Join epic MMO battles with giant robots! Try for free on iOS, Android, PC & Amazon 👉https://t.co/TtPjlyWLca",
-      "followersCount": 88503,
+      "followersCount": 88500,
       "friendsCount": 3,
       "location": "globe"
     },
@@ -1140,7 +1172,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99008,
+      "followersCount": 99012,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -1337,7 +1369,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 10257,
+      "followersCount": 10258,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
