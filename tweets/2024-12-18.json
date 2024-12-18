@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
+      "followersCount": 98987,
+      "friendsCount": 800,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1869056349348167682/pu/vid/avc1/1974x1080/gUIIB2FnXW9C8MU5.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nishuang/status/1869192607689310679",
+    "fullText": "轻量级的 3D 设计工具 Spline，发布了新的 Shape Blend/形状融合 功能\n\n以后做交互式的 3D 动画就更方便了\n\n肉眼可见，以后会有越来越多的 UI 控件采用 3D 动画形式的微交互\n\nhttps://t.co/j0qib1QiX2"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6164,
+      "friendsCount": 719,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1869189664806175231",
+    "fullText": "在民主国家政治里，有两个问题。\n1. 如果执政党治理能力一团糟，然后还感觉良好，用结果平等来忽悠大家。那这个国家最后会不会陷入极右和集权。\n2. 这个潜在的极右和集权，会不会是这个国家目前的保守党派和它的代表人物。比如美国的 Trump。"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -117,7 +149,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70362,
+      "followersCount": 70367,
       "friendsCount": 3282,
       "location": ""
     },
@@ -167,7 +199,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98174,
+      "followersCount": 98180,
       "friendsCount": 1232,
       "location": "Chicago, IL"
     },
@@ -184,7 +216,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 3801336,
+      "followersCount": 3801381,
       "friendsCount": 3,
       "location": ""
     },
@@ -235,7 +267,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98174,
+      "followersCount": 98180,
       "friendsCount": 1232,
       "location": "Chicago, IL"
     },
@@ -253,7 +285,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98174,
+      "followersCount": 98180,
       "friendsCount": 1232,
       "location": "Chicago, IL"
     },
@@ -268,7 +300,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17171,
+      "followersCount": 17174,
       "friendsCount": 92,
       "location": "China"
     },
@@ -329,11 +361,26 @@
   },
   {
     "user": {
+      "screenName": "warrobotsgame",
+      "name": "War Robots",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1108024983798853632/XhuNovgE_normal.png",
+      "description": "Official account of War Robots. Join epic MMO battles with giant robots! Try for free on iOS, Android, PC & Amazon 👉https://t.co/TtPjlyWLca",
+      "followersCount": 88464,
+      "friendsCount": 3,
+      "location": "globe"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/warrobotsgame/status/1869041249191166107",
+    "fullText": "We invite you do join epic WarRobots battle! 💣🤖"
+  },
+  {
+    "user": {
       "screenName": "MaimaiLee123",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5277,
+      "followersCount": 5287,
       "friendsCount": 516,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -383,7 +430,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的专栏：https://t.co/n3aQPcb9yX ;  独立开发者，NuxtBase作者",
-      "followersCount": 22491,
+      "followersCount": 22492,
       "friendsCount": 454,
       "location": "Hong Kong"
     },
@@ -417,7 +464,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5277,
+      "followersCount": 5287,
       "friendsCount": 516,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -436,7 +483,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70362,
+      "followersCount": 70367,
       "friendsCount": 3282,
       "location": ""
     },
@@ -471,7 +518,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5277,
+      "followersCount": 5287,
       "friendsCount": 516,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -486,7 +533,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 19743,
+      "followersCount": 19744,
       "friendsCount": 1000,
       "location": ""
     },
@@ -503,7 +550,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5277,
+      "followersCount": 5287,
       "friendsCount": 516,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -520,7 +567,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5277,
+      "followersCount": 5287,
       "friendsCount": 516,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -540,7 +587,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 19743,
+      "followersCount": 19744,
       "friendsCount": 1000,
       "location": ""
     },
@@ -557,7 +604,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5277,
+      "followersCount": 5287,
       "friendsCount": 516,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -574,7 +621,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 146566,
+      "followersCount": 146570,
       "friendsCount": 445,
       "location": "中华人民共和国"
     },
@@ -627,7 +674,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17171,
+      "followersCount": 17174,
       "friendsCount": 92,
       "location": "China"
     },
@@ -635,6 +682,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1868929651382669587",
     "fullText": "https://t.co/8XIPucyK96"
+  },
+  {
+    "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863976445556449280/OsLJTN-J_normal.jpg",
+      "description": "hang lights this month if you love the McRib",
+      "followersCount": 4749687,
+      "friendsCount": 13164,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1868929130177479084",
+    "fullText": "home is where the first bite is"
   },
   {
     "user": {
@@ -741,6 +803,36 @@
   },
   {
     "user": {
+      "screenName": "DollarShaveClub",
+      "name": "Dollar Shave Club",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1613974593592758272/jBlgZJy__normal.jpg",
+      "description": "We make razors and have fun. Now at a store near you.",
+      "followersCount": 68210,
+      "friendsCount": 788,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DollarShaveClub/status/1868884831888941116",
+    "fullText": "Why spend an arm and a leg on a shave when you could just... not. Make a different choice with this top shelf Starter Set."
+  },
+  {
+    "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 10224,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1868872676669898922",
+    "fullText": "Say Goodbye to Neuropathy Pain This Winter!\n\nStruggling with numbness, tingling, or discomfort? Our winter boots offer a wide toe box, cozy warmth, and supportive design to ease neuropathy pain, ensuring a comfortable, pain-free winter."
+  },
+  {
+    "user": {
       "screenName": "canlesofficial",
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
@@ -760,7 +852,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98174,
+      "followersCount": 98180,
       "friendsCount": 1232,
       "location": "Chicago, IL"
     },
@@ -770,6 +862,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1868799027006906868",
     "fullText": "简单说一下 GitHub Copilot 和 Cursor 的差别，以及为什么我觉得 Cursor 要更好。\n\n最开始 GitHub Copilot 是 VSCode 插件形式，只能在当前光标位置自动完成，当然现在越来越多的功能融合到 VSCode 内核中了，比如 CMD + I 就可以弹出对话框，比如有专门的聊天侧边栏。VSCode 也在提供更多的原生 AI https://t.co/PNGEYFtAEH"
+  },
+  {
+    "user": {
+      "screenName": "mellowflowT",
+      "name": "Mellow Flow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1843981013191475200/PDMOMBAE_normal.jpg",
+      "description": "Say goodbye to procrastination & live your life to the fullest. ✨",
+      "followersCount": 27,
+      "friendsCount": 20,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mellowflowT/status/1868671862026506308",
+    "fullText": "Recognizing the early signs of burnout is crucial to protecting your mental and physical well-being. Take a break, seek support, and prioritize self-care before it escalates. 📷"
   },
   {
     "user": {
