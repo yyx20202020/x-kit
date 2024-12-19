@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
+      "followersCount": 17209,
+      "friendsCount": 92,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GfKwTvgakAEf1lY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1869750776983441752",
+    "fullText": "感谢 @pseudo_yu 大佬给懒猫微服移植的RSSHub， 我每天必备的软件哇。\n\nhttps://t.co/AzlZibcFZI https://t.co/BfnCQZZ8Q6"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 22666,
+      "friendsCount": 461,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1869746477247156641",
+    "fullText": "不喜欢美团，因为它会让 9 点半到 10 点的望京，超级堵....严重影响到我了😓"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 40054,
+      "followersCount": 40061,
       "friendsCount": 305,
       "location": ""
     },
@@ -22,8 +54,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5652,
-      "friendsCount": 522,
+      "followersCount": 5650,
+      "friendsCount": 520,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -39,7 +71,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1422205969077923841/jgLnMvyO_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 133715,
+      "followersCount": 133694,
       "friendsCount": 1425,
       "location": "東京 港区"
     },
@@ -56,7 +88,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70377,
+      "followersCount": 70371,
       "friendsCount": 3282,
       "location": ""
     },
@@ -73,7 +105,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 22659,
+      "followersCount": 22666,
       "friendsCount": 461,
       "location": "Hong Kong"
     },
@@ -90,8 +122,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5652,
-      "friendsCount": 522,
+      "followersCount": 5650,
+      "friendsCount": 520,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -105,8 +137,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5652,
-      "friendsCount": 522,
+      "followersCount": 5650,
+      "friendsCount": 520,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -123,8 +155,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5652,
-      "friendsCount": 522,
+      "followersCount": 5650,
+      "friendsCount": 520,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -138,7 +170,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 22659,
+      "followersCount": 22666,
       "friendsCount": 461,
       "location": "Hong Kong"
     },
@@ -155,8 +187,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5652,
-      "friendsCount": 522,
+      "followersCount": 5650,
+      "friendsCount": 520,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -189,8 +221,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5652,
-      "friendsCount": 522,
+      "followersCount": 5650,
+      "friendsCount": 520,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -206,7 +238,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50427,
+      "followersCount": 50426,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -223,7 +255,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50427,
+      "followersCount": 50426,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -241,7 +273,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 22659,
+      "followersCount": 22666,
       "friendsCount": 461,
       "location": "Hong Kong"
     },
@@ -273,8 +305,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 5652,
-      "friendsCount": 522,
+      "followersCount": 5650,
+      "friendsCount": 520,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -293,7 +325,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7480,
+      "followersCount": 7481,
       "friendsCount": 273,
       "location": ""
     },
@@ -308,7 +340,7 @@
       "name": "クイーンズブレイドリミットブレイク",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1843100771057065984/k7g7VUlR_normal.png",
       "description": "『クイリミ』は「クイーンズブレイド」シリーズに登場する美闘士たちがフルオートで強く、激しく闘う、ターン制RPGです。\n美闘士たちは、放置時間も己を高めるべく冒険に赴き、アイテムや経験値を収集します。",
-      "followersCount": 3242,
+      "followersCount": 3256,
       "friendsCount": 1,
       "location": "日本"
     },
@@ -338,7 +370,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 2934,
+      "followersCount": 2936,
       "friendsCount": 1077,
       "location": ""
     },
@@ -355,7 +387,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99046,
+      "followersCount": 99039,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -405,7 +437,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98264,
+      "followersCount": 98256,
       "friendsCount": 1232,
       "location": "Chicago, IL"
     },
@@ -439,7 +471,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727019827645308928/8B7sjQ26_normal.jpg",
       "description": "几个小公司的CEO，竞技之心，有情有义，逍遥自得",
-      "followersCount": 6308,
+      "followersCount": 6309,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -456,7 +488,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99046,
+      "followersCount": 99039,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -473,7 +505,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1422205969077923841/jgLnMvyO_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 133715,
+      "followersCount": 133694,
       "friendsCount": 1425,
       "location": "東京 港区"
     },
@@ -509,7 +541,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99046,
+      "followersCount": 99039,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -556,7 +588,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社群 发起人 ｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 6626,
+      "followersCount": 6628,
       "friendsCount": 3268,
       "location": ""
     },
@@ -633,7 +665,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
       "description": "某不知名 HK 创业公司 CEO ，关不关注我的代码 https://t.co/h2isoGsGIV ，我们都是好朋友 🫡",
-      "followersCount": 23154,
+      "followersCount": 23153,
       "friendsCount": 342,
       "location": "HK"
     },
@@ -667,7 +699,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社群 发起人 ｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 6626,
+      "followersCount": 6628,
       "friendsCount": 3268,
       "location": ""
     },
@@ -1486,7 +1518,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 10338,
+      "followersCount": 10340,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -1584,6 +1616,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/cloud66/status/1869279949590278320",
     "fullText": "⚡️ Want the simplicity of Heroku but need more control? With Cloud 66, you can have both."
+  },
+  {
+    "user": {
+      "screenName": "cloud66",
+      "name": "Cloud 66",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1533734251421741056/a-6gfBvT_normal.jpg",
+      "description": "Deploy your code directly from your repo to any cloud in minutes. \nHave a question? Book a demo at https://t.co/KIq3uCUk98\n#RubyonRails #Kubernetes #JAMstack #DevOps",
+      "followersCount": 10908,
+      "friendsCount": 9759,
+      "location": "London, San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cloud66/status/1869279949456126238",
+    "fullText": "Upgrade to Cloud 66 for free"
   },
   {
     "user": {
