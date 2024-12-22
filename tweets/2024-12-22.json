@@ -1,6 +1,25 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 22725,
+      "friendsCount": 462,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GfYzLNWasAAtZhf.jpg",
+      "https://pbs.twimg.com/media/GfYzNofaoAAPsm2.png",
+      "https://pbs.twimg.com/media/GfYzTpQbYAEhmgI.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1870739483337130218",
+    "fullText": "看到Coze上付费模板的收入，有点小震惊...\n独立开发们，当你还在纠结langding page多好看的时候，人家搭建一个工作流和chatbox已经赚了大几万了😂 https://t.co/YTg9UdxMO7"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -42,7 +61,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99054,
+      "followersCount": 99064,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -60,7 +79,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41066,
+      "followersCount": 41071,
       "friendsCount": 306,
       "location": ""
     },
@@ -75,7 +94,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41066,
+      "followersCount": 41071,
       "friendsCount": 306,
       "location": ""
     },
@@ -90,7 +109,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1683,
+      "followersCount": 1684,
       "friendsCount": 183,
       "location": "NewYork"
     },
@@ -107,7 +126,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41066,
+      "followersCount": 41071,
       "friendsCount": 306,
       "location": ""
     },
@@ -140,7 +159,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6389,
+      "followersCount": 6399,
       "friendsCount": 721,
       "location": "San Jose, CA"
     },
@@ -155,7 +174,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98407,
+      "followersCount": 98405,
       "friendsCount": 1234,
       "location": "Chicago, IL"
     },
@@ -187,7 +206,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6389,
+      "followersCount": 6399,
       "friendsCount": 721,
       "location": "San Jose, CA"
     },
@@ -202,7 +221,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70405,
+      "followersCount": 70403,
       "friendsCount": 3284,
       "location": ""
     },
@@ -220,7 +239,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41066,
+      "followersCount": 41071,
       "friendsCount": 306,
       "location": ""
     },
@@ -235,7 +254,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6389,
+      "followersCount": 6399,
       "friendsCount": 721,
       "location": "San Jose, CA"
     },
@@ -325,7 +344,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98407,
+      "followersCount": 98405,
       "friendsCount": 1234,
       "location": "Chicago, IL"
     },
@@ -340,7 +359,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 133784,
+      "followersCount": 133795,
       "friendsCount": 1425,
       "location": "東京 港区"
     },
@@ -357,8 +376,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 6134,
-      "friendsCount": 731,
+      "followersCount": 6156,
+      "friendsCount": 740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -454,7 +473,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 10416,
+      "followersCount": 10426,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -499,8 +518,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 6134,
-      "friendsCount": 731,
+      "followersCount": 6156,
+      "friendsCount": 740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -517,8 +536,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 6134,
-      "friendsCount": 731,
+      "followersCount": 6156,
+      "friendsCount": 740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -535,7 +554,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50463,
+      "followersCount": 50467,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -552,7 +571,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
       "description": "某不知名 HK 创业公司 CEO ，关不关注我的代码 https://t.co/h2isoGsGIV ，我们都是好朋友 🫡",
-      "followersCount": 23155,
+      "followersCount": 23154,
       "friendsCount": 342,
       "location": "HK"
     },
@@ -569,8 +588,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 6134,
-      "friendsCount": 731,
+      "followersCount": 6156,
+      "friendsCount": 740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -586,7 +605,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 133784,
+      "followersCount": 133795,
       "friendsCount": 1425,
       "location": "東京 港区"
     },
@@ -606,7 +625,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50463,
+      "followersCount": 50467,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -624,7 +643,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41066,
+      "followersCount": 41071,
       "friendsCount": 306,
       "location": ""
     },
@@ -639,7 +658,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41066,
+      "followersCount": 41071,
       "friendsCount": 306,
       "location": ""
     },
@@ -654,7 +673,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41066,
+      "followersCount": 41071,
       "friendsCount": 306,
       "location": ""
     },
@@ -687,7 +706,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41066,
+      "followersCount": 41071,
       "friendsCount": 306,
       "location": ""
     },
@@ -732,7 +751,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99054,
+      "followersCount": 99064,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -749,7 +768,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99054,
+      "followersCount": 99064,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -761,6 +780,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/nishuang/status/1870318393879875681",
     "fullText": "集怪诞和性感于一身的 DSKY 手表\n\n#设计参考\n\n这块“Moonwatch/月球手表”，精确复刻了阿波罗登月飞船导航电脑的 DSKY 面板/人机界面，把复古科技和宇航黄金时代戴在手腕上\n\n外壳材质看起来也很怪，其实用了 CNC 加工的不锈钢表壳、外加军用级陶瓷涂层\n\n在英国手工制作 https://t.co/EZNdEfOayM"
+  },
+  {
+    "user": {
+      "screenName": "RattlesnakeMeat",
+      "name": "Rattlesnake Meat Company",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841352816603865088/i8YdL1mK_normal.jpg",
+      "description": "BEEF 21 Day Aged l Ships to Door l 🚫mRNA l No Hormone",
+      "followersCount": 111,
+      "friendsCount": 267,
+      "location": "Kansas"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RattlesnakeMeat/status/1870317988336828750",
+    "fullText": "FREE Grill--The Ultimate American Patriot Bundle--So many FREE Made in the USA products, there's no other way to describe it! Get premium 21 day-aged beef for a year, a grill, charcoal, seasonings, and more! Order NOW to claim free products. Limited stock!"
   },
   {
     "user": {
@@ -821,6 +855,21 @@
     },
     "images": [],
     "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1870255053204009366",
+    "fullText": "🎒 Organize Better, Travel Easier with This Backpack!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42052,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1870250578888007830",
     "fullText": "🌍Travel Smarter, Pack Easier with This Bag!\nhttps://t.co/JLnEOUPAg4"
   },
@@ -838,6 +887,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1870250453348344123",
     "fullText": "🌍Travel Smarter, Pack Easier with This Bag!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "SnoozyGummy",
+      "name": "Snoozy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1793371033237700608/A4V4NoD9_normal.jpg",
+      "description": "Gummies For Every Good Mood.",
+      "followersCount": 30,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SnoozyGummy/status/1870246308357033995",
+    "fullText": "Not your average stocking stuffer: Snoozy delivers sleep, love, daytime vibes, and stress relief. 💤💝😌🎄"
   },
   {
     "user": {
@@ -922,7 +986,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99054,
+      "followersCount": 99064,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -1003,11 +1067,26 @@
   },
   {
     "user": {
+      "screenName": "HunterFromNYC",
+      "name": "Hunter Brooks 😎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1647223067142176768/zH_hQ5R4_normal.jpg",
+      "description": "CEO @ellipsis_dev (YC W24)",
+      "followersCount": 1123,
+      "friendsCount": 1871,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HunterFromNYC/status/1870121427438809509",
+    "fullText": "AI Code Reviews are here (and they work)"
+  },
+  {
+    "user": {
       "screenName": "BrochureP42192",
       "name": "AIcoine88",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863935506322518016/6xIOcf5k_normal.jpg",
       "description": "Aicoin全球Web3行情分析工具领跑者,币圈专业看盘下单工具下载 尽在客户端\n🔀点击前往官网地址： https://t.co/LplMmM3jC2\n强大的K线图表功能,编程的自定义指标工具，35+交易所行情数据，多种预警，社媒消息，巨鲸以及大单跟踪",
-      "followersCount": 83,
+      "followersCount": 87,
       "friendsCount": 4,
       "location": "日本"
     },
