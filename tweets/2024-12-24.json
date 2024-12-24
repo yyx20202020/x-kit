@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
+      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
+      "followersCount": 1685,
+      "friendsCount": 183,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gfiij9DbMAAYM2j.jpg",
+      "https://pbs.twimg.com/media/GfijAxpaMAAnI62.jpg",
+      "https://pbs.twimg.com/media/Gfij2MpaAAAcgNl.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1871426457307873693",
+    "fullText": "⭐️聊聊ChatGPT降智 及 现有解决方法⭐️\n\n1⃣ 降智表现有以下几种：\n- 无法识别图片、文件、联网、编程等附加能力\n- o1及o1-pro模型思考时间缩短（5秒内结束）\n\n2⃣ 降智参数包括：\n- 前端的遥测，如浏览器信息、操作系统、设备型号、语言环境等等\n- https://t.co/SuxtFtJcXR"
+  },
+  {
+    "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
+      "followersCount": 99095,
+      "friendsCount": 800,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1871421889257623552/pu/vid/avc1/1280x720/xQS_KogaJphUY9ww.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/nishuang/status/1871422532865147187",
+    "fullText": "为什么苏联有那么多奇特的汽车站\n\n#设计参考\n\n通常说起苏联时期的公共建筑，大家第一时间想到的是北京的苏式大板楼、苏式老破小…造型千篇一律、缺乏设计\n\n奇怪的是苏联境内有很多造型各异、充满艺术感和想象力的汽车站，加拿大摄影师把它们拍成了纪录片：\nhttps://t.co/J4JOiQThFQ\n\n这个 Youtube https://t.co/PE3v2AQNKA"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社群 发起人 ｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 6882,
+      "followersCount": 6881,
       "friendsCount": 3272,
       "location": ""
     },
@@ -39,7 +75,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41927,
+      "followersCount": 41942,
       "friendsCount": 307,
       "location": ""
     },
@@ -56,7 +92,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98524,
+      "followersCount": 98527,
       "friendsCount": 1235,
       "location": "Chicago, IL"
     },
@@ -88,7 +124,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98524,
+      "followersCount": 98527,
       "friendsCount": 1235,
       "location": "Chicago, IL"
     },
@@ -105,7 +141,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41927,
+      "followersCount": 41942,
       "friendsCount": 307,
       "location": ""
     },
@@ -125,6 +161,21 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42221,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1871345041911718136",
+    "fullText": "🚀 Smart Packing, Smarter Travel—This Tote Has It All!\nhttps://t.co/RrDfNaQJaS"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
       "followersCount": 42219,
       "friendsCount": 0,
       "location": ""
@@ -133,6 +184,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1871328988507123998",
     "fullText": "🚨 Travel Smarter, Pack Easier with This Tote!\nhttps://t.co/RrDfNaQJaS"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42221,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1871328988297363954",
+    "fullText": "🚀 Smart Packing, Smarter Travel—This Tote Has It All!\nhttps://t.co/RrDfNaQJaS"
   },
   {
     "user": {
@@ -157,7 +223,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41927,
+      "followersCount": 41942,
       "friendsCount": 307,
       "location": ""
     },
@@ -187,7 +253,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 133903,
+      "followersCount": 133906,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -204,7 +270,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 6548,
+      "followersCount": 6555,
       "friendsCount": 979,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -267,7 +333,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41927,
+      "followersCount": 41942,
       "friendsCount": 307,
       "location": ""
     },
@@ -282,7 +348,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41927,
+      "followersCount": 41942,
       "friendsCount": 307,
       "location": ""
     },
@@ -359,7 +425,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41927,
+      "followersCount": 41942,
       "friendsCount": 307,
       "location": ""
     },
@@ -452,7 +518,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 10469,
+      "followersCount": 10472,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -482,6 +548,21 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42221,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1871216697765462251",
+    "fullText": "🚨 Travel Smarter, Pack Easier with This Tote!\nhttps://t.co/RrDfNaQJaS"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
       "followersCount": 42219,
       "friendsCount": 0,
       "location": ""
@@ -497,7 +578,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41927,
+      "followersCount": 41942,
       "friendsCount": 307,
       "location": ""
     },
@@ -514,7 +595,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41927,
+      "followersCount": 41942,
       "friendsCount": 307,
       "location": ""
     },
@@ -547,7 +628,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 6548,
+      "followersCount": 6555,
       "friendsCount": 979,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -564,7 +645,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 41927,
+      "followersCount": 41942,
       "friendsCount": 307,
       "location": ""
     },
@@ -646,7 +727,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6003,
+      "followersCount": 6005,
       "friendsCount": 461,
       "location": ""
     },
@@ -661,7 +742,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 6548,
+      "followersCount": 6555,
       "friendsCount": 979,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -678,7 +759,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 6548,
+      "followersCount": 6555,
       "friendsCount": 979,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -695,7 +776,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 6548,
+      "followersCount": 6555,
       "friendsCount": 979,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -712,7 +793,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98524,
+      "followersCount": 98527,
       "friendsCount": 1235,
       "location": "Chicago, IL"
     },
@@ -732,7 +813,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99096,
+      "followersCount": 99095,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -999,7 +1080,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 98524,
+      "followersCount": 98527,
       "friendsCount": 1235,
       "location": "Chicago, IL"
     },
@@ -1058,6 +1139,21 @@
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1870763711805178229",
+    "fullText": "🎒🌟 Pack Smarter, Travel Easier\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42221,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1870763711524122914",
     "fullText": "🎒🌟 Pack Smarter, Travel Easier\nhttps://t.co/JLnEOUPAg4"
   },
   {
