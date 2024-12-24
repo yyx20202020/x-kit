@@ -9,6 +9,10 @@
 - 支持数据本地化存储
 - GitHub Actions 自动化部署
 
+## 更新日志
+
+- 2024-12-24 添加每日发布推文功能 `post-twitter-daily.yml` `post-tweet.ts`
+
 ## 安装
 
 ```bash
