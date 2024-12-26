@@ -1,12 +1,62 @@
 [
   {
     "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
+      "followersCount": 42762,
+      "friendsCount": 308,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gfud_4zXkAAVHPE.jpg",
+      "https://pbs.twimg.com/media/Gfud_4-WEAAM3bi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1872263796439613824",
+    "fullText": "看到的一个特斯拉股票期权交易者的帖子，翻译了一下。\n\n大多数普通投资人，没有数学背景，对高斯函数和期货期权定价定理也就是Black-Scholes Model 不熟悉的话，在长期的衍生品交易中是很难赚到钱，而且有可能产生一个完全不匹配的风险收益结构。 https://t.co/5adZscyH4I"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 22865,
+      "friendsCount": 471,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1872263664671260892",
+    "fullText": "欢迎大家访问NuxtBase(https://t.co/FPp0UVjZUm)查看\n🗣关于NuxtBase的文档，后期我是想每个子模块都录制视频的。但是最近实在太忙没时间，如果大家有任何问题可以反馈给我，我先找大家共性的问题录制视频和补充文档！"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 22865,
+      "friendsCount": 471,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1872261039070605312/pu/vid/avc1/1920x1080/-58fljjcGZ2ca-uv.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1872262844210946440",
+    "fullText": "👏如何5min接入Stripe实现全球收款？昨天有第一次使用Stripe的用户反馈弄不明白Stripe如何配置，于是我刚才录制了一个4k视频演示， 上传了B站和Youtube。基于NuxtBase，接入Stripe很快，很方便。 https://t.co/2eEFeAUZpb"
+  },
+  {
+    "user": {
       "screenName": "MaimaiLee123",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7629,
-      "friendsCount": 1146,
+      "followersCount": 7638,
+      "friendsCount": 1103,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -18,12 +68,27 @@
   },
   {
     "user": {
+      "screenName": "mouldinesseaoq",
+      "name": "Erik Clifford",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1867498938606972928/YwwIt8nU_normal.jpg",
+      "description": "",
+      "followersCount": 2,
+      "friendsCount": 11,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mouldinesseaoq/status/1872251341462262099",
+    "fullText": "🚗 \"Upgrade your car with our Premium Armrest Box Cover (PU Leather + Cotton)! 😍 Say goodbye to fatigue and hello to comfort. 🛒 Order now 👉\" https://t.co/caV7bqbTJc"
+  },
+  {
+    "user": {
       "screenName": "MaimaiLee123",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7629,
-      "friendsCount": 1146,
+      "followersCount": 7638,
+      "friendsCount": 1103,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -54,7 +119,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 134089,
+      "followersCount": 134093,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -89,7 +154,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70526,
+      "followersCount": 70529,
       "friendsCount": 3284,
       "location": ""
     },
@@ -107,8 +172,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7629,
-      "friendsCount": 1146,
+      "followersCount": 7638,
+      "friendsCount": 1103,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -137,7 +202,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99043,
+      "followersCount": 99044,
       "friendsCount": 1237,
       "location": "Chicago, IL"
     },
@@ -172,7 +237,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 22869,
+      "followersCount": 22865,
       "friendsCount": 471,
       "location": "Hong Kong"
     },
@@ -238,7 +303,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99249,
+      "followersCount": 99245,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -315,11 +380,26 @@
   },
   {
     "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42388,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1872145313965744393",
+    "fullText": "🌍Travel Smarter, Pack Easier with This Bag!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
       "screenName": "nateleex",
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727019827645308928/8B7sjQ26_normal.jpg",
       "description": "几个小公司的CEO，竞技之心，有情有义，逍遥自得",
-      "followersCount": 6805,
+      "followersCount": 6806,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -351,7 +431,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 22869,
+      "followersCount": 22865,
       "friendsCount": 471,
       "location": "Hong Kong"
     },
@@ -368,7 +448,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 42756,
+      "followersCount": 42762,
       "friendsCount": 308,
       "location": ""
     },
@@ -420,7 +500,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 42756,
+      "followersCount": 42762,
       "friendsCount": 308,
       "location": ""
     },
@@ -435,7 +515,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 42756,
+      "followersCount": 42762,
       "friendsCount": 308,
       "location": ""
     },
@@ -577,7 +657,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99043,
+      "followersCount": 99044,
       "friendsCount": 1237,
       "location": "Chicago, IL"
     },
@@ -594,7 +674,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99249,
+      "followersCount": 99245,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -657,7 +737,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99249,
+      "followersCount": 99245,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -674,7 +754,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99043,
+      "followersCount": 99044,
       "friendsCount": 1237,
       "location": "Chicago, IL"
     },
@@ -691,8 +771,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7629,
-      "friendsCount": 1146,
+      "followersCount": 7638,
+      "friendsCount": 1103,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1175,7 +1255,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 42756,
+      "followersCount": 42762,
       "friendsCount": 308,
       "location": ""
     },
@@ -1208,8 +1288,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7629,
-      "friendsCount": 1146,
+      "followersCount": 7638,
+      "friendsCount": 1103,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -1225,7 +1305,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 42756,
+      "followersCount": 42762,
       "friendsCount": 308,
       "location": ""
     },
@@ -1257,7 +1337,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 42756,
+      "followersCount": 42762,
       "friendsCount": 308,
       "location": ""
     },
@@ -1372,7 +1452,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 42756,
+      "followersCount": 42762,
       "friendsCount": 308,
       "location": ""
     },
