@@ -2,6 +2,7 @@
 
 一个用于抓取和分析 X (Twitter) 用户数据和推文的工具。
 
+![x-kit](./images/action-stats.png)
 ## 功能特点
 
 - 自动抓取指定用户的基本信息和推文
