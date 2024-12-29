@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 99283,
+      "friendsCount": 1239,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1873222368916566381",
+    "fullText": "Prompt：宝玉老师，我在组里强推某种固定格式的开发设计文档，要求组员按格式补充写完，再借助o1或则别的模型实现代码细节，是否可行。等代码出来工程师再进行一定的修改或则调整。\n\nRepsonse：\n对于这种先设计再开发，辅助 AI 编程的方式，我觉得非常赞，如果我做的话，可能会做一点调整：\n\n1."
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
+      "followersCount": 17594,
+      "friendsCount": 94,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1873222212913955146",
+    "fullText": "开源经济学\n\n早上遛狗的时候想到这个事情，本来想写一篇文章的， 但是感觉没有想的系统化， 所以简单发个推文吧。\n\n1. 开源本质上是满足人好奇心的经济学产品， 一个牛人想到一个方法， 分享其中的奥秘， 1% 的其他牛人可以从源代码中学习到奥秘和知识， 99% 的人纯粹享受可以免费使用工具的权利\n\n2."
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -22,7 +52,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -37,7 +67,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -69,7 +99,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "PuTTY 本无树，MinGW 亦非台 ！",
-      "followersCount": 17893,
+      "followersCount": 17892,
       "friendsCount": 247,
       "location": "Guangdong"
     },
@@ -116,7 +146,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99274,
+      "followersCount": 99283,
       "friendsCount": 1239,
       "location": "Chicago, IL"
     },
@@ -131,7 +161,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -148,7 +178,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -225,7 +255,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7888,
+      "followersCount": 7866,
       "friendsCount": 1082,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -272,7 +302,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7888,
+      "followersCount": 7866,
       "friendsCount": 1082,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -287,7 +317,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7888,
+      "followersCount": 7866,
       "friendsCount": 1082,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -317,7 +347,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7888,
+      "followersCount": 7866,
       "friendsCount": 1082,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -406,7 +436,7 @@
       "name": "KleinHE",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790402221785649153/YuxI3TL8_normal.jpg",
       "description": "20 y.o.｜全干开发者💻 ｜UI/UX 🪄｜Creator of https://t.co/BxjKxV8BAN 思想上的西西弗斯🧠｜究极书虫📚｜ex 硬核游戏玩家👾 英推：https://t.co/wRw05o35m5",
-      "followersCount": 1026,
+      "followersCount": 1027,
       "friendsCount": 504,
       "location": "🟩 🟨 🟨 🟨 🟨  10k followers"
     },
@@ -423,7 +453,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -438,7 +468,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -455,7 +485,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -470,7 +500,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -506,7 +536,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43332,
+      "followersCount": 43354,
       "friendsCount": 307,
       "location": ""
     },
@@ -540,7 +570,7 @@
       "name": "KleinHE",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790402221785649153/YuxI3TL8_normal.jpg",
       "description": "20 y.o.｜全干开发者💻 ｜UI/UX 🪄｜Creator of https://t.co/BxjKxV8BAN 思想上的西西弗斯🧠｜究极书虫📚｜ex 硬核游戏玩家👾 英推：https://t.co/wRw05o35m5",
-      "followersCount": 1026,
+      "followersCount": 1027,
       "friendsCount": 504,
       "location": "🟩 🟨 🟨 🟨 🟨  10k followers"
     },
@@ -628,7 +658,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 42552,
+      "followersCount": 42554,
       "friendsCount": 0,
       "location": ""
     },
@@ -666,6 +696,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/CelsiusOfficial/status/1872655682454847887",
     "fullText": "BIG THINGS COMING IN 2025."
+  },
+  {
+    "user": {
+      "screenName": "cronosnewdawn",
+      "name": "Cronos: The New Dawn | Wishlist Now!",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1847009159448834048/PGHiG3AE_normal.jpg",
+      "description": "Welcome to Cronos: The New Dawn - a pulse-pounding, third-person survival horror game by @BlooberTeam\n\nJoin our Discord 👉 https://t.co/P3JvCaAnvM",
+      "followersCount": 2480,
+      "friendsCount": 6,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cronosnewdawn/status/1872640325388513683",
+    "fullText": "Delve deep into the heart of a deadly struggle against overwhelming foes while uncovering the mysteries of a twisted time travel story.\n\n#CronosTheNewDawn #BlooberTeam"
   },
   {
     "user": {
