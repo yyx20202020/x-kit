@@ -1,6 +1,57 @@
 [
   {
     "user": {
+      "screenName": "yuxiyou",
+      "name": "尤雨溪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1671864937/large_3nm7_21222k204236_normal.jpg",
+      "description": "@youyuxi 的中文小号。@voidzerodev 创业中，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
+      "followersCount": 99277,
+      "friendsCount": 230,
+      "location": "Singapore"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgKfCJ-acAAkfTK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuxiyou/status/1874235263322644933",
+    "fullText": "新年好！新年第一天再在北海道滑一天雪 https://t.co/NbLJungw05"
+  },
+  {
+    "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
+      "followersCount": 99340,
+      "friendsCount": 800,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgKVM1WWIAAbJMD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nishuang/status/1874231830276366762",
+    "fullText": "设计里的“熟悉感”和 60:30:10 原则\n\n#迷你设计课\n\n之前介绍的 Hika AI 搜索，搜索历史用了奇怪的设计：不是 Perplexity 那样、新对话在最下面，而像推特一样、新对话在最上面\n\n所以对话式 AI，就变成了 feed 或者“堆栈”？\n\n熟悉感\n\n在 UX https://t.co/RA5fdfhheV"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
+      "followersCount": 70689,
+      "friendsCount": 3285,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgKaexhbYAIFfVR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1874230258419056737",
+    "fullText": "2025 新年好哇 https://t.co/fwTSNadw9g"
+  },
+  {
+    "user": {
       "screenName": "MaimaiLee123",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -20,7 +71,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99345,
+      "followersCount": 99340,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -87,7 +138,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44019,
+      "followersCount": 44023,
       "friendsCount": 309,
       "location": ""
     },
@@ -117,7 +168,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44019,
+      "followersCount": 44023,
       "friendsCount": 309,
       "location": ""
     },
@@ -241,7 +292,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44019,
+      "followersCount": 44023,
       "friendsCount": 309,
       "location": ""
     },
@@ -249,6 +300,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1874090256779383290",
     "fullText": "对中国给公务员加工资持怀疑态度，觉得政府发不出钱的，可以看看我这个视频中有关中国财政收支情况的分析。一句话：发钱那是分分钟的事儿。\n中国资产涨不动，政治局开会也没用？中国经济怎么了？  GDP | 政治局 | 货币政策 | 财政赤字 | 内需疲软 | 投资不足 | 贸易战 |... https://t.co/N3ryqbjnya"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42647,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1874085143020994562",
+    "fullText": "🎒 Organize and Travel Smarter with This Bag!\nhttps://t.co/JLnEOUPAg4"
   },
   {
     "user": {
@@ -306,7 +372,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 134455,
+      "followersCount": 134473,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -416,7 +482,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1671864937/large_3nm7_21222k204236_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创业中，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 99283,
+      "followersCount": 99277,
       "friendsCount": 230,
       "location": "Singapore"
     },
@@ -450,7 +516,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99584,
+      "followersCount": 99573,
       "friendsCount": 1238,
       "location": "Chicago, IL"
     },
@@ -536,7 +602,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 146918,
+      "followersCount": 146919,
       "friendsCount": 448,
       "location": "中华人民共和国"
     },
@@ -571,7 +637,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99345,
+      "followersCount": 99340,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -588,7 +654,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44019,
+      "followersCount": 44023,
       "friendsCount": 309,
       "location": ""
     },
@@ -658,7 +724,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44019,
+      "followersCount": 44023,
       "friendsCount": 309,
       "location": ""
     },
@@ -675,7 +741,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99584,
+      "followersCount": 99573,
       "friendsCount": 1238,
       "location": "Chicago, IL"
     },
@@ -705,7 +771,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44019,
+      "followersCount": 44023,
       "friendsCount": 309,
       "location": ""
     },
@@ -722,7 +788,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99345,
+      "followersCount": 99340,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -739,7 +805,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44019,
+      "followersCount": 44023,
       "friendsCount": 309,
       "location": ""
     },
@@ -790,7 +856,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/XBKDw9XNKn",
-      "followersCount": 23136,
+      "followersCount": 23137,
       "friendsCount": 342,
       "location": "HK"
     },
@@ -886,6 +952,21 @@
   },
   {
     "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 10663,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1873955921396695441",
+    "fullText": "Tired of shivering through the winter? Our revolutionary winter boots are here to save the day! Designed to keep your feet toasty warm, dry, and protected, no matter how harsh the weather. Experience the ultimate in winter comfort."
+  },
+  {
+    "user": {
       "screenName": "defydetail",
       "name": "Defy Detail Supplies",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1841913937316458496/t8QYdBhN_normal.jpg",
@@ -907,7 +988,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99345,
+      "followersCount": 99340,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -1945,7 +2026,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 10673,
+      "followersCount": 10663,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
