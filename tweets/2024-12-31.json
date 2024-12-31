@@ -1,11 +1,46 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 99547,
+      "friendsCount": 1238,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgHYxUyWgAAg6zX.png",
+      "https://pbs.twimg.com/media/GgHZEPSWgAAoqa0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1874017814958481512",
+    "fullText": "o1 pro 重构代码（仅限单个或者少数几个文件）效果是挺好的，提示词可以很简单：\n\n请重构下面的代码：\n1. 更好阅读\n2. 更好维护 https://t.co/GMjsfkPvlt"
+  },
+  {
+    "user": {
+      "screenName": "MaimaiLee123",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
+      "followersCount": 7995,
+      "friendsCount": 1130,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgHZE-3bIAAX7tu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MaimaiLee123/status/1874017614546255929",
+    "fullText": "母校门口的花生酱拌福鼎肉片，馋这一口 https://t.co/mKMhF5MBER"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17748,
+      "followersCount": 17746,
       "friendsCount": 95,
       "location": "China"
     },
@@ -22,7 +57,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7993,
+      "followersCount": 7995,
       "friendsCount": 1130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -56,7 +91,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 146934,
+      "followersCount": 146935,
       "friendsCount": 448,
       "location": "中华人民共和国"
     },
@@ -73,7 +108,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7993,
+      "followersCount": 7995,
       "friendsCount": 1130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -91,7 +126,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99348,
+      "followersCount": 99350,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -108,7 +143,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -126,7 +161,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17748,
+      "followersCount": 17746,
       "friendsCount": 95,
       "location": "China"
     },
@@ -144,7 +179,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23022,
+      "followersCount": 23023,
       "friendsCount": 477,
       "location": "Hong Kong"
     },
@@ -178,7 +213,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -195,7 +230,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99544,
+      "followersCount": 99547,
       "friendsCount": 1238,
       "location": "Chicago, IL"
     },
@@ -225,7 +260,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -242,7 +277,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99348,
+      "followersCount": 99350,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -259,7 +294,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -293,7 +328,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7993,
+      "followersCount": 7995,
       "friendsCount": 1130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -327,7 +362,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727019827645308928/8B7sjQ26_normal.jpg",
       "description": "几个小公司的CEO，竞技之心，有情有义，逍遥自得",
-      "followersCount": 6843,
+      "followersCount": 6845,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -344,7 +379,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727019827645308928/8B7sjQ26_normal.jpg",
       "description": "几个小公司的CEO，竞技之心，有情有义，逍遥自得",
-      "followersCount": 6843,
+      "followersCount": 6845,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -361,7 +396,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727019827645308928/8B7sjQ26_normal.jpg",
       "description": "几个小公司的CEO，竞技之心，有情有义，逍遥自得",
-      "followersCount": 6843,
+      "followersCount": 6845,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -378,7 +413,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7993,
+      "followersCount": 7995,
       "friendsCount": 1130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -391,11 +426,28 @@
   },
   {
     "user": {
+      "screenName": "defydetail",
+      "name": "Defy Detail Supplies",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841913937316458496/t8QYdBhN_normal.jpg",
+      "description": "The Next Generation of Car Care.\nChemical Manufacturer.\nContract Bottling.\nDefy the Status Quo.\nMade in Chattanooga TN 📍",
+      "followersCount": 88,
+      "friendsCount": 60,
+      "location": "Chattanooga, TN"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgGUKVCXYAArCsm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/defydetail/status/1873941827721847247",
+    "fullText": "Running some pretty crazy sales to finish off the year. Check out https://t.co/HqE55ED5e6 if you like good deals 🤷‍♂️ https://t.co/0ruhqK7QGk"
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99348,
+      "followersCount": 99350,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -412,7 +464,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7993,
+      "followersCount": 7995,
       "friendsCount": 1130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -427,7 +479,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7993,
+      "followersCount": 7995,
       "friendsCount": 1130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -444,7 +496,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7993,
+      "followersCount": 7995,
       "friendsCount": 1130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -494,7 +546,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
       "followersCount": 6118,
-      "friendsCount": 469,
+      "friendsCount": 468,
       "location": ""
     },
     "images": [],
@@ -538,7 +590,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -553,7 +605,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -588,7 +640,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -676,7 +728,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99348,
+      "followersCount": 99350,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -711,7 +763,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -763,7 +815,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 146934,
+      "followersCount": 146935,
       "friendsCount": 448,
       "location": "中华人民共和国"
     },
@@ -838,7 +890,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -855,7 +907,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 43671,
+      "followersCount": 43681,
       "friendsCount": 309,
       "location": ""
     },
@@ -966,7 +1018,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7993,
+      "followersCount": 7995,
       "friendsCount": 1130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1000,7 +1052,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 7993,
+      "followersCount": 7995,
       "friendsCount": 1130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1281,7 +1333,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 10675,
+      "followersCount": 10673,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
