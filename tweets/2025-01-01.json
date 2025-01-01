@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 7612,
+      "friendsCount": 276,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1874420913107775948",
+    "fullText": "家人们，建站可以用 .pro 的域名吗 ？有没有什么坑"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
+      "followersCount": 44231,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1874407272060968960/vid/avc1/960x540/4oRfHwSZPJAhNQDj.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1874418449822400918",
+    "fullText": "Happy new year!https://t.co/zGggMtc5qg"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6772,
+      "followersCount": 6773,
       "friendsCount": 721,
       "location": "San Jose, CA"
     },
@@ -49,6 +81,26 @@
     "videos": [],
     "tweetUrl": "https://x.com/MaimaiLee123/status/1874388133066035222",
     "fullText": "iphone手机拷贝照片到电脑端，经常出现设备连接失败，传输中断问题 https://t.co/whWYmUtzh9"
+  },
+  {
+    "user": {
+      "screenName": "MaimaiLee123",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
+      "followersCount": 8023,
+      "friendsCount": 1155,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgMewAvaoAAC5Lq.jpg",
+      "https://pbs.twimg.com/media/GgMewAJbYAEToEE.jpg",
+      "https://pbs.twimg.com/media/GgMewAubUAA_8ur.jpg",
+      "https://pbs.twimg.com/media/GgMewAubQAAsfck.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MaimaiLee123/status/1874375687072874507",
+    "fullText": "https://t.co/bXirHwk7yp"
   },
   {
     "user": {
@@ -120,7 +172,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "PuTTY 本无树，MinGW 亦非台 ！",
-      "followersCount": 18032,
+      "followersCount": 18034,
       "friendsCount": 249,
       "location": "Guangdong"
     },
@@ -150,7 +202,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727019827645308928/8B7sjQ26_normal.jpg",
       "description": "几个小公司的CEO，竞技之心，有情有义，逍遥自得",
-      "followersCount": 6865,
+      "followersCount": 6864,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -167,7 +219,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727019827645308928/8B7sjQ26_normal.jpg",
       "description": "几个小公司的CEO，竞技之心，有情有义，逍遥自得",
-      "followersCount": 6865,
+      "followersCount": 6864,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -202,7 +254,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727019827645308928/8B7sjQ26_normal.jpg",
       "description": "几个小公司的CEO，竞技之心，有情有义，逍遥自得",
-      "followersCount": 6865,
+      "followersCount": 6864,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -234,7 +286,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44227,
+      "followersCount": 44231,
       "friendsCount": 309,
       "location": ""
     },
@@ -251,7 +303,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44227,
+      "followersCount": 44231,
       "friendsCount": 309,
       "location": ""
     },
@@ -284,7 +336,22 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44227,
+      "followersCount": 44231,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1874290758183989710",
+    "fullText": "海湖庄园内有126间房间，如果拿出100间对外营业，每间夜2000美金，那一天现金流就是20万美金，一年营业额就是7300万美金；根据希尔顿集团的净利率12%来估算海湖庄园，它一年的净利润大概在876万美金，如果要求内在收益率5%，那海湖庄园估值应该在1.75亿美金左右。"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
+      "followersCount": 44231,
       "friendsCount": 309,
       "location": ""
     },
@@ -304,7 +371,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "PuTTY 本无树，MinGW 亦非台 ！",
-      "followersCount": 18032,
+      "followersCount": 18034,
       "friendsCount": 249,
       "location": "Guangdong"
     },
@@ -317,11 +384,28 @@
   },
   {
     "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
+      "followersCount": 44231,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgLMhKqWMAAnFiN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1874285290736787498",
+    "fullText": "有关特朗普虚报身家的案子，纽约法官之前做出过裁决。特朗普儿子说海湖庄园价值10亿美金，纽约法官裁定该物业价值为1800万美金。\n现在，各路豪杰汇聚海湖庄园，特朗普终于要把这处物业打造成当年修建它的主人波斯特所设想的功能了。 https://t.co/GZsAERmHtE"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7610,
+      "followersCount": 7612,
       "friendsCount": 276,
       "location": ""
     },
@@ -338,7 +422,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44227,
+      "followersCount": 44231,
       "friendsCount": 309,
       "location": ""
     },
@@ -387,7 +471,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 134515,
+      "followersCount": 134517,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -460,6 +544,36 @@
       "friendsCount": 800,
       "location": "United States"
     },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nishuang/status/1874234736119345191",
+    "fullText": "从实操角度解释一下\n\n自从 ChatGPT 发布以来，对话式/聊天式 UI 已经变成了一代人的本能\n\n一方面它比较简单、也方便回溯聊天历史，另一方面它更像是在跟一个很具体的“人”交流，而不是跟很模糊的“系统”做交互（也难怪很多人会跟 AI 说“请”，把它当做了活人😄）\n\nHika 那种类似 feed"
+  },
+  {
+    "user": {
+      "screenName": "MaimaiLee123",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
+      "followersCount": 8023,
+      "friendsCount": 1155,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MaimaiLee123/status/1874231988925980754",
+    "fullText": "心态炸了，cos片里困了的丈夫去了，睡醒再找吧"
+  },
+  {
+    "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
+      "followersCount": 99378,
+      "friendsCount": 800,
+      "location": "United States"
+    },
     "images": [
       "https://pbs.twimg.com/media/GgKVM1WWIAAbJMD.jpg"
     ],
@@ -513,6 +627,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/MaimaiLee123/status/1874226701598945729",
     "fullText": "2025年的第一天，熬通宵玩高兴了，想着打个胶庆祝一下好上加好，发现耳机找不着了，这就是祸兮福所倚吗？找了半个小时了，笑不出来了"
+  },
+  {
+    "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
+      "followersCount": 99378,
+      "friendsCount": 800,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgKTGajWoAAqoPv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nishuang/status/1874222235407495488",
+    "fullText": "MKBHD 解释 Honey 骗局\n\nhttps://t.co/yyVkg0iBKF https://t.co/EXeREjDSk7"
   },
   {
     "user": {
@@ -591,6 +722,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1874217076673659168",
     "fullText": "🎒 Organize and Travel Smarter with This Bag!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
+      "followersCount": 44231,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1874208897021731032",
+    "fullText": "@nishuang 说句实话，这剧真的太一般了，看到后来，不禁问“就这？”编剧设置情节和圈套的能力很一般，而且情感描述部分过于拖泥带水。\n比起Kill Eve, The Night Manager, The Gentleman.......差的不是一点半点"
   },
   {
     "user": {
@@ -767,7 +913,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44227,
+      "followersCount": 44231,
       "friendsCount": 309,
       "location": ""
     },
@@ -797,7 +943,22 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44227,
+      "followersCount": 44231,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1874154175879405832",
+    "fullText": "当然也有机构趁机换仓，买入新的头寸\n看看统计与分化便知"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
+      "followersCount": 44231,
       "friendsCount": 309,
       "location": ""
     },
@@ -872,6 +1033,21 @@
   },
   {
     "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
+      "followersCount": 44231,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1874109334147522756",
+    "fullText": "当然，抛开阿克曼的观点不谈。\n\n仅看固收市场的机会，未来2年的降息周期，也是很多人看好该市场并加大仓位的原因。"
+  },
+  {
+    "user": {
       "screenName": "FloRacing",
       "name": "FloRacing",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1711469591833047040/MEr39MDE_normal.jpg",
@@ -891,7 +1067,7 @@
       "name": "FloRacing",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1711469591833047040/MEr39MDE_normal.jpg",
       "description": "Live Racing Events. Exclusive Content. @FloSports",
-      "followersCount": 85068,
+      "followersCount": 85076,
       "friendsCount": 1122,
       "location": "Austin, TX"
     },
@@ -936,7 +1112,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44227,
+      "followersCount": 44231,
       "friendsCount": 309,
       "location": ""
     },
@@ -1628,7 +1804,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 10674,
+      "followersCount": 10664,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
