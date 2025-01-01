@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "小报童专栏作者(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 23035,
+      "friendsCount": 478,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgN11ZHagAIrdY2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1874472014809006303",
+    "fullText": "这两天在开发NuxtBase的出海版Next.js的落地页。有一说一，Next在Cursor中的表现，要比Nuxt要好不少...Composer生成的代码，基本无需修改的🤣\n顺便推荐一个AI Icon的库，很好用：https://t.co/6WTBU1hhek。 https://t.co/5OtLxx2nma"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17747,
+      "followersCount": 17753,
       "friendsCount": 95,
       "location": "China"
     },
@@ -56,7 +73,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社群 发起人 ｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 6938,
+      "followersCount": 6940,
       "friendsCount": 3286,
       "location": ""
     },
@@ -90,7 +107,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7624,
+      "followersCount": 7629,
       "friendsCount": 276,
       "location": ""
     },
@@ -154,7 +171,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7624,
+      "followersCount": 7629,
       "friendsCount": 276,
       "location": ""
     },
@@ -169,7 +186,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44286,
+      "followersCount": 44297,
       "friendsCount": 309,
       "location": ""
     },
@@ -212,6 +229,21 @@
   },
   {
     "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42649,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1874411205437333907",
+    "fullText": "🎒🌟 Travel Is Easy Now!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -234,7 +266,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
       "followersCount": 8024,
-      "friendsCount": 1165,
+      "friendsCount": 1166,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -251,7 +283,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
       "followersCount": 8024,
-      "friendsCount": 1165,
+      "friendsCount": 1166,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -260,6 +292,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/MaimaiLee123/status/1874388133066035222",
     "fullText": "iphone手机拷贝照片到电脑端，经常出现设备连接失败，传输中断问题 https://t.co/whWYmUtzh9"
+  },
+  {
+    "user": {
+      "screenName": "periskope_app",
+      "name": "Periskope",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1693521235391680514/H62W8O8A_normal.png",
+      "description": "Helps you organize and manage all your official WhatsApp groups & chats across multiple numbers from a single, powerful console.",
+      "followersCount": 91,
+      "friendsCount": 7,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/periskope_app/status/1874386005655986478",
+    "fullText": "🤯 Struggling to manage hundreds of WhatsApp Groups &amp; Chats?\n\n🚀 Periskope is the ONLY platform to Manage your WhatsApp Groups &amp; Chats at Scale!\n\n👉 Connect multiple numbers, create tickets, integrate with your systems, and automate your workflows."
   },
   {
     "user": {
@@ -288,7 +335,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
       "followersCount": 8024,
-      "friendsCount": 1165,
+      "friendsCount": 1166,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -351,7 +398,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "PuTTY 本无树，MinGW 亦非台 ！",
-      "followersCount": 18037,
+      "followersCount": 18038,
       "friendsCount": 249,
       "location": "Guangdong"
     },
@@ -396,7 +443,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70704,
+      "followersCount": 70701,
       "friendsCount": 3285,
       "location": ""
     },
@@ -421,6 +468,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/nateleex/status/1874339274784727266",
     "fullText": "另外，那些带M.2接口的拓展坞，买了好几个牌子（不限图上的两个），没有一个好用。\n\n大量读写都会掉盘，有的还会让硬盘在空闲的时候持续发热。千万别买。\n\n还是得老老实实买asasis硬盘盒。 https://t.co/MZZ84M9dGD"
+  },
+  {
+    "user": {
+      "screenName": "brownfield",
+      "name": "Brownfield Ag News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/709827492803125248/bCk27gMJ_normal.jpg",
+      "description": "Agriculture news, markets, weather, and commentary.",
+      "followersCount": 28809,
+      "friendsCount": 414,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/brownfield/status/1874334747465277748",
+    "fullText": "Delaro complete offers protection against a broad spectrum of diseases, while also enhancing plant health. In this episode of #ManagingforProfit, product manager for crop protection at @Bayer4CropsUS Sabih Javed says explains how it performed for growers during the 2024 season."
   },
   {
     "user": {
@@ -464,7 +526,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
       "followersCount": 8024,
-      "friendsCount": 1165,
+      "friendsCount": 1166,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -512,7 +574,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44286,
+      "followersCount": 44297,
       "friendsCount": 309,
       "location": ""
     },
@@ -529,7 +591,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44286,
+      "followersCount": 44297,
       "friendsCount": 309,
       "location": ""
     },
@@ -545,7 +607,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
       "followersCount": 8024,
-      "friendsCount": 1165,
+      "friendsCount": 1166,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -577,7 +639,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44286,
+      "followersCount": 44297,
       "friendsCount": 309,
       "location": ""
     },
@@ -597,7 +659,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "PuTTY 本无树，MinGW 亦非台 ！",
-      "followersCount": 18037,
+      "followersCount": 18038,
       "friendsCount": 249,
       "location": "Guangdong"
     },
@@ -631,7 +693,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7624,
+      "followersCount": 7629,
       "friendsCount": 276,
       "location": ""
     },
@@ -665,7 +727,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44286,
+      "followersCount": 44297,
       "friendsCount": 309,
       "location": ""
     },
@@ -680,7 +742,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3218,
+      "followersCount": 3217,
       "friendsCount": 1085,
       "location": ""
     },
@@ -714,7 +776,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 134505,
+      "followersCount": 134506,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -734,7 +796,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社群 发起人 ｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 6938,
+      "followersCount": 6940,
       "friendsCount": 3286,
       "location": ""
     },
@@ -766,7 +828,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1671864937/large_3nm7_21222k204236_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创业中，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 99315,
+      "followersCount": 99318,
       "friendsCount": 230,
       "location": "Singapore"
     },
@@ -830,7 +892,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70704,
+      "followersCount": 70701,
       "friendsCount": 3285,
       "location": ""
     },
@@ -878,7 +940,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
       "followersCount": 8024,
-      "friendsCount": 1165,
+      "friendsCount": 1166,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -1198,7 +1260,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
       "followersCount": 8024,
-      "friendsCount": 1165,
+      "friendsCount": 1166,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1216,7 +1278,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44286,
+      "followersCount": 44297,
       "friendsCount": 309,
       "location": ""
     },
@@ -1261,7 +1323,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44286,
+      "followersCount": 44297,
       "friendsCount": 309,
       "location": ""
     },
@@ -1309,7 +1371,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
       "followersCount": 8024,
-      "friendsCount": 1165,
+      "friendsCount": 1166,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1415,7 +1477,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44286,
+      "followersCount": 44297,
       "friendsCount": 309,
       "location": ""
     },
@@ -1695,7 +1757,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 42653,
+      "followersCount": 42649,
       "friendsCount": 0,
       "location": ""
     },
@@ -2243,6 +2305,21 @@
     ],
     "tweetUrl": "https://x.com/TheSixFiveMedia/status/1873853794779267143",
     "fullText": "🤔 What's an #AIFactory?\n\nHost David Nicholson (@MasSubestimado), met with @DellTech’s Chad Dunn (@VXchad) at #SC24 to discuss Dell's #GenAI solutions and the unveiling of the #Dell AI Factory.\n\nTune in as they cover:\n- $DELL’s advancements in #GenAI #infrastructure, security &amp; https://t.co/UnGtRaXwrq"
+  },
+  {
+    "user": {
+      "screenName": "CardDealer_Pro",
+      "name": "Card Dealer Pro",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1632734182580400128/upIY6bpx_normal.jpg",
+      "description": "Card Dealer Pro is a software built for card stores & dealers to turbo-charge online sales! 1 week free trial on our website! #SportsCards #TheHobby",
+      "followersCount": 1322,
+      "friendsCount": 76,
+      "location": "Haddonfield, NJ "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CardDealer_Pro/status/1873819596299657293",
+    "fullText": "Scan hundreds of cards in mere hours using a scanner and start selling on all the major marketplaces, including CollX!"
   },
   {
     "user": {
