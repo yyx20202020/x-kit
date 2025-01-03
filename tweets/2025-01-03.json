@@ -1,11 +1,96 @@
 [
   {
     "user": {
+      "screenName": "MaimaiLee123",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
+      "followersCount": 8199,
+      "friendsCount": 1243,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgYd7A8aAAApfib.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MaimaiLee123/status/1875219203470536776",
+    "fullText": "执行力，才是人生分水岭 https://t.co/OX6C3So39W"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 7653,
+      "friendsCount": 279,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgYdv6iaYAA1QaR.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1875219158058828215",
+    "fullText": "ChatGPT 的富文本输入框好像用的是开源项目 ProseMirror 做的。 https://t.co/eign8wF6x2"
+  },
+  {
+    "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
+      "followersCount": 99458,
+      "friendsCount": 799,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1875212803427999744/pu/vid/avc1/1280x720/HFJoZtz28migK7sr.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/nishuang/status/1875214013006811138",
+    "fullText": "美国人 3D 打印了一个小区\n\n位于德州奥斯汀郊区，有 100 幢三房、四房独立屋\n\n只需要一个人、一台打印机，三周即可完成 3D 打印墙壁，然后处理地面、加上预置屋顶。美国普通独立屋主要用木材建造，平均耗时 7 个月\n\n屋主说“唯一”缺点是墙厚、挡住了手机信号 https://t.co/dU7lIX406Q"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
+      "followersCount": 44615,
+      "friendsCount": 310,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgYZCT2XUAM1fOB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1875213831305363668",
+    "fullText": "全球最大的比特币ETF，贝莱德的IBIT到2024年底规模已经上到了530亿美金\n不过周四，该ETF遭遇了最大资金流出：3.33亿美金 https://t.co/gMuRx2hsjM"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 23288,
+      "friendsCount": 480,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgYVbTOb0AA70yX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1875212459738628537",
+    "fullText": "虽然我不是一个低代码的Master，但也都浅浅尝试了不少低代码工具，比如Framer/Webflow/Zion/Momen等。但是页面性能Coze这么差的，还是第一次遇见😂 https://t.co/VlvRKQeCV8"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 134721,
+      "followersCount": 134728,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -23,7 +108,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44608,
+      "followersCount": 44615,
       "friendsCount": 310,
       "location": ""
     },
@@ -38,7 +123,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/XBKDw9XNKn",
-      "followersCount": 23127,
+      "followersCount": 23132,
       "friendsCount": 342,
       "location": "HK"
     },
@@ -70,7 +155,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70746,
+      "followersCount": 70755,
       "friendsCount": 3287,
       "location": ""
     },
@@ -87,7 +172,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8176,
+      "followersCount": 8199,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -104,7 +189,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70746,
+      "followersCount": 70755,
       "friendsCount": 3287,
       "location": ""
     },
@@ -156,7 +241,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3221,
+      "followersCount": 3222,
       "friendsCount": 1086,
       "location": ""
     },
@@ -173,7 +258,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8176,
+      "followersCount": 8199,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -295,7 +380,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8176,
+      "followersCount": 8199,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -312,7 +397,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8176,
+      "followersCount": 8199,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -327,7 +412,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7655,
+      "followersCount": 7653,
       "friendsCount": 279,
       "location": ""
     },
@@ -359,7 +444,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99875,
+      "followersCount": 99880,
       "friendsCount": 1239,
       "location": "Chicago, IL"
     },
@@ -369,6 +454,21 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/1875094343259971707",
     "fullText": "繁花还出了个周年剧场版，熟悉的味道 https://t.co/ppikGtCql5"
+  },
+  {
+    "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 10754,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1875087232299934000",
+    "fullText": "Tired of shivering through the winter? Our revolutionary winter boots are here to save the day! Designed to keep your feet toasty warm, dry, and protected, no matter how harsh the weather. Experience the ultimate in winter comfort."
   },
   {
     "user": {
@@ -421,7 +521,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 146992,
+      "followersCount": 146994,
       "friendsCount": 451,
       "location": "中华人民共和国"
     },
@@ -436,7 +536,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 134721,
+      "followersCount": 134728,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -455,7 +555,7 @@
       "name": "AIcoine88",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863935506322518016/6xIOcf5k_normal.jpg",
       "description": "Aicoin全球Web3行情分析工具领跑者,币圈专业看盘下单工具下载 尽在客户端\n🔀点击前往官网地址： https://t.co/LplMmM3jC2\n强大的K线图表功能,编程的自定义指标工具，35+交易所行情数据，多种预警，社媒消息，巨鲸以及大单跟踪",
-      "followersCount": 489,
+      "followersCount": 488,
       "friendsCount": 7,
       "location": "日本"
     },
@@ -470,7 +570,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1748,
+      "followersCount": 1750,
       "friendsCount": 191,
       "location": "NewYork"
     },
@@ -504,7 +604,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7655,
+      "followersCount": 7653,
       "friendsCount": 279,
       "location": ""
     },
@@ -519,7 +619,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3221,
+      "followersCount": 3222,
       "friendsCount": 1086,
       "location": ""
     },
@@ -536,7 +636,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23280,
+      "followersCount": 23288,
       "friendsCount": 480,
       "location": "Hong Kong"
     },
@@ -553,7 +653,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3221,
+      "followersCount": 3222,
       "friendsCount": 1086,
       "location": ""
     },
@@ -570,7 +670,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8176,
+      "followersCount": 8199,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -587,7 +687,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99875,
+      "followersCount": 99880,
       "friendsCount": 1239,
       "location": "Chicago, IL"
     },
@@ -602,7 +702,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8176,
+      "followersCount": 8199,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -620,7 +720,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3221,
+      "followersCount": 3222,
       "friendsCount": 1086,
       "location": ""
     },
@@ -637,7 +737,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8176,
+      "followersCount": 8199,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -667,7 +767,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99454,
+      "followersCount": 99458,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -684,7 +784,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99454,
+      "followersCount": 99458,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -701,7 +801,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 182885,
+      "followersCount": 182904,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -737,7 +837,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8176,
+      "followersCount": 8199,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -829,7 +929,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 182885,
+      "followersCount": 182904,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -847,7 +947,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99875,
+      "followersCount": 99880,
       "friendsCount": 1239,
       "location": "Chicago, IL"
     },
@@ -865,7 +965,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 182885,
+      "followersCount": 182904,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -885,7 +985,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50897,
+      "followersCount": 50908,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -902,7 +1002,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99454,
+      "followersCount": 99458,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -919,7 +1019,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50897,
+      "followersCount": 50908,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -936,7 +1036,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6126,
+      "followersCount": 6125,
       "friendsCount": 471,
       "location": ""
     },
@@ -970,7 +1070,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6772,
+      "followersCount": 6773,
       "friendsCount": 721,
       "location": "San Jose, CA"
     },
@@ -985,7 +1085,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44608,
+      "followersCount": 44615,
       "friendsCount": 310,
       "location": ""
     },
@@ -1002,7 +1102,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8176,
+      "followersCount": 8199,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1134,7 +1234,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23280,
+      "followersCount": 23288,
       "friendsCount": 480,
       "location": "Hong Kong"
     },
@@ -1297,7 +1397,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1127087,
+      "followersCount": 1127107,
       "friendsCount": 21,
       "location": "Menlo Park, CA"
     },
@@ -1624,7 +1724,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99454,
+      "followersCount": 99458,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -1642,7 +1742,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1770805803932364800/yJnlxO2f_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 16740,
+      "followersCount": 16741,
       "friendsCount": 768,
       "location": "Mountain View, CA"
     },
