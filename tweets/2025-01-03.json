@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "Spring Xiong 熊春",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 3224,
+      "friendsCount": 1085,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgWMhkwXMAAF9lI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1875059343588294930",
+    "fullText": "刚去理发进来一女（昆明话：泡孃）。\n女：帮我剪短一点，外出好打理。\n老板：要去哪？\n女：新加坡。\n老板：明天出发吗？\n女：是的，小孩明天放假。\n老板：你老公去吗？\n女：不去，我去很多次了，我带孩子去就行。从小在云南长大的，新马泰不都是标配吗？\n老板：沉默了…\n我默问，我是在云南长大的吗？ https://t.co/bPByFCylVO"
+  },
+  {
+    "user": {
       "screenName": "MaimaiLee123",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8067,
+      "followersCount": 8073,
+      "friendsCount": 1243,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgWJy82WIAA_tvf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MaimaiLee123/status/1875056338784702614",
+    "fullText": "不要忽略事情的基本原则与规律\n\n第七点是我坚持了很多年的方法，非常推荐大家尝试，有情绪的时候深呼吸，8秒左右一吸一呼，做10-20个，做完就会觉得情绪完全稳定，甚至对自己先前的情绪波动感到疑惑，这个方法能很快的调整状态，防止情绪上头导致的错误，加快工作效率 https://t.co/aiMOTcNO3h"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 99807,
+      "friendsCount": 1238,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1875055968460984371",
+    "fullText": "问：对于基于私有 SDK 的 AI 辅助开发，老师有没有什么建议呀？之前用 Cursor 的 Docs 先把文档爬下载感觉很慢而且准确率很低\n答：借助AI开发训练不足的代码、SDK，核心要点是要上下文充足，最简单直接就是每次手动把相关的文档和参考代码复制粘贴给它，现阶段不要指望 Cursor"
+  },
+  {
+    "user": {
+      "screenName": "MaimaiLee123",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
+      "followersCount": 8073,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -40,7 +89,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8067,
+      "followersCount": 8073,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -104,7 +153,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 182691,
+      "followersCount": 182707,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -140,7 +189,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8067,
+      "followersCount": 8073,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -172,7 +221,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 182691,
+      "followersCount": 182707,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -190,7 +239,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99800,
+      "followersCount": 99807,
       "friendsCount": 1238,
       "location": "Chicago, IL"
     },
@@ -208,7 +257,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 182691,
+      "followersCount": 182707,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -313,7 +362,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6772,
+      "followersCount": 6771,
       "friendsCount": 721,
       "location": "San Jose, CA"
     },
@@ -328,7 +377,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44576,
+      "followersCount": 44578,
       "friendsCount": 310,
       "location": ""
     },
@@ -345,7 +394,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8067,
+      "followersCount": 8073,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -394,7 +443,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99800,
+      "followersCount": 99807,
       "friendsCount": 1238,
       "location": "Chicago, IL"
     },
@@ -411,7 +460,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6772,
+      "followersCount": 6771,
       "friendsCount": 721,
       "location": "San Jose, CA"
     },
@@ -428,7 +477,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44576,
+      "followersCount": 44578,
       "friendsCount": 310,
       "location": ""
     },
@@ -445,7 +494,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8067,
+      "followersCount": 8073,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -460,7 +509,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44576,
+      "followersCount": 44578,
       "friendsCount": 310,
       "location": ""
     },
@@ -477,7 +526,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23207,
+      "followersCount": 23215,
       "friendsCount": 480,
       "location": "Hong Kong"
     },
@@ -494,7 +543,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44576,
+      "followersCount": 44578,
       "friendsCount": 310,
       "location": ""
     },
@@ -528,7 +577,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 134652,
+      "followersCount": 134660,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -655,7 +704,22 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1126777,
+      "followersCount": 1126772,
+      "friendsCount": 21,
+      "location": "Menlo Park, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RobinhoodApp/status/1874841105193189590",
+    "fullText": "A suite of 40+ technical indicators and drawing tools to discover patterns and spot opportunities"
+  },
+  {
+    "user": {
+      "screenName": "RobinhoodApp",
+      "name": "Robinhood",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
+      "description": "Trade. Invest. Earn.",
+      "followersCount": 1126772,
       "friendsCount": 21,
       "location": "Menlo Park, CA"
     },
@@ -719,7 +783,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "PuTTY 本无树，MinGW 亦非台 ！",
-      "followersCount": 18041,
+      "followersCount": 18039,
       "friendsCount": 249,
       "location": "Guangdong"
     },
@@ -736,7 +800,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8067,
+      "followersCount": 8073,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -772,7 +836,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 44576,
+      "followersCount": 44578,
       "friendsCount": 310,
       "location": ""
     },
@@ -789,7 +853,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8067,
+      "followersCount": 8073,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -806,7 +870,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8067,
+      "followersCount": 8073,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -840,7 +904,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8067,
+      "followersCount": 8073,
       "friendsCount": 1243,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1314,7 +1378,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 10736,
+      "followersCount": 10737,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -1457,6 +1521,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1874417789366161719",
     "fullText": "🎒 Travel Smarter, Organize Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42733,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1874411206129463356",
+    "fullText": "🌍Travel Smarter, Pack Easier with This Bag!\nhttps://t.co/JLnEOUPAg4"
   },
   {
     "user": {
