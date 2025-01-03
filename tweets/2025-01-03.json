@@ -1,11 +1,49 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 99792,
+      "friendsCount": 1238,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgVkfx2WkAA1Dw4.jpg",
+      "https://pbs.twimg.com/media/GgVkhh8WYAEs0X8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1875015357955813781",
+    "fullText": "如果 ChatGPT 不能正常提取图片上的文字，可以修改一下提示词：“请用自身多模态能力去识别文本，然后输出完整文本为Markdown，不要写代码” https://t.co/AMLWoqoazH"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 182650,
+      "friendsCount": 375,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgVi-5LbwAAgw9K.jpg",
+      "https://pbs.twimg.com/media/GgVi-58a4AAqnsb.jpg",
+      "https://pbs.twimg.com/media/GgVi-57a8AAGNaO.jpg",
+      "https://pbs.twimg.com/media/GgVi-5_bcAAlVKr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1875013733275300087",
+    "fullText": "Simon Willison（图1） 是现在最受瞩目的科技博客之一，专门分享AI进展。\n\n他的最新文章（图2）回顾了2024年的大模型，感叹进化太快了。一年前，GPT-4排名第一，如今排名第69（图3）。https://t.co/neb6oppTlC\n\n他特别提到，排名第七的中国模型DeepSeek V3（图4），前十名唯一的开源模型。（接下条） https://t.co/pKcQ4MfQIp"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50863,
+      "followersCount": 50865,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -22,7 +60,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99428,
+      "followersCount": 99431,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -39,7 +77,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50863,
+      "followersCount": 50865,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -122,8 +160,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8046,
-      "friendsCount": 1170,
+      "followersCount": 8044,
+      "friendsCount": 1171,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -139,7 +177,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99428,
+      "followersCount": 99431,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -171,7 +209,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99791,
+      "followersCount": 99792,
       "friendsCount": 1238,
       "location": "Chicago, IL"
     },
@@ -222,8 +260,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8046,
-      "friendsCount": 1170,
+      "followersCount": 8044,
+      "friendsCount": 1171,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -254,7 +292,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23178,
+      "followersCount": 23183,
       "friendsCount": 480,
       "location": "Hong Kong"
     },
@@ -288,7 +326,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99428,
+      "followersCount": 99431,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -305,7 +343,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 134629,
+      "followersCount": 134632,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -402,7 +440,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99428,
+      "followersCount": 99431,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -453,8 +491,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8046,
-      "friendsCount": 1170,
+      "followersCount": 8044,
+      "friendsCount": 1171,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -506,8 +544,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8046,
-      "friendsCount": 1170,
+      "followersCount": 8044,
+      "friendsCount": 1171,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -523,8 +561,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8046,
-      "friendsCount": 1170,
+      "followersCount": 8044,
+      "friendsCount": 1171,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -557,8 +595,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 8046,
-      "friendsCount": 1170,
+      "followersCount": 8044,
+      "friendsCount": 1171,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -591,7 +629,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 50863,
+      "followersCount": 50865,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -609,7 +647,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99428,
+      "followersCount": 99431,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -627,7 +665,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1770805803932364800/yJnlxO2f_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 16707,
+      "followersCount": 16708,
       "friendsCount": 768,
       "location": "Mountain View, CA"
     },
@@ -642,7 +680,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99428,
+      "followersCount": 99431,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -659,7 +697,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99428,
+      "followersCount": 99431,
       "friendsCount": 800,
       "location": "United States"
     },
@@ -691,7 +729,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23178,
+      "followersCount": 23183,
       "friendsCount": 480,
       "location": "Hong Kong"
     },
@@ -971,6 +1009,21 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 10732,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1874639698708296172",
+    "fullText": "Say Goodbye to Neuropathy Pain This Winter!\n\nStruggling with numbness, tingling, or discomfort? Our winter boots offer a wide toe box, cozy warmth, and supportive design to ease neuropathy pain, ensuring a comfortable, pain-free winter."
+  },
+  {
+    "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
       "followersCount": 10730,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
@@ -1001,7 +1054,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 99791,
+      "followersCount": 99792,
       "friendsCount": 1238,
       "location": "Chicago, IL"
     },
@@ -1009,6 +1062,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1874624910997520749",
     "fullText": "“AI 让知识平权”就是一句骗人的鬼话，真实情况就是：\n- 加速了用 AI 和不用 AI 之间的不平等\n- 加速了因为封号+防火墙不能用强模型的不平等\n- 加速了舍得花钱用最好模型的和不舍得花钱的不平等\n- 加速了善用 AI 和不善用 AI 的不平等"
+  },
+  {
+    "user": {
+      "screenName": "adamgusky",
+      "name": "Adam Gusky",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1856173191900606464/d8fNMQk-_normal.jpg",
+      "description": "Programmer. Building https://t.co/hqzfX8qH3k (and https://t.co/KLoJCfPfCf because I hate MyFitnessPal).",
+      "followersCount": 4370,
+      "friendsCount": 969,
+      "location": "Denver, CO"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/adamgusky/status/1874546924843622429",
+    "fullText": "\"ai generated blog posts don't work\""
   },
   {
     "user": {
@@ -1039,6 +1107,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1874498066147082278",
     "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42727,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1874417790289100988",
+    "fullText": "🌍🎒 Travel Smarter, Organize Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
   },
   {
     "user": {
