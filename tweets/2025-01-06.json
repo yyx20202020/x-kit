@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "Spring Xiong 熊春",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 3224,
+      "friendsCount": 1086,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgkgcYkbEAEsTow.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1876066405889810943",
+    "fullText": "没下高速，昨晚下榻了广西的五星级服务区，一觉睡到自然醒。起床继续出发，争取今晚到深圳。 https://t.co/GlGadHXkHo"
+  },
+  {
+    "user": {
+      "screenName": "NH1uj76691",
+      "name": "Ncdvn4H1uj",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1855865115402539008/EgBusV4B_normal.jpg",
+      "description": "",
+      "followersCount": 3,
+      "friendsCount": 31,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgkeQ3vWcAAenig.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NH1uj76691/status/1876063997088485836",
+    "fullText": "2025-01-06 《飘》 https://t.co/UmcWC0VJbH"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 100026,
+      "friendsCount": 1240,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1870465026106011649/pu/vid/avc1/720x960/2uob1YzptoAeYVQh.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1876057559263805471",
+    "fullText": "集成了 GPT-4o 视觉模型的变形金刚玩具，可以对话，卖 $1199，值这个价吗？\nhttps://t.co/uUL9yAJzDd"
+  },
+  {
+    "user": {
       "screenName": "MaimaiLee123",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -59,7 +110,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99516,
+      "followersCount": 99518,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -87,11 +138,26 @@
   },
   {
     "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42806,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1875973162023981122",
+    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 45952,
+      "followersCount": 45957,
       "friendsCount": 311,
       "location": ""
     },
@@ -143,7 +209,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -162,7 +228,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70806,
+      "followersCount": 70807,
       "friendsCount": 3292,
       "location": ""
     },
@@ -179,7 +245,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -194,7 +260,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 134848,
+      "followersCount": 134849,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -210,11 +276,26 @@
   },
   {
     "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 10860,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1875857409425527220",
+    "fullText": "Tired of shivering through the winter? Our revolutionary winter boots are here to save the day! Designed to keep your feet toasty warm, dry, and protected, no matter how harsh the weather. Experience the ultimate in winter comfort."
+  },
+  {
+    "user": {
       "screenName": "MaimaiLee123",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -231,7 +312,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -239,6 +320,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/MaimaiLee123/status/1875842916834578600",
     "fullText": "一个想法，很多人会认为一样东西可以用五年十年，那就很值得用高价去买，比如鞋子、被套，但其实只有前两三年用的时候体验是极佳的，随着时间的推移慢慢会进入一种不想用但舍不得扔掉只能硬着头皮用的状态。我更愿意选择把买一样东西的钱分三份，买价格低一些的，一两年换一次，每次用的都是新的，也可"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 42806,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1875837032699990083",
+    "fullText": "🌍🎒 Travel Smarter, Organize Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
   },
   {
     "user": {
@@ -261,7 +357,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -278,7 +374,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 51012,
+      "followersCount": 51013,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -295,7 +391,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 45952,
+      "followersCount": 45957,
       "friendsCount": 311,
       "location": ""
     },
@@ -312,7 +408,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 45952,
+      "followersCount": 45957,
       "friendsCount": 311,
       "location": ""
     },
@@ -344,7 +440,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 45952,
+      "followersCount": 45957,
       "friendsCount": 311,
       "location": ""
     },
@@ -359,7 +455,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99516,
+      "followersCount": 99518,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -397,7 +493,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -478,7 +574,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -508,7 +604,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -540,7 +636,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 45952,
+      "followersCount": 45957,
       "friendsCount": 311,
       "location": ""
     },
@@ -557,7 +653,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99516,
+      "followersCount": 99518,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -591,7 +687,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9293,
+      "followersCount": 9303,
       "friendsCount": 1383,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -625,7 +721,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99516,
+      "followersCount": 99518,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -642,7 +738,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99516,
+      "followersCount": 99518,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -655,11 +751,26 @@
   },
   {
     "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 10860,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1875454275490607357",
+    "fullText": "Tired of shivering through the winter? Our revolutionary winter boots are here to save the day! Designed to keep your feet toasty warm, dry, and protected, no matter how harsh the weather. Experience the ultimate in winter comfort."
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 45952,
+      "followersCount": 45957,
       "friendsCount": 311,
       "location": ""
     },
