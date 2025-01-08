@@ -1,6 +1,80 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "Spring Xiong 熊春",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 3337,
+      "friendsCount": 1097,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgxiXWpbYAAtEOp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1876983300754907583",
+    "fullText": "这次求职加了一些HR微信，整理了一下。这个有点意思值得一提，华为OD岗位，现在的行情下其实是可以考虑一下的，但机考刷题太恶心了和笔试写算法一样让我接受不了。我可能是对这种形式主义玩法很过敏。其实冷静想想，想和庄家玩游戏就得遵守它的规则。如果你正在找工作，华为OD岗位也是可以试试的。 https://t.co/DCpeUImvzh"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 135003,
+      "friendsCount": 1428,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Ggxhol7aEAA52UG.jpg",
+      "https://pbs.twimg.com/media/Ggxhol6bEAAbRDA.jpg",
+      "https://pbs.twimg.com/media/Ggxhol8bIAA1ppr.jpg",
+      "https://pbs.twimg.com/media/Ggxhol8bMAArFUY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1876982501664530753",
+    "fullText": "今日看房 Day！第三套最便宜最远，在田园调布附近的等等力，毗邻多摩川绿地，非常 family life friendly!  只适合自住没有任何投资价值。竹中工務店设计施工，感觉钱都花种树上了，可谓「宁可食无肉，不可居无竹」\n\n这套仅1.2m，150平，特点是两层都可以通过公寓电梯进入，非常适合不想上下楼的老人 https://t.co/RZDbYiwiSb"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 135003,
+      "friendsCount": 1428,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Ggxeq3RaAAA2FUA.jpg",
+      "https://pbs.twimg.com/media/Ggxeq3RbQAArrC3.jpg",
+      "https://pbs.twimg.com/media/Ggxeq3RbsAA6s36.jpg",
+      "https://pbs.twimg.com/media/Ggxeq3RawAAvikI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1876979240341528805",
+    "fullText": "今日看房 Day！第二套在渋谷的传统豪宅区松濤，特点是附送能停下库里南的巨大平面车库和阳光露台，开价2.4m，这套价格降一点还是非常不错滴 https://t.co/NYPICU0VSF"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cellinlab",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社群 发起人 ｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
+      "followersCount": 7228,
+      "friendsCount": 3292,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GgxeHrObYAA2NgA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1876978645484322825",
+    "fullText": "做个人 IP，是向内看，向外表达。 https://t.co/aKZH83eEUQ"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
@@ -25,7 +99,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9489,
+      "followersCount": 9490,
       "friendsCount": 1356,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -43,7 +117,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46234,
+      "followersCount": 46235,
       "friendsCount": 312,
       "location": ""
     },
@@ -62,7 +136,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70853,
+      "followersCount": 70854,
       "friendsCount": 3295,
       "location": ""
     },
@@ -96,7 +170,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 147158,
+      "followersCount": 147160,
       "friendsCount": 452,
       "location": "中华人民共和国"
     },
@@ -111,7 +185,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9489,
+      "followersCount": 9490,
       "friendsCount": 1356,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -143,7 +217,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9489,
+      "followersCount": 9490,
       "friendsCount": 1356,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -160,7 +234,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23458,
+      "followersCount": 23459,
       "friendsCount": 491,
       "location": "Hong Kong"
     },
@@ -194,7 +268,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9489,
+      "followersCount": 9490,
       "friendsCount": 1356,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -211,7 +285,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3336,
+      "followersCount": 3337,
       "friendsCount": 1097,
       "location": ""
     },
@@ -228,7 +302,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46234,
+      "followersCount": 46235,
       "friendsCount": 312,
       "location": ""
     },
@@ -245,7 +319,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3336,
+      "followersCount": 3337,
       "friendsCount": 1097,
       "location": ""
     },
@@ -262,7 +336,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46234,
+      "followersCount": 46235,
       "friendsCount": 312,
       "location": ""
     },
@@ -279,7 +353,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70853,
+      "followersCount": 70854,
       "friendsCount": 3295,
       "location": ""
     },
@@ -294,7 +368,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46234,
+      "followersCount": 46235,
       "friendsCount": 312,
       "location": ""
     },
@@ -311,7 +385,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46234,
+      "followersCount": 46235,
       "friendsCount": 312,
       "location": ""
     },
@@ -328,7 +402,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99592,
+      "followersCount": 99594,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -345,7 +419,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99592,
+      "followersCount": 99594,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -365,7 +439,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3336,
+      "followersCount": 3337,
       "friendsCount": 1097,
       "location": ""
     },
@@ -397,7 +471,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 147158,
+      "followersCount": 147160,
       "friendsCount": 452,
       "location": "中华人民共和国"
     },
@@ -415,7 +489,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100188,
+      "followersCount": 100196,
       "friendsCount": 1242,
       "location": "Chicago, IL"
     },
@@ -432,7 +506,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99592,
+      "followersCount": 99594,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -449,7 +523,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46234,
+      "followersCount": 46235,
       "friendsCount": 312,
       "location": ""
     },
@@ -464,7 +538,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99592,
+      "followersCount": 99594,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -481,7 +555,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46234,
+      "followersCount": 46235,
       "friendsCount": 312,
       "location": ""
     },
@@ -500,7 +574,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99592,
+      "followersCount": 99594,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -517,7 +591,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23458,
+      "followersCount": 23459,
       "friendsCount": 491,
       "location": "Hong Kong"
     },
@@ -670,7 +744,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99592,
+      "followersCount": 99594,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -1137,7 +1211,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 10973,
+      "followersCount": 10990,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -1295,7 +1369,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100188,
+      "followersCount": 100196,
       "friendsCount": 1242,
       "location": "Chicago, IL"
     },
