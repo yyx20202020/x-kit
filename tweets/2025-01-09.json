@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 23482,
+      "friendsCount": 495,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gg17QnTaMAIS-b4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1877292617492546035",
+    "fullText": "👏今天上线和 @astizoo 一起开发的ReadyForShip-全栈AI模板(https://t.co/E2t3gWqRa6)，模板支持:\n1. 前端Next.js + shadcn/ui + Tailwindcss\n2. Supabase数据库+数据存储\n3. Supabase OAuth(Google + Github)\n4. Prisma支持\n5. i18n 多语言\n6. Stripe支付\n7. 支持暗黑模式\n8. https://t.co/lYIzwTGkN1"
+  },
+  {
+    "user": {
+      "screenName": "MaimaiLee123",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
+      "followersCount": 9686,
+      "friendsCount": 1454,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MaimaiLee123/status/1877291948022603990",
+    "fullText": "最近拼多多“砍一刀”爆率挺高的？50块钱的那个任务好几个人提现了，一觉睡醒发现有人找我点拼多多，但我真的没有拼多多😫"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 147227,
+      "followersCount": 147230,
       "friendsCount": 452,
       "location": "中华人民共和国"
     },
@@ -22,7 +54,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -37,7 +69,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -54,7 +86,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -89,7 +121,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -106,7 +138,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -138,7 +170,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -153,7 +185,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -170,7 +202,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 147227,
+      "followersCount": 147230,
       "friendsCount": 452,
       "location": "中华人民共和国"
     },
@@ -187,7 +219,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -221,7 +253,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -283,8 +315,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9669,
-      "friendsCount": 1419,
+      "followersCount": 9686,
+      "friendsCount": 1454,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -298,7 +330,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 46458,
+      "followersCount": 46469,
       "friendsCount": 312,
       "location": ""
     },
@@ -313,8 +345,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 9669,
-      "friendsCount": 1419,
+      "followersCount": 9686,
+      "friendsCount": 1454,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -379,7 +411,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6810,
+      "followersCount": 6809,
       "friendsCount": 723,
       "location": "San Jose, CA"
     },
@@ -396,7 +428,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6810,
+      "followersCount": 6809,
       "friendsCount": 723,
       "location": "San Jose, CA"
     },
@@ -443,7 +475,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23478,
+      "followersCount": 23482,
       "friendsCount": 495,
       "location": "Hong Kong"
     },
@@ -788,7 +820,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11006,
+      "followersCount": 11015,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -1077,7 +1109,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11006,
+      "followersCount": 11015,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -1100,6 +1132,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/canlesofficial/status/1876842864795095507",
     "fullText": "Tired of shivering through the winter? Our revolutionary winter boots are here to save the day! Designed to keep your feet toasty warm, dry, and protected, no matter how harsh the weather. Experience the ultimate in winter comfort."
+  },
+  {
+    "user": {
+      "screenName": "CDNMININGRPT",
+      "name": "Canadian Mining Report",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1862665848680259584/IHLizFU-_normal.jpg",
+      "description": "Analysis of metals markets with a focus on the larger cap TSXV-listed junior miners",
+      "followersCount": 1711,
+      "friendsCount": 6304,
+      "location": "Whistler, BC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CDNMININGRPT/status/1876832397498470560",
+    "fullText": "https://t.co/Qsp1xMWcKl"
   },
   {
     "user": {
