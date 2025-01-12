@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 100435,
+      "friendsCount": 1243,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1878297880760316341",
+    "fullText": "问：在DevOps过程中，我们是否可以使用AI去把整个流程串起来？从理解业务需求，画原型图，根据原型出表结构，再根据表结构定义对象，代码实现需求，生成测试用例，进行自动化测试，出测试报告等？可以根据编排的任务去自动化实现上述过程。现在业界有这样的实现吗？\n\n答：能，但是靠不住！"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 100435,
+      "friendsCount": 1243,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GhEL2uyXoAAF5L4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1878296467028246991",
+    "fullText": "问：现在AI是否能做到记忆能力？比如我五天前给他设定了一个角色，并且请他解答了一些问题。那么五天后是否还能再次基于五天前的问答继续提问？（这可能是一个功能:设定角色，保存角色，基于这个角色的对话可以选择是否保存。这是不是需要有很长的token去支持？是否建议这样去做？)\n\n答：现在 ChatGPT https://t.co/UzpnVtZ27e"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
+      "followersCount": 47187,
+      "friendsCount": 314,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GhEKIVBasAAW-7L.jpg",
+      "https://pbs.twimg.com/media/GhEKKYhbEAAP8dK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1878295721364914176",
+    "fullText": "Bloomberg前两天出了一篇报告，回顾中国史上最大幅度免签政策效果的\n\n虽然中国已经单方面宣布对38个国家免签，54个国家过境免签，但2024年的入境游仍然比2019年下降了26%，2019年入境游收入超过1320亿美金\n\n图1：到北京旅行人数变化：2024比2019年下降18%\n图2：各国对中国的好感度：发达国家普遍下降） https://t.co/2u0MRZ53HJ"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社群 发起人 ｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7372,
+      "followersCount": 7373,
       "friendsCount": 3303,
       "location": ""
     },
@@ -22,7 +72,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 70944,
+      "followersCount": 70945,
       "friendsCount": 3303,
       "location": ""
     },
@@ -42,8 +92,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11028,
-      "friendsCount": 1573,
+      "followersCount": 11008,
+      "friendsCount": 1590,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -59,7 +109,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7694,
+      "followersCount": 7695,
       "friendsCount": 280,
       "location": ""
     },
@@ -76,7 +126,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -93,7 +143,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -110,7 +160,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -127,8 +177,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11028,
-      "friendsCount": 1573,
+      "followersCount": 11008,
+      "friendsCount": 1590,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -144,7 +194,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -159,7 +209,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -176,7 +226,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99661,
+      "followersCount": 99660,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -193,7 +243,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -223,7 +273,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99661,
+      "followersCount": 99660,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -337,7 +387,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6811,
+      "followersCount": 6812,
       "friendsCount": 723,
       "location": "San Jose, CA"
     },
@@ -354,7 +404,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6811,
+      "followersCount": 6812,
       "friendsCount": 723,
       "location": "San Jose, CA"
     },
@@ -371,7 +421,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99661,
+      "followersCount": 99660,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -406,7 +456,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3852,
+      "followersCount": 3851,
       "friendsCount": 1097,
       "location": ""
     },
@@ -438,7 +488,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99661,
+      "followersCount": 99660,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -455,7 +505,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3852,
+      "followersCount": 3851,
       "friendsCount": 1097,
       "location": ""
     },
@@ -503,8 +553,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11028,
-      "friendsCount": 1573,
+      "followersCount": 11008,
+      "friendsCount": 1590,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -521,8 +571,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11028,
-      "friendsCount": 1573,
+      "followersCount": 11008,
+      "friendsCount": 1590,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -553,7 +603,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3852,
+      "followersCount": 3851,
       "friendsCount": 1097,
       "location": ""
     },
@@ -600,7 +650,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -618,8 +668,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11028,
-      "friendsCount": 1573,
+      "followersCount": 11008,
+      "friendsCount": 1590,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -635,7 +685,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 3852,
+      "followersCount": 3851,
       "friendsCount": 1097,
       "location": ""
     },
@@ -652,7 +702,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1799,
+      "followersCount": 1800,
       "friendsCount": 193,
       "location": "NewYork"
     },
@@ -670,7 +720,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -685,7 +735,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -702,7 +752,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -734,7 +784,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 43061,
+      "followersCount": 43063,
       "friendsCount": 0,
       "location": ""
     },
@@ -764,7 +814,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -798,7 +848,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47184,
+      "followersCount": 47187,
       "friendsCount": 314,
       "location": ""
     },
@@ -1052,7 +1102,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99661,
+      "followersCount": 99660,
       "friendsCount": 799,
       "location": "United States"
     },
