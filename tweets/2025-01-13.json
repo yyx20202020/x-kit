@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 100499,
+      "friendsCount": 1244,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1878647844485136481",
+    "fullText": "问：写提示词的时候角色设定还需要吗？ 如果想让大模型完成特定任务的时候\n\n答：角色设定是否重要看模型看场景。\n\n模型在GPT-4o以下依然重要；\n\n对于需要角色扮演的场景需要设定角色，比如扮演心理医生、赛博女友等；\n\n扮演可以让AI快速理解任务的场景，更好的输出内容，比如让 AI"
+  },
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "#NFLPLAYOFFS",
+      "followersCount": 37148387,
+      "friendsCount": 2817,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1878630088092110848/vid/avc1/1920x1080/qAbeJKGkRa1yvyq7.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/1878630258598973895",
+    "fullText": "Baker ➡️ Evans. No doubt 🙌 \n\n📺: #WASvsTB on NBC\n📱: Stream on @NFLPlus + Peacock https://t.co/bqf7cTWeTp"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17853,
+      "followersCount": 17854,
       "friendsCount": 98,
       "location": "China"
     },
@@ -22,7 +54,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100500,
+      "followersCount": 100499,
       "friendsCount": 1244,
       "location": "Chicago, IL"
     },
@@ -37,7 +69,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100500,
+      "followersCount": 100499,
       "friendsCount": 1244,
       "location": "Chicago, IL"
     },
@@ -69,7 +101,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100500,
+      "followersCount": 100499,
       "friendsCount": 1244,
       "location": "Chicago, IL"
     },
@@ -86,7 +118,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99643,
+      "followersCount": 99652,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -111,6 +143,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1878574719567557050",
     "fullText": "🌍 Travel Smarter, Travel Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 43118,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1878574719362011215",
+    "fullText": "🌟Simplify Your Travels: Pack Smarter with This Tote!\nhttps://t.co/JLnEOUPAg4"
   },
   {
     "user": {
@@ -156,6 +203,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1878540066727031254",
     "fullText": "✈️ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS\n\"Spacious, lightweight, and perfect for traveling. Fits under my seat easily, and the colors are awesome! 🌍\""
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 43118,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1878540066676723849",
+    "fullText": "✨ Pack Efficiently and Travel Smarter!\nhttps://t.co/JLnEOUPAg4"
   },
   {
     "user": {
@@ -212,7 +274,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47287,
+      "followersCount": 47286,
       "friendsCount": 313,
       "location": ""
     },
@@ -227,7 +289,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47287,
+      "followersCount": 47286,
       "friendsCount": 313,
       "location": ""
     },
@@ -272,7 +334,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47287,
+      "followersCount": 47286,
       "friendsCount": 313,
       "location": ""
     },
@@ -320,7 +382,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99643,
+      "followersCount": 99652,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -337,7 +399,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99643,
+      "followersCount": 99652,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -388,7 +450,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23527,
+      "followersCount": 23531,
       "friendsCount": 506,
       "location": "Hong Kong"
     },
@@ -420,7 +482,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23527,
+      "followersCount": 23531,
       "friendsCount": 506,
       "location": "Hong Kong"
     },
@@ -452,7 +514,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11422,
+      "followersCount": 11453,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -484,7 +546,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "PuTTY 本无树，MinGW 亦非台 ！",
-      "followersCount": 18109,
+      "followersCount": 18110,
       "friendsCount": 248,
       "location": "Guangdong"
     },
@@ -501,7 +563,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11422,
+      "followersCount": 11453,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -518,7 +580,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11422,
+      "followersCount": 11453,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -662,7 +724,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 43115,
+      "followersCount": 43118,
       "friendsCount": 0,
       "location": ""
     },
@@ -756,6 +818,21 @@
   },
   {
     "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 43118,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1878298359011688852",
+    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
@@ -803,6 +880,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1878295721364914176",
     "fullText": "Bloomberg前两天出了一篇报告，回顾中国史上最大幅度免签政策效果的\n\n虽然中国已经单方面宣布对38个国家免签，54个国家过境免签，但2024年的入境游仍然比2019年下降了26%，2019年入境游收入超过1320亿美金\n\n图1：到北京旅行人数变化：2024比2019年下降18%\n图2：各国对中国的好感度：发达国家普遍下降） https://t.co/2u0MRZ53HJ"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 100499,
+      "friendsCount": 1244,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1878196274471817420",
+    "fullText": "看有人分享了个GPT用法：“看到一个用AI自学方法：网上找视频教程，用通义听悟转文字，结合其他基础资料喂给ChatGPT ，叫ChatGPT 开始给自己讲课。”"
   },
   {
     "user": {
