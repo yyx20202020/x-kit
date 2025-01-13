@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6812,
+      "friendsCount": 723,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1878688679448965627",
+    "fullText": "今晚，房地产从业者都要听张信哲的歌，过火。"
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99653,
+      "followersCount": 99661,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -25,7 +40,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23535,
+      "followersCount": 23538,
       "friendsCount": 507,
       "location": "Hong Kong"
     },
@@ -42,7 +57,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47301,
+      "followersCount": 47310,
       "friendsCount": 313,
       "location": ""
     },
@@ -74,7 +89,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23535,
+      "followersCount": 23538,
       "friendsCount": 507,
       "location": "Hong Kong"
     },
@@ -91,7 +106,7 @@
       "name": "AIcoine88",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863935506322518016/6xIOcf5k_normal.jpg",
       "description": "Aicoin全球Web3行情分析工具领跑者,币圈专业看盘下单工具下载 尽在客户端\n🔀点击前往官网地址： https://t.co/LplMmM3jC2\n强大的K线图表功能,编程的自定义指标工具，35+交易所行情数据，多种预警，社媒消息，巨鲸以及大单跟踪",
-      "followersCount": 737,
+      "followersCount": 738,
       "friendsCount": 7,
       "location": "日本"
     },
@@ -106,7 +121,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11477,
+      "followersCount": 11487,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -123,7 +138,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71008,
+      "followersCount": 71015,
       "friendsCount": 3304,
       "location": ""
     },
@@ -138,7 +153,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100509,
+      "followersCount": 100514,
       "friendsCount": 1244,
       "location": "Chicago, IL"
     },
@@ -187,7 +202,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100509,
+      "followersCount": 100514,
       "friendsCount": 1244,
       "location": "Chicago, IL"
     },
@@ -217,7 +232,22 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11147,
+      "followersCount": 11145,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1878624148966023221",
+    "fullText": "Tired of shivering through the winter? Our revolutionary winter boots are here to save the day! Designed to keep your feet toasty warm, dry, and protected, no matter how harsh the weather. Experience the ultimate in winter comfort."
+  },
+  {
+    "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 11145,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -247,7 +277,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100509,
+      "followersCount": 100514,
       "friendsCount": 1244,
       "location": "Chicago, IL"
     },
@@ -279,7 +309,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100509,
+      "followersCount": 100514,
       "friendsCount": 1244,
       "location": "Chicago, IL"
     },
@@ -296,7 +326,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99653,
+      "followersCount": 99661,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -497,7 +527,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47301,
+      "followersCount": 47310,
       "friendsCount": 313,
       "location": ""
     },
@@ -512,7 +542,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47301,
+      "followersCount": 47310,
       "friendsCount": 313,
       "location": ""
     },
@@ -557,7 +587,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。\n油管频道：师姐说 https://t.co/41afFnOGrW",
-      "followersCount": 47301,
+      "followersCount": 47310,
       "friendsCount": 313,
       "location": ""
     },
@@ -620,7 +650,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99653,
+      "followersCount": 99661,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -637,7 +667,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99653,
+      "followersCount": 99661,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -977,7 +1007,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 43111,
+      "followersCount": 43127,
       "friendsCount": 0,
       "location": ""
     },
@@ -1135,7 +1165,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 43118,
+      "followersCount": 43127,
       "friendsCount": 0,
       "location": ""
     },
@@ -1200,7 +1230,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 100509,
+      "followersCount": 100514,
       "friendsCount": 1244,
       "location": "Chicago, IL"
     },
@@ -1223,6 +1253,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1878079420600111110",
     "fullText": "🎒🌟 Travel Is Easy Now!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 11145,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1878011492911534361",
+    "fullText": "Say Goodbye to Squeezed Toes! 🥾\n\nFinally, winter boots that truly fit! Designed with a wide toe box, our AlpineBare boots give your feet the space they deserve—no pinching, no discomfort. Plus, they’re waterproof, slip-resistant, and perfect for staying active all season long."
   },
   {
     "user": {
