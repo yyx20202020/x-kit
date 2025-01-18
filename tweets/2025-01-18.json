@@ -1,12 +1,47 @@
 [
   {
     "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
+      "followersCount": 99881,
+      "friendsCount": 799,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GhjSTrVXUAE3P8x.mp4"
+    ],
+    "tweetUrl": "https://x.com/nishuang/status/1880484086223126660",
+    "fullText": "因为倒垃圾，不小心把自己锁在门外，气温零度以下，备用钥匙在 200 多公里以外…\n\n现在我理解为什么美国人会买个假石头、把钥匙藏在门口了 https://t.co/OE0mboOlT7"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 135423,
+      "friendsCount": 1428,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GhjQXIIaUAAOTEh.jpg",
+      "https://pbs.twimg.com/media/GhjQXIKboAA9I68.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1880481944481460480",
+    "fullText": "在 temu 上买了一堆花瓶，实话说质量其实还不错… https://t.co/CquQbri7Hm"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
       "followersCount": 7733,
-      "friendsCount": 285,
+      "friendsCount": 286,
       "location": ""
     },
     "images": [],
@@ -84,7 +119,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11921,
+      "followersCount": 11922,
       "friendsCount": 1709,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -101,7 +136,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727019827645308928/8B7sjQ26_normal.jpg",
       "description": "几个小公司的CEO，竞技之心，有情有义，逍遥自得",
-      "followersCount": 7084,
+      "followersCount": 7085,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -133,7 +168,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71153,
+      "followersCount": 71155,
       "friendsCount": 3306,
       "location": ""
     },
@@ -158,6 +193,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/HighWirePlus/status/1880393312919777449",
     "fullText": "Was Big Pharma's Polio solution based on a lie? Find out what the facts say in the brand new show \"Jeffrey Jaxen Investigates\" that uncovers the truth. Exclusively on HighWire+. Watch for just $5/month. First month is FREE for a limited time only! https://t.co/08KbISovD6"
+  },
+  {
+    "user": {
+      "screenName": "XBusiness",
+      "name": "Business",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1683501317929549830/oBdmDQ8f_normal.jpg",
+      "description": "Get better at X. Get better at business.",
+      "followersCount": 1412306,
+      "friendsCount": 1928,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/XBusiness/status/1880367105452728468",
+    "fullText": "For a limited time only, lock in big savings on annual Verified Org subscriptions."
   },
   {
     "user": {
@@ -206,11 +256,28 @@
   },
   {
     "user": {
+      "screenName": "BadgerFootball",
+      "name": "Wisconsin Football",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1610718999435788295/LPCJTcaI_normal.jpg",
+      "description": "Official Twitter account of the University of Wisconsin Football Team. 14x Big Ten champions. Known to Jump Around.",
+      "followersCount": 401362,
+      "friendsCount": 706,
+      "location": "Madison, Wis."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1880343643933831168/vid/avc1/1080x1350/0SOTVy4ZW4112hpp.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/BadgerFootball/status/1880343792773218685",
+    "fullText": "timing is everything ⏱️\n\nReflect &amp; Move Forward | @ricardohallman6 https://t.co/2GCNgntcxq"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 3855560,
+      "followersCount": 3855614,
       "friendsCount": 3,
       "location": ""
     },
@@ -243,7 +310,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
       "followersCount": 7733,
-      "friendsCount": 285,
+      "friendsCount": 286,
       "location": ""
     },
     "images": [
@@ -259,7 +326,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48033,
+      "followersCount": 48037,
       "friendsCount": 314,
       "location": ""
     },
@@ -277,7 +344,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48033,
+      "followersCount": 48037,
       "friendsCount": 314,
       "location": ""
     },
@@ -310,7 +377,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
       "followersCount": 7733,
-      "friendsCount": 285,
+      "friendsCount": 286,
       "location": ""
     },
     "images": [
@@ -360,7 +427,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99878,
+      "followersCount": 99881,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -378,7 +445,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
       "followersCount": 7733,
-      "friendsCount": 285,
+      "friendsCount": 286,
       "location": ""
     },
     "images": [
@@ -551,7 +618,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23684,
+      "followersCount": 23681,
       "friendsCount": 511,
       "location": "Hong Kong"
     },
@@ -566,7 +633,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17897,
+      "followersCount": 17901,
       "friendsCount": 98,
       "location": "China"
     },
@@ -583,7 +650,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48033,
+      "followersCount": 48037,
       "friendsCount": 314,
       "location": ""
     },
@@ -600,7 +667,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48033,
+      "followersCount": 48037,
       "friendsCount": 314,
       "location": ""
     },
@@ -617,7 +684,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48033,
+      "followersCount": 48037,
       "friendsCount": 314,
       "location": ""
     },
@@ -651,7 +718,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 135396,
+      "followersCount": 135423,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -670,7 +737,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23684,
+      "followersCount": 23681,
       "friendsCount": 511,
       "location": "Hong Kong"
     },
@@ -687,7 +754,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99878,
+      "followersCount": 99881,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -719,7 +786,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99878,
+      "followersCount": 99881,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -736,7 +803,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "人只有醒来才知道自己睡了一觉\n\n｜ INTJ ｜感谢follow ｜\n电报   https://t.co/qYINMLQgVt \n自留地  https://t.co/WQYgnkH9Ew",
-      "followersCount": 11921,
+      "followersCount": 11922,
       "friendsCount": 1709,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -753,7 +820,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99878,
+      "followersCount": 99881,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -770,7 +837,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99878,
+      "followersCount": 99881,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -789,7 +856,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48033,
+      "followersCount": 48037,
       "friendsCount": 314,
       "location": ""
     },
@@ -806,7 +873,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48033,
+      "followersCount": 48037,
       "friendsCount": 314,
       "location": ""
     },
@@ -821,7 +888,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23684,
+      "followersCount": 23681,
       "friendsCount": 511,
       "location": "Hong Kong"
     },
@@ -1115,11 +1182,26 @@
   },
   {
     "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 11299,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1880070611998855384",
+    "fullText": "Our #1 Best-Selling Sneaker!\n\nFrom the office, a night out, the airport, or a walk around town, there's only one shoe that can do it all."
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99878,
+      "followersCount": 99881,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -1153,7 +1235,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99878,
+      "followersCount": 99881,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -1215,6 +1297,21 @@
       "name": "tastytrade",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1627672610031955970/HKhvfVGT_normal.jpg",
       "description": "tastytrade Inc. (previously known as tastyworks Inc.) The broker for traders who deserve better. \n\nQuestions? Email us at: support@tastytrade.com",
+      "followersCount": 39198,
+      "friendsCount": 1131,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tastytrade/status/1879960854067544570",
+    "fullText": "Have it all with tastytrade: low rates, lightning-fast technology, a live in-app trade feed, and award-winning support!"
+  },
+  {
+    "user": {
+      "screenName": "tastytrade",
+      "name": "tastytrade",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1627672610031955970/HKhvfVGT_normal.jpg",
+      "description": "tastytrade Inc. (previously known as tastyworks Inc.) The broker for traders who deserve better. \n\nQuestions? Email us at: support@tastytrade.com",
       "followersCount": 39195,
       "friendsCount": 1131,
       "location": "Chicago, IL"
@@ -1268,6 +1365,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/tastytrade/status/1879960853031645251",
     "fullText": "Investopedia says we're the best. See why they rate us 4.5 stars out of 5."
+  },
+  {
+    "user": {
+      "screenName": "tastytrade",
+      "name": "tastytrade",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1627672610031955970/HKhvfVGT_normal.jpg",
+      "description": "tastytrade Inc. (previously known as tastyworks Inc.) The broker for traders who deserve better. \n\nQuestions? Email us at: support@tastytrade.com",
+      "followersCount": 39198,
+      "friendsCount": 1131,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tastytrade/status/1879960852771860564",
+    "fullText": "Chart your heart out. Drill into data with 300+ indicators. No wonder why serious traders choose tastytrade."
   },
   {
     "user": {
@@ -1605,7 +1717,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 99878,
+      "followersCount": 99881,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -1742,7 +1854,7 @@
       "name": "So I'm a Spider, So What? Ruler of the Labyrinth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1805421500641820672/ZUBAgnhP_normal.jpg",
       "description": "Kumoko's coming back. 🕷🕸️\nA dungeon RPG based on the anime \"So I'm a Spider, So What?\"!\nDiscord：https://t.co/xjaSarTarG\n#SpiderRotL #SoImASpider",
-      "followersCount": 5085,
+      "followersCount": 5087,
       "friendsCount": 5,
       "location": ""
     },
