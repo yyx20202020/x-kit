@@ -1,11 +1,46 @@
 [
   {
     "user": {
+      "screenName": "_KleinHe_",
+      "name": "KleinHE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881649248544198656/kKHVSKsP_normal.jpg",
+      "description": "20 y.o.｜全干开发者💻 ｜UI/UX 🪄｜Creator of https://t.co/BxjKxV8BAN 思想上的西西弗斯🧠｜究极书虫📚｜ex 硬核游戏玩家👾 英推：https://t.co/wRw05o35m5",
+      "followersCount": 1036,
+      "friendsCount": 514,
+      "location": "🟩 🟨 🟨 🟨 🟨  10k followers"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Ghz2UjhbwAAX5JO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_KleinHe_/status/1881649585581588572",
+    "fullText": "推特新 feature，换头像可以提醒关注者 hhh https://t.co/aTklIRTnG0"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
+      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
+      "followersCount": 1823,
+      "friendsCount": 195,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GhzxFbnbcAAbuir.jpg",
+      "https://pbs.twimg.com/media/Ghzymjha0AALKSB.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1881645494948282492",
+    "fullText": "ChatGPT-API 的3种来源（附图对数坐标）\n\n1. OpenAI-gpt-4o（来源openai官方）\n- 性能：响应最快绝对是情况1秒内\n\n2. openai-gpt-4o（来源主要为微软）\n- 性能：响应速度大多数情况下略逊于openai\n\n3. gpt-4o （来源chatgpt-web）\n- 性能：响应速度基本要1秒以上\n- 价格：低于1/10 https://t.co/kMDea3ssbn"
+  },
+  {
+    "user": {
       "screenName": "MaimaiLee123",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -20,7 +55,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -37,7 +72,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1821,
+      "followersCount": 1823,
       "friendsCount": 195,
       "location": "NewYork"
     },
@@ -55,7 +90,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -72,7 +107,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -89,7 +124,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17915,
+      "followersCount": 17916,
       "friendsCount": 98,
       "location": "China"
     },
@@ -109,7 +144,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -127,7 +162,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -144,7 +179,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1821,
+      "followersCount": 1823,
       "friendsCount": 195,
       "location": "NewYork"
     },
@@ -181,7 +216,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -198,7 +233,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4286,
+      "followersCount": 4290,
       "friendsCount": 1101,
       "location": ""
     },
@@ -215,7 +250,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -230,7 +265,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -247,7 +282,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1821,
+      "followersCount": 1823,
       "friendsCount": 195,
       "location": "NewYork"
     },
@@ -264,7 +299,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100094,
+      "followersCount": 100105,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -282,7 +317,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 147591,
+      "followersCount": 147592,
       "friendsCount": 453,
       "location": "中华人民共和国"
     },
@@ -299,7 +334,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23677,
+      "followersCount": 23676,
       "friendsCount": 512,
       "location": "Hong Kong"
     },
@@ -316,7 +351,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100094,
+      "followersCount": 100105,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -333,7 +368,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -348,7 +383,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -365,7 +400,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23677,
+      "followersCount": 23676,
       "friendsCount": 512,
       "location": "Hong Kong"
     },
@@ -397,7 +432,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -429,7 +464,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -473,11 +508,41 @@
   },
   {
     "user": {
+      "screenName": "getpieces",
+      "name": "Pieces for Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1852364003680370688/S3NngZXc_normal.png",
+      "description": "Multi-LLM copilot with access to context across your entire developer workflow - from browsers and IDEs to collaboration tools 🧑‍💻",
+      "followersCount": 6489,
+      "friendsCount": 537,
+      "location": "Cincinnati, OH"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/getpieces/status/1881436787836404174",
+    "fullText": "Developers - Use Any AI With OS-level Context. Download Pieces - It's Free 👇"
+  },
+  {
+    "user": {
+      "screenName": "getpieces",
+      "name": "Pieces for Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1852364003680370688/S3NngZXc_normal.png",
+      "description": "Multi-LLM copilot with access to context across your entire developer workflow - from browsers and IDEs to collaboration tools 🧑‍💻",
+      "followersCount": 6489,
+      "friendsCount": 537,
+      "location": "Cincinnati, OH"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/getpieces/status/1881434164341203090",
+    "fullText": "Developers - Use Any AI With OS-level Context. Download Pieces - It's Free 👇"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -494,7 +559,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -512,7 +577,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -529,7 +594,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -546,7 +611,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -563,7 +628,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -580,7 +645,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -597,7 +662,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -614,7 +679,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48431,
+      "followersCount": 48432,
       "friendsCount": 315,
       "location": ""
     },
@@ -632,7 +697,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -647,7 +712,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23677,
+      "followersCount": 23676,
       "friendsCount": 512,
       "location": "Hong Kong"
     },
@@ -664,7 +729,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -754,7 +819,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12344,
+      "followersCount": 12345,
       "friendsCount": 1811,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1346,7 +1411,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 43545,
+      "followersCount": 43546,
       "friendsCount": 0,
       "location": ""
     },
@@ -1391,7 +1456,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100094,
+      "followersCount": 100105,
       "friendsCount": 799,
       "location": "United States"
     },
