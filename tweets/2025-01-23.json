@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "Spring Xiong 熊春",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 4292,
+      "friendsCount": 1103,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gh-97o-bsAAnSyV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1882432020212752388",
+    "fullText": "老登写给 25+程序员的几句话（仅供参考）  \n1.去大城，去超一线大城，看过大国大城之后才有资格谈田园牧歌岁月静好。  \n2.去大厂，去互联网头部大厂，只有去过你才有资格说大厂也就那逼样。  \n3.学好英语口语，这是撬动你职业巅峰最省力的杠杠，没有之一。  \n4.记住，技术是为产品服务，不要本末倒置。 https://t.co/Ym9DB4SrBt"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48545,
+      "followersCount": 48546,
+      "friendsCount": 315,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1882431957637992550",
+    "fullText": "日本央行将于本周五结束今年的首场议息会议，预计加息25个基点至0.5%，这将使其成为自2007年以来幅度最大的加息。\n\n市场普遍预期日本央行此次有望时隔半年再度加息，对于日本乃至全球市场而言，或许也将是一个关键时刻。虽然市场已对日本央行本月加息有所预期，但加息仍可能引发市场动荡。"
+  },
+  {
+    "user": {
+      "screenName": "MaimaiLee123",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 12789,
+      "friendsCount": 1925,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gh-602aawAEMKjW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MaimaiLee123/status/1882428595689472365",
+    "fullText": "好变态 https://t.co/3Y6xujz17a"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 48546,
       "friendsCount": 315,
       "location": ""
     },
@@ -22,7 +71,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12790,
+      "followersCount": 12789,
       "friendsCount": 1925,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -70,7 +119,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12790,
+      "followersCount": 12789,
       "friendsCount": 1925,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -85,7 +134,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17927,
+      "followersCount": 17928,
       "friendsCount": 98,
       "location": "China"
     },
@@ -105,7 +154,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12790,
+      "followersCount": 12789,
       "friendsCount": 1925,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -122,7 +171,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12790,
+      "followersCount": 12789,
       "friendsCount": 1925,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -139,7 +188,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 51594,
+      "followersCount": 51588,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -156,7 +205,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17927,
+      "followersCount": 17928,
       "friendsCount": 98,
       "location": "China"
     },
@@ -176,7 +225,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 51594,
+      "followersCount": 51588,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -193,7 +242,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12790,
+      "followersCount": 12789,
       "friendsCount": 1925,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -210,7 +259,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48545,
+      "followersCount": 48546,
       "friendsCount": 315,
       "location": ""
     },
@@ -225,7 +274,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48545,
+      "followersCount": 48546,
       "friendsCount": 315,
       "location": ""
     },
@@ -255,7 +304,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12790,
+      "followersCount": 12789,
       "friendsCount": 1925,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -273,8 +322,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71257,
-      "friendsCount": 3313,
+      "followersCount": 71256,
+      "friendsCount": 3314,
       "location": ""
     },
     "images": [],
@@ -288,7 +337,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48545,
+      "followersCount": 48546,
       "friendsCount": 315,
       "location": ""
     },
@@ -303,8 +352,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71257,
-      "friendsCount": 3313,
+      "followersCount": 71256,
+      "friendsCount": 3314,
       "location": ""
     },
     "images": [],
@@ -350,7 +399,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48545,
+      "followersCount": 48546,
       "friendsCount": 315,
       "location": ""
     },
@@ -367,7 +416,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101045,
+      "followersCount": 101044,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -416,7 +465,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12790,
+      "followersCount": 12789,
       "friendsCount": 1925,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -433,7 +482,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17927,
+      "followersCount": 17928,
       "friendsCount": 98,
       "location": "China"
     },
@@ -453,7 +502,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12790,
+      "followersCount": 12789,
       "friendsCount": 1925,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -485,7 +534,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48545,
+      "followersCount": 48546,
       "friendsCount": 315,
       "location": ""
     },
@@ -530,7 +579,7 @@
       "name": "Samsung Mobile",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1684842116198055936/oJngzEVZ_normal.jpg",
       "description": "Official X of Samsung Galaxy.\n#GalaxyAI",
-      "followersCount": 12302998,
+      "followersCount": 12303189,
       "friendsCount": 114,
       "location": ""
     },
@@ -545,7 +594,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101045,
+      "followersCount": 101044,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -563,7 +612,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 3892835,
+      "followersCount": 3893191,
       "friendsCount": 3,
       "location": ""
     },
@@ -579,7 +628,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
       "followersCount": 7502,
-      "friendsCount": 3306,
+      "friendsCount": 3307,
       "location": ""
     },
     "images": [],
@@ -593,7 +642,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48545,
+      "followersCount": 48546,
       "friendsCount": 315,
       "location": ""
     },
@@ -677,7 +726,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100198,
+      "followersCount": 100201,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -694,7 +743,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17927,
+      "followersCount": 17928,
       "friendsCount": 98,
       "location": "China"
     },
@@ -702,6 +751,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1882070962373562801",
     "fullText": "技术创业者要改正的习惯\n\n广西自驾游的路上， 一些技术创业者的经历和经验一直在脑袋中萦绕， 今天分享出来给大家。\n\n今天主要分享的是技术创业者要改正的习惯。\n\n1. 舞台的变化： 当公司的角色切换成老板， 不管你原来是什么技术背景， 每天都要想的是怎么赚钱养活团队，"
+  },
+  {
+    "user": {
+      "screenName": "thegestgroup",
+      "name": "GEST -Global Embolization Symposium & Technologies",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1182102735115694080/DDWne3OJ_normal.jpg",
+      "description": "GEST is the world’s largest #embolization meeting and leading resource for #embolotherapy, #interventionalradiology, and #interventionaloncology",
+      "followersCount": 4115,
+      "friendsCount": 973,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gh51ZrCX0AARk0t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/thegestgroup/status/1882070831922335953",
+    "fullText": "The #GEST2025 call for abstracts is open! Deadline to submit is Monday, February 3. Start your submission here: https://t.co/iT7lpzw3st https://t.co/2GlDOMEljQ"
   },
   {
     "user": {
@@ -726,7 +792,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100198,
+      "followersCount": 100201,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -1001,7 +1067,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11414,
+      "followersCount": 11415,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -1379,7 +1445,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 43518,
+      "followersCount": 43482,
       "friendsCount": 0,
       "location": ""
     },
