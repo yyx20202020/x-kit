@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 137823,
+      "friendsCount": 1431,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GiCanLlacAA0o7o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1882674646912475475",
+    "fullText": "S 小姐拉花技巧越来越熟练了！ https://t.co/QVBBlT4aj1"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101183,
+      "followersCount": 101194,
+      "friendsCount": 1252,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1882674135119048828",
+    "fullText": "You are Operator. You have access to a computer browser and will help the user complete their online tasks, even purchases and tasks involving sensitive information.\n\n## Confirmations\nAsk the user for final confirmation before the final step of any task with external side"
+  },
+  {
+    "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
+      "followersCount": 100210,
+      "friendsCount": 798,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1882672340942635008/pu/vid/avc1/1280x720/9ohRxa0fQAsY5GAu.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/nishuang/status/1882673505348501669",
+    "fullText": "最近看了一部超有想象力的美剧 Interior Chinatown / 内景唐人街\n\n说的是唐人街的无名小子，一步步变身为知名警探，破解哥哥失踪、惨死陈年旧案。故事情节特别不正常，哪儿哪儿都透露着不对劲，一众人等把日子活出了漫画感\n\n主角是“硅谷”里无厘头的 https://t.co/Z6K735Th8Z"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 101194,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -23,7 +72,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12830,
+      "followersCount": 12832,
       "friendsCount": 1950,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -53,7 +102,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -68,7 +117,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -85,7 +134,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -102,7 +151,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6822,
+      "followersCount": 6823,
       "friendsCount": 721,
       "location": "San Jose, CA"
     },
@@ -117,7 +166,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101183,
+      "followersCount": 101194,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -135,7 +184,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12830,
+      "followersCount": 12832,
       "friendsCount": 1950,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -152,7 +201,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12830,
+      "followersCount": 12832,
       "friendsCount": 1950,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -167,7 +216,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -182,7 +231,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100203,
+      "followersCount": 100210,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -199,7 +248,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -214,7 +263,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 183807,
+      "followersCount": 183814,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -354,7 +403,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101183,
+      "followersCount": 101194,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -369,7 +418,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101183,
+      "followersCount": 101194,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -386,7 +435,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100203,
+      "followersCount": 100210,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -403,7 +452,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 3899542,
+      "followersCount": 3899834,
       "friendsCount": 3,
       "location": ""
     },
@@ -416,11 +465,28 @@
   },
   {
     "user": {
+      "screenName": "RUmlax",
+      "name": "Rutgers Men's LAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/895649765819592704/hjnlS4RV_normal.jpg",
+      "description": "The official Twitter account of the Rutgers men's lacrosse team. #RUMLax",
+      "followersCount": 18585,
+      "friendsCount": 295,
+      "location": "Piscataway, N.J."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1882502290726060032/vid/avc1/720x1280/bIcttIrbrchMweAO.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/RUmlax/status/1882502398012502366",
+    "fullText": "Scrimmage scenes from under the sunny Florida skies 🌴🥍 https://t.co/HxrEsdpagL"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -437,7 +503,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -467,7 +533,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 3899542,
+      "followersCount": 3899834,
       "friendsCount": 3,
       "location": ""
     },
@@ -482,7 +548,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -497,7 +563,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -512,7 +578,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48657,
+      "followersCount": 48669,
       "friendsCount": 315,
       "location": ""
     },
@@ -535,6 +601,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/OpenAI/status/1882475166812475661",
     "fullText": "ChatGPT and some of our APIs had high error rates earlier due to an issue with our provider. We've issued a fix and should be fully recovered soon. Thanks for your patience!"
+  },
+  {
+    "user": {
+      "screenName": "SportsLine",
+      "name": "SportsLine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1620559313948364802/tusIjmgA_normal.jpg",
+      "description": "We've got you covered, sports bettors! Home of all your sports betting odds, picks and statistics for @CBSSports \n\nHome of the Early Edge and Inside The Lines",
+      "followersCount": 116249,
+      "friendsCount": 566,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1882470382243844096/vid/avc1/1280x720/uXu8Emc4fuNr7m-f.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/SportsLine/status/1882471536763744355",
+    "fullText": "Josh Allen looks for his first playoff win against Patrick Mahomes 👀\n\n@Mike5754 believes Allen's legs will play a huge part in trying to get the W 💰 https://t.co/9BVTooGB8i"
+  },
+  {
+    "user": {
+      "screenName": "Browns",
+      "name": "Cleveland Browns",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1856000376408838144/72u9yoRK_normal.jpg",
+      "description": "",
+      "followersCount": 1663182,
+      "friendsCount": 288,
+      "location": "Cleveland, OH"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1882468231052730368/vid/avc1/1280x720/3k5nvFsiYLzGWPuL.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/Browns/status/1882470133387431964",
+    "fullText": ".@T_Rees11 jumped at the opportunity to stay in Cleveland https://t.co/68sMgvuYZi"
   },
   {
     "user": {
@@ -594,7 +694,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100203,
+      "followersCount": 100210,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -1113,6 +1213,23 @@
   },
   {
     "user": {
+      "screenName": "DanelfinAI",
+      "name": "Danelfin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1510926809055084546/esKciqly_normal.jpg",
+      "description": "AI-powered stock analytics platform, helping investors make smart data-driven decisions.  \"Best Financial Research Company\" at Benzinga Fintech Awards 2023.",
+      "followersCount": 3835,
+      "friendsCount": 146,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gh6juZ9WsAAM7az.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DanelfinAI/status/1882121716375425329",
+    "fullText": "Danelfin's AI Price Forecast for $META 🤖 \nAverage target for the next 3 months: $664.97 (+7.87%).\n✅ Current AI Score: 10 (Strong Buy).\n📊 Smarter investing with AI insights.\n\nExplore the complete AI-powered analysis 👉 https://t.co/b8Gmn1lh5O https://t.co/XF2ETAFzTi"
+  },
+  {
+    "user": {
       "screenName": "Ravens",
       "name": "Baltimore Ravens",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1855987971276615680/tXSqzfSo_normal.jpg",
@@ -1198,7 +1315,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100203,
+      "followersCount": 100210,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -1215,7 +1332,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11420,
+      "followersCount": 11424,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -1297,6 +1414,21 @@
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/canlesofficial/status/1881955956415742242",
+    "fullText": "Our #1 Best-Selling Sneaker!\n\nFrom the office, a night out, the airport, or a walk around town, there's only one shoe that can do it all."
+  },
+  {
+    "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 11424,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1881955937378021545",
     "fullText": "Our #1 Best-Selling Sneaker!\n\nFrom the office, a night out, the airport, or a walk around town, there's only one shoe that can do it all."
   },
   {
