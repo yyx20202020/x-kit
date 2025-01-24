@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 23699,
+      "friendsCount": 512,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1882691323016491303",
+    "fullText": "许久没有写前后端分离的项目了，最近写着小程序在前后端联调阶段还是有点痛苦。主要因为前后端分离导致的类型缺失对AI代码生成确实不太友好。在AI时代，像Next/Nuxt这样TS友好的全栈框架，或者tRPC的价值似乎变得更大了..."
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 101209,
+      "friendsCount": 1252,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1882689980167766017/pu/vid/avc1/1280x720/s9hWGA5iz2vr2Hj0.mp4?tag=12",
+      "https://video.twimg.com/ext_tw_video/1882689990968094720/pu/vid/avc1/1612x1080/UF2yS3AjNs7xwTBb.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1882690633535529254",
+    "fullText": "字节的 AI 自动化测试框架，自然语言就可以测试 Web UI，比如像这样的测试代码：\nawait ai('在搜索框中输入 \"Headphones\"，然后回车');\n\n当然需要多模态的模型，支持的模型包括：\n- gpt-4o\n- claude-3-opus-20240229\n- gemini-1.5-pro\n- qwen-vl-max-latest\n- doubao-vision-pro-32k\n\n最新的 Gemini https://t.co/9zCnai7VjA"
+  },
+  {
+    "user": {
+      "screenName": "MaimaiLee123",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 12843,
+      "friendsCount": 1950,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GiClT6UagAAx3OC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MaimaiLee123/status/1882686413399089211",
+    "fullText": "每天进步一点点，今天得到了一个教训，吃饱饭，吃太少了使不上劲，最后两公里是爬下来了 https://t.co/bCTC4sxtZm"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 137823,
+      "followersCount": 137822,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -22,7 +72,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101204,
+      "followersCount": 101209,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -37,7 +87,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100211,
+      "followersCount": 100214,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -54,7 +104,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101204,
+      "followersCount": 101209,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -72,7 +122,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12840,
+      "followersCount": 12843,
       "friendsCount": 1950,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -102,7 +152,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48670,
+      "followersCount": 48676,
       "friendsCount": 315,
       "location": ""
     },
@@ -117,7 +167,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48670,
+      "followersCount": 48676,
       "friendsCount": 315,
       "location": ""
     },
@@ -134,7 +184,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48670,
+      "followersCount": 48676,
       "friendsCount": 315,
       "location": ""
     },
@@ -166,7 +216,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101204,
+      "followersCount": 101209,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -184,7 +234,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12840,
+      "followersCount": 12843,
       "friendsCount": 1950,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -201,7 +251,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 12840,
+      "followersCount": 12843,
       "friendsCount": 1950,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -216,7 +266,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48670,
+      "followersCount": 48676,
       "friendsCount": 315,
       "location": ""
     },
@@ -231,7 +281,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100211,
+      "followersCount": 100214,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -248,7 +298,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48670,
+      "followersCount": 48676,
       "friendsCount": 315,
       "location": ""
     },
@@ -263,7 +313,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 183814,
+      "followersCount": 183815,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -349,6 +399,21 @@
     },
     "images": [],
     "videos": [],
+    "tweetUrl": "https://x.com/MyPatriotShield/status/1882553395816317353",
+    "fullText": "Personal Info Leaked?  Get a Free Data Breach Scan to check now."
+  },
+  {
+    "user": {
+      "screenName": "MyPatriotShield",
+      "name": "My Patriot Shield",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1624169984799956993/0Y_op6QK_normal.jpg",
+      "description": "We believe that you deserve to be secure online. So we've packaged best-in-class services to help protect your identity and data online.",
+      "followersCount": 6,
+      "friendsCount": 4,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
     "tweetUrl": "https://x.com/MyPatriotShield/status/1882545845876215999",
     "fullText": "Is your data on the Dark Web?  Find out with a Free data breach scan!"
   },
@@ -403,7 +468,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101204,
+      "followersCount": 101209,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -418,7 +483,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101204,
+      "followersCount": 101209,
       "friendsCount": 1252,
       "location": "Chicago, IL"
     },
@@ -435,7 +500,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100211,
+      "followersCount": 100214,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -452,7 +517,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 3899947,
+      "followersCount": 3900079,
       "friendsCount": 3,
       "location": ""
     },
@@ -486,7 +551,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48670,
+      "followersCount": 48676,
       "friendsCount": 315,
       "location": ""
     },
@@ -503,7 +568,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48670,
+      "followersCount": 48676,
       "friendsCount": 315,
       "location": ""
     },
@@ -533,7 +598,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 3899947,
+      "followersCount": 3900079,
       "friendsCount": 3,
       "location": ""
     },
@@ -642,7 +707,7 @@
       "name": "המתכנה",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2451096636/pf4hi8imq7qvmsyxk5re_normal.png",
       "description": "בית מלאכה לייצור תוכן אונליין",
-      "followersCount": 800,
+      "followersCount": 801,
       "friendsCount": 145,
       "location": ""
     },
@@ -694,7 +759,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100211,
+      "followersCount": 100214,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -1272,6 +1337,21 @@
     },
     "images": [],
     "videos": [],
+    "tweetUrl": "https://x.com/karma_shopping/status/1882085222029643911",
+    "fullText": "Save more on Amazon starting today! This Amazon shopping hack is like Prime Day on steroids."
+  },
+  {
+    "user": {
+      "screenName": "karma_shopping",
+      "name": "Karma Shopping",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1758058601095012352/z5OVuw8W_normal.jpg",
+      "description": "Karma is an app and extension that helps you save time and money while shopping online.",
+      "followersCount": 35928,
+      "friendsCount": 5,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
     "tweetUrl": "https://x.com/karma_shopping/status/1882085221610221603",
     "fullText": "Save more on Amazon starting today! This Amazon shopping hack is like Prime Day on steroids."
   },
@@ -1345,7 +1425,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100211,
+      "followersCount": 100214,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -1377,7 +1457,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11423,
+      "followersCount": 11424,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
