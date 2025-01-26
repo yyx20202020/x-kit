@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 101812,
+      "friendsCount": 1259,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GiNC3tjXMAArlnW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1883422886930550787",
+    "fullText": "今天写了一篇公众号文章《小明的烦恼：代码高手，不爱写文档，老板让写调研报告，还好有 AI》\n\n用一个虚构的故事，背后是一些真实的案例，说明如何在日常工作中使用 AI 提升效率。\n\n比如说用 AI 来分析老板的意图，避免出现偏差和遗漏。\n\n用 AI https://t.co/UrqzVUC5Bf"
+  },
+  {
+    "user": {
+      "screenName": "MaimaiLee123",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 13179,
+      "friendsCount": 2140,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MaimaiLee123/status/1883418365823463590",
+    "fullText": "高铁安检，充电宝放在包里过x光就必定要求拿出来查是否合规，拿手上过压根没人在意…"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23686,
+      "followersCount": 23687,
       "friendsCount": 513,
       "location": "Hong Kong"
     },
@@ -22,7 +54,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 51635,
+      "followersCount": 51641,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -39,7 +71,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48918,
+      "followersCount": 48920,
       "friendsCount": 316,
       "location": ""
     },
@@ -54,8 +86,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -88,7 +120,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23686,
+      "followersCount": 23687,
       "friendsCount": 513,
       "location": "Hong Kong"
     },
@@ -103,7 +135,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23686,
+      "followersCount": 23687,
       "friendsCount": 513,
       "location": "Hong Kong"
     },
@@ -120,8 +152,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -135,7 +167,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100264,
+      "followersCount": 100260,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -152,7 +184,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48918,
+      "followersCount": 48920,
       "friendsCount": 316,
       "location": ""
     },
@@ -167,7 +199,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100264,
+      "followersCount": 100260,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -184,7 +216,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48918,
+      "followersCount": 48920,
       "friendsCount": 316,
       "location": ""
     },
@@ -199,7 +231,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48918,
+      "followersCount": 48920,
       "friendsCount": 316,
       "location": ""
     },
@@ -216,7 +248,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100264,
+      "followersCount": 100260,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -234,7 +266,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48918,
+      "followersCount": 48920,
       "friendsCount": 316,
       "location": ""
     },
@@ -279,8 +311,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -311,7 +343,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100264,
+      "followersCount": 100260,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -345,8 +377,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -379,7 +411,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100264,
+      "followersCount": 100260,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -413,7 +445,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48918,
+      "followersCount": 48920,
       "friendsCount": 316,
       "location": ""
     },
@@ -430,7 +462,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48918,
+      "followersCount": 48920,
       "friendsCount": 316,
       "location": ""
     },
@@ -479,8 +511,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -496,7 +528,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 48918,
+      "followersCount": 48920,
       "friendsCount": 316,
       "location": ""
     },
@@ -513,7 +545,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎游戏开发话题，编程话题优秀答主（id 韦易笑，25万关注），娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18323,
+      "followersCount": 18325,
       "friendsCount": 247,
       "location": "Guangdong"
     },
@@ -547,8 +579,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -564,8 +596,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -584,8 +616,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -618,8 +650,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -635,8 +667,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -654,8 +686,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -689,7 +721,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100264,
+      "followersCount": 100260,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -709,8 +741,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -726,8 +758,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13177,
-      "friendsCount": 2120,
+      "followersCount": 13179,
+      "friendsCount": 2140,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
