@@ -1,6 +1,77 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 101954,
+      "friendsCount": 1258,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GiSF5OwWwAEwQF7.jpg",
+      "https://pbs.twimg.com/media/GiSF7HtXAAAkSaZ.jpg",
+      "https://pbs.twimg.com/media/GiSF9qWXQAAT4hR.jpg",
+      "https://pbs.twimg.com/media/GiSF_RUWAAA-kod.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1883778829262663854",
+    "fullText": "让 DeepSeek 来个左右互搏：\n- 以崇洋媚外公知的语气，知乎的话术，口语化的嘲讽deepseek\n- 用贴吧嘴臭老哥的风格驳斥怼回去，攻击性请拉满！\n\n注：以上只是使用提示词测试 AI，不代表认同其中一些名词 https://t.co/5A4h0gh88a"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 49498,
+      "friendsCount": 316,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GiSGlChbYAA47ZJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1883778518267666845",
+    "fullText": "昨天和朋友聊的…… https://t.co/ogoHRuMPDy"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 49498,
+      "friendsCount": 316,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GiSFP51bEAAOHHn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1883777056124858748",
+    "fullText": "Mag 7 盈利增长速度放缓\n\n财报季又来了，Mag7股价处于历史高位区域，估值过高。\n\n这一次的一个关键：7大科技股利润增长速度预计将是近两年来最慢的 https://t.co/yZFRknxFxd"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 49498,
+      "friendsCount": 316,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GiSERSoaQAEQsEc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1883775981401546801",
+    "fullText": "中国人工智能突破威胁科技股反弹，纳斯达克暴跌 超过2%\n\n在 DeepSeek 高效的 AI 模型挑战美国科技主导地位后，纳斯达克期货暴跌 430 点，市值可能蒸发 1 万亿美元。\n\n这家中国初创公司在基础芯片上运行高级人工智能的能力令英伟达和其他人工智能领导者陷入困境。 https://t.co/yKstXnW4EA"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -23,7 +94,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -38,8 +109,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13810,
-      "friendsCount": 2190,
+      "followersCount": 13826,
+      "friendsCount": 2191,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -55,7 +126,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 137953,
+      "followersCount": 137950,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -70,7 +141,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -87,7 +158,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4389,
+      "followersCount": 4390,
       "friendsCount": 1108,
       "location": ""
     },
@@ -104,7 +175,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4389,
+      "followersCount": 4390,
       "friendsCount": 1108,
       "location": ""
     },
@@ -138,8 +209,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13810,
-      "friendsCount": 2190,
+      "followersCount": 13826,
+      "friendsCount": 2191,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -153,7 +224,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7508,
+      "followersCount": 7507,
       "friendsCount": 3311,
       "location": ""
     },
@@ -188,8 +259,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13810,
-      "friendsCount": 2190,
+      "followersCount": 13826,
+      "friendsCount": 2191,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -205,7 +276,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71312,
+      "followersCount": 71308,
       "friendsCount": 3316,
       "location": ""
     },
@@ -220,7 +291,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100263,
+      "followersCount": 100267,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -237,8 +308,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13810,
-      "friendsCount": 2190,
+      "followersCount": 13826,
+      "friendsCount": 2191,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -254,7 +325,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -269,7 +340,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101947,
+      "followersCount": 101954,
       "friendsCount": 1258,
       "location": "Chicago, IL"
     },
@@ -301,7 +372,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 101947,
+      "followersCount": 101954,
       "friendsCount": 1258,
       "location": "Chicago, IL"
     },
@@ -316,7 +387,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 137953,
+      "followersCount": 137950,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -350,7 +421,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -382,7 +453,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -399,7 +470,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -416,7 +487,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -433,7 +504,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -448,7 +519,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -463,7 +534,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -478,7 +549,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -493,7 +564,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -508,7 +579,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/WsyEXOKH7G\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 49480,
+      "followersCount": 49498,
       "friendsCount": 316,
       "location": ""
     },
@@ -525,7 +596,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7923,
+      "followersCount": 7921,
       "friendsCount": 289,
       "location": ""
     },
@@ -542,7 +613,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11430,
+      "followersCount": 11444,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -602,7 +673,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "几个小公司的CEO | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7098,
+      "followersCount": 7099,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -619,8 +690,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 13810,
-      "friendsCount": 2190,
+      "followersCount": 13826,
+      "friendsCount": 2191,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -663,11 +734,26 @@
   },
   {
     "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 43417,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1883522151560655129",
+    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4389,
+      "followersCount": 4390,
       "friendsCount": 1108,
       "location": ""
     },
@@ -684,7 +770,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100263,
+      "followersCount": 100267,
       "friendsCount": 798,
       "location": "United States"
     },
@@ -701,7 +787,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 23674,
+      "followersCount": 23677,
       "friendsCount": 516,
       "location": "Hong Kong"
     },
@@ -1159,7 +1245,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。",
-      "followersCount": 100263,
+      "followersCount": 100267,
       "friendsCount": 798,
       "location": "United States"
     },
