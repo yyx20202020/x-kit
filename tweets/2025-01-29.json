@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 103098,
+      "friendsCount": 1267,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gib50xJXoAEqvBn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1884468206879813855",
+    "fullText": "看我用 DeepSeek 写的这篇《致英伟达全球同仁与合作伙伴的一封信》如何？\n稍后发布提示词\n\n***\n\n各位同仁、伙伴： https://t.co/ufQON1tOhm"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
+      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
+      "followersCount": 1860,
+      "friendsCount": 194,
+      "location": "NewYork"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1884467332510277633/pu/vid/avc1/1280x720/0geXNjFjBrx77HgA.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/ovst36099/status/1884467619144818885",
+    "fullText": "中国人 + 不会讲英文 + 奥林匹克冠军  =  \n最牛的数学天才 = \n我们的量化交易模型牛逼\n\n😄 https://t.co/1hyzKUa1ZU"
+  },
+  {
+    "user": {
       "screenName": "MaimaiLee123",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -52,7 +86,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -70,7 +104,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71353,
+      "followersCount": 71354,
       "friendsCount": 3319,
       "location": ""
     },
@@ -88,7 +122,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎游戏开发话题，编程话题优秀答主（id 韦易笑，25万关注），娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18334,
+      "followersCount": 18336,
       "friendsCount": 249,
       "location": "Guangdong"
     },
@@ -103,7 +137,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -118,7 +152,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -150,7 +184,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 50402,
+      "followersCount": 50409,
       "friendsCount": 320,
       "location": ""
     },
@@ -199,7 +233,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 103097,
+      "followersCount": 103098,
       "friendsCount": 1267,
       "location": "Chicago, IL"
     },
@@ -227,11 +261,26 @@
   },
   {
     "user": {
+      "screenName": "CelsiusOfficial",
+      "name": "CELSIUS Energy Drink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742917732868431872/yHOTA_lK_normal.jpg",
+      "description": "Zero Sugar, Essential Energy to LIVE FIT ⚡️",
+      "followersCount": 34624,
+      "friendsCount": 162,
+      "location": "Florida"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CelsiusOfficial/status/1884367635217014965",
+    "fullText": "💧CELSIUS HYDRATION💧\n\n5 Deliciously Refreshing Flavors. \nCaffeine-Free. Essential Electrolytes.\n🍒🍋🍓🍉🍍\n\n💥 First Drop Available Now on Amazon!"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 50402,
+      "followersCount": 50409,
       "friendsCount": 320,
       "location": ""
     },
@@ -263,7 +312,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 103097,
+      "followersCount": 103098,
       "friendsCount": 1267,
       "location": "Chicago, IL"
     },
@@ -295,7 +344,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 50402,
+      "followersCount": 50409,
       "friendsCount": 320,
       "location": ""
     },
@@ -344,7 +393,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 137886,
+      "followersCount": 137889,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -359,7 +408,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -376,7 +425,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 50402,
+      "followersCount": 50409,
       "friendsCount": 320,
       "location": ""
     },
@@ -396,7 +445,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 50402,
+      "followersCount": 50409,
       "friendsCount": 320,
       "location": ""
     },
@@ -413,7 +462,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎游戏开发话题，编程话题优秀答主（id 韦易笑，25万关注），娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18334,
+      "followersCount": 18336,
       "friendsCount": 249,
       "location": "Guangdong"
     },
@@ -428,7 +477,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -445,7 +494,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -462,7 +511,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 50402,
+      "followersCount": 50409,
       "friendsCount": 320,
       "location": ""
     },
@@ -479,7 +528,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎游戏开发话题，编程话题优秀答主（id 韦易笑，25万关注），娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18334,
+      "followersCount": 18336,
       "friendsCount": 249,
       "location": "Guangdong"
     },
@@ -494,7 +543,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -511,7 +560,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -526,7 +575,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71353,
+      "followersCount": 71354,
       "friendsCount": 3319,
       "location": ""
     },
@@ -541,7 +590,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -558,7 +607,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -592,7 +641,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -607,7 +656,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 137886,
+      "followersCount": 137889,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -627,7 +676,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14264,
+      "followersCount": 14263,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -644,7 +693,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎游戏开发话题，编程话题优秀答主（id 韦易笑，25万关注），娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18334,
+      "followersCount": 18336,
       "friendsCount": 249,
       "location": "Guangdong"
     },
@@ -798,7 +847,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1882889840611508224/Y5lY5Ioj_normal.jpg",
       "description": "Curiosity changes everything. Available on iOS, Mac, and Android: https://t.co/BBZ1kG0TVG",
-      "followersCount": 237942,
+      "followersCount": 237977,
       "friendsCount": 54,
       "location": "San Francisco, CA"
     },
@@ -950,7 +999,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 43459,
+      "followersCount": 43468,
       "friendsCount": 0,
       "location": ""
     },
