@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 19736,
+      "friendsCount": 1005,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1885535275067277313/pu/vid/avc1/1186x720/-zRS5sWCb1U4eMKQ.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/1885536976763494604",
+    "fullText": "o3-mini-high 确实强，测试用 p5.js 生成彩色小球碰撞效果（碰撞边缘根据强弱产生粒子），它在思考 47s 后直接给出代码。\n\n给出的 p5.js 代码可以直接在这里运行： https://t.co/eTXNLkasmT https://t.co/4BqnM1Ul1S"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "Spring Xiong 熊春",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 4419,
+      "friendsCount": 1111,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GirCpwebYAkebbU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1885533422212571458",
+    "fullText": "好大儿说，我敢发他的擦边照，就要把我手机砸了。现在儿子大了，搂一下不给摸一下不给的，我想把光头强的缩小镜借来把他缩成一个三岁的宝宝(●✿∀✿●) 一转眼就长大了，好像开个小号重头再练一遍。 https://t.co/uGmmPuWnjk"
+  },
+  {
+    "user": {
       "screenName": "xushiwei",
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
@@ -20,7 +54,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14716,
+      "followersCount": 14713,
       "friendsCount": 2378,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -37,7 +71,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 51054,
+      "followersCount": 51058,
       "friendsCount": 323,
       "location": ""
     },
@@ -52,7 +86,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14716,
+      "followersCount": 14713,
       "friendsCount": 2378,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -86,7 +120,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 51054,
+      "followersCount": 51058,
       "friendsCount": 323,
       "location": ""
     },
@@ -103,7 +137,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14716,
+      "followersCount": 14713,
       "friendsCount": 2378,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -118,7 +152,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 103465,
+      "followersCount": 103471,
       "friendsCount": 1271,
       "location": "Chicago, IL"
     },
@@ -163,7 +197,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100301,
+      "followersCount": 100303,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -180,7 +214,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100301,
+      "followersCount": 100303,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -198,7 +232,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3926086,
+      "followersCount": 3926170,
       "friendsCount": 3,
       "location": ""
     },
@@ -213,7 +247,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100301,
+      "followersCount": 100303,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -230,7 +264,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3926086,
+      "followersCount": 3926170,
       "friendsCount": 3,
       "location": ""
     },
@@ -245,7 +279,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 103465,
+      "followersCount": 103471,
       "friendsCount": 1271,
       "location": "Chicago, IL"
     },
@@ -277,7 +311,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 103465,
+      "followersCount": 103471,
       "friendsCount": 1271,
       "location": "Chicago, IL"
     },
@@ -339,7 +373,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 43584,
+      "followersCount": 43586,
       "friendsCount": 0,
       "location": ""
     },
@@ -369,7 +403,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7516,
+      "followersCount": 7517,
       "friendsCount": 3315,
       "location": ""
     },
@@ -384,7 +418,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1770805803932364800/yJnlxO2f_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 16896,
+      "followersCount": 16895,
       "friendsCount": 775,
       "location": "Mountain View, CA"
     },
@@ -418,7 +452,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14716,
+      "followersCount": 14713,
       "friendsCount": 2378,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -433,7 +467,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7516,
+      "followersCount": 7517,
       "friendsCount": 3315,
       "location": ""
     },
@@ -450,7 +484,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜ Python造垃圾｜INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 14716,
+      "followersCount": 14713,
       "friendsCount": 2378,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -465,7 +499,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1770805803932364800/yJnlxO2f_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 16896,
+      "followersCount": 16895,
       "friendsCount": 775,
       "location": "Mountain View, CA"
     },
@@ -499,7 +533,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 51694,
+      "followersCount": 51693,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -546,7 +580,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100301,
+      "followersCount": 100303,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -595,7 +629,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100301,
+      "followersCount": 100303,
       "friendsCount": 799,
       "location": "United States"
     },
@@ -726,7 +760,7 @@
       "name": "Tampa Bay Buccaneers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1874805385304891392/BlZ2iuid_normal.jpg",
       "description": "#WeAreTheKrewe",
-      "followersCount": 1345244,
+      "followersCount": 1345249,
       "friendsCount": 326,
       "location": "Tampa, Fla."
     },
