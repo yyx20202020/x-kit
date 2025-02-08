@@ -1,12 +1,29 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
+      "followersCount": 15535,
+      "friendsCount": 2605,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjPP7imaQAEy_Dy.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1888081907726115234",
+    "fullText": "努力适应swift中，和python的差别还是不少，比如中文命名➕emoji String，还有大量的method，都需要时间去不断的刷熟练度 https://t.co/r1PqZPyVTe"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
-      "followersCount": 3290,
-      "friendsCount": 289,
+      "followersCount": 3289,
+      "friendsCount": 292,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
     "images": [
@@ -52,8 +69,8 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
-      "followersCount": 3290,
-      "friendsCount": 289,
+      "followersCount": 3289,
+      "friendsCount": 292,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
     "images": [
@@ -69,7 +86,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1859,
+      "followersCount": 1860,
       "friendsCount": 193,
       "location": "NewYork"
     },
@@ -88,7 +105,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15512,
+      "followersCount": 15535,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -106,7 +123,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7972,
+      "followersCount": 7973,
       "friendsCount": 289,
       "location": ""
     },
@@ -123,7 +140,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138484,
+      "followersCount": 138490,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -143,7 +160,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 104914,
+      "followersCount": 104916,
       "friendsCount": 1274,
       "location": "Chicago, IL"
     },
@@ -166,6 +183,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/ChipotleTweets/status/1888007637347811373",
     "fullText": "pull up to Chipotle on 2/10 to score free guac and queso bc Extra Sunday &gt; Monday 🌯\n\nvalid 2/10/25, for Rewards members only. entree purchase and use of code EXTRA25 required. chipotle web and mobile apps only. terms: https://t.co/Y7WK0Ho286"
+  },
+  {
+    "user": {
+      "screenName": "SectorSPDRs",
+      "name": "Select Sector SPDRs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1319032734342434822/TvtlsP3M_normal.jpg",
+      "description": "Unique ETFs that divide the S&P 500 into 11 sector index funds.  For questions, please call 1-866-732-8673. Important disclosures at https://t.co/sQnp0OeQjS.",
+      "followersCount": 2273,
+      "friendsCount": 151,
+      "location": "Denver, CO"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjOAgMsaQAoZpQ1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SectorSPDRs/status/1887998343105888572",
+    "fullText": "S&amp;P 500 Starts February With Slight Weekly Decline Amid Payrolls Miss\nhttps://t.co/tg3vCMsvjR\n✉️ Subscribe to receive the U.S. Market Weekly Summary via email by visiting the link above. 👆 https://t.co/KGGfcVNBnk"
   },
   {
     "user": {
@@ -248,7 +282,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52122,
+      "followersCount": 52126,
       "friendsCount": 329,
       "location": ""
     },
@@ -263,7 +297,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52122,
+      "followersCount": 52126,
       "friendsCount": 329,
       "location": ""
     },
@@ -278,7 +312,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18739,
+      "followersCount": 18743,
       "friendsCount": 253,
       "location": "Guangdong"
     },
@@ -323,7 +357,7 @@
       "name": "Proud Patriots",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1782478510042353664/vTqaYNhE_normal.jpg",
       "description": "Patriotic-themed bobbleheads, genuine currency, rare coins, and various patriotic collectibles! Support an American business & join the movement!",
-      "followersCount": 16343,
+      "followersCount": 16372,
       "friendsCount": 0,
       "location": "United States"
     },
@@ -353,7 +387,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24665,
+      "followersCount": 24676,
       "friendsCount": 518,
       "location": "Hong Kong"
     },
@@ -368,7 +402,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52122,
+      "followersCount": 52126,
       "friendsCount": 329,
       "location": ""
     },
@@ -402,7 +436,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7523,
+      "followersCount": 7524,
       "friendsCount": 3337,
       "location": ""
     },
@@ -419,7 +453,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24665,
+      "followersCount": 24676,
       "friendsCount": 518,
       "location": "Hong Kong"
     },
@@ -449,7 +483,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7523,
+      "followersCount": 7524,
       "friendsCount": 3337,
       "location": ""
     },
@@ -466,7 +500,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1859,
+      "followersCount": 1860,
       "friendsCount": 193,
       "location": "NewYork"
     },
@@ -486,7 +520,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15512,
+      "followersCount": 15535,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -503,7 +537,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "几个小公司的CEO | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7107,
+      "followersCount": 7108,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -518,7 +552,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15512,
+      "followersCount": 15535,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -533,7 +567,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15512,
+      "followersCount": 15535,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -550,7 +584,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7972,
+      "followersCount": 7973,
       "friendsCount": 289,
       "location": ""
     },
@@ -567,7 +601,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1859,
+      "followersCount": 1860,
       "friendsCount": 193,
       "location": "NewYork"
     },
@@ -585,7 +619,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18739,
+      "followersCount": 18743,
       "friendsCount": 253,
       "location": "Guangdong"
     },
@@ -600,7 +634,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7523,
+      "followersCount": 7524,
       "friendsCount": 3337,
       "location": ""
     },
@@ -617,7 +651,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 51813,
+      "followersCount": 51817,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -634,7 +668,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52122,
+      "followersCount": 52126,
       "friendsCount": 329,
       "location": ""
     },
@@ -649,7 +683,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 104914,
+      "followersCount": 104916,
       "friendsCount": 1274,
       "location": "Chicago, IL"
     },
@@ -666,7 +700,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15512,
+      "followersCount": 15535,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -683,7 +717,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7523,
+      "followersCount": 7524,
       "friendsCount": 3337,
       "location": ""
     },
@@ -703,7 +737,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1859,
+      "followersCount": 1860,
       "friendsCount": 193,
       "location": "NewYork"
     },
@@ -721,7 +755,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 104914,
+      "followersCount": 104916,
       "friendsCount": 1274,
       "location": "Chicago, IL"
     },
@@ -738,7 +772,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1859,
+      "followersCount": 1860,
       "friendsCount": 193,
       "location": "NewYork"
     },
@@ -918,6 +952,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/1887674289090150495",
     "fullText": "这些天的推特 be like:\nfn main() {\n    let amazing_tweet = String::from(\"我用 Cursor xxxxxxxx 做了一个\");\n    let niubi_tweet = amazing_tweet.replace(\"Cursor\", \"DeepSeek\");\n    println!(\"{}\",  niubi_tweet); \n}"
+  },
+  {
+    "user": {
+      "screenName": "CaravaggioJewel",
+      "name": "Caravaggio™ Jewelry",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1760012576971468800/6VImXgxJ_normal.jpg",
+      "description": "State of the Art Engagement Rings, Wedding Rings, Wedding Bands, Mens Rings, Bridal Sets, Earrings, Bracelets, Crafted to Celebrate You and Your Special Moments",
+      "followersCount": 9091,
+      "friendsCount": 294,
+      "location": "🇮🇹🇫🇷🇬🇧🇩🇪🇺🇸🇨🇦🇦🇪"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CaravaggioJewel/status/1887673885921022393",
+    "fullText": "Shop Valentines Day 0% APR 💍 https://t.co/bsKp118TEb Art Masters Caravaggio 14K Lilac Gold 1.25 Ct Princess Rose Ruby Diamond Engagement Ring Wedding Band Set R673PS-14KLGDRR at Caravaggio Jewelry"
   },
   {
     "user": {
