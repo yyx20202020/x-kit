@@ -1,11 +1,48 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 7967,
+      "friendsCount": 289,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1888036417227603969/vid/avc1/720x1280/ktFau40KEpondTlJ.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/plusyip/status/1888036485657747469",
+    "fullText": "ChatGPT 开启搜索功能之后，用微信输入法没法输入中文，很久以前就这样了，用系统自带的输入法没问题，输入英文也没问题，只有在微信输入法 + ChatGPT开启联网搜索功能才会触发。 https://t.co/qZxErmxinD"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 138471,
+      "friendsCount": 1430,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjOinLAacAAcRjQ.jpg",
+      "https://pbs.twimg.com/media/GjOinLAaQAAEPj1.jpg",
+      "https://pbs.twimg.com/media/GjOinK-aQAEklN7.jpg",
+      "https://pbs.twimg.com/media/GjOinK_aQAEc_7E.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1888031478136893804",
+    "fullText": "晨浴。安曇野创记录的大雪… https://t.co/Qw50FYHIST"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 104875,
+      "followersCount": 104887,
       "friendsCount": 1274,
       "location": "Chicago, IL"
     },
@@ -13,6 +50,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1888020104262382039",
     "fullText": "推荐阅读：如何更好的为 OpenAI o1 这样的推理模型写提示词？\n\n去年 OpenAI 发布 o1 这样的推理模型，接着 DeepSeek 也发布了 DeepSeek R1 推理模型，推理模型和传统的生成式语言模型的差别在于，传统的生成式语言模型在收到 Prompt"
+  },
+  {
+    "user": {
+      "screenName": "ChipotleTweets",
+      "name": "Chipotle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1801066620493897728/VGR2mndf_normal.jpg",
+      "description": "true love is knowing their Chipotle order",
+      "followersCount": 1326531,
+      "friendsCount": 35,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChipotleTweets/status/1888007637347811373",
+    "fullText": "pull up to Chipotle on 2/10 to score free guac and queso bc Extra Sunday &gt; Monday 🌯\n\nvalid 2/10/25, for Rewards members only. entree purchase and use of code EXTRA25 required. chipotle web and mobile apps only. terms: https://t.co/Y7WK0Ho286"
   },
   {
     "user": {
@@ -50,7 +102,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52097,
+      "followersCount": 52098,
       "friendsCount": 329,
       "location": ""
     },
@@ -65,7 +117,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52097,
+      "followersCount": 52098,
       "friendsCount": 329,
       "location": ""
     },
@@ -80,7 +132,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18713,
+      "followersCount": 18719,
       "friendsCount": 253,
       "location": "Guangdong"
     },
@@ -140,8 +192,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24630,
-      "friendsCount": 517,
+      "followersCount": 24641,
+      "friendsCount": 518,
       "location": "Hong Kong"
     },
     "images": [],
@@ -155,7 +207,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52097,
+      "followersCount": 52098,
       "friendsCount": 329,
       "location": ""
     },
@@ -172,7 +224,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7522,
+      "followersCount": 7523,
       "friendsCount": 3337,
       "location": ""
     },
@@ -189,8 +241,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24630,
-      "friendsCount": 517,
+      "followersCount": 24641,
+      "friendsCount": 518,
       "location": "Hong Kong"
     },
     "images": [],
@@ -219,7 +271,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7522,
+      "followersCount": 7523,
       "friendsCount": 3337,
       "location": ""
     },
@@ -256,8 +308,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Xcode 学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 15484,
-      "friendsCount": 2529,
+      "followersCount": 15496,
+      "friendsCount": 2574,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -273,7 +325,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "几个小公司的CEO | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7104,
+      "followersCount": 7105,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -288,8 +340,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Xcode 学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 15484,
-      "friendsCount": 2529,
+      "followersCount": 15496,
+      "friendsCount": 2574,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -303,8 +355,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Xcode 学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 15484,
-      "friendsCount": 2529,
+      "followersCount": 15496,
+      "friendsCount": 2574,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -355,7 +407,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18713,
+      "followersCount": 18719,
       "friendsCount": 253,
       "location": "Guangdong"
     },
@@ -370,7 +422,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7522,
+      "followersCount": 7523,
       "friendsCount": 3337,
       "location": ""
     },
@@ -404,7 +456,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52097,
+      "followersCount": 52098,
       "friendsCount": 329,
       "location": ""
     },
@@ -419,7 +471,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 104875,
+      "followersCount": 104887,
       "friendsCount": 1274,
       "location": "Chicago, IL"
     },
@@ -436,8 +488,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Xcode 学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 15484,
-      "friendsCount": 2529,
+      "followersCount": 15496,
+      "friendsCount": 2574,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -453,7 +505,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7522,
+      "followersCount": 7523,
       "friendsCount": 3337,
       "location": ""
     },
@@ -491,7 +543,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 104875,
+      "followersCount": 104887,
       "friendsCount": 1274,
       "location": "Chicago, IL"
     },
@@ -528,7 +580,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52097,
+      "followersCount": 52098,
       "friendsCount": 329,
       "location": ""
     },
@@ -545,7 +597,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 104875,
+      "followersCount": 104887,
       "friendsCount": 1274,
       "location": "Chicago, IL"
     },
@@ -560,8 +612,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Xcode 学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 15484,
-      "friendsCount": 2529,
+      "followersCount": 15496,
+      "friendsCount": 2574,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -612,7 +664,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 184454,
+      "followersCount": 184459,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -631,8 +683,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24630,
-      "friendsCount": 517,
+      "followersCount": 24641,
+      "friendsCount": 518,
       "location": "Hong Kong"
     },
     "images": [],
@@ -646,7 +698,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 184454,
+      "followersCount": 184459,
       "friendsCount": 375,
       "location": "Shanghai, China"
     },
@@ -718,7 +770,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52097,
+      "followersCount": 52098,
       "friendsCount": 329,
       "location": ""
     },
