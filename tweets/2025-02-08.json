@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 104928,
+      "friendsCount": 1274,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1888088064334905344/vid/avc1/1920x1080/yi7aoWDNCwWkD4x-.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1888095733154201674",
+    "fullText": "深度解析ChatGPT与DeepSeek R1：强化学习如何让大模型学会“思考”？\n\nAndrej Karpathy 前几天发的“深度解析像 ChatGPT 的大语言模型“，实在是太长了点，我自己写的翻译软件一运行就崩溃，还要花点时间修复一下（很遗憾 AI 还搞不定），先挑了其中一节讲 DeepSeek R1 https://t.co/SIBkTlVrsD"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 52130,
+      "friendsCount": 329,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjPc7HQaQAUAji6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1888095580641169415",
+    "fullText": "张兰，汪小菲抖音被无限期封禁 https://t.co/Tz0KWkerYy"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 52130,
+      "friendsCount": 329,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjPbsyVaQAAkLYI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1888094237998411799",
+    "fullText": "翻到一张社畜照\n\n在covid期间\n\n那段日子永生难忘 https://t.co/tkEgkIPYR7"
+  },
+  {
+    "user": {
       "screenName": "yuxiyou",
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1671864937/large_3nm7_21222k204236_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创业中，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 100892,
+      "followersCount": 100894,
       "friendsCount": 232,
       "location": "Singapore"
     },
@@ -22,7 +73,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138496,
+      "followersCount": 138497,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -59,7 +110,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15539,
+      "followersCount": 15554,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -108,7 +159,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 17955,
+      "followersCount": 17958,
       "friendsCount": 98,
       "location": "China"
     },
@@ -159,7 +210,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15539,
+      "followersCount": 15554,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -194,7 +245,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138496,
+      "followersCount": 138497,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -214,7 +265,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 104922,
+      "followersCount": 104928,
       "friendsCount": 1274,
       "location": "Chicago, IL"
     },
@@ -336,7 +387,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52128,
+      "followersCount": 52130,
       "friendsCount": 329,
       "location": ""
     },
@@ -351,7 +402,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52128,
+      "followersCount": 52130,
       "friendsCount": 329,
       "location": ""
     },
@@ -366,7 +417,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18749,
+      "followersCount": 18752,
       "friendsCount": 253,
       "location": "Guangdong"
     },
@@ -441,7 +492,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24679,
+      "followersCount": 24687,
       "friendsCount": 518,
       "location": "Hong Kong"
     },
@@ -456,7 +507,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52128,
+      "followersCount": 52130,
       "friendsCount": 329,
       "location": ""
     },
@@ -490,7 +541,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7524,
+      "followersCount": 7525,
       "friendsCount": 3337,
       "location": ""
     },
@@ -507,7 +558,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24679,
+      "followersCount": 24687,
       "friendsCount": 518,
       "location": "Hong Kong"
     },
@@ -537,7 +588,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7524,
+      "followersCount": 7525,
       "friendsCount": 3337,
       "location": ""
     },
@@ -574,7 +625,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15539,
+      "followersCount": 15554,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -606,7 +657,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15539,
+      "followersCount": 15554,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -621,7 +672,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15539,
+      "followersCount": 15554,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -673,7 +724,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18749,
+      "followersCount": 18752,
       "friendsCount": 253,
       "location": "Guangdong"
     },
@@ -688,7 +739,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7524,
+      "followersCount": 7525,
       "friendsCount": 3337,
       "location": ""
     },
@@ -705,7 +756,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 51818,
+      "followersCount": 51816,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -722,7 +773,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52128,
+      "followersCount": 52130,
       "friendsCount": 329,
       "location": ""
     },
@@ -737,7 +788,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 104922,
+      "followersCount": 104928,
       "friendsCount": 1274,
       "location": "Chicago, IL"
     },
@@ -754,7 +805,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15539,
+      "followersCount": 15554,
       "friendsCount": 2605,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -771,7 +822,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 Crypto & AI ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🤝 巢级个体社区发起人 ｜在做 https://t.co/tw90Mxo10t｜💪 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体🦸‍♂️",
-      "followersCount": 7524,
+      "followersCount": 7525,
       "friendsCount": 3337,
       "location": ""
     },
@@ -994,6 +1045,23 @@
   },
   {
     "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "SUPER BOWL LIX WEEK! #SBLIX",
+      "followersCount": 37320514,
+      "friendsCount": 2816,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1887673714717958144/vid/avc1/1280x720/wjyTrGIa28xD8Un9.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/1887675498962251915",
+    "fullText": "The King chatted with @ColleenWolfe about his incredible season 👑 @KingHenry_2\n\n📺: #NFLHonors - 9pm ET on FOX &amp; NFLN\n📱: Stream on @NFLPlus https://t.co/Wf6ClH9jNG"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
@@ -1096,6 +1164,21 @@
   },
   {
     "user": {
+      "screenName": "INETeconomics",
+      "name": "Institute for New Economic Thinking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1311338920840314882/mwwo-0g2_normal.jpg",
+      "description": "We are economists who challenge conventional wisdom and advance ideas to better serve society | @ineteconomics@mstdn.social",
+      "followersCount": 68348,
+      "friendsCount": 1307,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/INETeconomics/status/1887540183135826215",
+    "fullText": "James K. Galbraith On DOGE: “The military budget is exactly where one should look, and so far as I can tell, they aren’t looking.\"  For more, check out @LynnParramore's interview with @J_K_Galbraith on his new book:\nhttps://t.co/jydRrdXE1L"
+  },
+  {
+    "user": {
       "screenName": "NordaceOfficial",
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
@@ -1138,6 +1221,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1887534287102353431",
     "fullText": "✈️ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS\n\"Spacious, lightweight, and perfect for traveling. Fits under my seat easily, and the colors are awesome! 🌍\""
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 44026,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1887534284543828403",
+    "fullText": "✨ Pack Efficiently and Travel Smarter!\nhttps://t.co/JLnEOUPAg4"
   },
   {
     "user": {
@@ -1228,5 +1326,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/rrnewdaily/status/1887413401066074407",
     "fullText": "🌟 Nordic Viking Coin Guidepost Compass Commemorative Coins\n\nMaterial: Gold/Silver Alloy\n\nPerfect For: Gifts, Collections.\n\n- Available now.\n\nBuy Now : https://t.co/MbSNrR7ADR"
+  },
+  {
+    "user": {
+      "screenName": "rrnewdaily",
+      "name": "Ficustoolkit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886708602364420098/0CO1YNmY_normal.jpg",
+      "description": "\"Ficustoolkit - Collectible coins in gold & silver, not crypto. Perfect for gifts or personal collections.\"\n\nhttps://t.co/TGsoR76yvw",
+      "followersCount": 3,
+      "friendsCount": 5,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rrnewdaily/status/1887410893627289852",
+    "fullText": "🌟 Knight Templar Commemorative Coins\n\nMaterial: Gold/Silver Alloy\n\nPerfect For: Gifts, Collections.\n\n- Available now.\n\nBuy Now : https://t.co/HQ9kM5PKSo"
   }
 ]
