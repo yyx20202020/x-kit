@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "Spring Xiong 熊春",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 4446,
+      "friendsCount": 1123,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1888489936833388727",
+    "fullText": "看了原重启市长黄奇帆的讲座他讲了一个 1/6 的概念。选择终生租：月租应该是你月收入的 1/6；选择买房：房价应该是你 40 年工作总收入的 1/6。那能不能用这个公式计算当下该不该买房或卖房呢？（据他说：这个 1/6 是世界其他发达国家房产资产占个人资产的合理比例）"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 24765,
+      "friendsCount": 518,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjVDR3dbYAA7pzx.jpg",
+      "https://pbs.twimg.com/media/GjVDR3ZbIAAnPHw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1888489616417989031",
+    "fullText": "蔚来车机直接运行 DeepSeek....我点开前想到会很离谱，但没有想到这么离谱.... https://t.co/JdzJ4CoSEd"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
+      "followersCount": 15808,
+      "friendsCount": 2626,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjU-WAIbEAAegj4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1888484172794335550",
+    "fullText": "这台笔电二手买的，暴力使用了两年，现在打算卖掉它了，哪都好，就是这个cpu越用越不得劲，4800H开机就是80度，我自己换过硅脂清过风扇，温度就是下不来，偶尔打打游戏干干重活直冲100度开始降频卡顿，白瞎这32G的内存了😥 https://t.co/LWKf6nb35z"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52147,
+      "followersCount": 52154,
       "friendsCount": 329,
       "location": ""
     },
@@ -22,7 +72,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105056,
+      "followersCount": 105065,
       "friendsCount": 1276,
       "location": "Chicago, IL"
     },
@@ -41,8 +91,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15804,
-      "friendsCount": 2609,
+      "followersCount": 15808,
+      "friendsCount": 2626,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -56,7 +106,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52147,
+      "followersCount": 52154,
       "friendsCount": 329,
       "location": ""
     },
@@ -74,7 +124,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18829,
+      "followersCount": 18831,
       "friendsCount": 254,
       "location": "Guangdong"
     },
@@ -100,6 +150,23 @@
   },
   {
     "user": {
+      "screenName": "TCL_Brand",
+      "name": "TCL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1610211705136762880/o0GRD7Dv_normal.jpg",
+      "description": "TCL commits itself to providing ultimate service and experience with our premium electronics and smart tech products.",
+      "followersCount": 13543,
+      "friendsCount": 42,
+      "location": "Guangdong,China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1888458338305970176/pu/vid/avc1/1920x1080/M6lVIvD6BO4bsE1R.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/TCL_Brand/status/1888459087349964996",
+    "fullText": "TCL teams up with the legendary sports star to bring you the prelude to A Night In with Justin Tuck. 🎉\n\nReunite with friends 👬🏻, enjoy great food 🧀, and relive unforgettable memories. Let’s inspire greatness together through TCL TVs! 🌟\n\n#TCL #TheCreativeLife #TCLBusTour https://t.co/2CHONP06n9"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -121,7 +188,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105056,
+      "followersCount": 105065,
       "friendsCount": 1276,
       "location": "Chicago, IL"
     },
@@ -205,7 +272,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52147,
+      "followersCount": 52154,
       "friendsCount": 329,
       "location": ""
     },
@@ -254,7 +321,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52147,
+      "followersCount": 52154,
       "friendsCount": 329,
       "location": ""
     },
@@ -271,7 +338,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105056,
+      "followersCount": 105065,
       "friendsCount": 1276,
       "location": "Chicago, IL"
     },
@@ -286,7 +353,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18829,
+      "followersCount": 18831,
       "friendsCount": 254,
       "location": "Guangdong"
     },
@@ -406,7 +473,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18829,
+      "followersCount": 18831,
       "friendsCount": 254,
       "location": "Guangdong"
     },
@@ -441,7 +508,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18829,
+      "followersCount": 18831,
       "friendsCount": 254,
       "location": "Guangdong"
     },
@@ -476,7 +543,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105056,
+      "followersCount": 105065,
       "friendsCount": 1276,
       "location": "Chicago, IL"
     },
@@ -491,7 +558,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52147,
+      "followersCount": 52154,
       "friendsCount": 329,
       "location": ""
     },
@@ -509,7 +576,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52147,
+      "followersCount": 52154,
       "friendsCount": 329,
       "location": ""
     },
@@ -546,7 +613,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105056,
+      "followersCount": 105065,
       "friendsCount": 1276,
       "location": "Chicago, IL"
     },
@@ -563,7 +630,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52147,
+      "followersCount": 52154,
       "friendsCount": 329,
       "location": ""
     },
@@ -580,7 +647,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1671864937/large_3nm7_21222k204236_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创业中，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 100879,
+      "followersCount": 100891,
       "friendsCount": 232,
       "location": "Singapore"
     },
@@ -597,7 +664,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138440,
+      "followersCount": 138466,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -634,8 +701,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15804,
-      "friendsCount": 2609,
+      "followersCount": 15808,
+      "friendsCount": 2626,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -829,6 +896,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/ChipotleTweets/status/1887993495526277429",
     "fullText": "Extra is not extra on Monday, Feb 10.  Get free guac and free queso in any entrée with code EXTRA25."
+  },
+  {
+    "user": {
+      "screenName": "ro",
+      "name": "Ro",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1806706141851795457/JTULsiJ__normal.jpg",
+      "description": "Building a patient-centric healthcare system.",
+      "followersCount": 9445,
+      "friendsCount": 353,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ro/status/1887968956377612298",
+    "fullText": "Struggling with ED? Ro Sparks get you harder, faster, if prescribed. \n\nSparks is a compounded Rx drug with sildenafil and tadalafil, used to treat ED. Do not take other ED meds or PDE-5 inhibitors within 24 hours of Sparks. See safety info at video end."
   },
   {
     "user": {
