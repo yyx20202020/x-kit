@@ -1,12 +1,77 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 7987,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1888548791210406195",
+    "fullText": "京东国补 Airpods Pro 2 只要 1311 元，不过湖北专享 😂 还有价格更低的渠道吗，想换个新的耳机"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 7987,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjV3QTDXkAADEy1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1888547265574297704",
+    "fullText": "百度的文小言 App，也就是原来的文心一言， 居然接入了 DeepSeek R1 😂 他们家的闭源模型不是遥遥领先嘛 https://t.co/R0iEmrbzCS"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
+      "followersCount": 71675,
+      "friendsCount": 3325,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjV1_NOawAA4zTJ.jpg",
+      "https://pbs.twimg.com/media/GjV1_NKagAAdxrd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1888545362060972483",
+    "fullText": "从第一个开源项目到现在，我总共写了（有几个是 fork） 56 个开源项目，收获了 30000+ stars.\n1000 stars 以上的项目有 6 个， 100 stars 以上的项目有 28 个。\n还写了一个如图展示自己项目的项目。\n请再接再厉。\nhttps://t.co/aXHga7htAC https://t.co/iL9BkA2hmG"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 18838,
+      "friendsCount": 254,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1888544962817769948",
+    "fullText": "小孩现在四年级，最怕写作文，今天忽然说，既然豆包和 deepseek 写文章那么厉害，那以后我用它们写不就行了？我花那么多时间学写作文有什么意义？我也跟着附和一句对啊有什么意义？然后小孩的妈不干了，说我带坏小孩。"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
       "followersCount": 15833,
-      "friendsCount": 2625,
+      "friendsCount": 2626,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -120,7 +185,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
       "followersCount": 15833,
-      "friendsCount": 2625,
+      "friendsCount": 2626,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -136,7 +201,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52165,
+      "followersCount": 52167,
       "friendsCount": 329,
       "location": ""
     },
@@ -173,7 +238,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
       "followersCount": 15833,
-      "friendsCount": 2625,
+      "friendsCount": 2626,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -187,7 +252,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52165,
+      "followersCount": 52167,
       "friendsCount": 329,
       "location": ""
     },
@@ -198,6 +263,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1888475894836031580",
     "fullText": "中国2025年1月CPI同比上涨0.5%、PPI同比下降2.3%\n\nCPI有走出通缩的趋势，但也有季节性扰动因素影响\n\nPPI还是很弱，一方面开工率不行，也受季节扰动 https://t.co/kZmmdisbL6"
+  },
+  {
+    "user": {
+      "screenName": "HomeBuddyCom",
+      "name": "Homebuddy.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1750541744108658688/ldEX4hB2_normal.jpg",
+      "description": "HomeBuddy is an online home improvement platform connecting homeowners with local, verified contractors which welcomes 4,000,000+ visitors a month.",
+      "followersCount": 1990,
+      "friendsCount": 12,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HomeBuddyCom/status/1888473781573923324",
+    "fullText": "If you own a home - here's what new gutter protection will cost you during low season. Visit this website, enter your ZIP code and share a few details about the current state of your gutters and roof."
   },
   {
     "user": {
@@ -383,7 +463,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52165,
+      "followersCount": 52167,
       "friendsCount": 329,
       "location": ""
     },
@@ -432,7 +512,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52165,
+      "followersCount": 52167,
       "friendsCount": 329,
       "location": ""
     },
@@ -541,7 +621,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11536,
+      "followersCount": 11543,
       "friendsCount": 1,
       "location": "Vancouver, Canada"
     },
@@ -618,7 +698,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71672,
+      "followersCount": 71675,
       "friendsCount": 3325,
       "location": ""
     },
@@ -686,7 +766,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52165,
+      "followersCount": 52167,
       "friendsCount": 329,
       "location": ""
     },
@@ -704,7 +784,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52165,
+      "followersCount": 52167,
       "friendsCount": 329,
       "location": ""
     },
