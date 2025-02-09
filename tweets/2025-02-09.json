@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
+      "followersCount": 3296,
+      "friendsCount": 292,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjT_xEtacAAYaMU.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/1888415923650109897",
+    "fullText": "推子们，为什么 testflight 统计 App 使用次数只有 5 次，崩溃有 26 次，这正常吗？\n\n会不会把我本地调试时的崩溃也算上了？\n\n稳定性不能有这么差呀。 https://t.co/exTblOpsMt"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 7978,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1888409283353837729",
+    "fullText": "美团买菜结算页面的历史备注记录又失效了 😅 前段时间有个版本修复了，后来又搞没了。还有个 bug，写了备注之后，返回购物车重新选择商品，再回结算页面显示备注写了，但是提交订单的时候带的备注参数是空的。经常买东西备注了不用打电话，骑手还是会打，后来我去看订单记录发现并没有备注。"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52144,
+      "followersCount": 52141,
       "friendsCount": 329,
       "location": ""
     },
@@ -22,7 +54,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52144,
+      "followersCount": 52141,
       "friendsCount": 329,
       "location": ""
     },
@@ -39,8 +71,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105027,
-      "friendsCount": 1275,
+      "followersCount": 105030,
+      "friendsCount": 1276,
       "location": "Chicago, IL"
     },
     "images": [],
@@ -62,6 +94,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/1888251700030619999",
     "fullText": "#女人哪些话会让男人瞬间炸毛：第一条到第七条，哪条听了最炸毛？\n\n1）当着众多朋友：“你怎么经常跟个小孩一样？”\n\n2）发年终奖后：“你是你们部门拿的最多的么？”\n\n3）好朋友升职时：“你同他一年进公司的，怎么他发展那么快啊？是不是平时他和领导的关系比你好？”"
+  },
+  {
+    "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 11538,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1888249974951219419",
+    "fullText": "Tired of shivering through the winter? Our revolutionary winter boots are here to save the day! Designed to keep your feet toasty warm, dry, and protected, no matter how harsh the weather. Experience the ultimate in winter comfort."
   },
   {
     "user": {
@@ -116,7 +163,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71651,
+      "followersCount": 71652,
       "friendsCount": 3325,
       "location": ""
     },
@@ -169,8 +216,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105027,
-      "friendsCount": 1275,
+      "followersCount": 105030,
+      "friendsCount": 1276,
       "location": "Chicago, IL"
     },
     "images": [],
@@ -184,7 +231,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52144,
+      "followersCount": 52141,
       "friendsCount": 329,
       "location": ""
     },
@@ -202,7 +249,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52144,
+      "followersCount": 52141,
       "friendsCount": 329,
       "location": ""
     },
@@ -219,8 +266,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105027,
-      "friendsCount": 1275,
+      "followersCount": 105030,
+      "friendsCount": 1276,
       "location": "Chicago, IL"
     },
     "images": [],
@@ -236,7 +283,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52144,
+      "followersCount": 52141,
       "friendsCount": 329,
       "location": ""
     },
@@ -253,7 +300,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1671864937/large_3nm7_21222k204236_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创业中，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 100869,
+      "followersCount": 100871,
       "friendsCount": 232,
       "location": "Singapore"
     },
@@ -270,7 +317,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138407,
+      "followersCount": 138409,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -307,7 +354,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15783,
+      "followersCount": 15788,
       "friendsCount": 2608,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -324,7 +371,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
-      "followersCount": 3297,
+      "followersCount": 3296,
       "friendsCount": 292,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -356,7 +403,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
-      "followersCount": 3297,
+      "followersCount": 3296,
       "friendsCount": 292,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -392,7 +439,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15783,
+      "followersCount": 15788,
       "friendsCount": 2608,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -410,7 +457,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 7979,
+      "followersCount": 7978,
       "friendsCount": 290,
       "location": ""
     },
@@ -427,7 +474,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138407,
+      "followersCount": 138409,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -464,8 +511,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105027,
-      "friendsCount": 1275,
+      "followersCount": 105030,
+      "friendsCount": 1276,
       "location": "Chicago, IL"
     },
     "images": [],
@@ -479,7 +526,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52144,
+      "followersCount": 52141,
       "friendsCount": 329,
       "location": ""
     },
@@ -494,7 +541,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52144,
+      "followersCount": 52141,
       "friendsCount": 329,
       "location": ""
     },
@@ -524,7 +571,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24758,
+      "followersCount": 24761,
       "friendsCount": 518,
       "location": "Hong Kong"
     },
@@ -539,7 +586,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52144,
+      "followersCount": 52141,
       "friendsCount": 329,
       "location": ""
     },
@@ -657,7 +704,7 @@
       "name": "Zain Kahn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1646789604048269314/YCeXe4Z0_normal.jpg",
       "description": "Follow me to learn how you can leverage AI to be more productive. Scaled products to 8M+ users and built the world's biggest AI newsletter with 1M+ readers.",
-      "followersCount": 512055,
+      "followersCount": 512036,
       "friendsCount": 293,
       "location": "Join 1 Million+ readers →"
     },
@@ -672,7 +719,7 @@
       "name": "Zain Kahn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1646789604048269314/YCeXe4Z0_normal.jpg",
       "description": "Follow me to learn how you can leverage AI to be more productive. Scaled products to 8M+ users and built the world's biggest AI newsletter with 1M+ readers.",
-      "followersCount": 512070,
+      "followersCount": 512036,
       "friendsCount": 293,
       "location": "Join 1 Million+ readers →"
     },
@@ -687,7 +734,7 @@
       "name": "Zain Kahn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1646789604048269314/YCeXe4Z0_normal.jpg",
       "description": "Follow me to learn how you can leverage AI to be more productive. Scaled products to 8M+ users and built the world's biggest AI newsletter with 1M+ readers.",
-      "followersCount": 512070,
+      "followersCount": 512036,
       "friendsCount": 293,
       "location": "Join 1 Million+ readers →"
     },
