@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 52203,
+      "friendsCount": 329,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1889167810431172938",
+    "fullText": "不只是DeepSeek：「中國製造2025」如何讓中國崛起－ BBC News 中文 https://t.co/ZXEdJCfwUx"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
+      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
+      "followersCount": 1861,
+      "friendsCount": 193,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjeqY_0aAAA-tB-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1889166266671513661",
+    "fullText": "兔子本地部署的v3和r1基本上跑起来的延时和官方的gpt-4o差不多了\n\n三者居然也有一定的数据拟合上的重叠，有意思 https://t.co/4WG9R40MTk"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 148461,
+      "followersCount": 148463,
+      "friendsCount": 454,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1889164766847156303",
+    "fullText": "过完年第一次发新版本，就同时搞了两个重大 bug ……"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
+      "followersCount": 148463,
       "friendsCount": 454,
       "location": "中华人民共和国"
     },
@@ -54,8 +101,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15926,
-      "friendsCount": 2722,
+      "followersCount": 15931,
+      "friendsCount": 2723,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -71,7 +118,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105150,
+      "followersCount": 105154,
       "friendsCount": 1277,
       "location": "Chicago, IL"
     },
@@ -106,7 +153,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138507,
+      "followersCount": 138509,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -280,7 +327,7 @@
       "name": "ClickUp",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1365504724724633601/0jzIjXtR_normal.jpg",
       "description": "Save time with the all-in-one productivity platform that brings teams, tasks, and tools together in one place.                Get Free AI ⤵️",
-      "followersCount": 68045,
+      "followersCount": 68037,
       "friendsCount": 997,
       "location": "San Diego, CA"
     },
@@ -295,7 +342,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105150,
+      "followersCount": 105154,
       "friendsCount": 1277,
       "location": "Chicago, IL"
     },
@@ -322,6 +369,21 @@
     ],
     "tweetUrl": "https://x.com/ovst36099/status/1889022242455208088",
     "fullText": "更新了会员权益，免费用户也支持不限量的web版deepseek-r1模型\n\n实际输出效果如视频-地址：https://t.co/5rDx3vAiUX https://t.co/sVpScMw4Go"
+  },
+  {
+    "user": {
+      "screenName": "clickup",
+      "name": "ClickUp",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1365504724724633601/0jzIjXtR_normal.jpg",
+      "description": "Save time with the all-in-one productivity platform that brings teams, tasks, and tools together in one place.                Get Free AI ⤵️",
+      "followersCount": 68037,
+      "friendsCount": 997,
+      "location": "San Diego, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/clickup/status/1889019966525247530",
+    "fullText": "Break down ideas, draw connections between tasks, and watch your vision materialize before your eyes."
   },
   {
     "user": {
@@ -440,6 +502,21 @@
     },
     "images": [],
     "videos": [],
+    "tweetUrl": "https://x.com/clickup/status/1889019965740814373",
+    "fullText": "Streamline your workflow with task automation, customizable dashboards, and time tracking."
+  },
+  {
+    "user": {
+      "screenName": "clickup",
+      "name": "ClickUp",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1365504724724633601/0jzIjXtR_normal.jpg",
+      "description": "Save time with the all-in-one productivity platform that brings teams, tasks, and tools together in one place.                Get Free AI ⤵️",
+      "followersCount": 68037,
+      "friendsCount": 997,
+      "location": "San Diego, CA"
+    },
+    "images": [],
+    "videos": [],
     "tweetUrl": "https://x.com/clickup/status/1889019965468299752",
     "fullText": "Streamline your workflow with task automation, customizable dashboards, and time tracking."
   },
@@ -528,7 +605,7 @@
       "name": "ClickUp",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1365504724724633601/0jzIjXtR_normal.jpg",
       "description": "Save time with the all-in-one productivity platform that brings teams, tasks, and tools together in one place.                Get Free AI ⤵️",
-      "followersCount": 68041,
+      "followersCount": 68037,
       "friendsCount": 997,
       "location": "San Diego, CA"
     },
@@ -590,7 +667,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138507,
+      "followersCount": 138509,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -610,7 +687,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4452,
+      "followersCount": 4453,
       "friendsCount": 1127,
       "location": ""
     },
@@ -625,7 +702,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105150,
+      "followersCount": 105154,
       "friendsCount": 1277,
       "location": "Chicago, IL"
     },
@@ -672,7 +749,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24795,
+      "followersCount": 24792,
       "friendsCount": 518,
       "location": "Hong Kong"
     },
@@ -741,7 +818,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71737,
+      "followersCount": 71738,
       "friendsCount": 3328,
       "location": ""
     },
@@ -756,7 +833,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71737,
+      "followersCount": 71738,
       "friendsCount": 3328,
       "location": ""
     },
@@ -776,7 +853,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24795,
+      "followersCount": 24792,
       "friendsCount": 518,
       "location": "Hong Kong"
     },
@@ -793,7 +870,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18948,
+      "followersCount": 18949,
       "friendsCount": 255,
       "location": "Guangdong"
     },
@@ -808,8 +885,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15926,
-      "friendsCount": 2722,
+      "followersCount": 15931,
+      "friendsCount": 2723,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -825,7 +902,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4452,
+      "followersCount": 4453,
       "friendsCount": 1127,
       "location": ""
     },
@@ -833,6 +910,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1888898911731159418",
     "fullText": "为什么DeepSeek一出，各种类型不同体量的政府机关、企事业单位都在想着如何场景化落地，薅上第一搓羊毛？\n1.廉价，云端API和本地部署成本都低。\n2.安全，交互数据安全可控。\n3.开源，意淫空间比较大。\n4.品质，技术架构的先进性和终端用户使用效果体验。\n还有啥？"
+  },
+  {
+    "user": {
+      "screenName": "VR_Secretary",
+      "name": "VR Secretary: Ailey Edition",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869625517890269184/oK_6OLJf_normal.jpg",
+      "description": "To be in a game is better than to play a game\n▷ Steam: https://t.co/a7qmv28xWe\n▷ Discord: https://t.co/RVk0bqrlXL",
+      "followersCount": 188,
+      "friendsCount": 12,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gja1afraoAAlJ1E.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/VR_Secretary/status/1888896679254134961",
+    "fullText": "帶來特別的驚喜，讓你的遊戲體驗更加甜蜜！ ♥️\n\n全新更新內容：\n• 限定情人節服裝\n• 進度指示器\n• UI優化\n\n情人節服裝盡在 2 月 13 日至 16 日于遊戲內展示！\n\n立即下載 👉 https://t.co/2q4lfy8oni\n\n敬請期待！ https://t.co/KEzPJoQ00L"
   },
   {
     "user": {
@@ -857,7 +951,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 19917,
+      "followersCount": 19919,
       "friendsCount": 1008,
       "location": ""
     },
@@ -904,7 +998,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138507,
+      "followersCount": 138509,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -924,8 +1018,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15926,
-      "friendsCount": 2722,
+      "followersCount": 15931,
+      "friendsCount": 2723,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -942,7 +1036,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138507,
+      "followersCount": 138509,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -979,7 +1073,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 51885,
+      "followersCount": 51886,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -996,8 +1090,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15926,
-      "friendsCount": 2722,
+      "followersCount": 15931,
+      "friendsCount": 2723,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1031,7 +1125,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 19917,
+      "followersCount": 19919,
       "friendsCount": 1008,
       "location": ""
     },
@@ -1065,8 +1159,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15926,
-      "friendsCount": 2722,
+      "followersCount": 15931,
+      "friendsCount": 2723,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1082,8 +1176,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15926,
-      "friendsCount": 2722,
+      "followersCount": 15931,
+      "friendsCount": 2723,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1116,7 +1210,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 18624,
+      "followersCount": 18642,
       "friendsCount": 98,
       "location": "China"
     },
@@ -1199,7 +1293,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71737,
+      "followersCount": 71738,
       "friendsCount": 3328,
       "location": ""
     },
@@ -1231,7 +1325,7 @@
       "name": "T-Mobile",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1551939753230073858/UWgyRU83_normal.jpg",
       "description": "My Tweets are like the Sidekick ... they never go out of style",
-      "followersCount": 1404937,
+      "followersCount": 1404954,
       "friendsCount": 11199,
       "location": ""
     },
