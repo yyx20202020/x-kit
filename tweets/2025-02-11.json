@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1797186447491170304/fLqq1huE_normal.jpg",
+      "description": "💻 AI构建者，前B轮初创CXO\n📸 自启动构建@pixels_ai\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 65,
+      "friendsCount": 84,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/1889213837209141743",
+    "fullText": "小而美的SaaS应该类似text-behind-image（链接：https://t.co/Ie5EhY2fwx），解决一个真实的问题，并解决得非常完美。\n\n并且，今天才知道作者把代码开源了。代码：https://t.co/3F3y4j5XLl"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 7991,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjfTRIEaoAA7Vdt.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1889210910742663369",
+    "fullText": "我不是人类。 https://t.co/0aGobIArCp"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -22,7 +54,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 148484,
+      "followersCount": 148486,
       "friendsCount": 454,
       "location": "中华人民共和国"
     },
@@ -37,7 +69,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -52,7 +84,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -84,7 +116,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 148484,
+      "followersCount": 148486,
       "friendsCount": 454,
       "location": "中华人民共和国"
     },
@@ -99,7 +131,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 148484,
+      "followersCount": 148486,
       "friendsCount": 454,
       "location": "中华人民共和国"
     },
@@ -114,7 +146,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -124,6 +156,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1889145561422635317",
     "fullText": "国内做PE的朋友还想来美国搞电池呢 https://t.co/IXQk4aLrfp"
+  },
+  {
+    "user": {
+      "screenName": "kade_brewster",
+      "name": "Kade Brewster",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611168969368420352/K0wBxVSr_normal.jpg",
+      "description": "Fractional COO & Fractional Chief Data Officer. Entrepreneur. Process Guy. I'd like to make our government and your company more efficient and data-driven.",
+      "followersCount": 255,
+      "friendsCount": 828,
+      "location": "Tulsa, Oklahoma"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GjeE9pcWwAANtzl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/kade_brewster/status/1889133052963569927",
+    "fullText": "Download our free e-book: \n\nIntroduction to Process Mapping - A Beginner's Guide\n\nhttps://t.co/zK8sDYJBxQ https://t.co/lDacXOEsCr"
   },
   {
     "user": {
@@ -148,8 +197,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15951,
-      "friendsCount": 2723,
+      "followersCount": 15952,
+      "friendsCount": 2722,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -165,7 +214,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105178,
+      "followersCount": 105180,
       "friendsCount": 1277,
       "location": "Chicago, IL"
     },
@@ -183,7 +232,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -200,7 +249,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138521,
+      "followersCount": 138525,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -220,7 +269,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -280,7 +329,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -404,7 +453,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105178,
+      "followersCount": 105180,
       "friendsCount": 1277,
       "location": "Chicago, IL"
     },
@@ -498,7 +547,7 @@
       "name": "ClickUp",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1365504724724633601/0jzIjXtR_normal.jpg",
       "description": "Save time with the all-in-one productivity platform that brings teams, tasks, and tools together in one place.                Get Free AI ⤵️",
-      "followersCount": 68045,
+      "followersCount": 68046,
       "friendsCount": 997,
       "location": "San Diego, CA"
     },
@@ -573,7 +622,7 @@
       "name": "ClickUp",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1365504724724633601/0jzIjXtR_normal.jpg",
       "description": "Save time with the all-in-one productivity platform that brings teams, tasks, and tools together in one place.                Get Free AI ⤵️",
-      "followersCount": 68036,
+      "followersCount": 68046,
       "friendsCount": 997,
       "location": "San Diego, CA"
     },
@@ -633,7 +682,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -742,7 +791,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -759,7 +808,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52206,
+      "followersCount": 52216,
       "friendsCount": 329,
       "location": ""
     },
@@ -774,7 +823,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138521,
+      "followersCount": 138525,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -809,7 +858,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105178,
+      "followersCount": 105180,
       "friendsCount": 1277,
       "location": "Chicago, IL"
     },
@@ -925,7 +974,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71744,
+      "followersCount": 71747,
       "friendsCount": 3328,
       "location": ""
     },
@@ -940,7 +989,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71744,
+      "followersCount": 71747,
       "friendsCount": 3328,
       "location": ""
     },
@@ -977,7 +1026,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 18950,
+      "followersCount": 18951,
       "friendsCount": 255,
       "location": "Guangdong"
     },
@@ -992,8 +1041,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15951,
-      "friendsCount": 2723,
+      "followersCount": 15952,
+      "friendsCount": 2722,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1024,7 +1073,7 @@
       "name": "VR Secretary: Ailey Edition",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1869625517890269184/oK_6OLJf_normal.jpg",
       "description": "To be in a game is better than to play a game\n▷ Steam: https://t.co/a7qmv28xWe\n▷ Discord: https://t.co/RVk0bqrlXL",
-      "followersCount": 188,
+      "followersCount": 190,
       "friendsCount": 12,
       "location": ""
     },
@@ -1105,7 +1154,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138521,
+      "followersCount": 138525,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -1125,8 +1174,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15951,
-      "friendsCount": 2723,
+      "followersCount": 15952,
+      "friendsCount": 2722,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1143,7 +1192,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138521,
+      "followersCount": 138525,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -1180,7 +1229,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 51897,
+      "followersCount": 51905,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -1197,8 +1246,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 15951,
-      "friendsCount": 2723,
+      "followersCount": 15952,
+      "friendsCount": 2722,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1430,7 +1479,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71744,
+      "followersCount": 71747,
       "friendsCount": 3328,
       "location": ""
     },
@@ -1603,5 +1652,20 @@
     ],
     "tweetUrl": "https://x.com/NBA/status/1888669974593458439",
     "fullText": "Early triple from Joel Embiid!\n\n📺 Sixers-Bucks live on ABC https://t.co/mtWHPYgKaf"
+  },
+  {
+    "user": {
+      "screenName": "CaravaggioJewel",
+      "name": "Caravaggio™ Jewelry",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1760012576971468800/6VImXgxJ_normal.jpg",
+      "description": "State of the Art Engagement Rings, Wedding Rings, Wedding Bands, Mens Rings, Bridal Sets, Earrings, Bracelets, Crafted to Celebrate You and Your Special Moments",
+      "followersCount": 9102,
+      "friendsCount": 294,
+      "location": "🇮🇹🇫🇷🇬🇧🇩🇪🇺🇸🇨🇦🇦🇪"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CaravaggioJewel/status/1888507629804409326",
+    "fullText": "Affirm 0% APR 💍 https://t.co/lmNTGkI8c3 Mens Modern 14K White Gold Emerald Skull Channel Cluster Wedding Ring R453-14KWGEM by Art Masters Jewelry"
   }
 ]
