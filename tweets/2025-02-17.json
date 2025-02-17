@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
+      "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
+      "followersCount": 6171,
+      "friendsCount": 471,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1891313082258870416",
+    "fullText": "昨晚发布了 Go+ v1.3.0 正式版 - https://t.co/W1aZIuNr9O"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 105802,
+      "friendsCount": 1279,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj9LF16XAAAt47F.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gj9LKeVWkAEHuJP.mp4"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1891313069529202692",
+    "fullText": "《Google Map 重写传奇》\n\n以下故事改编自 Latent Space 播客中的一段对话，情节上有所演绎，以便让更多普通读者也能读懂其中的来龙去脉。\n\n***\n\n一天深夜，Alessio、swyx 和 Bret 几个人正围坐在一张小圆桌旁。咖啡的香气在屋里弥漫，但更让人振奋的，是他们口中谈及的那些轰轰烈烈的技术往事。 https://t.co/KDgm9J8fYr"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 105802,
+      "friendsCount": 1279,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj9I23vWsAE6T7a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1891310654834823346",
+    "fullText": "画的最清楚的 OpenAI 路线图\n\n这是 LinkedIn 上博主 Peter Gostev 画的图（原始地址 https://t.co/Tmo2Wz93vQ ），很清晰明了。下面是相关文字说明。\n\n逐步统一的 GPT-5 模型\n\nOpenAI 罕见地分享了他们关于统一 GPT-5 模型的路线图。主要要点如下：\n\n- GPT-4.5 https://t.co/jc0uIk4rMQ"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71859,
+      "followersCount": 71862,
       "friendsCount": 3329,
       "location": ""
     },
@@ -37,7 +88,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8015,
+      "followersCount": 8016,
       "friendsCount": 290,
       "location": ""
     },
@@ -52,7 +103,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105787,
+      "followersCount": 105802,
       "friendsCount": 1279,
       "location": "Chicago, IL"
     },
@@ -69,7 +120,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105787,
+      "followersCount": 105802,
       "friendsCount": 1279,
       "location": "Chicago, IL"
     },
@@ -87,7 +138,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52504,
+      "followersCount": 52499,
       "friendsCount": 333,
       "location": ""
     },
@@ -119,7 +170,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52504,
+      "followersCount": 52499,
       "friendsCount": 333,
       "location": ""
     },
@@ -134,7 +185,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52504,
+      "followersCount": 52499,
       "friendsCount": 333,
       "location": ""
     },
@@ -152,7 +203,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52504,
+      "followersCount": 52499,
       "friendsCount": 333,
       "location": ""
     },
@@ -169,7 +220,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52504,
+      "followersCount": 52499,
       "friendsCount": 333,
       "location": ""
     },
@@ -186,7 +237,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52504,
+      "followersCount": 52499,
       "friendsCount": 333,
       "location": ""
     },
@@ -218,7 +269,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52504,
+      "followersCount": 52499,
       "friendsCount": 333,
       "location": ""
     },
@@ -235,7 +286,7 @@
       "name": "Busch Beer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1888970681842315264/lcSAC52k_normal.jpg",
       "description": "Content/sharing for 21+. Enjoy Responsibly. © 2024 Anheuser-Busch, Busch Light® Beer, St. Louis, MO. Comm. Guidelines https://t.co/VSBTehSfhm",
-      "followersCount": 214481,
+      "followersCount": 214709,
       "friendsCount": 151,
       "location": "St Louis, MO"
     },
@@ -252,7 +303,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 25075,
+      "followersCount": 25085,
       "friendsCount": 522,
       "location": "Hong Kong"
     },
@@ -267,7 +318,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7649,
+      "followersCount": 7648,
       "friendsCount": 3357,
       "location": ""
     },
@@ -284,7 +335,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7649,
+      "followersCount": 7648,
       "friendsCount": 3357,
       "location": ""
     },
@@ -301,7 +352,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7649,
+      "followersCount": 7648,
       "friendsCount": 3357,
       "location": ""
     },
@@ -333,7 +384,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7649,
+      "followersCount": 7648,
       "friendsCount": 3357,
       "location": ""
     },
@@ -350,7 +401,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 52025,
+      "followersCount": 52022,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -378,11 +429,26 @@
   },
   {
     "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 44503,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1891081959100842350",
+    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16295,
+      "followersCount": 16291,
       "friendsCount": 3024,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -400,7 +466,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16295,
+      "followersCount": 16291,
       "friendsCount": 3024,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -410,6 +476,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1891055448326901871",
     "fullText": "鸡汤 https://t.co/oj863oIgfT"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 44503,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1891054813728968757",
+    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
   },
   {
     "user": {
@@ -447,7 +528,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44500,
+      "followersCount": 44503,
       "friendsCount": 0,
       "location": ""
     },
@@ -477,7 +558,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16295,
+      "followersCount": 16291,
       "friendsCount": 3024,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -494,7 +575,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1862,
+      "followersCount": 1861,
       "friendsCount": 197,
       "location": "NewYork"
     },
@@ -512,7 +593,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 148834,
+      "followersCount": 148835,
       "friendsCount": 455,
       "location": "中华人民共和国"
     },
@@ -527,7 +608,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138608,
+      "followersCount": 138613,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -547,7 +628,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1862,
+      "followersCount": 1861,
       "friendsCount": 197,
       "location": "NewYork"
     },
@@ -568,7 +649,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 18926,
+      "followersCount": 18925,
       "friendsCount": 99,
       "location": "China"
     },
@@ -583,7 +664,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105787,
+      "followersCount": 105802,
       "friendsCount": 1279,
       "location": "Chicago, IL"
     },
@@ -600,7 +681,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52504,
+      "followersCount": 52499,
       "friendsCount": 333,
       "location": ""
     },
@@ -615,7 +696,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105787,
+      "followersCount": 105802,
       "friendsCount": 1279,
       "location": "Chicago, IL"
     },
@@ -632,7 +713,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105787,
+      "followersCount": 105802,
       "friendsCount": 1279,
       "location": "Chicago, IL"
     },
@@ -649,7 +730,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52504,
+      "followersCount": 52499,
       "friendsCount": 333,
       "location": ""
     },
@@ -666,7 +747,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16295,
+      "followersCount": 16291,
       "friendsCount": 3024,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -684,7 +765,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 25075,
+      "followersCount": 25085,
       "friendsCount": 522,
       "location": "Hong Kong"
     },
