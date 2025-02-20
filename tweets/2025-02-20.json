@@ -1,11 +1,48 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 138785,
+      "friendsCount": 1429,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkM_cwJWgAAyKqt.jpg",
+      "https://pbs.twimg.com/media/GkM_cvmbUAMWfGI.jpg",
+      "https://pbs.twimg.com/media/GkM_cwLXsAAZruX.jpg",
+      "https://pbs.twimg.com/media/GkM_cvlbUAQEofk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1892426038560403779",
+    "fullText": "在上海 Poliform 买的边柜和小沙发远渡重洋到家啦，卧室终于不再家徒四壁！接下来又得买个85寸电视…大家有没有推荐的？ https://t.co/nHnviOPCJO"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cellinlab",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
+      "followersCount": 7660,
+      "friendsCount": 3359,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkMnFpibUAAWPlp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1892425948567413106",
+    "fullText": "用 Grok 花 5 分钟写了个独立开发者和大厂抄袭者的搏斗故事，被惊到了！这还写个屁代码啊，我准备转行做编剧了（狗头\n\n⬇️点赞 or 转发 过 100 公布提示词和原始对话 https://t.co/PcyUBGC0Cg"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19114,
+      "followersCount": 19116,
       "friendsCount": 259,
       "location": "Guangdong"
     },
@@ -22,7 +59,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -57,7 +94,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19114,
+      "followersCount": 19116,
       "friendsCount": 259,
       "location": "Guangdong"
     },
@@ -93,7 +130,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16535,
+      "followersCount": 16540,
       "friendsCount": 3144,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -111,7 +148,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 19058,
+      "followersCount": 19060,
       "friendsCount": 102,
       "location": "China"
     },
@@ -145,7 +182,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 25710,
+      "followersCount": 25719,
       "friendsCount": 523,
       "location": "Hong Kong"
     },
@@ -160,7 +197,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -175,7 +212,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71912,
+      "followersCount": 71911,
       "friendsCount": 3329,
       "location": ""
     },
@@ -193,7 +230,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -208,7 +245,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -223,7 +260,7 @@
       "name": "Independent Medical Alliance",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880002263487508485/3Fve9DKX_normal.jpg",
       "description": "The Independent Medical Alliance (formerly FLCCC) is a healthcare nonprofit on a mission to restore trust, integrity, and the doctor-patient relationship.",
-      "followersCount": 255894,
+      "followersCount": 255913,
       "friendsCount": 1063,
       "location": "Washington, DC"
     },
@@ -238,7 +275,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -255,7 +292,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 25710,
+      "followersCount": 25719,
       "friendsCount": 523,
       "location": "Hong Kong"
     },
@@ -272,7 +309,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -287,7 +324,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -304,7 +341,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 106612,
+      "followersCount": 106617,
       "friendsCount": 1284,
       "location": "Chicago, IL"
     },
@@ -321,7 +358,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -385,7 +422,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -400,7 +437,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52619,
+      "followersCount": 52624,
       "friendsCount": 336,
       "location": ""
     },
@@ -417,7 +454,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16535,
+      "followersCount": 16540,
       "friendsCount": 3144,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -481,7 +518,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19114,
+      "followersCount": 19116,
       "friendsCount": 259,
       "location": "Guangdong"
     },
@@ -496,7 +533,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 19058,
+      "followersCount": 19060,
       "friendsCount": 102,
       "location": "China"
     },
@@ -511,7 +548,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 25710,
+      "followersCount": 25719,
       "friendsCount": 523,
       "location": "Hong Kong"
     },
@@ -528,7 +565,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16535,
+      "followersCount": 16540,
       "friendsCount": 3144,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -543,7 +580,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138788,
+      "followersCount": 138785,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -563,7 +600,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16535,
+      "followersCount": 16540,
       "friendsCount": 3144,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -583,7 +620,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16535,
+      "followersCount": 16540,
       "friendsCount": 3144,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -600,7 +637,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16535,
+      "followersCount": 16540,
       "friendsCount": 3144,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -635,7 +672,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 19058,
+      "followersCount": 19060,
       "friendsCount": 102,
       "location": "China"
     },
@@ -669,7 +706,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16535,
+      "followersCount": 16540,
       "friendsCount": 3144,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -705,7 +742,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16535,
+      "followersCount": 16540,
       "friendsCount": 3144,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -737,7 +774,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 25710,
+      "followersCount": 25719,
       "friendsCount": 523,
       "location": "Hong Kong"
     },
