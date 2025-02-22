@@ -1,6 +1,70 @@
 [
   {
     "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
+      "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
+      "followersCount": 6178,
+      "friendsCount": 471,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkXsNI-aoAMyL3P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1893178955772895363",
+    "fullText": "最近七叶搞了一个融合版本的 playground，其原理是在后台加载 wasm 版本的 playground，没有加载完成前用 servend 版本的 playground，加载完成后改用 wasm 版本。wasm 版本的优势还是非常明显的，用户体验极好，点 Run 无需等待直接出结果。计划把这个融合版本设置为默认的 playground。 https://t.co/Qmb6D9AAen"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 26264,
+      "friendsCount": 525,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkXppCKa8AAkb97.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1893176116011061345",
+    "fullText": "昨天为了制作这期课程，把状态开成了睡眠模式，一口气从下午 1 点制作到晚上 7 点，很爽！ https://t.co/TVROTlWdc3"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 52853,
+      "friendsCount": 336,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1893173232603414639",
+    "fullText": "中国操纵人民币汇率？中美贸易战前景如何？美国和乌克兰矿物协议怎么黄了？ ——美国财政部长采访分析（下）     人民币汇率 ｜ 中美贸易战 ｜中... https://t.co/bh09mFBQeY"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 52853,
+      "friendsCount": 336,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1893172835109216712",
+    "fullText": "美国财政部长专访：通胀啥时候下来啊？黄金储备还在吗？马斯克是个什么人那？       20250221金融汪 https://t.co/Z0vFBbbgu5"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -22,7 +86,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6179,
+      "followersCount": 6178,
       "friendsCount": 471,
       "location": ""
     },
@@ -56,7 +120,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -105,7 +169,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52854,
+      "followersCount": 52853,
       "friendsCount": 336,
       "location": ""
     },
@@ -139,7 +203,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/XBKDw9XNKn",
-      "followersCount": 22912,
+      "followersCount": 22911,
       "friendsCount": 343,
       "location": "HK"
     },
@@ -188,7 +252,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71999,
+      "followersCount": 72004,
       "friendsCount": 3329,
       "location": ""
     },
@@ -251,7 +315,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -268,7 +332,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -283,7 +347,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -298,7 +362,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52854,
+      "followersCount": 52853,
       "friendsCount": 336,
       "location": ""
     },
@@ -315,7 +379,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52854,
+      "followersCount": 52853,
       "friendsCount": 336,
       "location": ""
     },
@@ -330,7 +394,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52854,
+      "followersCount": 52853,
       "friendsCount": 336,
       "location": ""
     },
@@ -345,7 +409,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -362,7 +426,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52854,
+      "followersCount": 52853,
       "friendsCount": 336,
       "location": ""
     },
@@ -382,7 +446,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19203,
+      "followersCount": 19204,
       "friendsCount": 259,
       "location": "Guangdong"
     },
@@ -397,7 +461,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52854,
+      "followersCount": 52853,
       "friendsCount": 336,
       "location": ""
     },
@@ -417,7 +481,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -434,7 +498,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -451,7 +515,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 26260,
+      "followersCount": 26264,
       "friendsCount": 525,
       "location": "Hong Kong"
     },
@@ -500,7 +564,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -517,7 +581,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -532,7 +596,7 @@
       "name": "分形香蕉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1809217198390738944/0ukhusQN_normal.jpg",
       "description": "开源爱好者，@kanaries_data 创始人，@ob12er 的中文号；副业https://t.co/IRbF0jr4HO",
-      "followersCount": 591,
+      "followersCount": 594,
       "friendsCount": 469,
       "location": "你身后"
     },
@@ -628,7 +692,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -662,7 +726,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -725,7 +789,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44651,
+      "followersCount": 45117,
       "friendsCount": 0,
       "location": ""
     },
@@ -757,7 +821,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -819,7 +883,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 1881,
+      "followersCount": 1882,
       "friendsCount": 201,
       "location": "NewYork"
     },
@@ -849,7 +913,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3985566,
+      "followersCount": 3985687,
       "friendsCount": 3,
       "location": ""
     },
@@ -1041,7 +1105,7 @@
       "name": "Shortwave",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885037138997370880/VXIhpvsp_normal.jpg",
       "description": "AI-native email for business. Supercharge your team's productivity with advanced AI & real-time collaboration. @ShortwaveStatus for service updates",
-      "followersCount": 5628,
+      "followersCount": 5630,
       "friendsCount": 8,
       "location": "San Francisco, CA"
     },
@@ -1127,6 +1191,23 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 229726,
+      "friendsCount": 5041,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1892607473824976896/pu/vid/avc1/1280x720/yHiWYzTrruMQnq4k.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1892608905068355902",
+    "fullText": "Vice President @JDVance: \"Peace is in the interest of the American people, and President Trump is going to fight for it for the remainder of his administration. Wherever war breaks out, he's going to be the president of peace.\" https://t.co/jrHM6fH4m4"
+  },
+  {
+    "user": {
       "screenName": "NordaceOfficial",
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
@@ -1146,7 +1227,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44653,
+      "followersCount": 45117,
       "friendsCount": 0,
       "location": ""
     },
