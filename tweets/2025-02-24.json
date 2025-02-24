@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 52242,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1893926316111438109",
+    "fullText": "如果你在使用 Supabase 的话，Supabase 现在全面支持 MCP，可以看看官方文档：https://t.co/sd2LaWbpcs\n\n支持 Cursor/Windsurf/Cline/Claude Desktop，步骤写的非常详细。\n\n链接上以后就可以用自然语言来控制已经有的数据库了，比如创建新的表/写一些 Query 等等，非常强大。"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 149065,
+      "friendsCount": 460,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1893919382285308376",
+    "fullText": "感觉大模型的竞争越来越像当初云计算机厂商的竞争了，这几家大模型厂商其实谁也打不死谁，而且差距还越来越小。最初的智力竞赛已经变成了资金竞赛。\n大家觉得大模型市场最终会和云计算多寡头格局一样，还是和互联网产品一样一家垄断？"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16932,
+      "followersCount": 16933,
       "friendsCount": 2462,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -20,7 +50,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 109925,
+      "followersCount": 109932,
       "friendsCount": 1289,
       "location": "Chicago, IL"
     },
@@ -56,7 +86,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6913,
+      "followersCount": 6912,
       "friendsCount": 727,
       "location": "San Jose, CA"
     },
@@ -89,7 +119,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7721,
+      "followersCount": 7722,
       "friendsCount": 3361,
       "location": ""
     },
@@ -106,7 +136,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7721,
+      "followersCount": 7722,
       "friendsCount": 3361,
       "location": ""
     },
@@ -123,7 +153,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16932,
+      "followersCount": 16933,
       "friendsCount": 2462,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -140,7 +170,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16932,
+      "followersCount": 16933,
       "friendsCount": 2462,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -157,7 +187,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16932,
+      "followersCount": 16933,
       "friendsCount": 2462,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -174,7 +204,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 53643,
+      "followersCount": 53650,
       "friendsCount": 338,
       "location": ""
     },
@@ -193,7 +223,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7721,
+      "followersCount": 7722,
       "friendsCount": 3361,
       "location": ""
     },
@@ -225,7 +255,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 53643,
+      "followersCount": 53650,
       "friendsCount": 338,
       "location": ""
     },
@@ -241,11 +271,28 @@
   },
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1893895582613164033/Ei1EMmvk_normal.jpg",
+      "description": "The 2024-25 NBA season continues Monday on NBA TV! 🏀 8:00pm/et: @Timberwolves/@okcthunder",
+      "followersCount": 48120158,
+      "friendsCount": 2012,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1893870484212658177/vid/avc1/1280x720/hiWZwxbXawetXD3O.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1893870654115508735",
+    "fullText": "ANTHONY EDWARDS STEP-BACK 3 🔥\n\nPart of a 19-2 @Timberwolves run on ESPN! https://t.co/LA55nWclOX"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20175,
+      "followersCount": 20177,
       "friendsCount": 102,
       "location": "China"
     },
@@ -262,7 +309,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16932,
+      "followersCount": 16933,
       "friendsCount": 2462,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -279,7 +326,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 53643,
+      "followersCount": 53650,
       "friendsCount": 338,
       "location": ""
     },
@@ -344,7 +391,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 109925,
+      "followersCount": 109932,
       "friendsCount": 1289,
       "location": "Chicago, IL"
     },
@@ -376,7 +423,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 109925,
+      "followersCount": 109932,
       "friendsCount": 1289,
       "location": "Chicago, IL"
     },
@@ -393,7 +440,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 53643,
+      "followersCount": 53650,
       "friendsCount": 338,
       "location": ""
     },
@@ -408,7 +455,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 53643,
+      "followersCount": 53650,
       "friendsCount": 338,
       "location": ""
     },
@@ -428,7 +475,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27273,
+      "followersCount": 27275,
       "friendsCount": 526,
       "location": "Hong Kong"
     },
@@ -438,6 +485,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1893821618977423570",
     "fullText": "我的AI编程课推出快2周了，已有数百名朋友加入，感谢大家信任！来分享一下我第一次做视频课程的一些感受吧，首先是认真制作课程其实真的很难，比我想的难的很多，特别是AI编程课。 https://t.co/aJ7rOpCOB6"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 45093,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1893801730250547309",
+    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
   },
   {
     "user": {
@@ -492,7 +554,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 109925,
+      "followersCount": 109932,
       "friendsCount": 1289,
       "location": "Chicago, IL"
     },
@@ -507,7 +569,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6913,
+      "followersCount": 6912,
       "friendsCount": 727,
       "location": "San Jose, CA"
     },
@@ -539,7 +601,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6913,
+      "followersCount": 6912,
       "friendsCount": 727,
       "location": "San Jose, CA"
     },
@@ -552,9 +614,9 @@
     "user": {
       "screenName": "NBA",
       "name": "NBA",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1893827970365607936/0kI0ZjlE_normal.png",
-      "description": "The 2024-25 NBA season continues Sunday on ABC & ESPN! 🏀 3:30pm/et: @dallasmavs/@warriors 🏀 7pm/et: @memgrizz/@cavs 🏀 9:30pm/et: @okcthunder/@Timberwolves",
-      "followersCount": 48117177,
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1893895582613164033/Ei1EMmvk_normal.jpg",
+      "description": "The 2024-25 NBA season continues Monday on NBA TV! 🏀 8:00pm/et: @Timberwolves/@okcthunder",
+      "followersCount": 48120158,
       "friendsCount": 2012,
       "location": ""
     },
@@ -571,7 +633,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 109925,
+      "followersCount": 109932,
       "friendsCount": 1289,
       "location": "Chicago, IL"
     },
@@ -588,7 +650,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7721,
+      "followersCount": 7722,
       "friendsCount": 3361,
       "location": ""
     },
@@ -622,7 +684,7 @@
       "name": "Spring Xiong 熊春",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4463,
+      "followersCount": 4464,
       "friendsCount": 1140,
       "location": ""
     },
@@ -656,7 +718,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27273,
+      "followersCount": 27275,
       "friendsCount": 526,
       "location": "Hong Kong"
     },
@@ -704,7 +766,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16932,
+      "followersCount": 16933,
       "friendsCount": 2462,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -738,7 +800,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16932,
+      "followersCount": 16933,
       "friendsCount": 2462,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -793,7 +855,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16932,
+      "followersCount": 16933,
       "friendsCount": 2462,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -982,6 +1044,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1893507170844422430",
     "fullText": "#生活记录\n在新的平台用新的名字做新的领域的视频内容，居然被以前做评测视频的时候的频道观众认出来了，这个感觉是挺奇妙的\n\n在我十五六岁做视频的时候目的很单纯，就觉得我做视频就是想被看见，几千浏览就有几千个人看我，如果有一天我被人认出来，那说明我真的成功了 https://t.co/YPhqXgOYgU"
+  },
+  {
+    "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1893895582613164033/Ei1EMmvk_normal.jpg",
+      "description": "The 2024-25 NBA season continues Monday on NBA TV! 🏀 8:00pm/et: @Timberwolves/@okcthunder",
+      "followersCount": 48120158,
+      "friendsCount": 2012,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1893506896394354689/vid/avc1/1280x720/YKQvM6vCdzjrIx04.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1893507067903647839",
+    "fullText": "Aaron Gordon spins and scores for 21 PTS 💪\n\nHe leads Denver in scoring as they seek their 10th straight win...\n\nTrailing LAL by 9 in the 4Q on ABC! https://t.co/dodkbcejmf"
+  },
+  {
+    "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1893895582613164033/Ei1EMmvk_normal.jpg",
+      "description": "The 2024-25 NBA season continues Monday on NBA TV! 🏀 8:00pm/et: @Timberwolves/@okcthunder",
+      "followersCount": 48120158,
+      "friendsCount": 2012,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1893497530379325440/vid/avc1/1280x720/jH2tdMPEJyRW0X1i.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1893497746650218883",
+    "fullText": "Long Jokić feed ahead to Aaron Gordon!\n\nNuggets start the 2H on an 8-0 run on ABC 🔥 https://t.co/QJEnVAkixv"
   },
   {
     "user": {
