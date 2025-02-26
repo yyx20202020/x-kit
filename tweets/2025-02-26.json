@@ -1,12 +1,29 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 27345,
+      "friendsCount": 528,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gkro0GmaUAAngOb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1894583164909359135",
+    "fullText": "supabase的文字版教程更新了！详细的视频明天补充上。https://t.co/B8NNvift0P https://t.co/vfsk27zTwJ"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17042,
-      "friendsCount": 2497,
+      "followersCount": 17044,
+      "friendsCount": 2498,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -20,7 +37,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54120,
+      "followersCount": 54126,
       "friendsCount": 340,
       "location": ""
     },
@@ -35,7 +52,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54120,
+      "followersCount": 54126,
       "friendsCount": 340,
       "location": ""
     },
@@ -52,7 +69,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3991756,
+      "followersCount": 3991810,
       "friendsCount": 3,
       "location": ""
     },
@@ -84,7 +101,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3991756,
+      "followersCount": 3991810,
       "friendsCount": 3,
       "location": ""
     },
@@ -99,7 +116,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3991756,
+      "followersCount": 3991810,
       "friendsCount": 3,
       "location": ""
     },
@@ -114,7 +131,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3991756,
+      "followersCount": 3991810,
       "friendsCount": 3,
       "location": ""
     },
@@ -129,7 +146,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3991756,
+      "followersCount": 3991810,
       "friendsCount": 3,
       "location": ""
     },
@@ -144,7 +161,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3991756,
+      "followersCount": 3991810,
       "friendsCount": 3,
       "location": ""
     },
@@ -159,7 +176,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20268,
+      "followersCount": 20272,
       "friendsCount": 102,
       "location": "China"
     },
@@ -176,7 +193,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 110489,
+      "followersCount": 110503,
       "friendsCount": 1292,
       "location": "Chicago, IL"
     },
@@ -193,7 +210,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54120,
+      "followersCount": 54126,
       "friendsCount": 340,
       "location": ""
     },
@@ -210,7 +227,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 110489,
+      "followersCount": 110503,
       "friendsCount": 1292,
       "location": "Chicago, IL"
     },
@@ -227,7 +244,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54120,
+      "followersCount": 54126,
       "friendsCount": 340,
       "location": ""
     },
@@ -242,7 +259,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 139168,
+      "followersCount": 139197,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -257,7 +274,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4503,
+      "followersCount": 4504,
       "friendsCount": 1146,
       "location": ""
     },
@@ -272,8 +289,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17042,
-      "friendsCount": 2497,
+      "followersCount": 17044,
+      "friendsCount": 2498,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -289,7 +306,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 110489,
+      "followersCount": 110503,
       "friendsCount": 1292,
       "location": "Chicago, IL"
     },
@@ -307,7 +324,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54120,
+      "followersCount": 54126,
       "friendsCount": 340,
       "location": ""
     },
@@ -346,7 +363,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20268,
+      "followersCount": 20272,
       "friendsCount": 102,
       "location": "China"
     },
@@ -361,8 +378,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17042,
-      "friendsCount": 2497,
+      "followersCount": 17044,
+      "friendsCount": 2498,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -394,7 +411,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4503,
+      "followersCount": 4504,
       "friendsCount": 1146,
       "location": ""
     },
@@ -429,7 +446,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19361,
+      "followersCount": 19365,
       "friendsCount": 264,
       "location": "Guangdong"
     },
@@ -446,7 +463,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20268,
+      "followersCount": 20272,
       "friendsCount": 102,
       "location": "China"
     },
@@ -478,7 +495,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19361,
+      "followersCount": 19365,
       "friendsCount": 264,
       "location": "Guangdong"
     },
@@ -527,8 +544,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17042,
-      "friendsCount": 2497,
+      "followersCount": 17044,
+      "friendsCount": 2498,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -544,7 +561,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20268,
+      "followersCount": 20272,
       "friendsCount": 102,
       "location": "China"
     },
@@ -692,7 +709,7 @@
       "name": "Jotform",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1444920126407593987/-Yxi3T9v_normal.png",
       "description": "Go from busywork to less work with powerful forms that use conditional logic, accept payments, and automate workflows. For support, contact @JotformSupport",
-      "followersCount": 40068,
+      "followersCount": 40069,
       "friendsCount": 565,
       "location": "San Francisco, CA"
     },
@@ -771,6 +788,21 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 45043,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1894024170968883672",
+    "fullText": "🎒🌟 Travel Is Easy Now!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
       "followersCount": 45047,
       "friendsCount": 0,
       "location": ""
@@ -824,6 +856,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1894023545778504085",
     "fullText": "✈️ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS\n\"Spacious, lightweight, and perfect for traveling. Fits under my seat easily, and the colors are awesome! 🌍\""
+  },
+  {
+    "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 11734,
+      "friendsCount": 1,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1893928057490305509",
+    "fullText": "Feel the Difference, Naturally: Barefoot shoes unlock a unique sensory experience, one traditional shoes can't replicate. You'll feel the ground beneath your feet like never before, improving your balance and body awareness. \n\n👣 Join the Barefoot Movement!"
   },
   {
     "user": {
@@ -902,5 +949,35 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1893899285680599303",
     "fullText": "🎒 Smarter Packing, Easier Travel with This Tote!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 45043,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1893899285152072012",
+    "fullText": "🌍 Travel Smarter, Travel Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
+      "screenName": "DobynsFamily",
+      "name": "Dobyns Family Creations",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1744613934974574592/Tjbnjjni_normal.jpg",
+      "description": "We are a family-owned and operated small business\n\nWebsite - https://t.co/HXbNkEPMUG\nEtsy - https://t.co/GBSzC95KQd",
+      "followersCount": 5763,
+      "friendsCount": 5583,
+      "location": "Nine Mile Falls WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DobynsFamily/status/1893888082694566077",
+    "fullText": "Offered in various sizes and stain options, our wooden wall decor signs make a bold statement. Check out our whole line of patriotic decor and other great gift ideas."
   }
 ]
