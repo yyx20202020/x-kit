@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 111012,
+      "friendsCount": 1294,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gk2EvYXXcAAusFw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1895317009262616728",
+    "fullText": "在 AI 时代，博客写作仍然值得 [译]\n\n我之前关于以“撰写你曾经希望找到的教程”为目的进行博客写作的文章，在Hacker News上引起了巨大反响。尽管评论区涌现了许多精彩的讨论，但一个问题却不断被提及：当人们纷纷转向 ChatGPT、Claude 和 DeepSeek https://t.co/0e7yEGX4WC"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 27370,
+      "friendsCount": 528,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gk2EcY4aoAIAJrH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1895316712465277350",
+    "fullText": "刚更新Cursor，我一时不知道怎么写代码了... https://t.co/JvFh0S2C4L"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cellinlab",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
+      "followersCount": 7776,
+      "friendsCount": 3365,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gk1r_qcXIAAApb8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1895312971959586827",
+    "fullText": "当你擅长学习，你就是行走的摇钱树。 https://t.co/LR3hdejYc2"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17170,
+      "followersCount": 17172,
       "friendsCount": 2473,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -20,7 +71,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7774,
+      "followersCount": 7776,
       "friendsCount": 3365,
       "location": ""
     },
@@ -37,7 +88,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7774,
+      "followersCount": 7776,
       "friendsCount": 3365,
       "location": ""
     },
@@ -54,7 +105,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54341,
+      "followersCount": 54345,
       "friendsCount": 342,
       "location": ""
     },
@@ -69,7 +120,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7774,
+      "followersCount": 7776,
       "friendsCount": 3365,
       "location": ""
     },
@@ -86,7 +137,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7774,
+      "followersCount": 7776,
       "friendsCount": 3365,
       "location": ""
     },
@@ -123,7 +174,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7774,
+      "followersCount": 7776,
       "friendsCount": 3365,
       "location": ""
     },
@@ -140,7 +191,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20743,
+      "followersCount": 20749,
       "friendsCount": 105,
       "location": "China"
     },
@@ -155,7 +206,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 185324,
+      "followersCount": 185333,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -169,11 +220,28 @@
   },
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895313645468274688/ueLt7BdT_normal.jpg",
+      "description": "The 2024-25 NBA season continues Thursday on TNT & NBA TV! 🏀 8:00pm/et: @nuggets/@Bucks 🏀 10:30pm/et: @Timberwolves/@Lakers",
+      "followersCount": 48106634,
+      "friendsCount": 2011,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1895285767343353856/vid/avc1/1280x720/E2_GvukD1xGU5Oiy.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1895285997606445143",
+    "fullText": "Joker in a RHYTHM in the 1Q 🔥\n\n16 PTS in the opening frame on TNT! https://t.co/UFyMMIp5gF"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20743,
+      "followersCount": 20749,
       "friendsCount": 105,
       "location": "China"
     },
@@ -188,7 +256,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17170,
+      "followersCount": 17172,
       "friendsCount": 2473,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -205,7 +273,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 185324,
+      "followersCount": 185333,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -225,7 +293,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54341,
+      "followersCount": 54345,
       "friendsCount": 342,
       "location": ""
     },
@@ -240,7 +308,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27367,
+      "followersCount": 27370,
       "friendsCount": 528,
       "location": "Hong Kong"
     },
@@ -257,7 +325,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111011,
+      "followersCount": 111012,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -272,7 +340,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72196,
+      "followersCount": 72193,
       "friendsCount": 3333,
       "location": ""
     },
@@ -287,7 +355,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3999584,
+      "followersCount": 3999697,
       "friendsCount": 3,
       "location": ""
     },
@@ -304,7 +372,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3999584,
+      "followersCount": 3999697,
       "friendsCount": 3,
       "location": ""
     },
@@ -334,7 +402,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20743,
+      "followersCount": 20749,
       "friendsCount": 105,
       "location": "China"
     },
@@ -351,7 +419,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20743,
+      "followersCount": 20749,
       "friendsCount": 105,
       "location": "China"
     },
@@ -366,7 +434,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54341,
+      "followersCount": 54345,
       "friendsCount": 342,
       "location": ""
     },
@@ -383,7 +451,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20743,
+      "followersCount": 20749,
       "friendsCount": 105,
       "location": "China"
     },
@@ -417,7 +485,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20743,
+      "followersCount": 20749,
       "friendsCount": 105,
       "location": "China"
     },
@@ -434,7 +502,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19433,
+      "followersCount": 19434,
       "friendsCount": 263,
       "location": "Guangdong"
     },
@@ -451,7 +519,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19433,
+      "followersCount": 19434,
       "friendsCount": 263,
       "location": "Guangdong"
     },
@@ -468,7 +536,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20743,
+      "followersCount": 20749,
       "friendsCount": 105,
       "location": "China"
     },
@@ -483,7 +551,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17170,
+      "followersCount": 17172,
       "friendsCount": 2473,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -500,7 +568,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 3999584,
+      "followersCount": 3999697,
       "friendsCount": 3,
       "location": ""
     },
@@ -508,6 +576,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/OpenAI/status/1895134318835704245",
     "fullText": "Livestream in 4.5 hours."
+  },
+  {
+    "user": {
+      "screenName": "Buccaneers",
+      "name": "Tampa Bay Buccaneers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874805385304891392/BlZ2iuid_normal.jpg",
+      "description": "#WeAreTheKrewe",
+      "followersCount": 1348332,
+      "friendsCount": 327,
+      "location": "Tampa, Fla."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1895118336154902528/vid/avc1/720x720/WKG4BiU9Bq1UFARR.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/Buccaneers/status/1895126753099891058",
+    "fullText": ".@jasonrlicht never heard the answer @jalenmcmillan20 gave at his Combine interview 👀🥣 https://t.co/5hpFFlSK3f"
   },
   {
     "user": {
@@ -668,7 +753,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 20743,
+      "followersCount": 20749,
       "friendsCount": 105,
       "location": "China"
     },
@@ -738,6 +823,23 @@
   },
   {
     "user": {
+      "screenName": "HMGnewsroom",
+      "name": "Hyundai Motor Group",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1589181072712949761/mrxNn5SD_normal.jpg",
+      "description": "Official global Twitter account of Hyundai Motor Group. Get the latest news to discover future insight. “Connecting to the Future”",
+      "followersCount": 571001,
+      "friendsCount": 111,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1894922995753459715/vid/avc1/1920x1080/Kje6NJoyu3Bee3cU.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/HMGnewsroom/status/1895021236012622338",
+    "fullText": "Discover how E-GMP.S redefines PBVs with its innovative technologies!\n\n*E-GMP.S: Electric Global Modular Platform for Service\n\n#HyundaiMotorGroup #EGMPS #PBV #EV #Technology https://t.co/lJl3cVAmxc"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
@@ -775,7 +877,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20372,
+      "followersCount": 20384,
       "friendsCount": 1012,
       "location": ""
     },
@@ -812,7 +914,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 2034,
+      "followersCount": 2039,
       "friendsCount": 206,
       "location": "NewYork"
     },
@@ -879,11 +981,26 @@
   },
   {
     "user": {
+      "screenName": "Iconicspeakerss",
+      "name": "Iconicspeaker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1709903465973968896/s0ebk8Ek_normal.jpg",
+      "description": "Home of the first portable Bluetooth speaker. Hand crafted portable speakers.",
+      "followersCount": 2200,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Iconicspeakerss/status/1894833604808827313",
+    "fullText": "🏕️🔥50CAL Bluetooth speaker, 320Watts, up to 102 hr battery, 750ft Bluetooth range, High Res Wifi, Guitar input and USB charge ports to charge your devices in the wild. Shop now:\n\nhttps://t.co/ckowJC7ME8\n\n100+ reviews scoring 4.8/5.0 ★★★★★\n\n#AmmoCanSpeaker #bluetoothspeaker"
+  },
+  {
+    "user": {
       "screenName": "ovst36099",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 2034,
+      "followersCount": 2039,
       "friendsCount": 206,
       "location": "NewYork"
     },
@@ -926,11 +1043,26 @@
   },
   {
     "user": {
+      "screenName": "LexhamPress",
+      "name": "Lexham Press",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517534158557351937/sSP1KoPs_normal.jpg",
+      "description": "Lexham Press is an innovative Christian publishing house creating thoughtful Bible study materials, scholarly works, and pastoral resources.",
+      "followersCount": 11837,
+      "friendsCount": 325,
+      "location": "Bellingham, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LexhamPress/status/1894809655366558021",
+    "fullText": "\"What a breath of fresh air! Read this for your own heart and share it with a friend.\"\n\nNow available: Unloved: The Rejected Saints God Calls Beloved by Elyse M. Fitzpatrick"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111011,
+      "followersCount": 111012,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -940,6 +1072,21 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/1894751532458873265",
     "fullText": "看我作为一个 AI 博主是如何用飞书 + 【可联网的】DeepSeek R1 搭建简单自动化工作流提升工作效率的\n\n作为一个 AI 博主，日常一大部分工作是阅读和分享各种海外的AI资讯，这就少不了要翻译各种英文文章。之前我很多操作是手动的，比如复制粘贴文章到 Markdown 编辑器，然后从编辑器复制到 DeepSeek R1 https://t.co/NpfRGMSxFl"
+  },
+  {
+    "user": {
+      "screenName": "MadmusclesPlans",
+      "name": "MadMuscles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1818256208509231104/L-GPV5Zd_normal.jpg",
+      "description": "Mad Muscles helps users to reach their ideal body. Try our workouts for people with different levels of fitness, lifestyle and and problem area💪",
+      "followersCount": 93583,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MadmusclesPlans/status/1894740389023948927",
+    "fullText": "Transform your body, transform your life! 💪🔥 Start your weight loss journey now!"
   },
   {
     "user": {
