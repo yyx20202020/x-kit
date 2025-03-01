@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
+      "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
+      "followersCount": 6176,
+      "friendsCount": 469,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1895821737230811517",
+    "fullText": "发布了 Go+ v1.3.2 (https://t.co/aCpDMcQbF7)  这个版本主要增加了类似 markdown 的领域文本能力，比如：xml`&lt;doc&gt;Hello&lt;/doc&gt;`，它和 markdown 的\n```xml\n&lt;doc&gt;Hello&lt;/doc&gt;\n```\n类似。这个事情最大价值其实不是省了多少代码，而是有机会在 IDE 中对领域文本进行语法高亮而不是简单理解为字符串。"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 139396,
+      "followersCount": 139378,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -25,7 +40,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -79,7 +94,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4526,
+      "followersCount": 4527,
       "friendsCount": 1155,
       "location": ""
     },
@@ -96,7 +111,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 21050,
+      "followersCount": 21061,
       "friendsCount": 106,
       "location": "China"
     },
@@ -111,7 +126,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27407,
+      "followersCount": 27411,
       "friendsCount": 529,
       "location": "Hong Kong"
     },
@@ -129,7 +144,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -163,7 +178,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -178,7 +193,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19460,
+      "followersCount": 19464,
       "friendsCount": 263,
       "location": "Guangdong"
     },
@@ -193,7 +208,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149193,
+      "followersCount": 149188,
       "friendsCount": 463,
       "location": "中华人民共和国"
     },
@@ -208,7 +223,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111144,
+      "followersCount": 111153,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -243,7 +258,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1671864937/large_3nm7_21222k204236_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创业中，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 101588,
+      "followersCount": 101602,
       "friendsCount": 232,
       "location": "Singapore"
     },
@@ -273,7 +288,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -290,7 +305,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -307,7 +322,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27407,
+      "followersCount": 27411,
       "friendsCount": 529,
       "location": "Hong Kong"
     },
@@ -339,7 +354,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -356,7 +371,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -371,7 +386,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111144,
+      "followersCount": 111153,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -388,7 +403,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111144,
+      "followersCount": 111153,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -406,7 +421,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -423,7 +438,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27407,
+      "followersCount": 27411,
       "friendsCount": 529,
       "location": "Hong Kong"
     },
@@ -440,7 +455,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27407,
+      "followersCount": 27411,
       "friendsCount": 529,
       "location": "Hong Kong"
     },
@@ -457,7 +472,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 21050,
+      "followersCount": 21061,
       "friendsCount": 106,
       "location": "China"
     },
@@ -472,7 +487,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -523,7 +538,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17263,
+      "followersCount": 17264,
       "friendsCount": 2492,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -606,7 +621,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111144,
+      "followersCount": 111153,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -623,7 +638,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7006,
+      "followersCount": 7005,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -655,7 +670,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111144,
+      "followersCount": 111153,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -760,7 +775,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111144,
+      "followersCount": 111153,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -807,7 +822,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111144,
+      "followersCount": 111153,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -1537,7 +1552,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 45035,
+      "followersCount": 45031,
       "friendsCount": 0,
       "location": ""
     },
@@ -1597,7 +1612,7 @@
       "name": "Deepgram",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1814027753307652096/pipWLHzC_normal.jpg",
       "description": "Voice AI platform for developers. Get started with $200 in credit for voice agents, speech-to-text, or text-to-speech: https://t.co/ssASTgz2u1",
-      "followersCount": 8868,
+      "followersCount": 8873,
       "friendsCount": 744,
       "location": "San Francisco, CA"
     },
