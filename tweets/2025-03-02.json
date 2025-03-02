@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 52479,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlBduSeaUAAp617.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1896118788409659442",
+    "fullText": "今天 Hackernews 最热贴\n《TypeScript types can run DOOM》\n\nhttps://t.co/dn2ADG8OdH\n\n作者成功地让 Doom 引擎完全在 TypeScript 类型系统中运行，非常值得一看，为作者的想象力所喝彩。\n\n源代码在这里：\nhttps://t.co/5KIWecN1to\n\n简单看一下原理：项目创建了一个完全在 TypeScript https://t.co/1ckKu4V9aE"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
+      "followersCount": 17361,
+      "friendsCount": 2500,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlBcRWkbQAI7yLH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1896118585845834122",
+    "fullText": "今日Swift学习进度：\n\n遇到了一个问题，读取json里的名字日期文案红v一切正常，但是头像和配图如果是引用的就不显示，换了好多写法也求助了ai还是没解决，最后发现是json里关于图片的信息后面有一个\".jpg\"后缀，引用的时候需要把后缀处理掉否则识别不到。 https://t.co/WJ2M6ZmnwV"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111187,
+      "followersCount": 111190,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -22,7 +56,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 52478,
+      "followersCount": 52479,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -52,7 +86,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17360,
+      "followersCount": 17361,
       "friendsCount": 2500,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -103,7 +137,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17360,
+      "followersCount": 17361,
       "friendsCount": 2500,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -120,7 +154,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17360,
+      "followersCount": 17361,
       "friendsCount": 2500,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -135,7 +169,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111187,
+      "followersCount": 111190,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -152,7 +186,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111187,
+      "followersCount": 111190,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -169,7 +203,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17360,
+      "followersCount": 17361,
       "friendsCount": 2500,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -250,7 +284,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54807,
+      "followersCount": 54805,
       "friendsCount": 343,
       "location": ""
     },
@@ -300,7 +334,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54807,
+      "followersCount": 54805,
       "friendsCount": 343,
       "location": ""
     },
@@ -392,7 +426,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 21624,
+      "followersCount": 21622,
       "friendsCount": 107,
       "location": "China"
     },
@@ -487,7 +521,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 139529,
+      "followersCount": 139536,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -507,7 +541,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17360,
+      "followersCount": 17361,
       "friendsCount": 2500,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -524,7 +558,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/XBKDw9XNKn",
-      "followersCount": 22876,
+      "followersCount": 22877,
       "friendsCount": 343,
       "location": "HK"
     },
@@ -541,7 +575,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72268,
+      "followersCount": 72266,
       "friendsCount": 3334,
       "location": ""
     },
@@ -578,7 +612,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 21624,
+      "followersCount": 21622,
       "friendsCount": 107,
       "location": "China"
     },
@@ -593,7 +627,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27423,
+      "followersCount": 27425,
       "friendsCount": 529,
       "location": "Hong Kong"
     },
@@ -611,7 +645,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17360,
+      "followersCount": 17361,
       "friendsCount": 2500,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -628,7 +662,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72268,
+      "followersCount": 72266,
       "friendsCount": 3334,
       "location": ""
     },
@@ -645,7 +679,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17360,
+      "followersCount": 17361,
       "friendsCount": 2500,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -675,7 +709,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149241,
+      "followersCount": 149245,
       "friendsCount": 463,
       "location": "中华人民共和国"
     },
@@ -1122,6 +1156,23 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896052575662710784/XiaeI_C9_normal.jpg",
       "description": "The 2024-25 NBA season continues Sunday on ABC & ESPN! 🏀 1pm/et: @nuggets/@celtics 🏀 7pm/et: @okcthunder/@spurs 🏀 9:30pm/et: @Timberwolves/@Suns",
+      "followersCount": 48113455,
+      "friendsCount": 2011,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1895647827700686849/vid/avc1/1280x720/0HtSX8UsdsHQ_9z3.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1895648127060951422",
+    "fullText": "Welcome back, Mitchell Robinson! \n\nHe gets on the board with a FLUSH in his 2024-25 season debut 💥 https://t.co/NJ3f9k8nCM"
+  },
+  {
+    "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896052575662710784/XiaeI_C9_normal.jpg",
+      "description": "The 2024-25 NBA season continues Sunday on ABC & ESPN! 🏀 1pm/et: @nuggets/@celtics 🏀 7pm/et: @okcthunder/@spurs 🏀 9:30pm/et: @Timberwolves/@Suns",
       "followersCount": 48113421,
       "friendsCount": 2011,
       "location": ""
@@ -1222,7 +1273,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54807,
+      "followersCount": 54805,
       "friendsCount": 343,
       "location": ""
     },
