@@ -1,11 +1,46 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
+      "followersCount": 17381,
+      "friendsCount": 2513,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlCeJzaacAA7RVO.jpg",
+      "https://pbs.twimg.com/media/GlCebkkacAEzmaT.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1896190216756736162",
+    "fullText": "求助万推，我有Copilot Pro，但是我不知道给我提供服务的是claude 3.5 还是 3.7还是 gemini 2.0。\n\n那如果我只想用claude 3.7的话，我是需要把其它都禁用掉吗？这样会不会导致卡顿或者降智影响整体体验？ https://t.co/wW0DQB8T1e"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 21899,
+      "friendsCount": 108,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlCaOI2XcAAhDd2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1896185675155972557",
+    "fullText": "AI写图形代码真的强到无敌， 这几天补丁100%都是AI写的。\n\n要实现Chrome的梯形标签， 还要考虑标签之间覆盖、 坐标的转换、 高分屏 Device Pixel Ratio 的处理， 这些我都会， 但是要考虑逻辑正确的情况下， 把每个地方的坐标和缩放代码写对， 最快也要折腾1个小时的体力活。 https://t.co/0rBalyRYbL"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4538,
+      "followersCount": 4539,
       "friendsCount": 1158,
       "location": ""
     },
@@ -22,7 +57,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27436,
+      "followersCount": 27440,
       "friendsCount": 529,
       "location": "Hong Kong"
     },
@@ -42,7 +77,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17383,
+      "followersCount": 17381,
       "friendsCount": 2513,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -59,7 +94,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17383,
+      "followersCount": 17381,
       "friendsCount": 2513,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -76,8 +111,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 21810,
-      "friendsCount": 107,
+      "followersCount": 21899,
+      "friendsCount": 108,
       "location": "China"
     },
     "images": [],
@@ -112,7 +147,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 52483,
+      "followersCount": 52476,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -129,7 +164,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17383,
+      "followersCount": 17381,
       "friendsCount": 2513,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -146,7 +181,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111198,
+      "followersCount": 111200,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -163,7 +198,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 52483,
+      "followersCount": 52476,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -178,7 +213,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19500,
+      "followersCount": 19501,
       "friendsCount": 265,
       "location": "Guangdong"
     },
@@ -193,7 +228,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17383,
+      "followersCount": 17381,
       "friendsCount": 2513,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -210,7 +245,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4538,
+      "followersCount": 4539,
       "friendsCount": 1158,
       "location": ""
     },
@@ -227,7 +262,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19500,
+      "followersCount": 19501,
       "friendsCount": 265,
       "location": "Guangdong"
     },
@@ -244,7 +279,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17383,
+      "followersCount": 17381,
       "friendsCount": 2513,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -261,7 +296,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17383,
+      "followersCount": 17381,
       "friendsCount": 2513,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -276,7 +311,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111198,
+      "followersCount": 111200,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -293,7 +328,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111198,
+      "followersCount": 111200,
       "friendsCount": 1294,
       "location": "Chicago, IL"
     },
@@ -310,7 +345,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17383,
+      "followersCount": 17381,
       "friendsCount": 2513,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -325,7 +360,7 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896052575662710784/XiaeI_C9_normal.jpg",
       "description": "The 2024-25 NBA season continues Sunday on ABC & ESPN! 🏀 1pm/et: @nuggets/@celtics 🏀 7pm/et: @okcthunder/@spurs 🏀 9:30pm/et: @Timberwolves/@Suns",
-      "followersCount": 48113001,
+      "followersCount": 48113021,
       "friendsCount": 2011,
       "location": ""
     },
@@ -376,7 +411,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4538,
+      "followersCount": 4539,
       "friendsCount": 1158,
       "location": ""
     },
@@ -406,6 +441,23 @@
   },
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896052575662710784/XiaeI_C9_normal.jpg",
+      "description": "The 2024-25 NBA season continues Sunday on ABC & ESPN! 🏀 1pm/et: @nuggets/@celtics 🏀 7pm/et: @okcthunder/@spurs 🏀 9:30pm/et: @Timberwolves/@Suns",
+      "followersCount": 48113021,
+      "friendsCount": 2011,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1895998452602900480/vid/avc1/1280x720/HN9SOEDAuiLr9okd.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1895998874193424428",
+    "fullText": "Malik Beasley drills his 4th 3 in the 1Q 🔥\n\n📺 Nets-Pistons on NBA League Pass https://t.co/XBZxxUvJbE"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -425,7 +477,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54815,
+      "followersCount": 54813,
       "friendsCount": 343,
       "location": ""
     },
@@ -475,7 +527,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54815,
+      "followersCount": 54813,
       "friendsCount": 343,
       "location": ""
     },
@@ -567,8 +619,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 21810,
-      "friendsCount": 107,
+      "followersCount": 21899,
+      "friendsCount": 108,
       "location": "China"
     },
     "images": [
@@ -614,7 +666,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 45028,
+      "followersCount": 45001,
       "friendsCount": 0,
       "location": ""
     },
@@ -753,8 +805,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 21810,
-      "friendsCount": 107,
+      "followersCount": 21899,
+      "friendsCount": 108,
       "location": "China"
     },
     "images": [],
@@ -1112,7 +1164,7 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896052575662710784/XiaeI_C9_normal.jpg",
       "description": "The 2024-25 NBA season continues Sunday on ABC & ESPN! 🏀 1pm/et: @nuggets/@celtics 🏀 7pm/et: @okcthunder/@spurs 🏀 9:30pm/et: @Timberwolves/@Suns",
-      "followersCount": 48113659,
+      "followersCount": 48113021,
       "friendsCount": 2011,
       "location": ""
     },
@@ -1297,7 +1349,7 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896052575662710784/XiaeI_C9_normal.jpg",
       "description": "The 2024-25 NBA season continues Sunday on ABC & ESPN! 🏀 1pm/et: @nuggets/@celtics 🏀 7pm/et: @okcthunder/@spurs 🏀 9:30pm/et: @Timberwolves/@Suns",
-      "followersCount": 48113785,
+      "followersCount": 48113021,
       "friendsCount": 2011,
       "location": ""
     },
@@ -1431,7 +1483,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54815,
+      "followersCount": 54813,
       "friendsCount": 343,
       "location": ""
     },
