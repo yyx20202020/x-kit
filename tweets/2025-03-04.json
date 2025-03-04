@@ -1,11 +1,31 @@
 [
   {
     "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
+      "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 2173,
+      "friendsCount": 209,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlLCs68bgAACzK8.jpg",
+      "https://pbs.twimg.com/media/GlLdCNTbkAAZZ6x.jpg",
+      "https://pbs.twimg.com/media/GlLdC-0WQAA6q0r.jpg",
+      "https://pbs.twimg.com/media/GlLeAAfXQAAmQaG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1896822517400326346",
+    "fullText": "AI真是改变学习+开发方式呀。\n\n我想做个智能助手，用https://t.co/OeidUN7AZo里面的内容做知识库。然后看到wiki.js项目是支持API调用的（https://t.co/5P8C4K27eN），里面没有调用案例，看得云里雾里；然后再google查也查不到教程。 https://t.co/ioZlPvn4ng"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 139477,
+      "followersCount": 139483,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -42,8 +62,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4585,
-      "friendsCount": 1160,
+      "followersCount": 4591,
+      "friendsCount": 1161,
       "location": ""
     },
     "images": [
@@ -59,7 +79,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7799,
+      "followersCount": 7798,
       "friendsCount": 3367,
       "location": ""
     },
@@ -76,7 +96,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100624,
+      "followersCount": 100612,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -147,7 +167,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7799,
+      "followersCount": 7798,
       "friendsCount": 3367,
       "location": ""
     },
@@ -164,7 +184,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19568,
+      "followersCount": 19570,
       "friendsCount": 266,
       "location": "Guangdong"
     },
@@ -196,7 +216,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7799,
+      "followersCount": 7798,
       "friendsCount": 3367,
       "location": ""
     },
@@ -213,7 +233,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54833,
+      "followersCount": 54832,
       "friendsCount": 344,
       "location": ""
     },
@@ -228,7 +248,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111377,
+      "followersCount": 111383,
       "friendsCount": 1295,
       "location": "Chicago, IL"
     },
@@ -344,7 +364,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100624,
+      "followersCount": 100612,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -379,7 +399,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72308,
+      "followersCount": 72299,
       "friendsCount": 3334,
       "location": ""
     },
@@ -443,7 +463,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54833,
+      "followersCount": 54832,
       "friendsCount": 344,
       "location": ""
     },
@@ -458,7 +478,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111377,
+      "followersCount": 111383,
       "friendsCount": 1295,
       "location": "Chicago, IL"
     },
@@ -478,7 +498,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111377,
+      "followersCount": 111383,
       "friendsCount": 1295,
       "location": "Chicago, IL"
     },
@@ -495,7 +515,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54833,
+      "followersCount": 54832,
       "friendsCount": 344,
       "location": ""
     },
@@ -512,7 +532,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54833,
+      "followersCount": 54832,
       "friendsCount": 344,
       "location": ""
     },
@@ -546,7 +566,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54833,
+      "followersCount": 54832,
       "friendsCount": 344,
       "location": ""
     },
@@ -595,7 +615,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7017,
+      "followersCount": 7018,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -629,7 +649,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 54833,
+      "followersCount": 54832,
       "friendsCount": 344,
       "location": ""
     },
@@ -646,7 +666,7 @@
       "name": "American Petroleum Institute",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1542910931994378248/vLE7lZiq_normal.png",
       "description": "Founded in 1919, API represents America’s oil and natural gas industry. We are the problem solvers who tackle the world’s greatest energy challenges.",
-      "followersCount": 95845,
+      "followersCount": 95846,
       "friendsCount": 1604,
       "location": "Washington, D.C."
     },
@@ -1336,7 +1356,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 45082,
+      "followersCount": 45070,
       "friendsCount": 0,
       "location": ""
     },
