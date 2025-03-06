@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "nateleex",
+      "name": "李自然 Nate Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
+      "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
+      "followersCount": 7172,
+      "friendsCount": 179,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlWyDGba8AARN6q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nateleex/status/1897618595267608737",
+    "fullText": "作为山东人，我感觉喜欢吹自己有关系的还是得北京人🐶🐶 https://t.co/7R1DbRp8zV"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 25038,
+      "followersCount": 25031,
       "friendsCount": 109,
       "location": "China"
     },
@@ -13,6 +30,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1897605595043422511",
     "fullText": "lsp-bridge 支持最新的 Pull Diagnosis 协议啦， 大佬太强了。\n\nhttps://t.co/chqbPewdig"
+  },
+  {
+    "user": {
+      "screenName": "lianchang_vpn",
+      "name": "联畅云VPN加速器",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891377564738048000/CYR6h3uA_normal.png",
+      "description": "联畅云VPN加速器，海外团队，自研专线，加密防封，全球节点，一键解锁，稳定高速，支持全版本客户端.",
+      "followersCount": 17277,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lianchang_vpn/status/1897588717793202425",
+    "fullText": "联畅云VPN全新升级，强势回归 🌹\n\n 小黑牛VPN全新升级，现更名为联畅云VPN。为回馈新老用户的支持，现特向您发放三张专属优惠券。下载新客户端，进入活动页领取。 \n\n官网：https://t.co/nws4Jz6VJE\n\n希望我们能够继续为您提供优质的服务，祝您上网愉快！  \n\n联畅云服务团队敬上❤️❤️❤️(づ￣3￣)づ╭❤～"
   },
   {
     "user": {
@@ -35,7 +67,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8057,
+      "followersCount": 8060,
       "friendsCount": 291,
       "location": ""
     },
@@ -50,7 +82,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19646,
+      "followersCount": 19647,
       "friendsCount": 267,
       "location": "Guangdong"
     },
@@ -65,7 +97,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 2184,
+      "followersCount": 2185,
       "friendsCount": 212,
       "location": "NewYork"
     },
@@ -145,7 +177,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20599,
+      "followersCount": 20598,
       "friendsCount": 1012,
       "location": ""
     },
@@ -162,7 +194,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4779,
+      "followersCount": 4778,
       "friendsCount": 1169,
       "location": ""
     },
@@ -211,7 +243,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55145,
+      "followersCount": 55141,
       "friendsCount": 347,
       "location": ""
     },
@@ -243,7 +275,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7847,
+      "followersCount": 7846,
       "friendsCount": 3369,
       "location": ""
     },
@@ -294,7 +326,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 2184,
+      "followersCount": 2185,
       "friendsCount": 212,
       "location": "NewYork"
     },
@@ -346,7 +378,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111671,
+      "followersCount": 111664,
       "friendsCount": 1297,
       "location": "Chicago, IL"
     },
@@ -364,7 +396,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100741,
+      "followersCount": 100737,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -415,8 +447,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72405,
-      "friendsCount": 3334,
+      "followersCount": 72401,
+      "friendsCount": 3335,
       "location": ""
     },
     "images": [],
@@ -447,7 +479,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55145,
+      "followersCount": 55141,
       "friendsCount": 347,
       "location": ""
     },
@@ -481,7 +513,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7847,
+      "followersCount": 7846,
       "friendsCount": 3369,
       "location": ""
     },
@@ -498,7 +530,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4008680,
+      "followersCount": 4008618,
       "friendsCount": 3,
       "location": ""
     },
@@ -513,7 +545,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4008680,
+      "followersCount": 4008618,
       "friendsCount": 3,
       "location": ""
     },
@@ -530,7 +562,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100741,
+      "followersCount": 100737,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -547,7 +579,7 @@
       "name": "YL (Yucheng Liu)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804221360907894784/MBHxAzRf_normal.jpg",
       "description": "⛴️ 帮助独立创客赚到出海第一桶金 via #出海去 @chuhaiqu \n📈 佐治亚理工 ➡️ 码弱 ➡️ TechLead ➡️ CTO ➡️ 超级个体 \n🦾 AI 一人独角兽必将出现 \n🏗️ https://t.co/n61VinGt5d 内容增长工程系统\n♊️ INTJ/ENTJ 左右横跳 \n📍 Boston",
-      "followersCount": 8787,
+      "followersCount": 8785,
       "friendsCount": 1458,
       "location": "出海孵化器 🚀 ❖❖❖❖❖◇◇◇◇◇ 100"
     },
@@ -867,6 +899,21 @@
       "name": "VICE GOLF",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1621542120048791555/sEt7coA1_normal.jpg",
       "description": "Embrace Your Vice.",
+      "followersCount": 18057,
+      "friendsCount": 242,
+      "location": "Munich"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VICE_GOLF/status/1897219283530527107",
+    "fullText": "The new Vice Boost set has landed! Designed to be everything a new golfer needs to start puring shots, it's a beginner set done in typical Vice Golf style that goes beyond your average starter set."
+  },
+  {
+    "user": {
+      "screenName": "VICE_GOLF",
+      "name": "VICE GOLF",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1621542120048791555/sEt7coA1_normal.jpg",
+      "description": "Embrace Your Vice.",
       "followersCount": 18059,
       "friendsCount": 242,
       "location": "Munich"
@@ -948,7 +995,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111671,
+      "followersCount": 111664,
       "friendsCount": 1297,
       "location": "Chicago, IL"
     },
