@@ -1,6 +1,43 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 25092,
+      "friendsCount": 110,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Glc1XGHbwAYCOnS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1898044560460382709",
+    "fullText": "明天领导不在家， 周末又可以和Cursor唠嗑唠嗑了。 https://t.co/zLcXFCUqb0"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
+      "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 2186,
+      "friendsCount": 212,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Glcvz9nbwAE8uHc.png",
+      "https://pbs.twimg.com/media/GlcxqwVbwAYUHZA.jpg",
+      "https://pbs.twimg.com/media/GlcyGs_bwAQR2l5.jpg",
+      "https://pbs.twimg.com/media/GlcyUQKbwAAXyY2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1898041386592878647",
+    "fullText": "兔子AI-PRO（https://t.co/5rDx3vAiUX）持续不降智中\n\n本周OpenAI体验\n- 4o  智力显著的提升\n- 4.5 展露可用之处\n- 用户开始抱怨deep research不够用😅，一个月重置1次额度也真的是要命\n\n竞争是个好东西，OpenAI融那么多钱（6.4万课GB200）期待再次大力出奇 https://t.co/cVdV5px5pW"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -20,7 +57,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111879,
+      "followersCount": 111885,
       "friendsCount": 1298,
       "location": "Chicago, IL"
     },
@@ -40,7 +77,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19655,
+      "followersCount": 19656,
       "friendsCount": 267,
       "location": "Guangdong"
     },
@@ -55,7 +92,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111879,
+      "followersCount": 111885,
       "friendsCount": 1298,
       "location": "Chicago, IL"
     },
@@ -90,7 +127,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7027,
+      "followersCount": 7028,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -126,7 +163,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19655,
+      "followersCount": 19656,
       "friendsCount": 267,
       "location": "Guangdong"
     },
@@ -143,7 +180,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 25088,
+      "followersCount": 25092,
       "friendsCount": 110,
       "location": "China"
     },
@@ -158,8 +195,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4778,
-      "friendsCount": 1169,
+      "followersCount": 4779,
+      "friendsCount": 1171,
       "location": ""
     },
     "images": [
@@ -175,7 +212,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. Bytedancer, ex Alibaba",
-      "followersCount": 5279,
+      "followersCount": 5280,
       "friendsCount": 306,
       "location": "杭州"
     },
@@ -207,7 +244,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17400,
+      "followersCount": 17401,
       "friendsCount": 2577,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -239,7 +276,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 139857,
+      "followersCount": 139888,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -276,7 +313,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. Bytedancer, ex Alibaba",
-      "followersCount": 5279,
+      "followersCount": 5280,
       "friendsCount": 306,
       "location": "杭州"
     },
@@ -293,8 +330,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27820,
-      "friendsCount": 530,
+      "followersCount": 27821,
+      "friendsCount": 531,
       "location": "Hong Kong"
     },
     "images": [],
@@ -340,7 +377,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17400,
+      "followersCount": 17401,
       "friendsCount": 2577,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -387,7 +424,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111879,
+      "followersCount": 111885,
       "friendsCount": 1298,
       "location": "Chicago, IL"
     },
@@ -402,7 +439,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100798,
+      "followersCount": 100799,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -437,8 +474,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4778,
-      "friendsCount": 1169,
+      "followersCount": 4779,
+      "friendsCount": 1171,
       "location": ""
     },
     "images": [
@@ -454,7 +491,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100798,
+      "followersCount": 100799,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -471,7 +508,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100798,
+      "followersCount": 100799,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -488,7 +525,7 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7867,
+      "followersCount": 7866,
       "friendsCount": 3372,
       "location": ""
     },
@@ -505,7 +542,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72442,
+      "followersCount": 72451,
       "friendsCount": 3334,
       "location": ""
     },
@@ -565,8 +602,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27820,
-      "friendsCount": 530,
+      "followersCount": 27821,
+      "friendsCount": 531,
       "location": "Hong Kong"
     },
     "images": [
@@ -582,7 +619,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 185666,
+      "followersCount": 185671,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -601,7 +638,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100798,
+      "followersCount": 100799,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -619,7 +656,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 185666,
+      "followersCount": 185671,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -653,7 +690,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100798,
+      "followersCount": 100799,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -689,7 +726,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100798,
+      "followersCount": 100799,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -1518,6 +1555,23 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897889649105707008/kfhbCcAo_normal.jpg",
       "description": "The 2024-25 NBA season continues Friday on ESPN! 🏀 7:30pm/et: @memgrizz/@dallasmavs🏀 10:00pm/et: @Suns/@nuggets",
+      "followersCount": 48135164,
+      "friendsCount": 2010,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1897470373819547648/vid/avc1/1280x720/F9vCcyJaT9W9zKM5.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1897470662689595789",
+    "fullText": "Bam hits from deep and the Heat lead midway through the 4Q 💪\n\nMIA-CLE | 6:11 to go | ESPN https://t.co/VNxYcrJZtx"
+  },
+  {
+    "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897889649105707008/kfhbCcAo_normal.jpg",
+      "description": "The 2024-25 NBA season continues Friday on ESPN! 🏀 7:30pm/et: @memgrizz/@dallasmavs🏀 10:00pm/et: @Suns/@nuggets",
       "followersCount": 48134747,
       "friendsCount": 2010,
       "location": ""
@@ -1535,7 +1589,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务",
-      "followersCount": 100798,
+      "followersCount": 100799,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -1552,7 +1606,7 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897889649105707008/kfhbCcAo_normal.jpg",
       "description": "The 2024-25 NBA season continues Friday on ESPN! 🏀 7:30pm/et: @memgrizz/@dallasmavs🏀 10:00pm/et: @Suns/@nuggets",
-      "followersCount": 48135698,
+      "followersCount": 48135164,
       "friendsCount": 2010,
       "location": ""
     },
