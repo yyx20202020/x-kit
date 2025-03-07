@@ -1,11 +1,65 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 139865,
+      "friendsCount": 1429,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlbnqVxbwAMeURF.jpg",
+      "https://pbs.twimg.com/media/GlbnqVxbwAAtVUZ.jpg",
+      "https://pbs.twimg.com/media/GlbnqVxbwAYxvn5.jpg",
+      "https://pbs.twimg.com/media/GlbnqV1bwAIkMtC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1897959017827516504",
+    "fullText": "一次完美的海岛落日。最近正读「我还能看到多少次满月升起」坂本龙一说确诊癌症后意识到人类对时间的感受是非线性的，我们常说活在当下，即是寻求每一个短暂而永恒的瞬间，这组成了我们对生命不连贯的体验。 https://t.co/cZurlCivNt"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
+      "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 2188,
+      "friendsCount": 212,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Glbkcx8a8AAVjYH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1897955649130316094",
+    "fullText": "都开始进入这个阶段了么，不支持第三方KEY接入🤡 https://t.co/8i2AXXkWUM"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. Bytedancer, ex Alibaba",
+      "followersCount": 5285,
+      "friendsCount": 303,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlbkGKlbwAEyZ9F.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1897955109314687277",
+    "fullText": "赚钱模式还是得看闲鱼，https://t.co/CzAtsN7gUF 邀请码代申请也能赚钱 https://t.co/vSEzsVq8LY"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27816,
+      "followersCount": 27819,
       "friendsCount": 530,
       "location": "Hong Kong"
     },
@@ -37,7 +91,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17398,
+      "followersCount": 17401,
       "friendsCount": 2578,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -54,7 +108,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 111830,
+      "followersCount": 111834,
       "friendsCount": 1298,
       "location": "Chicago, IL"
     },
@@ -104,7 +158,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4779,
+      "followersCount": 4778,
       "friendsCount": 1169,
       "location": ""
     },
@@ -155,8 +209,8 @@
       "name": "Cellinlab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7867,
-      "friendsCount": 3373,
+      "followersCount": 7868,
+      "friendsCount": 3372,
       "location": ""
     },
     "images": [
@@ -172,7 +226,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72440,
+      "followersCount": 72445,
       "friendsCount": 3334,
       "location": ""
     },
@@ -232,7 +286,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27816,
+      "followersCount": 27819,
       "friendsCount": 530,
       "location": "Hong Kong"
     },
@@ -249,7 +303,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 185658,
+      "followersCount": 185652,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -286,7 +340,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 185658,
+      "followersCount": 185652,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -339,7 +393,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55180,
+      "followersCount": 55181,
       "friendsCount": 347,
       "location": ""
     },
@@ -354,7 +408,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55180,
+      "followersCount": 55181,
       "friendsCount": 347,
       "location": ""
     },
@@ -394,6 +448,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/middlefeng/status/1897757853903180175",
     "fullText": "前两天睡眠不好，都是 4:30 就醒了睡不着。昨天半夜 3:00 醒了，很担心。结果果然感觉睡不着。翻来覆去一会决定索性起来。但是一看表已经 5:20 了。这中间肯定有一瞬间就睡了，然后一瞬间又醒了，都没感觉到睡着。"
+  },
+  {
+    "user": {
+      "screenName": "Variety",
+      "name": "Variety",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1610752949550186496/X5zYP9oV_normal.jpg",
+      "description": "The business of entertainment.",
+      "followersCount": 3002502,
+      "friendsCount": 209193,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1897745711514447872/vid/avc1/1920x1080/u_hEjoXlXvght3sk.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Variety/status/1897745750915694734",
+    "fullText": "Christina Ricci's star is revealed on the Hollywood Walk of Fame. https://t.co/72aXS2V2qp https://t.co/Nb7uEEZdCR"
   },
   {
     "user": {
@@ -448,7 +519,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55180,
+      "followersCount": 55181,
       "friendsCount": 347,
       "location": ""
     },
@@ -483,7 +554,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55180,
+      "followersCount": 55181,
       "friendsCount": 347,
       "location": ""
     },
@@ -510,6 +581,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/nishuang/status/1897681118549430687",
     "fullText": "路由器也有颜值？\n\n韩国电信的 Vibrant / 活力 路由器，机身和外壳分离，每个人可以选择符合自己喜好的外壳，套在难看、没有存在感的路由器外面，就变成了装饰、展示个性\n\n前两年获得了红点设计大奖\n\n#设计参考 \n\n我扭头看了一眼我们家的直男工业风路由器😭 https://t.co/n3BOvOicqG"
+  },
+  {
+    "user": {
+      "screenName": "Dexerto",
+      "name": "Dexerto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1714301666445402112/5U5myYFv_normal.jpg",
+      "description": "The leading source for influencer, streamer, gaming, and viral content",
+      "followersCount": 1028755,
+      "friendsCount": 890,
+      "location": "press[at]dexerto.com"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1897590738050789376/vid/avc1/1280x720/94OBzYBLWqJMw0__.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/Dexerto/status/1897678561877872760",
+    "fullText": "We sat down with @Amouranth for an unfiltered deep dive into the most controversial headlines written about her https://t.co/Th670FzxRD"
   },
   {
     "user": {
@@ -570,7 +658,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55180,
+      "followersCount": 55181,
       "friendsCount": 347,
       "location": ""
     },
@@ -1200,7 +1288,7 @@
       "name": "YL (Yucheng Liu)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804221360907894784/MBHxAzRf_normal.jpg",
       "description": "⛴️ 帮助独立创客赚到出海第一桶金 via #出海去 @chuhaiqu \n📈 佐治亚理工 ➡️ 码弱 ➡️ TechLead ➡️ CTO ➡️ 超级个体 \n🦾 AI 一人独角兽必将出现 \n🏗️ https://t.co/n61VinGt5d 内容增长工程系统\n♊️ INTJ/ENTJ 左右横跳 \n📍 Boston",
-      "followersCount": 8794,
+      "followersCount": 8795,
       "friendsCount": 1459,
       "location": "出海孵化器 🚀 ❖❖❖❖❖◇◇◇◇◇ 100"
     },
