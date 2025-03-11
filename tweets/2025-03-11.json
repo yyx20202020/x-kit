@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 27871,
+      "friendsCount": 534,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlxlJAlb0AEwL69.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1899504357777068074",
+    "fullText": "2025 年，windows电脑还是逃不掉安迪·比尔定律啊。2022 年买的 win 现在想连接个采集卡➕直播伴侣➕Cursor，用来直播，基本就是一卡一卡的状态了。还好有国补😂 https://t.co/eKbYIpBJCq"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4014277,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1899501967946465637",
+    "fullText": "Agent Tools for Developers\n\nhttps://t.co/giS4K1yNh9"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
+      "followersCount": 17509,
+      "friendsCount": 1073,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GlxhR5Hb0AAo40w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1899500119290269805",
+    "fullText": "捏碎干吃好美味，吃到最后一口又咸又麻辣 https://t.co/C16LI9LYGQ"
+  },
+  {
+    "user": {
       "screenName": "ovst36099",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
@@ -23,7 +72,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101085,
+      "followersCount": 101088,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -41,7 +90,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4014197,
+      "followersCount": 4014277,
       "friendsCount": 3,
       "location": ""
     },
@@ -56,7 +105,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55283,
+      "followersCount": 55296,
       "friendsCount": 351,
       "location": ""
     },
@@ -73,7 +122,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 25304,
+      "followersCount": 25305,
       "friendsCount": 113,
       "location": "China"
     },
@@ -88,7 +137,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17510,
+      "followersCount": 17509,
       "friendsCount": 1073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -105,7 +154,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17510,
+      "followersCount": 17509,
       "friendsCount": 1073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -122,7 +171,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5115,
+      "followersCount": 5118,
       "friendsCount": 1172,
       "location": ""
     },
@@ -156,7 +205,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17510,
+      "followersCount": 17509,
       "friendsCount": 1073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -235,7 +284,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 20863,
+      "followersCount": 20864,
       "friendsCount": 272,
       "location": "Guangdong"
     },
@@ -250,7 +299,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 140481,
+      "followersCount": 140482,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -268,7 +317,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17510,
+      "followersCount": 17509,
       "friendsCount": 1073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -285,7 +334,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17510,
+      "followersCount": 17509,
       "friendsCount": 1073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -302,7 +351,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. Bytedancer, ex Alibaba",
-      "followersCount": 5293,
+      "followersCount": 5294,
       "friendsCount": 306,
       "location": "杭州"
     },
@@ -334,7 +383,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55283,
+      "followersCount": 55296,
       "friendsCount": 351,
       "location": ""
     },
@@ -352,7 +401,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55283,
+      "followersCount": 55296,
       "friendsCount": 351,
       "location": ""
     },
@@ -370,7 +419,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17510,
+      "followersCount": 17509,
       "friendsCount": 1073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -387,7 +436,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5115,
+      "followersCount": 5118,
       "friendsCount": 1172,
       "location": ""
     },
@@ -436,7 +485,7 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898970534076977152/sutKnQBV_normal.jpg",
       "description": "The 2024-25 NBA season continues Tuesday on TNT! 🏀 7:30pm/et: @Bucks/@Pacers",
-      "followersCount": 48141879,
+      "followersCount": 48143131,
       "friendsCount": 2011,
       "location": ""
     },
@@ -453,7 +502,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55283,
+      "followersCount": 55296,
       "friendsCount": 351,
       "location": ""
     },
@@ -470,7 +519,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101085,
+      "followersCount": 101088,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -504,7 +553,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 20863,
+      "followersCount": 20864,
       "friendsCount": 272,
       "location": "Guangdong"
     },
@@ -521,7 +570,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 17510,
+      "followersCount": 17509,
       "friendsCount": 1073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -536,7 +585,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112531,
+      "followersCount": 112534,
       "friendsCount": 1302,
       "location": "Chicago, IL"
     },
@@ -553,7 +602,7 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898970534076977152/sutKnQBV_normal.jpg",
       "description": "The 2024-25 NBA season continues Tuesday on TNT! 🏀 7:30pm/et: @Bucks/@Pacers",
-      "followersCount": 48142743,
+      "followersCount": 48143131,
       "friendsCount": 2011,
       "location": ""
     },
@@ -587,7 +636,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112531,
+      "followersCount": 112534,
       "friendsCount": 1302,
       "location": "Chicago, IL"
     },
@@ -604,7 +653,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112531,
+      "followersCount": 112534,
       "friendsCount": 1302,
       "location": "Chicago, IL"
     },
@@ -622,7 +671,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112531,
+      "followersCount": 112534,
       "friendsCount": 1302,
       "location": "Chicago, IL"
     },
@@ -683,6 +732,23 @@
     ],
     "tweetUrl": "https://x.com/NBA/status/1899259527330988052",
     "fullText": "Cason ➡️ Wiggins ➡️ Cason ➡️  Wiggins\n\nClever play leads to 3 as OKC leads the Nuggets on NBA TV! https://t.co/CbjZ1VP5Yl"
+  },
+  {
+    "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898970534076977152/sutKnQBV_normal.jpg",
+      "description": "The 2024-25 NBA season continues Tuesday on TNT! 🏀 7:30pm/et: @Bucks/@Pacers",
+      "followersCount": 48143131,
+      "friendsCount": 2011,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1899257723398864896/vid/avc1/1280x720/V875qRula-GSPCl6.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1899258265130737915",
+    "fullText": "DALTON KNECHT 💥\n\nGabe Vincent and Luka set up the monster slam from the rook 😤 https://t.co/GcH8cAu4JM"
   },
   {
     "user": {
