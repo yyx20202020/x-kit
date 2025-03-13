@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 20957,
+      "friendsCount": 274,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gl8IK_bbUAAhMNc.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1900247324066197925",
+    "fullText": "学完 React 又看了几个例子，发现可以逐步看懂一些 Cherry Studio 的界面逻辑了，缺乏很多基础组件，比如以前桌面开发时的 SplitContainer 容器，可以鼠标左右拖动两边子容器的大小，比如 TabControl，可以点击标签切换容器内的内容，我看 Cherry Studio 里连个 TabControl 都要自己从头造，挺累的。 https://t.co/H2BIinahEB"
+  },
+  {
+    "user": {
       "screenName": "ovst36099",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
@@ -23,7 +40,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17552,
+      "followersCount": 17553,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -40,7 +57,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101182,
+      "followersCount": 101169,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -57,7 +74,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27873,
+      "followersCount": 27872,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -108,7 +125,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17552,
+      "followersCount": 17553,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -125,7 +142,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101182,
+      "followersCount": 101169,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -157,7 +174,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112877,
+      "followersCount": 112881,
       "friendsCount": 1303,
       "location": "Chicago, IL"
     },
@@ -176,7 +193,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112877,
+      "followersCount": 112881,
       "friendsCount": 1303,
       "location": "Chicago, IL"
     },
@@ -226,7 +243,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27873,
+      "followersCount": 27872,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -243,7 +260,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 140882,
+      "followersCount": 140884,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -261,7 +278,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17552,
+      "followersCount": 17553,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -279,7 +296,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17552,
+      "followersCount": 17553,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -296,7 +313,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17552,
+      "followersCount": 17553,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -316,7 +333,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 140882,
+      "followersCount": 140884,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -333,7 +350,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27873,
+      "followersCount": 27872,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -365,7 +382,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17552,
+      "followersCount": 17553,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -397,7 +414,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 52827,
+      "followersCount": 52819,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -459,7 +476,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27873,
+      "followersCount": 27872,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -492,7 +509,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 140882,
+      "followersCount": 140884,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -700,7 +717,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17552,
+      "followersCount": 17553,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -766,7 +783,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17552,
+      "followersCount": 17553,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -798,7 +815,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101182,
+      "followersCount": 101169,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -832,7 +849,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112877,
+      "followersCount": 112881,
       "friendsCount": 1303,
       "location": "Chicago, IL"
     },
@@ -973,7 +990,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112877,
+      "followersCount": 112881,
       "friendsCount": 1303,
       "location": "Chicago, IL"
     },
@@ -1007,7 +1024,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 45445,
+      "followersCount": 45501,
       "friendsCount": 0,
       "location": ""
     },
@@ -1169,7 +1186,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101182,
+      "followersCount": 101169,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -1186,7 +1203,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101182,
+      "followersCount": 101169,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -1658,7 +1675,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101182,
+      "followersCount": 101169,
       "friendsCount": 801,
       "location": "United States"
     },
