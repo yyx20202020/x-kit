@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 186020,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gl9ihcZb0AAFdXB.jpg",
+      "https://pbs.twimg.com/media/Gl9ihbabYAAIzte.jpg",
+      "https://pbs.twimg.com/media/Gl9ihj_WwAAvhqo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1900345909348561228",
+    "fullText": "我身边搞低代码编程（包括无代码编程）的同学，前后就有三四批。\n\n这个想法很好，确实很多人需要，但是很奇怪，他们无一例外都失败了。\n\n开发出来的低代码工具，开始还有一些好奇的用户，很快就不来了，用户越来越少。\n\n他们哪里没有做对，还是低代码编程本身就不可行？https://t.co/OF5c0ulJIu https://t.co/4x9uTz0gco"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 25302,
+      "friendsCount": 114,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1900340656062816497",
+    "fullText": "推特大佬们，有没有开源实现的deep research项目？\n\n根据用户输入关键字自动搜索网页，读取网页内容，自动提取内容，并归纳总结。\n\n需要支持离线大模型的，在线模型套壳的那种不用推荐哈。\n\n感谢大佬们。"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4017517,
+      "followersCount": 4017464,
       "friendsCount": 3,
       "location": ""
     },
@@ -20,7 +54,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112905,
+      "followersCount": 112914,
       "friendsCount": 1303,
       "location": "Chicago, IL"
     },
@@ -35,7 +69,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4017517,
+      "followersCount": 4017464,
       "friendsCount": 3,
       "location": ""
     },
@@ -70,7 +104,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55361,
+      "followersCount": 55365,
       "friendsCount": 351,
       "location": ""
     },
@@ -90,7 +124,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 20960,
+      "followersCount": 20959,
       "friendsCount": 274,
       "location": "Guangdong"
     },
@@ -125,7 +159,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17554,
+      "followersCount": 17556,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -142,7 +176,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101166,
+      "followersCount": 101154,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -159,7 +193,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27863,
+      "followersCount": 27862,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -210,7 +244,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17554,
+      "followersCount": 17556,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -227,7 +261,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101166,
+      "followersCount": 101154,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -244,7 +278,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112905,
+      "followersCount": 112914,
       "friendsCount": 1303,
       "location": "Chicago, IL"
     },
@@ -263,7 +297,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 112905,
+      "followersCount": 112914,
       "friendsCount": 1303,
       "location": "Chicago, IL"
     },
@@ -281,7 +315,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55361,
+      "followersCount": 55365,
       "friendsCount": 351,
       "location": ""
     },
@@ -298,7 +332,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55361,
+      "followersCount": 55365,
       "friendsCount": 351,
       "location": ""
     },
@@ -306,6 +340,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1900172192266281385",
     "fullText": "New York Shopping Trips by Canadians Dwindle Over Trump’s Taunts\nhttps://t.co/oNZjlL3LKL"
+  },
+  {
+    "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 11939,
+      "friendsCount": 2,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1900171563854684316",
+    "fullText": "The best shoes are the ones you forget you're wearing 😍 👟 Experience barefoot comfort with zero bulk, total flexibility, and a natural fit that moves with you. No stiff soles, no restrictions—just pure comfort for your feet. Try them today and feel the difference!"
   },
   {
     "user": {
@@ -328,7 +377,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27863,
+      "followersCount": 27862,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -345,7 +394,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 140839,
+      "followersCount": 140843,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -363,7 +412,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17554,
+      "followersCount": 17556,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -381,7 +430,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17554,
+      "followersCount": 17556,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -398,7 +447,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17554,
+      "followersCount": 17556,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -418,7 +467,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 140839,
+      "followersCount": 140843,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -435,7 +484,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27863,
+      "followersCount": 27862,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -452,7 +501,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17554,
+      "followersCount": 17556,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -469,7 +518,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 52824,
+      "followersCount": 52820,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -501,7 +550,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27863,
+      "followersCount": 27862,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -519,7 +568,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 140839,
+      "followersCount": 140843,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -570,7 +619,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17554,
+      "followersCount": 17556,
       "friendsCount": 1121,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -587,7 +636,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101166,
+      "followersCount": 101154,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -597,6 +646,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/nishuang/status/1900029826972475763",
     "fullText": "分享一个背单词领域的效率工具 Migaku\n\n#活到死学到死\n\n我坚决反对背单词，别扯什么 Duolingo、Anki…我都用大量听播客、看视频来学新单词\n\n但人都逃不开生、死、交税和背单词，然后我就找到了 Migaku：\n\n- 看网页、看视频时自己采集生词\n- 按照上下文解释生词（应该用了AI）\n- 生成带上下文的单词卡 https://t.co/xLFUWAofPd"
+  },
+  {
+    "user": {
+      "screenName": "ARIFURETA_rebe",
+      "name": "ありふれた職業で世界最強 リベリオンソウル",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850720180168720384/J7m1EJUn_normal.jpg",
+      "description": "この錬成師、世界最強。\nTVアニメ「ありふれた職業で世界最強」を題材としたファンタジーRPG！\n#ありリベ #ありふれた #G123",
+      "followersCount": 16903,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ARIFURETA_rebe/status/1900008755405947232",
+    "fullText": "あなたが知らない新たなゲーム\n\nちょっとだけ遊んでみる👀"
   },
   {
     "user": {
@@ -615,11 +679,26 @@
   },
   {
     "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 45511,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1899982232166752361",
+    "fullText": "🎒🌟 Travel Is Easy Now!\nhttps://t.co/JLnEOUPAg4"
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101166,
+      "followersCount": 101154,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -636,7 +715,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55361,
+      "followersCount": 55365,
       "friendsCount": 351,
       "location": ""
     },
@@ -647,11 +726,26 @@
   },
   {
     "user": {
+      "screenName": "canlesofficial",
+      "name": "Canles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
+      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
+      "followersCount": 11939,
+      "friendsCount": 2,
+      "location": "Vancouver, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/canlesofficial/status/1899825968673685819",
+    "fullText": "The best shoes are the ones you forget you're wearing 😍 👟 Experience barefoot comfort with zero bulk, total flexibility, and a natural fit that moves with you. No stiff soles, no restrictions—just pure comfort for your feet. Try them today and feel the difference!"
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101166,
+      "followersCount": 101154,
       "friendsCount": 801,
       "location": "United States"
     },
@@ -668,7 +762,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29872511,
+      "followersCount": 29872047,
       "friendsCount": 228,
       "location": ""
     },
