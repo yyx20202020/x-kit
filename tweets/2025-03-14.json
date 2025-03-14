@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 20658,
+      "friendsCount": 1013,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GmA4I2ubEAAxyE1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1900581660380528859",
+    "fullText": "我今天探索了下 Gemini 2.0 Flash 图文混合生成，效果惊人！还顺便写了个将 Gemini 2.0 生成的帧图自动合并成 GIF 的代码（走 API 可以去水印）：\n文章：https://t.co/yvFOzwC1WI\n代码：https://t.co/nMaSgZNpJe https://t.co/WdYemeNn2J"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
@@ -20,7 +37,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7024,
+      "followersCount": 7023,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -35,7 +52,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27869,
+      "followersCount": 27868,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -50,7 +67,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 20959,
+      "followersCount": 20960,
       "friendsCount": 274,
       "location": "Guangdong"
     },
@@ -116,7 +133,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27869,
+      "followersCount": 27868,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -183,7 +200,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17661,
+      "followersCount": 17667,
       "friendsCount": 1132,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -266,7 +283,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17661,
+      "followersCount": 17667,
       "friendsCount": 1132,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -283,7 +300,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. Bytedancer, ex Alibaba",
-      "followersCount": 5289,
+      "followersCount": 5286,
       "friendsCount": 310,
       "location": "杭州"
     },
@@ -315,7 +332,7 @@
       "name": "Cell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7918,
+      "followersCount": 7920,
       "friendsCount": 3378,
       "location": ""
     },
@@ -332,7 +349,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17661,
+      "followersCount": 17667,
       "friendsCount": 1132,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -349,7 +366,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27869,
+      "followersCount": 27868,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -381,7 +398,7 @@
       "name": "Cell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7918,
+      "followersCount": 7920,
       "friendsCount": 3378,
       "location": ""
     },
@@ -398,7 +415,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17661,
+      "followersCount": 17667,
       "friendsCount": 1132,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -415,7 +432,7 @@
       "name": "Cell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7918,
+      "followersCount": 7920,
       "friendsCount": 3378,
       "location": ""
     },
@@ -449,7 +466,7 @@
       "name": "Cell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7918,
+      "followersCount": 7920,
       "friendsCount": 3378,
       "location": ""
     },
@@ -466,7 +483,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17661,
+      "followersCount": 17667,
       "friendsCount": 1132,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -483,7 +500,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 140943,
+      "followersCount": 140950,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -503,7 +520,7 @@
       "name": "Cell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7918,
+      "followersCount": 7920,
       "friendsCount": 3378,
       "location": ""
     },
@@ -520,7 +537,7 @@
       "name": "Cell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀   巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7918,
+      "followersCount": 7920,
       "friendsCount": 3378,
       "location": ""
     },
@@ -584,7 +601,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 17661,
+      "followersCount": 17667,
       "friendsCount": 1132,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
