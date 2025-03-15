@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 25395,
+      "friendsCount": 114,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GmEO81GbcAIhNMw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1900817338481676475",
+    "fullText": "手头这个Dell G16的笔记本是一块Cherry MX的机械键盘， 手感极佳。\n\n这个电脑什么都好， 就是太重了。\n\n推友们，有没有自带机械键盘， 不带N卡的， 轻薄的笔记本？ https://t.co/iScZ4ql3A9"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 27872,
+      "friendsCount": 534,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GmENTTzbcAMlQHZ.jpg",
+      "https://pbs.twimg.com/media/GmENsBraoAAmMX-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1900815574764273678",
+    "fullText": "北京 6 年鸡肉爱好者总结:   在北京吃白切鸡，鸡煲这些，基本人均 500 以下的餐厅出品都不稳定，你可能上次吃着这个鸡特别好特别嫩，下次来可能就很糟糕，全靠运气，要想稳定的出品就得去五星级酒店或者高级餐厅（图为今天在鸡记，388 一只的鸡给我这出品🥴）这点比起广东这是差太多了.... https://t.co/OJH0tKj89c"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8073,
+      "friendsCount": 291,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1900814331672928303",
+    "fullText": "公司以前买了家小公司的 SaaS 产品，到期不续费，任何功能都不能用了 😂 甚至连数据都不能导出，不能查看。以前没接触过什么 SaaS 产品，这类软件是不是都这么搞的？太他妈狠了。"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 140935,
+      "followersCount": 140937,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -61,7 +111,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18006,
+      "followersCount": 18014,
       "friendsCount": 1141,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -78,7 +128,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18006,
+      "followersCount": 18014,
       "friendsCount": 1141,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -95,7 +145,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18006,
+      "followersCount": 18014,
       "friendsCount": 1141,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -112,7 +162,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18006,
+      "followersCount": 18014,
       "friendsCount": 1141,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -147,7 +197,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18006,
+      "followersCount": 18014,
       "friendsCount": 1141,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -183,7 +233,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLQgVt ｜ 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18006,
+      "followersCount": 18014,
       "friendsCount": 1141,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -249,7 +299,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113088,
+      "followersCount": 113096,
       "friendsCount": 1303,
       "location": "Chicago, IL"
     },
@@ -330,7 +380,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21063,
+      "followersCount": 21077,
       "friendsCount": 275,
       "location": "Guangdong"
     },
@@ -505,7 +555,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55447,
+      "followersCount": 55448,
       "friendsCount": 351,
       "location": ""
     },
@@ -558,7 +608,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55447,
+      "followersCount": 55448,
       "friendsCount": 351,
       "location": ""
     },
@@ -575,7 +625,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 25394,
+      "followersCount": 25395,
       "friendsCount": 114,
       "location": "China"
     },
@@ -590,7 +640,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27877,
+      "followersCount": 27872,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -639,7 +689,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113088,
+      "followersCount": 113096,
       "friendsCount": 1303,
       "location": "Chicago, IL"
     },
@@ -669,7 +719,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27877,
+      "followersCount": 27872,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -684,7 +734,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21063,
+      "followersCount": 21077,
       "friendsCount": 275,
       "location": "Guangdong"
     },
@@ -733,7 +783,7 @@
       "name": "Canles",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
       "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11959,
+      "followersCount": 11960,
       "friendsCount": 2,
       "location": "Vancouver, Canada"
     },
@@ -763,7 +813,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55447,
+      "followersCount": 55448,
       "friendsCount": 351,
       "location": ""
     },
@@ -778,7 +828,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27877,
+      "followersCount": 27872,
       "friendsCount": 534,
       "location": "Hong Kong"
     },
@@ -1268,6 +1318,21 @@
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/kumoko_laby_en/status/1900367621725577423",
+    "fullText": "培育蜘蛛子來殺時間吧\n\n等級提升太神啦"
+  },
+  {
+    "user": {
+      "screenName": "kumoko_laby_en",
+      "name": "So I'm a Spider, So What? Ruler of the Labyrinth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1805421500641820672/ZUBAgnhP_normal.jpg",
+      "description": "Kumoko's coming back. 🕷🕸️\nA dungeon RPG based on the anime \"So I'm a Spider, So What?\"!\nDiscord：https://t.co/xjaSarTarG\n#SpiderRotL #SoImASpider",
+      "followersCount": 7335,
+      "friendsCount": 5,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/kumoko_laby_en/status/1900367614159012017",
     "fullText": "培育蜘蛛子來殺時間吧\n\n等級提升太神啦"
   },
   {
