@@ -1,11 +1,30 @@
 [
   {
     "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
+      "followersCount": 101226,
+      "friendsCount": 803,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GmLkQ89aUAAk9eU.jpg",
+      "https://pbs.twimg.com/media/GmLkSXcWAAAy5VC.jpg",
+      "https://pbs.twimg.com/media/GmLnz4xXgAAgXoi.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nishuang/status/1901336877669536017",
+    "fullText": "Logo 设计应该写实还是抽象\n\n#迷你设计课\n\n创业公司、独立开发者不能学大品牌玩抽象（什么一道勾、三道杠），设计 logo 要很具象、直接代表你的产品，方便用户识别和记忆\n\n比如美团外卖的 logo 是写实的袋鼠+广告语，几十亿营销、占领用户心智多年之后，才把 logo 升级成抽象的袋鼠脑袋 https://t.co/QNK7h1UWhp"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27932,
+      "followersCount": 27936,
       "friendsCount": 538,
       "location": "Hong Kong"
     },
@@ -22,7 +41,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113229,
+      "followersCount": 113235,
       "friendsCount": 1304,
       "location": "Chicago, IL"
     },
@@ -41,7 +60,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149448,
+      "followersCount": 149449,
       "friendsCount": 466,
       "location": "中华人民共和国"
     },
@@ -58,7 +77,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27932,
+      "followersCount": 27936,
       "friendsCount": 538,
       "location": "Hong Kong"
     },
@@ -75,7 +94,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18537,
+      "followersCount": 18538,
       "friendsCount": 1190,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -92,7 +111,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5212,
+      "followersCount": 5211,
       "friendsCount": 1171,
       "location": ""
     },
@@ -124,7 +143,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18537,
+      "followersCount": 18538,
       "friendsCount": 1190,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -141,7 +160,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5212,
+      "followersCount": 5211,
       "friendsCount": 1171,
       "location": ""
     },
@@ -158,7 +177,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18537,
+      "followersCount": 18538,
       "friendsCount": 1190,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -173,7 +192,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 2278,
+      "followersCount": 2279,
       "friendsCount": 215,
       "location": "NewYork"
     },
@@ -190,7 +209,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 27932,
+      "followersCount": 27936,
       "friendsCount": 538,
       "location": "Hong Kong"
     },
@@ -207,7 +226,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18537,
+      "followersCount": 18538,
       "friendsCount": 1190,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -222,7 +241,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18537,
+      "followersCount": 18538,
       "friendsCount": 1190,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -254,7 +273,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18537,
+      "followersCount": 18538,
       "friendsCount": 1190,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -271,7 +290,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18537,
+      "followersCount": 18538,
       "friendsCount": 1190,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -289,7 +308,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18537,
+      "followersCount": 18538,
       "friendsCount": 1190,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -368,7 +387,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897255581985202177/OuDGPD6q_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 103301,
+      "followersCount": 103305,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -498,7 +517,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113229,
+      "followersCount": 113235,
       "friendsCount": 1304,
       "location": "Chicago, IL"
     },
@@ -515,7 +534,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113229,
+      "followersCount": 113235,
       "friendsCount": 1304,
       "location": "Chicago, IL"
     },
@@ -603,7 +622,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113229,
+      "followersCount": 113235,
       "friendsCount": 1304,
       "location": "Chicago, IL"
     },
@@ -654,7 +673,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18537,
+      "followersCount": 18538,
       "friendsCount": 1190,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -687,7 +706,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897255581985202177/OuDGPD6q_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 103301,
+      "followersCount": 103305,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -750,7 +769,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
       "followersCount": 21308,
-      "friendsCount": 275,
+      "friendsCount": 276,
       "location": "Guangdong"
     },
     "images": [],
@@ -1079,7 +1098,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 45470,
+      "followersCount": 45473,
       "friendsCount": 0,
       "location": ""
     },
