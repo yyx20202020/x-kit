@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 55814,
+      "friendsCount": 352,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1902057058872258663",
+    "fullText": "Sea Change! \n加拿大和美国的同盟关系，正在发生改变\n特朗普是求仁得仁了吗？\nhttps://t.co/TgqHGp905f"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28072,
+      "friendsCount": 537,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1902051730801758208/pu/vid/avc1/1920x1080/EgPb-jfGK5o6Nlzu.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1902054501831585864",
+    "fullText": "国内个人主体如何解决收款问题？这个视频我会教大家如何接入Zpay等第三方支付，实现微信和支付宝收款。这个平台我2年副业收款了小几万，还是很安全和靠谱的。因为考虑到我的学员都是零基础的编程新手，如果想网站收款我还是比较推荐这类第三方的，88元的开户费比起成立个体和公司的成本要小。这个网站 https://t.co/EfhTuR1vHw"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21438,
+      "followersCount": 21434,
       "friendsCount": 276,
       "location": "Guangdong"
     },
@@ -22,7 +54,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1770805803932364800/yJnlxO2f_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 17882,
+      "followersCount": 17881,
       "friendsCount": 795,
       "location": "Mountain View, CA"
     },
@@ -39,7 +71,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 25414,
+      "followersCount": 25415,
       "friendsCount": 114,
       "location": "China"
     },
@@ -56,7 +88,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55815,
+      "followersCount": 55814,
       "friendsCount": 352,
       "location": ""
     },
@@ -107,7 +139,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113468,
+      "followersCount": 113469,
       "friendsCount": 1304,
       "location": "Chicago, IL"
     },
@@ -122,7 +154,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 25414,
+      "followersCount": 25415,
       "friendsCount": 114,
       "location": "China"
     },
@@ -139,7 +171,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21438,
+      "followersCount": 21434,
       "friendsCount": 276,
       "location": "Guangdong"
     },
@@ -203,7 +235,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28070,
+      "followersCount": 28072,
       "friendsCount": 537,
       "location": "Hong Kong"
     },
@@ -235,7 +267,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21438,
+      "followersCount": 21434,
       "friendsCount": 276,
       "location": "Guangdong"
     },
@@ -304,7 +336,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 141286,
+      "followersCount": 141316,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -341,7 +373,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101258,
+      "followersCount": 101262,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -388,7 +420,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8091,
+      "followersCount": 8093,
       "friendsCount": 291,
       "location": ""
     },
@@ -403,7 +435,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55815,
+      "followersCount": 55814,
       "friendsCount": 352,
       "location": ""
     },
@@ -433,7 +465,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55815,
+      "followersCount": 55814,
       "friendsCount": 352,
       "location": ""
     },
@@ -450,7 +482,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897255581985202177/OuDGPD6q_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 103455,
+      "followersCount": 103456,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -465,7 +497,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101258,
+      "followersCount": 101262,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -516,7 +548,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21438,
+      "followersCount": 21434,
       "friendsCount": 276,
       "location": "Guangdong"
     },
@@ -563,7 +595,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28070,
+      "followersCount": 28072,
       "friendsCount": 537,
       "location": "Hong Kong"
     },
@@ -614,7 +646,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55815,
+      "followersCount": 55814,
       "friendsCount": 352,
       "location": ""
     },
@@ -663,7 +695,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 52946,
+      "followersCount": 52948,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -732,7 +764,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101258,
+      "followersCount": 101262,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -1745,6 +1777,23 @@
     ],
     "tweetUrl": "https://x.com/nypostsports/status/1901436261841158384",
     "fullText": "“When you pass Storrs on the way by, just wave to them” \n\nRick Pitino previews the NCAA Tournament and takes down UCONN along the way 🤣 https://t.co/VyvLSctiiJ"
+  },
+  {
+    "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901858108789735424/9uFunhKO_normal.jpg",
+      "description": "The 2024-25 NBA season continues Tuesday on NBA TV! 🏀 7:30pm/et: @BrooklynNets/@celtics 🏀 10:00pm/et: @Bucks/@warriors",
+      "followersCount": 48174664,
+      "friendsCount": 2011,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1901435285369479169/vid/avc1/1280x720/q7M6fP2HwxKgbBB1.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1901435746122170706",
+    "fullText": "ANT DRILLS THE 3 FOR 41 PTS 🔥\n\nWith the 4th quarter still left to play... https://t.co/fIinmvZUPI"
   },
   {
     "user": {
