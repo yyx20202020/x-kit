@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 21408,
+      "friendsCount": 276,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GmUVvgxasAAS_NX.png",
+      "https://pbs.twimg.com/media/GmUVxuvaMAAMqN7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1901951162540286332",
+    "fullText": "整数范围快速判断方法，有傻鸟居然以为指令数多就一定慢，第一种写法有两处分支但少一条整数运算指令，第二种写法多了一条整数运算但只有一处分支，且不说很多指令是可以并行执行的，他连分支预测失败的代价到底有多搞都不清楚，我下面就放着的评测代码都懒得跑一下，就要来到处教别人做人。 https://t.co/dRPfxRXpLh"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -56,7 +74,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 141250,
+      "followersCount": 141251,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -76,7 +94,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -93,7 +111,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101221,
+      "followersCount": 101222,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -110,7 +128,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -125,7 +143,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -202,7 +220,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897255581985202177/OuDGPD6q_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 103403,
+      "followersCount": 103404,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -217,7 +235,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101221,
+      "followersCount": 101222,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -234,7 +252,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -268,7 +286,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21407,
+      "followersCount": 21408,
       "friendsCount": 276,
       "location": "Guangdong"
     },
@@ -285,7 +303,7 @@
       "name": "MultiCryptos - #1 Best Crypto Tax Software",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1854986461465972736/Qti9HYh-_normal.jpg",
       "description": "Calculate your DeFi, NFT, & crypto taxes plus file your\nstate and federal taxes all without ever leaving the app.",
-      "followersCount": 2813,
+      "followersCount": 2812,
       "friendsCount": 108,
       "location": "United State"
     },
@@ -300,7 +318,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -332,7 +350,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -450,7 +468,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113403,
+      "followersCount": 113407,
       "friendsCount": 1304,
       "location": "Chicago, IL"
     },
@@ -467,7 +485,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113403,
+      "followersCount": 113407,
       "friendsCount": 1304,
       "location": "Chicago, IL"
     },
@@ -484,7 +502,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101221,
+      "followersCount": 101222,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -551,7 +569,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101221,
+      "followersCount": 101222,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -568,7 +586,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101221,
+      "followersCount": 101222,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -636,7 +654,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113403,
+      "followersCount": 113407,
       "friendsCount": 1304,
       "location": "Chicago, IL"
     },
@@ -811,7 +829,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -843,7 +861,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -873,7 +891,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -907,7 +925,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 141250,
+      "followersCount": 141251,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -942,7 +960,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18547,
+      "followersCount": 18552,
       "friendsCount": 1230,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1648,7 +1666,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101221,
+      "followersCount": 101222,
       "friendsCount": 803,
       "location": "United States"
     },
