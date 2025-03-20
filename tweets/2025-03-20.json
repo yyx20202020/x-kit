@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 21465,
+      "friendsCount": 277,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1902734935099891947",
+    "fullText": "儿子：“家长座谈会就像 mc 里的幸运方块，你永远不知道下面是一个宝箱还是一只僵尸，每次你们开完我都不知道回来是要挨你们一顿批还是要被你们表扬”，我说你为啥每次抱怨的时候都能形容的很好，但写起作文来却什么都写不出来？"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18544,
+      "followersCount": 18545,
+      "friendsCount": 1254,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GmfaeX4akAAH_8Y.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1902734129298604527",
+    "fullText": "Infini被盗5000万美金后续来了，指控其工程师赌博成性 ，吃瓜链接放评论区\n\n现在觉得币安之前给员工炒币设限是很有道理的，如果不管着，人人都可能爆仓，交易所秒变狼人杀，表面矜矜业业上班，实际上心里都想着使坏了，老板还睡得着不？ https://t.co/KSwRxko4QU"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 141719,
+      "friendsCount": 1429,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GmfdDegWgAAsUDG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1902732435323760903",
+    "fullText": "一波三折终于拿到 F1 上海大奖赛的 legend pass，咱们明天上赛见！ https://t.co/qDan8NCmeb"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 18545,
       "friendsCount": 1254,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -37,7 +86,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55938,
+      "followersCount": 55942,
       "friendsCount": 352,
       "location": ""
     },
@@ -54,7 +103,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55938,
+      "followersCount": 55942,
       "friendsCount": 352,
       "location": ""
     },
@@ -71,7 +120,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101386,
+      "followersCount": 101384,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -88,7 +137,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18544,
+      "followersCount": 18545,
       "friendsCount": 1254,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -103,7 +152,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18544,
+      "followersCount": 18545,
       "friendsCount": 1254,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -121,7 +170,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18544,
+      "followersCount": 18545,
       "friendsCount": 1254,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -138,7 +187,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21466,
+      "followersCount": 21465,
       "friendsCount": 277,
       "location": "Guangdong"
     },
@@ -155,7 +204,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18544,
+      "followersCount": 18545,
       "friendsCount": 1254,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -192,7 +241,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28237,
+      "followersCount": 28235,
       "friendsCount": 548,
       "location": "Hong Kong"
     },
@@ -210,7 +259,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18544,
+      "followersCount": 18545,
       "friendsCount": 1254,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -240,7 +289,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1770805803932364800/yJnlxO2f_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 17912,
+      "followersCount": 17913,
       "friendsCount": 798,
       "location": "Mountain View, CA"
     },
@@ -272,7 +321,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18544,
+      "followersCount": 18545,
       "friendsCount": 1254,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -309,7 +358,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101386,
+      "followersCount": 101384,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -363,7 +412,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101386,
+      "followersCount": 101384,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -397,7 +446,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55938,
+      "followersCount": 55942,
       "friendsCount": 352,
       "location": ""
     },
@@ -589,7 +638,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55938,
+      "followersCount": 55942,
       "friendsCount": 352,
       "location": ""
     },
@@ -604,7 +653,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72831,
+      "followersCount": 72833,
       "friendsCount": 3356,
       "location": ""
     },
@@ -621,7 +670,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72831,
+      "followersCount": 72833,
       "friendsCount": 3356,
       "location": ""
     },
@@ -655,7 +704,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 113823,
+      "followersCount": 113825,
       "friendsCount": 1305,
       "location": "Chicago, IL"
     },
@@ -706,7 +755,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55938,
+      "followersCount": 55942,
       "friendsCount": 352,
       "location": ""
     },
@@ -736,7 +785,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 55938,
+      "followersCount": 55942,
       "friendsCount": 352,
       "location": ""
     },
@@ -963,7 +1012,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101386,
+      "followersCount": 101384,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -1050,7 +1099,7 @@
       "name": "Metal Pay",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887242803282890752/g3beCyP9_normal.jpg",
       "description": "The easiest way to buy crypto by @MetallicusTDBN. 24/7 Human Support with @MetalHelpsMe",
-      "followersCount": 72633,
+      "followersCount": 72637,
       "friendsCount": 146,
       "location": "San Francisco, CA"
     },
@@ -1147,7 +1196,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101386,
+      "followersCount": 101384,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -1182,7 +1231,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101386,
+      "followersCount": 101384,
       "friendsCount": 803,
       "location": "United States"
     },
@@ -1876,6 +1925,21 @@
   },
   {
     "user": {
+      "screenName": "VaporTechAssoc",
+      "name": "Vapor Technology Association",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1598357402738368513/H2e0BlsC_normal.jpg",
+      "description": "VTA is a leading vapor trade association protecting the U.S. vapor industry and promoting the importance of tobacco harm reduction. #SaveVapor",
+      "followersCount": 7095,
+      "friendsCount": 137,
+      "location": "Washington, D.C."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VaporTechAssoc/status/1902094418116845791",
+    "fullText": "Mr. President:\n\nWe kept our promise and now it’s time to keep yours - save the flavored vaping industry!\n\n#SaveVaping #KeepYourPromise"
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
@@ -1933,7 +1997,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28237,
+      "followersCount": 28235,
       "friendsCount": 548,
       "location": "Hong Kong"
     },
