@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
+      "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 2305,
+      "friendsCount": 225,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GmvJ3lpa0AAXzxG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1903838768295203064",
+    "fullText": "What fuck！\n今天重新用Cursor排版了UI，已经很小心的一个一个功能区改过去了；结果在完工后打算写个公告，发现不知道什么时候Cursor就已经帮我写了🫠\n\n下次提示词是不是都要带上：“TMD如果你再多写或多删除，我没要求的内容；我10000%会拔掉你的电源开关！！” https://t.co/1suynqVV73"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 114197,
+      "friendsCount": 1305,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GmvGRQoW0AA8bwa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1903833401582346601",
+    "fullText": "如何写好提示词？手把手教你用提示词玩转 AI（1）\n\n如今，AI 已经无处不在，从聊天机器人、内容创作、程序开发，到工作学习中的各种辅助工具。但你有没有遇到过这样的情况？\n• AI 给出的答案文不对题？\n• 输出的内容一团糟？\n• 生成的文本不够具体，无法直接使用？\n\n这些问题的根源，往往并不在 https://t.co/VTjLiKlkKy"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8001,
+      "followersCount": 8000,
       "friendsCount": 3382,
       "location": ""
     },
@@ -22,7 +56,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8001,
+      "followersCount": 8000,
       "friendsCount": 3382,
       "location": ""
     },
@@ -133,7 +167,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897255581985202177/OuDGPD6q_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 103706,
+      "followersCount": 103712,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -148,7 +182,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 25926,
+      "followersCount": 25943,
       "friendsCount": 114,
       "location": "China"
     },
@@ -248,7 +282,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53056,
+      "followersCount": 53060,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -263,7 +297,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 25926,
+      "followersCount": 25943,
       "friendsCount": 114,
       "location": "China"
     },
@@ -297,7 +331,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142211,
+      "followersCount": 142214,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -349,7 +383,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101508,
+      "followersCount": 101506,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -366,7 +400,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142211,
+      "followersCount": 142214,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -386,7 +420,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142211,
+      "followersCount": 142214,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -406,7 +440,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142211,
+      "followersCount": 142214,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -425,7 +459,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101508,
+      "followersCount": 101506,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -442,7 +476,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53056,
+      "followersCount": 53060,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -491,7 +525,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101508,
+      "followersCount": 101506,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -508,7 +542,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101508,
+      "followersCount": 101506,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -525,7 +559,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101508,
+      "followersCount": 101506,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -593,7 +627,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56127,
+      "followersCount": 56129,
       "friendsCount": 354,
       "location": ""
     },
@@ -661,7 +695,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56127,
+      "followersCount": 56129,
       "friendsCount": 354,
       "location": ""
     },
@@ -678,7 +712,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56127,
+      "followersCount": 56129,
       "friendsCount": 354,
       "location": ""
     },
@@ -697,7 +731,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114185,
+      "followersCount": 114197,
       "friendsCount": 1305,
       "location": "Chicago, IL"
     },
@@ -714,7 +748,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101508,
+      "followersCount": 101506,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -782,7 +816,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101508,
+      "followersCount": 101506,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -1477,6 +1511,21 @@
     ],
     "tweetUrl": "https://x.com/MarchMadnessWBB/status/1903155649065693206",
     "fullText": "Stop and Pop 👌 \n\n#MarchMadness https://t.co/AhMYS6EKC8"
+  },
+  {
+    "user": {
+      "screenName": "GetAllermi",
+      "name": "Allermi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1781049171774201857/ue0pj0Lx_normal.jpg",
+      "description": "Allergy relief, redesigned. Made for allergy sufferers who've tried everything. Designed & delivered by experienced allergists.",
+      "followersCount": 34,
+      "friendsCount": 28,
+      "location": "California"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GetAllermi/status/1903148099662454791",
+    "fullText": "\"I’m breathing better and sleeping better for the first time in years. Allermi has been 10x better than anything else!\" \n\nAllermi's Custom Rx Nasal Spray targets the root cause of congestion - inflammation of the nasal passage‼️\n\nUnlock your LIMITED OFFER Today!"
   },
   {
     "user": {
