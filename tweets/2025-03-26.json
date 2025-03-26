@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28224,
+      "friendsCount": 550,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1904783615629943079",
+    "fullText": "请教下各位大佬，今天哪个第三方的API服务商，支持了最新的GPT-4的API调用？准备晚上B站直播的时候调用API做个小项目"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 56486,
+      "friendsCount": 353,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1904780605969359292",
+    "fullText": "【友邦惊诧：特朗普高级官员聊天群成员面临诉讼】\n就特朗普高级内阁成员用Signal聊天，讨论对胡塞武装进行袭击的详细计划，并且还把《大西洋月刊》的主编Jeffrey Goldberg误拉进这个聊天群组的乌龙事件，大家应该都知道了吧？\n\nJeffrey"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28224,
+      "friendsCount": 550,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gm8ipLZbYAMxIDH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1904779268002918608",
+    "fullText": "第二场小红书直播结束，突破了单量等比数列的魔咒。复盘一下，如果在小红书直播还是一定得用竖屏，采用上下分屏的方式。这样效果会好很多。 https://t.co/1z7ruZmvwN"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114463,
+      "followersCount": 114470,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -24,8 +71,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18467,
-      "friendsCount": 1316,
+      "followersCount": 18470,
+      "friendsCount": 1317,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -37,11 +84,28 @@
   },
   {
     "user": {
+      "screenName": "Repponetwork",
+      "name": "Reppo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1827029263998164992/uXvwthGz_normal.jpg",
+      "description": "The Fuelling Station for AI | Backed by @protocollabs @cmsholdings @mh_ventures",
+      "followersCount": 34142,
+      "friendsCount": 39,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gm8WATjbMAAj698.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Repponetwork/status/1904767446273450172",
+    "fullText": "https://t.co/D0jsLWEIsl beta is live. \n\nPlease note this is NOT a testnet and the platform is not fully functional yet. This means RFDs are not actively being solved. \n\nWe encourage everyone who signed up for the Solver Node Sale to familiarize themselves with the Reppo Data https://t.co/JQ76HUckoH"
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101515,
+      "followersCount": 101517,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -59,7 +123,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114463,
+      "followersCount": 114470,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -76,7 +140,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72929,
+      "followersCount": 72927,
       "friendsCount": 3360,
       "location": ""
     },
@@ -91,7 +155,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897255581985202177/OuDGPD6q_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 103784,
+      "followersCount": 103787,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -140,8 +204,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18467,
-      "friendsCount": 1316,
+      "followersCount": 18470,
+      "friendsCount": 1317,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -155,7 +219,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26108,
+      "followersCount": 26110,
       "friendsCount": 114,
       "location": "China"
     },
@@ -172,7 +236,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114463,
+      "followersCount": 114470,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -306,7 +370,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101515,
+      "followersCount": 101517,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -323,7 +387,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4030210,
+      "followersCount": 4030243,
       "friendsCount": 3,
       "location": ""
     },
@@ -418,6 +482,21 @@
       "name": "MysteryVibe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1781276812028301312/odbjsWS5_normal.jpg",
       "description": "World-leader in Women's & Men's Health Devices. Award-winning, doctor-recommended devices to make sexual health accessible to all.",
+      "followersCount": 11359,
+      "friendsCount": 1973,
+      "location": "LON · NY · LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mysteryvibe/status/1904590618296250534",
+    "fullText": "\"DO NOT BUY THIS. I’ve peaked. There’s no going up from here. \n\nTenuto Mini has officially ruined me. I’ve set the bar so high that my partner thinks I’m a wizard. What do I do when they realize I’m just me?”\n\nSave big with up to 45% OFF!"
+  },
+  {
+    "user": {
+      "screenName": "mysteryvibe",
+      "name": "MysteryVibe",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1781276812028301312/odbjsWS5_normal.jpg",
+      "description": "World-leader in Women's & Men's Health Devices. Award-winning, doctor-recommended devices to make sexual health accessible to all.",
       "followersCount": 11355,
       "friendsCount": 1973,
       "location": "LON · NY · LA"
@@ -433,7 +512,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4030210,
+      "followersCount": 4030243,
       "friendsCount": 3,
       "location": ""
     },
@@ -478,7 +557,7 @@
       "name": "MysteryVibe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1781276812028301312/odbjsWS5_normal.jpg",
       "description": "World-leader in Women's & Men's Health Devices. Award-winning, doctor-recommended devices to make sexual health accessible to all.",
-      "followersCount": 11354,
+      "followersCount": 11359,
       "friendsCount": 1973,
       "location": "LON · NY · LA"
     },
@@ -574,7 +653,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21512,
+      "followersCount": 21515,
       "friendsCount": 278,
       "location": "Guangdong"
     },
@@ -640,7 +719,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4030210,
+      "followersCount": 4030243,
       "friendsCount": 3,
       "location": ""
     },
@@ -708,8 +787,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18467,
-      "friendsCount": 1316,
+      "followersCount": 18470,
+      "friendsCount": 1317,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -725,8 +804,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18467,
-      "friendsCount": 1316,
+      "followersCount": 18470,
+      "friendsCount": 1317,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -740,8 +819,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18467,
-      "friendsCount": 1316,
+      "followersCount": 18470,
+      "friendsCount": 1317,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -757,8 +836,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18467,
-      "friendsCount": 1316,
+      "followersCount": 18470,
+      "friendsCount": 1317,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -774,7 +853,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 186620,
+      "followersCount": 186626,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -791,8 +870,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18467,
-      "friendsCount": 1316,
+      "followersCount": 18470,
+      "friendsCount": 1317,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -806,7 +885,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8114,
+      "followersCount": 8112,
       "friendsCount": 291,
       "location": ""
     },
@@ -823,7 +902,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/XBKDw9XNKn",
-      "followersCount": 22794,
+      "followersCount": 22791,
       "friendsCount": 342,
       "location": "HK"
     },
@@ -855,8 +934,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18467,
-      "friendsCount": 1316,
+      "followersCount": 18470,
+      "friendsCount": 1317,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -1082,6 +1161,23 @@
   },
   {
     "user": {
+      "screenName": "MarchMadnessWBB",
+      "name": "NCAA March Madness",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901589689251004416/KXn1vih7_normal.jpg",
+      "description": "The official account of NCAA DI Women’s Basketball! Join us with #NCAAWBB | #MarchMadness and #WFinalFour",
+      "followersCount": 695328,
+      "friendsCount": 775,
+      "location": "Indianapolis, IN"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1904331658561560576/vid/avc1/1280x720/5AzUHDSmERfaCthT.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/MarchMadnessWBB/status/1904342217726075209",
+    "fullText": "TRIPLE ‼️\n\n#MarchMadness https://t.co/HHgMWuUOQX"
+  },
+  {
+    "user": {
       "screenName": "SoFi",
       "name": "SoFi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1411014292791382016/LqQG6oZd_normal.jpg",
@@ -1101,7 +1197,7 @@
       "name": "SportsCenter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1604943357750419465/wk5BAmKG_normal.png",
       "description": "Fill out your Tournament Challenge brackets NOW ✍️\nTCM: https://t.co/IvTUVvpihh\nTCW: https://t.co/QRkoZCAD32",
-      "followersCount": 44643509,
+      "followersCount": 44642397,
       "friendsCount": 682,
       "location": ""
     },
@@ -1167,7 +1263,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101515,
+      "followersCount": 101517,
       "friendsCount": 804,
       "location": "United States"
     },
