@@ -1,11 +1,30 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 114463,
+      "friendsCount": 1306,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gm8dAyvXUAAp_BB.jpg",
+      "https://pbs.twimg.com/media/Gm8dCXgXoAA3IAx.jpg",
+      "https://pbs.twimg.com/media/Gm8dDpSXMAAkZYb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1904773122953547825",
+    "fullText": "用 GPT 把你的照片变成吉卜力卡通风格\n忘记哪位网友推荐的“吉卜力风格化”提示词很好用👍\n\n模型选 ChatGPT 4o，输入框上传图片，然后从 ... 图标选择“Create image (Updated)” （这一步不必要），提示词只要写：“吉卜力风格化” 或者“把图片变成吉卜力卡通风格” https://t.co/5LX4aCciwn"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18469,
+      "followersCount": 18467,
       "friendsCount": 1316,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -22,7 +41,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101513,
+      "followersCount": 101515,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -40,7 +59,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114461,
+      "followersCount": 114463,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -57,7 +76,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72937,
+      "followersCount": 72929,
       "friendsCount": 3360,
       "location": ""
     },
@@ -121,7 +140,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18469,
+      "followersCount": 18467,
       "friendsCount": 1316,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -153,7 +172,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114461,
+      "followersCount": 114463,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -170,7 +189,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28223,
+      "followersCount": 28224,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -219,7 +238,7 @@
       "name": "Interzoid.com: AI Fuzzy Match APIs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1119798348020502528/NiI1AJ2J_normal.png",
       "description": "AI-Driven Data Quality Platform. API-first Platform: Leverage High-Speed, AI-driven APIs in Batch Mode (CSV and TSV file input) visit https://t.co/J9shsjNCPt",
-      "followersCount": 1198,
+      "followersCount": 1199,
       "friendsCount": 7490,
       "location": "San Francisco, CA"
     },
@@ -287,7 +306,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101513,
+      "followersCount": 101515,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -304,7 +323,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4030155,
+      "followersCount": 4030210,
       "friendsCount": 3,
       "location": ""
     },
@@ -360,6 +379,21 @@
     },
     "images": [],
     "videos": [],
+    "tweetUrl": "https://x.com/mysteryvibe/status/1904591178814599217",
+    "fullText": "\"DO NOT BUY THIS. I’ve peaked. There’s no going up from here. \n\nTenuto Mini has officially ruined me. I’ve set the bar so high that my partner thinks I’m a wizard. What do I do when they realize I’m just me?”\n\nSave big with up to 45% OFF!"
+  },
+  {
+    "user": {
+      "screenName": "mysteryvibe",
+      "name": "MysteryVibe",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1781276812028301312/odbjsWS5_normal.jpg",
+      "description": "World-leader in Women's & Men's Health Devices. Award-winning, doctor-recommended devices to make sexual health accessible to all.",
+      "followersCount": 11354,
+      "friendsCount": 1973,
+      "location": "LON · NY · LA"
+    },
+    "images": [],
+    "videos": [],
     "tweetUrl": "https://x.com/mysteryvibe/status/1904591121415647451",
     "fullText": "\"DO NOT BUY THIS. I’ve peaked. There’s no going up from here. \n\nTenuto Mini has officially ruined me. I’ve set the bar so high that my partner thinks I’m a wizard. What do I do when they realize I’m just me?”\n\nSave big with up to 45% OFF!"
   },
@@ -399,7 +433,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4030155,
+      "followersCount": 4030210,
       "friendsCount": 3,
       "location": ""
     },
@@ -570,7 +604,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28223,
+      "followersCount": 28224,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -588,7 +622,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28223,
+      "followersCount": 28224,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -606,7 +640,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4030155,
+      "followersCount": 4030210,
       "friendsCount": 3,
       "location": ""
     },
@@ -657,7 +691,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28223,
+      "followersCount": 28224,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -674,7 +708,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18469,
+      "followersCount": 18467,
       "friendsCount": 1316,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -691,7 +725,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18469,
+      "followersCount": 18467,
       "friendsCount": 1316,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -706,7 +740,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18469,
+      "followersCount": 18467,
       "friendsCount": 1316,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -723,7 +757,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18469,
+      "followersCount": 18467,
       "friendsCount": 1316,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -757,7 +791,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18469,
+      "followersCount": 18467,
       "friendsCount": 1316,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -789,7 +823,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/XBKDw9XNKn",
-      "followersCount": 22801,
+      "followersCount": 22794,
       "friendsCount": 342,
       "location": "HK"
     },
@@ -804,7 +838,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5275,
+      "followersCount": 5272,
       "friendsCount": 1176,
       "location": ""
     },
@@ -821,7 +855,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18469,
+      "followersCount": 18467,
       "friendsCount": 1316,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -854,7 +888,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53122,
+      "followersCount": 53119,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -920,7 +954,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18469,
+      "followersCount": 18467,
       "friendsCount": 1316,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -935,7 +969,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53122,
+      "followersCount": 53119,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -950,7 +984,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114461,
+      "followersCount": 114463,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -1067,7 +1101,7 @@
       "name": "SportsCenter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1604943357750419465/wk5BAmKG_normal.png",
       "description": "Fill out your Tournament Challenge brackets NOW ✍️\nTCM: https://t.co/IvTUVvpihh\nTCW: https://t.co/QRkoZCAD32",
-      "followersCount": 44643370,
+      "followersCount": 44643509,
       "friendsCount": 682,
       "location": ""
     },
@@ -1133,7 +1167,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101513,
+      "followersCount": 101515,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -1143,6 +1177,23 @@
     ],
     "tweetUrl": "https://x.com/nishuang/status/1904250851062915085",
     "fullText": "Zipline 的无人机快递服务，无人机母鸡停在“高空”，用绳子降下来一个带螺旋桨的快递盒，快递盒打开下面的小门、放下快递😂\n\n比亚马逊的好多了，亚马逊无人机直接把快递空投到地面，然后把快递吹跑\n\n https://t.co/KeAJsrFE8F"
+  },
+  {
+    "user": {
+      "screenName": "BadgerFootball",
+      "name": "Wisconsin Football",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1610718999435788295/LPCJTcaI_normal.jpg",
+      "description": "Official Twitter account of the University of Wisconsin Football Team. 14x Big Ten champions. Known to Jump Around.",
+      "followersCount": 404135,
+      "friendsCount": 704,
+      "location": "Madison, Wis."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1904244279004065792/vid/avc1/720x1280/gsmu3aFPZ5yfNyED.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/BadgerFootball/status/1904244695309619436",
+    "fullText": "spring break’s got us like 😁🏝️😎⛳️🎶 https://t.co/gEhjInaqY0"
   },
   {
     "user": {
