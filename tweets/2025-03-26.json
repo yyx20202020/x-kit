@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28232,
+      "friendsCount": 550,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gm7Z5PDbYAA2oWL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1904700769229824472",
+    "fullText": "软考开始报名了！之前从来没有想过要考这个，但想在编程讲师这条路走得深一点，现在绕不开这个考试😂 https://t.co/yO895PUrbs"
+  },
+  {
+    "user": {
+      "screenName": "cypherpunkd_",
+      "name": "Cypherpunk'd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841194355362570242/3eiQSUIP_normal.jpg",
+      "description": "We explore money’s history, crypto’s future, & Web 3’s role in advancing human rights, freedom, and digital liberty. Down the rabbit hole!",
+      "followersCount": 377,
+      "friendsCount": 61,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1904664333314859008/vid/avc1/1280x720/wsyc7i8PeIGGV20Z.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/cypherpunkd_/status/1904669233776386067",
+    "fullText": "By 2030, 50% of the U.S. workforce will be freelancers.\n\nBy 2035, it is estimated for digital nomads to hit 1 BILLION, working anywhere, paid in anything. \n\nWho do they pay tax to?\n\nHow do you tax someone who lives in Thailand, works for a US company, and completes the job in yet https://t.co/nTPVhznykC"
+  },
+  {
+    "user": {
       "screenName": "mysteryvibe",
       "name": "MysteryVibe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1781276812028301312/odbjsWS5_normal.jpg",
@@ -39,7 +73,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101517,
+      "followersCount": 101516,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -56,7 +90,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4029748,
+      "followersCount": 4029879,
       "friendsCount": 3,
       "location": ""
     },
@@ -106,7 +140,7 @@
       "name": "MysteryVibe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1781276812028301312/odbjsWS5_normal.jpg",
       "description": "World-leader in Women's & Men's Health Devices. Award-winning, doctor-recommended devices to make sexual health accessible to all.",
-      "followersCount": 11342,
+      "followersCount": 11345,
       "friendsCount": 1973,
       "location": "LON · NY · LA"
     },
@@ -121,7 +155,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4029748,
+      "followersCount": 4029879,
       "friendsCount": 3,
       "location": ""
     },
@@ -187,7 +221,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21506,
+      "followersCount": 21509,
       "friendsCount": 278,
       "location": "Guangdong"
     },
@@ -202,7 +236,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28229,
+      "followersCount": 28232,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -220,7 +254,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28229,
+      "followersCount": 28232,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -238,7 +272,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4029748,
+      "followersCount": 4029879,
       "friendsCount": 3,
       "location": ""
     },
@@ -272,7 +306,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28229,
+      "followersCount": 28232,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -289,7 +323,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18476,
       "friendsCount": 1314,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -306,7 +340,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18476,
       "friendsCount": 1314,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -321,7 +355,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18476,
       "friendsCount": 1314,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -338,7 +372,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18476,
       "friendsCount": 1314,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -355,7 +389,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 186630,
+      "followersCount": 186629,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -372,7 +406,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18476,
       "friendsCount": 1314,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -387,7 +421,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8107,
+      "followersCount": 8106,
       "friendsCount": 291,
       "location": ""
     },
@@ -419,7 +453,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5264,
+      "followersCount": 5267,
       "friendsCount": 1175,
       "location": ""
     },
@@ -436,7 +470,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18476,
       "friendsCount": 1314,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -469,7 +503,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53121,
+      "followersCount": 53124,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -486,7 +520,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8063,
+      "followersCount": 8064,
       "friendsCount": 3387,
       "location": ""
     },
@@ -535,7 +569,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18476,
       "friendsCount": 1314,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -550,7 +584,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53121,
+      "followersCount": 53124,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -565,7 +599,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114434,
+      "followersCount": 114439,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -601,7 +635,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18476,
       "friendsCount": 1314,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -618,7 +652,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28229,
+      "followersCount": 28232,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -633,7 +667,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18476,
       "friendsCount": 1314,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -650,7 +684,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6307,
+      "followersCount": 6308,
       "friendsCount": 472,
       "location": ""
     },
@@ -667,7 +701,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101517,
+      "followersCount": 101516,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -692,6 +726,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/ChipotleTweets/status/1904228605720498534",
     "fullText": "this just in: get FREE chips &amp; guac when you order 2+ entrées at chipotle. Use code TWO4TWO online."
+  },
+  {
+    "user": {
+      "screenName": "Zoom",
+      "name": "Zoom",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1772205124372336640/tHyk4TL1_normal.jpg",
+      "description": "AI-First Work Platform for Human Connection ✨",
+      "followersCount": 1060281,
+      "friendsCount": 1828,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Zoom/status/1904065650760572976",
+    "fullText": "Your team's best work -- anywhere, from any device -- powered by Zoom's AI-first business phone system"
   },
   {
     "user": {
