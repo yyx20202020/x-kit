@@ -1,6 +1,53 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 26114,
+      "friendsCount": 114,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gm-UVBHbYAY8t-a.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1904904736148803622",
+    "fullText": "老马家的Grok3文生图真的有英雄情结哇， 我不要人， 我要玩抽象。 https://t.co/aD9nn7hjM6"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 56499,
+      "friendsCount": 353,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1904903606110666905",
+    "fullText": "我有一计，给那些对AI时代的到来充满恐惧不安，害怕自己的工作完全被替代的人\n\n去做那些把人与人连接起来的事情\n\n很可能线下的活动，聚会，客户服务又会开始充满价值\n\n骑行，爬山，徒步，旅行……充满商机\n\n帮助建立连接的人，是机器人时代人的Agent"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28228,
+      "friendsCount": 550,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1904898941608747351",
+    "fullText": "因为一点小事儿今晚严重影响了直播状态，甚至连Cursor代码都写得不顺了，一个简单接入API的stream输出搞了半天。然后结果就是第一次直播的时候出现0单😅"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -22,7 +69,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18477,
       "friendsCount": 1320,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -39,7 +86,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20671,
+      "followersCount": 20669,
       "friendsCount": 1015,
       "location": ""
     },
@@ -147,7 +194,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18477,
       "friendsCount": 1320,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -164,7 +211,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72935,
+      "followersCount": 72937,
       "friendsCount": 3360,
       "location": ""
     },
@@ -197,7 +244,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 17996,
+      "followersCount": 17995,
       "friendsCount": 800,
       "location": "Mountain View, CA"
     },
@@ -247,7 +294,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28227,
+      "followersCount": 28228,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -277,7 +324,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28227,
+      "followersCount": 28228,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -294,7 +341,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114528,
+      "followersCount": 114534,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -313,7 +360,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18477,
       "friendsCount": 1320,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -347,7 +394,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101522,
+      "followersCount": 101523,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -365,7 +412,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114528,
+      "followersCount": 114534,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -382,7 +429,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72935,
+      "followersCount": 72937,
       "friendsCount": 3360,
       "location": ""
     },
@@ -397,7 +444,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 103806,
+      "followersCount": 103812,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -446,7 +493,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18475,
+      "followersCount": 18477,
       "friendsCount": 1320,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -461,7 +508,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26113,
+      "followersCount": 26114,
       "friendsCount": 114,
       "location": "China"
     },
@@ -495,7 +542,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114528,
+      "followersCount": 114534,
       "friendsCount": 1306,
       "location": "Chicago, IL"
     },
@@ -529,7 +576,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28227,
+      "followersCount": 28228,
       "friendsCount": 550,
       "location": "Hong Kong"
     },
@@ -657,7 +704,7 @@
       "name": "MysteryVibe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1781276812028301312/odbjsWS5_normal.jpg",
       "description": "World-leader in Women's & Men's Health Devices. Award-winning, doctor-recommended devices to make sexual health accessible to all.",
-      "followersCount": 11360,
+      "followersCount": 11361,
       "friendsCount": 1973,
       "location": "LON · NY · LA"
     },
@@ -888,7 +935,7 @@
       "name": "MysteryVibe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1781276812028301312/odbjsWS5_normal.jpg",
       "description": "World-leader in Women's & Men's Health Devices. Award-winning, doctor-recommended devices to make sexual health accessible to all.",
-      "followersCount": 11355,
+      "followersCount": 11361,
       "friendsCount": 1973,
       "location": "LON · NY · LA"
     },
