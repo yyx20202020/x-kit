@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28223,
+      "friendsCount": 553,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnFotEuaMAAZ9JN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1905420248016453783",
+    "fullText": "昨天晚上直播的时候，左半边屏幕放GPT4o，右半边屏幕用Cursor调用 @ovst36099 赠送的API。Cursor生成期间就去调戏4o，4o生成完了继续调戏Cursor。很好玩~ https://t.co/UqgIRfbOwa"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 186659,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnFo1gSbgAMw6Mj.jpg",
+      "https://pbs.twimg.com/media/GnFo1e7bgAQ1jUG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1905419401958170675",
+    "fullText": "AI 爬虫如今是互联网站长最头痛的问题。\n\n它们无节制地抓取数据，数量之多、频率之高，堪比 DDoS 攻击。\n\n上周，SourceHut 的站长，公开发表文章（下图），痛斥 AI 爬虫太过份，服务器无法承受访问压力，中断服务。\n\n本周就来介绍一种对付这些 AI 爬虫的工具：Anubis。https://t.co/T3TewAdwA6 https://t.co/C8MDj4s5RA"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28223,
+      "friendsCount": 553,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1905413800830128513",
+    "fullText": "最近是一个很尴尬的时期，小破站上AI商单联系很多，但是甲方报价我看不上，我的地板报价甲方嫌太贵。但是时间有限，又没法做更多热点+营销向的内容涨粉，4月得想想怎么破局了😅"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
+      "followersCount": 72977,
+      "friendsCount": 3365,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnFi-wnbgAAz2Vp.jpg",
+      "https://pbs.twimg.com/media/GnFi-wmbkAAzOgv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1905412956969656635",
+    "fullText": "艺术源于生活。 https://t.co/6q2SaFaPh6"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114915,
+      "followersCount": 114958,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -18,11 +86,45 @@
   },
   {
     "user": {
+      "screenName": "SHL0MS",
+      "name": "𒐪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1847789420306366464/IaUqlG51_normal.png",
+      "description": "",
+      "followersCount": 69436,
+      "friendsCount": 999,
+      "location": "‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnFUwS0XQAALMcD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SHL0MS/status/1905397512640376912",
+    "fullText": "just wrote something who wants to be my first subscriber https://t.co/1gmPfR2zeC"
+  },
+  {
+    "user": {
+      "screenName": "rjayers",
+      "name": "Ron Ayers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1650515892172914688/rVltpJAV_normal.jpg",
+      "description": "Here to shake things up with a new paradigm in hospitality real estate, from first principles. Thinking big!",
+      "followersCount": 1224,
+      "friendsCount": 5511,
+      "location": "coeur d'alene"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1905340564553506816/vid/avc1/1280x720/iNkjyy4J0g0IOb53.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/rjayers/status/1905340804815880276",
+    "fullText": "Broke, or Billionaire? \n\nOk team, we have a situation. This is a Hail Mary. This is the first of many Posts today, sharing my journey with hopes of landing and scoring, but living with blow-up realities. \n\nAny reposts, shares, boosts greatly appreciated, or if you know a guy. https://t.co/jtrT8qxuOG"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4038536,
+      "followersCount": 4038681,
       "friendsCount": 3,
       "location": ""
     },
@@ -33,11 +135,28 @@
   },
   {
     "user": {
+      "screenName": "drinkdadwater",
+      "name": "Dad Water",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666428440948494337/bjhCbZ2S_normal.jpg",
+      "description": "Tequila. Water. Natural Flavors. No carbonation. Gotta be 21+",
+      "followersCount": 1784,
+      "friendsCount": 26,
+      "location": "dad's house"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnEN_dybgAEHfb6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/drinkdadwater/status/1905319692790890629",
+    "fullText": "We made the @TheFieldOf68 guys their own cans. Then we put them into a bracket to find out whose can goes the hardest. Vote below. Once we crown a champ, @drinkdadwater will make a $1,000 donation to a charity of the winner's choosing.\n\nRound 1 Matchup: @JohnMartin929 vs https://t.co/lgzrnf4EAi"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -54,8 +173,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28225,
-      "friendsCount": 552,
+      "followersCount": 28223,
+      "friendsCount": 553,
       "location": "Hong Kong"
     },
     "images": [
@@ -71,7 +190,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -88,7 +207,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56519,
+      "followersCount": 56520,
       "friendsCount": 355,
       "location": ""
     },
@@ -106,7 +225,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -123,7 +242,7 @@
       "name": "Luminar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844070081254522880/dwBPHpix_normal.jpg",
       "description": "Luminar (Nasdaq: LAZR) is a global automotive technology company ushering in a new era of vehicle safety and autonomy.",
-      "followersCount": 15764,
+      "followersCount": 15765,
       "friendsCount": 519,
       "location": ""
     },
@@ -140,7 +259,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -155,7 +274,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -170,7 +289,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56519,
+      "followersCount": 56520,
       "friendsCount": 355,
       "location": ""
     },
@@ -187,7 +306,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -202,7 +321,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5291,
+      "followersCount": 5292,
       "friendsCount": 1177,
       "location": ""
     },
@@ -219,7 +338,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114915,
+      "followersCount": 114958,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -236,7 +355,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5291,
+      "followersCount": 5292,
       "friendsCount": 1177,
       "location": ""
     },
@@ -253,7 +372,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -270,7 +389,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101476,
+      "followersCount": 101483,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -302,7 +421,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142219,
+      "followersCount": 142225,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -321,7 +440,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53135,
+      "followersCount": 53136,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -338,7 +457,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6305,
+      "followersCount": 6304,
       "friendsCount": 472,
       "location": ""
     },
@@ -353,7 +472,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -371,7 +490,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18006,
+      "followersCount": 18007,
       "friendsCount": 802,
       "location": "Mountain View, CA"
     },
@@ -388,7 +507,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -405,7 +524,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26108,
+      "followersCount": 26107,
       "friendsCount": 114,
       "location": "China"
     },
@@ -420,7 +539,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 4584,
+      "followersCount": 4629,
       "friendsCount": 232,
       "location": "NewYork"
     },
@@ -452,7 +571,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101476,
+      "followersCount": 101483,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -469,7 +588,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -484,7 +603,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -501,7 +620,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5291,
+      "followersCount": 5292,
       "friendsCount": 1177,
       "location": ""
     },
@@ -518,7 +637,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 114915,
+      "followersCount": 114958,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -535,7 +654,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18463,
+      "followersCount": 18464,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -552,7 +671,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26108,
+      "followersCount": 26107,
       "friendsCount": 114,
       "location": "China"
     },
@@ -569,7 +688,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20657,
+      "followersCount": 20658,
       "friendsCount": 1015,
       "location": ""
     },
@@ -606,7 +725,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26108,
+      "followersCount": 26107,
       "friendsCount": 114,
       "location": "China"
     },
@@ -649,11 +768,28 @@
   },
   {
     "user": {
+      "screenName": "FOS",
+      "name": "Front Office Sports",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1291441139908841483/DimlZQ_Q_normal.jpg",
+      "description": "Sports is big business. @FOS_Today | @FOS_Live",
+      "followersCount": 218993,
+      "friendsCount": 263,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1899540990433624064/vid/avc1/1280x720/b872qfE0VoTvWePu.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/FOS/status/1904932597605503165",
+    "fullText": "Wilson Sporting Goods original product list in 1914 included:\n\n- Violin Strings\n- Surgical Sutures\n- Tennis Racket strings\n\n@DerrylRoyce breaks down the company's decision to go all-in on sports, its  billion-dollar worth today, and more in FOS Explains ⬇️ https://t.co/GGY4R1i72E"
+  },
+  {
+    "user": {
       "screenName": "khloekardashian",
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29856080,
+      "followersCount": 29855901,
       "friendsCount": 228,
       "location": ""
     },
@@ -670,7 +806,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 4584,
+      "followersCount": 4629,
       "friendsCount": 232,
       "location": "NewYork"
     },
