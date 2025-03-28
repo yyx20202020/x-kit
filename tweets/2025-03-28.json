@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "CBSSports",
+      "name": "CBS Sports",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1730281935014895616/VebpL81c_normal.jpg",
+      "description": "Hello, friends 👋 | 🏈🏀⛳️⚽️ | 📺 CBS, CBS Sports Network, Paramount+ |📱Download the CBS Sports app ⬇️",
+      "followersCount": 1472748,
+      "friendsCount": 1886,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1905455084286201856/vid/avc1/1280x720/ADDuHOxmHmZkbhS4.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/CBSSports/status/1905455137541218599",
+    "fullText": "Cooper Flagg on one end. \nCaleb Love on the other. We've got a good one. https://t.co/rGbB1kPoH1"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115047,
+      "followersCount": 115060,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -18,11 +35,28 @@
   },
   {
     "user": {
+      "screenName": "GammaEdges",
+      "name": "GammaEdge",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1806805728629260288/3YFPjDxZ_normal.jpg",
+      "description": "We train traders to simplify the options markets with our industry leading data, tools, and education while on their path to profitability. 🤝",
+      "followersCount": 11116,
+      "friendsCount": 14,
+      "location": "↓FREE options market education"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1905436332018503680/vid/avc1/1280x720/uKPXlLOl894qEluX.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/GammaEdges/status/1905437433610539482",
+    "fullText": "🚨Just finished tonight's postmarket analysis of the choppy $SPX session.\n\nIn this breakdown, we explain:\n\n✅How our Market Trend Model interpreted today's erratic price action\n✅Key options structure levels that controlled today's movement\n✅Why our premarket plan accurately https://t.co/D79kTUumup"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26116,
+      "followersCount": 26114,
       "friendsCount": 114,
       "location": "China"
     },
@@ -37,7 +71,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26116,
+      "followersCount": 26114,
       "friendsCount": 114,
       "location": "China"
     },
@@ -54,7 +88,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21735,
+      "followersCount": 21737,
       "friendsCount": 278,
       "location": "Guangdong"
     },
@@ -69,7 +103,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 186669,
+      "followersCount": 186662,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -88,7 +122,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28236,
+      "followersCount": 28237,
       "friendsCount": 553,
       "location": "Hong Kong"
     },
@@ -105,7 +139,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 186669,
+      "followersCount": 186662,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -123,7 +157,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28236,
+      "followersCount": 28237,
       "friendsCount": 553,
       "location": "Hong Kong"
     },
@@ -156,7 +190,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115047,
+      "followersCount": 115060,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -233,11 +267,28 @@
   },
   {
     "user": {
+      "screenName": "nyanheroes",
+      "name": "Nyan Heroes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1685998900975734784/rhPh2p8V_normal.png",
+      "description": "Hero-shooter where cats pilot GIANT mechs🐱🤖 Creators of Halo/Destiny. Backed by @MechanismCap @Delphi_Ventures \n\nWishlist on Epic Games Store!",
+      "followersCount": 654863,
+      "friendsCount": 417,
+      "location": "Miami"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnEbhRcbgAEMle1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nyanheroes/status/1905334383630057892",
+    "fullText": "🚨Nyan Heroes Playtest 4 is officially HERE! 🚨\n\nJump in now through April 14th on @EpicGames and fight for glory in 6v6 mayhem! 😼\n\nPick your Cat Pilot, rack up MEOWs, and show us what you've got.\n\nWe’re listening—your feedback shapes Nyan Heroes. 🐾 https://t.co/kt1OyzYpcQ"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4039346,
+      "followersCount": 4039460,
       "friendsCount": 3,
       "location": ""
     },
@@ -245,6 +296,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/OpenAI/status/1905331956856050135",
     "fullText": "GPT-4o got an another update in ChatGPT!\n\nWhat's different?\n\n- Better at following detailed instructions, especially prompts containing multiple requests\n- Improved capability to tackle complex technical and coding problems\n- Improved intuition and creativity\n- Fewer emojis 🙃"
+  },
+  {
+    "user": {
+      "screenName": "dylibso",
+      "name": "dylibso",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878023831404859392/htT5FvrJ_normal.jpg",
+      "description": "We build https://t.co/TgscfHqtX7 (secure & portable tools for AI).\n\nCheck out Tasks at https://t.co/xs19uKTiYJ, for next-gen automation & AI productivity!",
+      "followersCount": 873,
+      "friendsCount": 791,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1905326503312982017/pu/vid/avc1/1636x1080/xaKH8L15diTgHHyc.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/dylibso/status/1905326569813672186",
+    "fullText": "The differential revolutionized transportation by solving a mechanical impedance mismatch.\n\nMCP is poised to do the same for software integration by solving the API impedance mismatch that has plagued systems for decades.\n\n👉 https://t.co/adYexmucLI https://t.co/LXs8gzBCAk"
   },
   {
     "user": {
@@ -269,7 +337,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -320,7 +388,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28236,
+      "followersCount": 28237,
       "friendsCount": 553,
       "location": "Hong Kong"
     },
@@ -337,7 +405,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -387,7 +455,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -421,7 +489,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -453,7 +521,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -485,7 +553,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -534,7 +602,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115047,
+      "followersCount": 115060,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -615,7 +683,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -632,7 +700,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101481,
+      "followersCount": 101484,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -664,7 +732,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142233,
+      "followersCount": 142237,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -683,7 +751,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53143,
+      "followersCount": 53142,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -715,7 +783,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -750,7 +818,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -767,7 +835,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26116,
+      "followersCount": 26114,
       "friendsCount": 114,
       "location": "China"
     },
@@ -782,7 +850,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 4763,
+      "followersCount": 4791,
       "friendsCount": 232,
       "location": "NewYork"
     },
@@ -814,7 +882,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101481,
+      "followersCount": 101484,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -831,7 +899,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -846,7 +914,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18468,
+      "followersCount": 18453,
       "friendsCount": 1333,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -968,7 +1036,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26116,
+      "followersCount": 26114,
       "friendsCount": 114,
       "location": "China"
     },
@@ -1098,7 +1166,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 4763,
+      "followersCount": 4791,
       "friendsCount": 232,
       "location": "NewYork"
     },
@@ -1108,5 +1176,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/ovst36099/status/1904855460433531244",
     "fullText": "新chatgpt-4o的10个妙用，让你一次性涨知识\n\n1. 老照片上色\n2. 见下评论区 https://t.co/apj6Qu2Lys"
+  },
+  {
+    "user": {
+      "screenName": "AlchemyPay",
+      "name": "Alchemy Pay|$ACH: Fiat-Crypto Payment Gateway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875008116116557824/UOPehQMZ_normal.jpg",
+      "description": "Alchemy Pay $ACH bridges fiat and crypto global economies through its Ramp Solution. \nTG -https://t.co/ZZUtCSl4Be",
+      "followersCount": 381700,
+      "friendsCount": 978,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1904770080904536066/pu/vid/avc1/1280x720/q4ta5Tyuh1eMNNWx.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/AlchemyPay/status/1904793349284126758",
+    "fullText": "Momentum isn't given, it's built. In 2024, we didn't just keep up—we led.\n#AlchemyPay skyrocketed with 3X growth, 12 regulatory licenses, 1k+ partnerships, and more.\nUpgraded as #AlchemyChain, we’re redefining the future of seamless #crypto finance.\n\nReady? Watch the video https://t.co/tmXNx4qXVj"
   }
 ]
