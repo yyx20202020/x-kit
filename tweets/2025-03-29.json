@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 149472,
+      "friendsCount": 466,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnMP1QmbQAAhTZZ.jpg",
+      "https://pbs.twimg.com/media/GnMQBHubsAAYYZ-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1905885031261999252",
+    "fullText": "OpenCat 更新了支持 MCP 的 beta 版本啦，只需要简单的复制看到的 MCP 配置就可以直接解析并添加啦。\n\nhttps://t.co/kEsetqwsYq https://t.co/kDvu2sQ7wt"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21756,
+      "followersCount": 21757,
       "friendsCount": 278,
       "location": "Guangdong"
     },
@@ -22,7 +40,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8185,
+      "followersCount": 8186,
       "friendsCount": 3391,
       "location": ""
     },
@@ -56,7 +74,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5284,
+      "followersCount": 5287,
       "friendsCount": 1181,
       "location": ""
     },
@@ -92,7 +110,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56568,
+      "followersCount": 56567,
       "friendsCount": 356,
       "location": ""
     },
@@ -141,7 +159,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101503,
+      "followersCount": 101504,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -158,7 +176,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8185,
+      "followersCount": 8186,
       "friendsCount": 3391,
       "location": ""
     },
@@ -207,7 +225,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5284,
+      "followersCount": 5287,
       "friendsCount": 1181,
       "location": ""
     },
@@ -237,11 +255,26 @@
   },
   {
     "user": {
+      "screenName": "SensacoesPLs",
+      "name": "Pedro Lopes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1121475868801548290/S_6UrJ4O_normal.jpg",
+      "description": "Collecting moments, making memories, and embracing the chaos.",
+      "followersCount": 26,
+      "friendsCount": 41,
+      "location": "Sintra, Portugal"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SensacoesPLs/status/1905761055143276985",
+    "fullText": "Nothing disappears faster than a weekend."
+  },
+  {
+    "user": {
       "screenName": "SportsCenter",
       "name": "SportsCenter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1604943357750419465/wk5BAmKG_normal.png",
       "description": "Fill out your Tournament Challenge brackets NOW ✍️\nTCM: https://t.co/IvTUVvpihh\nTCW: https://t.co/QRkoZCAD32",
-      "followersCount": 44635244,
+      "followersCount": 44634255,
       "friendsCount": 682,
       "location": ""
     },
@@ -309,7 +342,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56568,
+      "followersCount": 56567,
       "friendsCount": 356,
       "location": ""
     },
@@ -360,7 +393,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56568,
+      "followersCount": 56567,
       "friendsCount": 356,
       "location": ""
     },
@@ -429,7 +462,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5284,
+      "followersCount": 5287,
       "friendsCount": 1181,
       "location": ""
     },
@@ -510,7 +543,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5284,
+      "followersCount": 5287,
       "friendsCount": 1181,
       "location": ""
     },
@@ -527,7 +560,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21756,
+      "followersCount": 21757,
       "friendsCount": 278,
       "location": "Guangdong"
     },
@@ -643,7 +676,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142195,
+      "followersCount": 142204,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -663,7 +696,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26160,
+      "followersCount": 26166,
       "friendsCount": 114,
       "location": "China"
     },
@@ -678,7 +711,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149462,
+      "followersCount": 149472,
       "friendsCount": 466,
       "location": "中华人民共和国"
     },
@@ -778,7 +811,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115407,
+      "followersCount": 115411,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -795,7 +828,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26160,
+      "followersCount": 26166,
       "friendsCount": 114,
       "location": "China"
     },
@@ -810,7 +843,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26164,
+      "followersCount": 26166,
       "friendsCount": 114,
       "location": "China"
     },
@@ -827,7 +860,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21755,
+      "followersCount": 21757,
       "friendsCount": 278,
       "location": "Guangdong"
     },
@@ -842,7 +875,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 186688,
+      "followersCount": 186686,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -861,7 +894,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28238,
+      "followersCount": 28245,
       "friendsCount": 554,
       "location": "Hong Kong"
     },
