@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
+      "followersCount": 8213,
+      "friendsCount": 3397,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnRK44lbUAAHspg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1906230891011363162",
+    "fullText": "上次碰到用文件夹做代码版本管理，还大二在实验室带学妹的时候。\n当时还有个比较记忆深刻的问题“学长为什么我的键盘输入不了中文了”🤣 https://t.co/ov4FrBmcCE"
+  },
+  {
+    "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
+      "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
+      "followersCount": 6316,
+      "friendsCount": 472,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnRKboCa0AAlO-y.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1906230686354190760",
+    "fullText": "用 TPL 写的 Go+ MiniSpec 第一个版本出来了：https://t.co/AERfKPQELL ，它既是文档，也是代码。基于它实现了 gopminispec 程序（代码见下图），可以用来检测某个 Go+ 程序是否符合 Go+ MiniSpec，如果符合会打印最后的 AST。 https://t.co/6bnoZ4YQ6g"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18393,
+      "followersCount": 18392,
       "friendsCount": 1345,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -22,7 +56,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18393,
+      "followersCount": 18392,
       "friendsCount": 1345,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -39,7 +73,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21749,
+      "followersCount": 21753,
       "friendsCount": 278,
       "location": "Guangdong"
     },
@@ -56,7 +90,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18393,
+      "followersCount": 18392,
       "friendsCount": 1345,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -88,7 +122,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72965,
+      "followersCount": 72967,
       "friendsCount": 3364,
       "location": ""
     },
@@ -103,8 +137,8 @@
       "name": "BENGAL🐅PATRIOT🇺🇸",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1899189215897751552/2DoZwaA__normal.jpg",
       "description": "Bengals🐅 Ducks🦆Chickens🐔 \nTrump 16 20 24 🇺🇸\nPure Blood🩸\nTHE CANVAS OG 🎨\n🚫 DM'S",
-      "followersCount": 9433,
-      "friendsCount": 9318,
+      "followersCount": 9438,
+      "friendsCount": 9317,
       "location": "Missouri, USA"
     },
     "images": [
@@ -120,7 +154,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115525,
+      "followersCount": 115529,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -156,7 +190,7 @@
       "name": "The Motley Fool",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1277962449883258880/CRqztvWF_normal.jpg",
       "description": "Making the world smarter, happier, and richer through free and premium investing guidance.",
-      "followersCount": 858862,
+      "followersCount": 858860,
       "friendsCount": 3844,
       "location": ""
     },
@@ -188,7 +222,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115525,
+      "followersCount": 115529,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -205,7 +239,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115525,
+      "followersCount": 115529,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -339,7 +373,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5358,
+      "followersCount": 5360,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -404,7 +438,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5358,
+      "followersCount": 5360,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -416,6 +450,40 @@
     ],
     "tweetUrl": "https://x.com/ovst36099/status/1906064225891713114",
     "fullText": "GPT-4o 也可以为你的头像（或其他图片）生成连续动画效果，它们可以用在小游戏的人物动作上，也可以用来制作自己的小动图。\n\n现在我头像的小兔子已经开始奔跑了，你的呢？\n提示词在下面👇 https://t.co/yX9oA06JY7"
+  },
+  {
+    "user": {
+      "screenName": "drinkdadwater",
+      "name": "Dad Water",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666428440948494337/bjhCbZ2S_normal.jpg",
+      "description": "Tequila. Water. Natural Flavors. No carbonation. Gotta be 21+",
+      "followersCount": 1786,
+      "friendsCount": 26,
+      "location": "dad's house"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnOk-whbEAA8HoI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/drinkdadwater/status/1906049635665494281",
+    "fullText": "The Whose Can Goes Harder Challenge rolls on.\n\nQuarterfinal #3: @JohnMartin929 vs @John_Fanta \n\nVote below ⬇️\n\nCC: @TheFieldOf68 https://t.co/emFiXS77Nq"
+  },
+  {
+    "user": {
+      "screenName": "drinkdadwater",
+      "name": "Dad Water",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666428440948494337/bjhCbZ2S_normal.jpg",
+      "description": "Tequila. Water. Natural Flavors. No carbonation. Gotta be 21+",
+      "followersCount": 1786,
+      "friendsCount": 26,
+      "location": "dad's house"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnOkdYXbMAI0hDc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/drinkdadwater/status/1906049597354484171",
+    "fullText": "The Whose Can Goes Harder Challenge rolls on.\n\nQuarterfinal #2: @jerel_mcneal vs @THANS50 \n\nVote below ⬇️\n\nCC: @TheFieldOf68 https://t.co/AT6jVRqI6Q"
   },
   {
     "user": {
@@ -559,7 +627,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5358,
+      "followersCount": 5360,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -645,7 +713,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18393,
+      "followersCount": 18392,
       "friendsCount": 1345,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -663,7 +731,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5358,
+      "followersCount": 5360,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -698,7 +766,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18393,
+      "followersCount": 18392,
       "friendsCount": 1345,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -713,7 +781,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18393,
+      "followersCount": 18392,
       "friendsCount": 1345,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -730,7 +798,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18393,
+      "followersCount": 18392,
       "friendsCount": 1345,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -745,7 +813,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26161,
+      "followersCount": 26162,
       "friendsCount": 114,
       "location": "China"
     },
@@ -779,7 +847,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115525,
+      "followersCount": 115529,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -834,7 +902,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21749,
+      "followersCount": 21753,
       "friendsCount": 278,
       "location": "Guangdong"
     },
@@ -883,7 +951,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18393,
+      "followersCount": 18392,
       "friendsCount": 1345,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -918,7 +986,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5358,
+      "followersCount": 5360,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -936,7 +1004,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56561,
+      "followersCount": 56563,
       "friendsCount": 356,
       "location": ""
     },
@@ -951,7 +1019,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18393,
+      "followersCount": 18392,
       "friendsCount": 1345,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -981,6 +1049,23 @@
   },
   {
     "user": {
+      "screenName": "MarchMadnessWBB",
+      "name": "NCAA March Madness",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901589689251004416/KXn1vih7_normal.jpg",
+      "description": "The official account of NCAA DI Women’s Basketball! Join us with #NCAAWBB | #MarchMadness and #WFinalFour",
+      "followersCount": 695593,
+      "friendsCount": 775,
+      "location": "Indianapolis, IN"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1905840627062870018/pu/vid/avc1/1280x720/DhloE5ZZxDqOd47Z.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/MarchMadnessWBB/status/1905845623833923701",
+    "fullText": "https://t.co/8dsuw6WNi4"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -1002,7 +1087,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101488,
+      "followersCount": 101489,
       "friendsCount": 804,
       "location": "United States"
     },
@@ -1115,6 +1200,23 @@
   },
   {
     "user": {
+      "screenName": "MarchMadnessWBB",
+      "name": "NCAA March Madness",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901589689251004416/KXn1vih7_normal.jpg",
+      "description": "The official account of NCAA DI Women’s Basketball! Join us with #NCAAWBB | #MarchMadness and #WFinalFour",
+      "followersCount": 695593,
+      "friendsCount": 775,
+      "location": "Indianapolis, IN"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1905785667159769088/vid/avc1/1280x720/WdNjUO9_KaVKphai.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/MarchMadnessWBB/status/1905798564032455071",
+    "fullText": "BEAST MODE 😤\n\n#MarchMadness https://t.co/kQliVM3EMg"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
@@ -1163,6 +1265,23 @@
     ],
     "tweetUrl": "https://x.com/MarchMadnessWBB/status/1905760815120072813",
     "fullText": "TOUGH BUCKET🔥\n\n#MarchMadness https://t.co/bpMCyGEeL4"
+  },
+  {
+    "user": {
+      "screenName": "Stocktwits",
+      "name": "Stocktwits",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881836380302557184/WAeW-Tft_normal.png",
+      "description": "World's largest social media platform for traders & investors 📈\n\nAvailable on Web, iOS & Android\n\nJoin Stocktwits for Free 👇",
+      "followersCount": 1065022,
+      "friendsCount": 2692,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnKVXXtbsAAL9PV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Stocktwits/status/1905749854292443582",
+    "fullText": "Come one, come all to the biggest night in fintwit! 🎉\n\nThe Cashtag Awards, presented by @eToro, is bringing the biggest names in finance under one roof!\n\nCome hang with @WOLF_Financial, @StockSavvyShay, @austinhankwitz, @alphatrends, @StockMKTNewz and SO MANY MORE!\n\nGet your https://t.co/dpnKu49sTp"
   },
   {
     "user": {
@@ -1460,7 +1579,7 @@
       "name": "SciSpace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879547929666670594/pcS_KqAz_normal.jpg",
       "description": "Making research more accessible by the day.\n\nDiscover, understand, and write papers better, more efficiently. \n\nGet started today: https://t.co/E6OU8Mvt4i",
-      "followersCount": 84855,
+      "followersCount": 84856,
       "friendsCount": 5,
       "location": "San Francisco"
     },
