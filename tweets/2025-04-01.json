@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28369,
+      "friendsCount": 555,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnbhSYAbEAAfdR8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1906959207254945907",
+    "fullText": "4 月份的第一场直播，收获一个警告⚠️。知道了「最低价」是不能在直播间说的🤫 https://t.co/cksNFHBYBT"
+  },
+  {
+    "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1797186447491170304/fLqq1huE_normal.jpg",
+      "description": "💻 AI构建者，前B轮初创CXO\n📸 自启动构建@pixels_ai\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 65,
+      "friendsCount": 88,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/1906955886087590021",
+    "fullText": "时机大概是最重要的。\n\n有的人随机游走，有的人在找点子，有的人在看趋势。\n\n随机游走的人全凭运气；找到点子的人，可能是灵光一现间；找趋势的人会通盘考虑。只有会判定时机的人，不放弃有序探索，不因灵光闪现抑制不住，不静止看眼下局势。"
+  },
+  {
+    "user": {
+      "screenName": "toolrouter",
+      "name": "Toolrouter",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905175528337702912/Uoqszxk4_normal.jpg",
+      "description": "Hosted tools for building powerful agents.",
+      "followersCount": 10,
+      "friendsCount": 81,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gnba4UybsAARNh6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/toolrouter/status/1906953504956072200",
+    "fullText": "If you are an AI Dev, this just might change the way you work.\n\nSee top 3 amazing things you can do with toolrouter ⬇️🧵\n\nWe are launching Toolrouter for early access. \n\nFirst 50 users will get one year of free Pro subscription starting from the day we officially launch.\n\nJoin https://t.co/2d5RYDJHgL"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56611,
+      "followersCount": 56610,
       "friendsCount": 355,
       "location": ""
     },
@@ -22,8 +71,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18534,
-      "friendsCount": 1358,
+      "followersCount": 18536,
+      "friendsCount": 1359,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -39,7 +88,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5505,
+      "followersCount": 5503,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -57,7 +106,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149465,
+      "followersCount": 149456,
       "friendsCount": 466,
       "location": "中华人民共和国"
     },
@@ -104,7 +153,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26205,
+      "followersCount": 26215,
       "friendsCount": 114,
       "location": "China"
     },
@@ -151,7 +200,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101500,
+      "followersCount": 101501,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -168,7 +217,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21815,
+      "followersCount": 21814,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -183,7 +232,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72997,
+      "followersCount": 72998,
       "friendsCount": 3363,
       "location": ""
     },
@@ -230,7 +279,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115752,
+      "followersCount": 115765,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -240,6 +289,23 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/1906824686547472446",
     "fullText": "https://t.co/o6FyUNrhIx Perplexity AI CEO Aravind Srinivas 说：跟AI一起写代码就像当年乔布斯和沃兹尼亚克的搭档组合：你扮演的是乔布斯，负责提出清晰的愿景和整体布局，而你的AI编程助手就像是沃兹尼亚克，负责具体的实现和技术执行。"
+  },
+  {
+    "user": {
+      "screenName": "vandapharma",
+      "name": "Vanda Pharmaceuticals",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1201922312611749888/8SHs2v5Q_normal.jpg",
+      "description": "Vanda is a global pharmaceutical company focused on the development of innovative therapies to address unmet medical needs and improve the lives of patients.",
+      "followersCount": 1399,
+      "friendsCount": 242,
+      "location": "Washington DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnZavo0WIAAcrRk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vandapharma/status/1906813642684690768",
+    "fullText": "Proud sponsor @nationals 2025! https://t.co/TI4AeNHBRt"
   },
   {
     "user": {
@@ -315,8 +381,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18534,
-      "friendsCount": 1358,
+      "followersCount": 18536,
+      "friendsCount": 1359,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -366,8 +432,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18534,
-      "friendsCount": 1358,
+      "followersCount": 18536,
+      "friendsCount": 1359,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -430,7 +496,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56611,
+      "followersCount": 56610,
       "friendsCount": 355,
       "location": ""
     },
@@ -447,7 +513,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56611,
+      "followersCount": 56610,
       "friendsCount": 355,
       "location": ""
     },
@@ -498,7 +564,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101500,
+      "followersCount": 101501,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -518,7 +584,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101500,
+      "followersCount": 101501,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -567,7 +633,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101500,
+      "followersCount": 101501,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -586,7 +652,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56611,
+      "followersCount": 56610,
       "friendsCount": 355,
       "location": ""
     },
@@ -603,7 +669,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115752,
+      "followersCount": 115765,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -620,7 +686,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8223,
+      "followersCount": 8224,
       "friendsCount": 3397,
       "location": ""
     },
@@ -672,8 +738,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18534,
-      "friendsCount": 1358,
+      "followersCount": 18536,
+      "friendsCount": 1359,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -685,12 +751,27 @@
   },
   {
     "user": {
+      "screenName": "Hypercentive",
+      "name": "TheArchitect",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899944829406072832/otUD5D1l_normal.jpg",
+      "description": "Medici and DaVinci of the Tech Renaissance. Designing \"the killer app\" of finance and crypto. Witness the power of an idea whose time has come.",
+      "followersCount": 7,
+      "friendsCount": 33,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Hypercentive/status/1906676635958423566",
+    "fullText": "🚀 Expanding Utility: From Consumption to Survival &amp; Social Value\n\nA thread on why traditional economic models might be mispricing assets—and where hidden opportunities lie for investors thinking beyond immediate consumption 👇"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18534,
-      "friendsCount": 1358,
+      "followersCount": 18536,
+      "friendsCount": 1359,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -723,7 +804,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8223,
+      "followersCount": 8224,
       "friendsCount": 3397,
       "location": ""
     },
@@ -740,8 +821,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18534,
-      "friendsCount": 1358,
+      "followersCount": 18536,
+      "friendsCount": 1359,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -984,7 +1065,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20746,
+      "followersCount": 20749,
       "friendsCount": 1016,
       "location": ""
     },
@@ -1165,7 +1246,7 @@
       "name": "ESPN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
       "description": "Serving sports fans. Anytime. Anywhere.\n\nFill out your Tournament Challenge brackets NOW ✍️\n\nTCM: https://t.co/drRyoxbcn0\nTCW: https://t.co/Tso2vB3I2q",
-      "followersCount": 57503394,
+      "followersCount": 57504587,
       "friendsCount": 411,
       "location": ""
     },
@@ -1219,7 +1300,7 @@
       "name": "Pampalytics",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1903864374596620288/8zWF479K_normal.jpg",
       "description": "Cronos on and off chain analytics. News and Data aggregator.",
-      "followersCount": 697,
+      "followersCount": 702,
       "friendsCount": 292,
       "location": ""
     },
@@ -1261,6 +1342,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/vandapharma/status/1906353523123466550",
     "fullText": "Over 60 @US_FDA -funded partnerships of limited use sought to broaden the FDA's legal power, costing likely over $100 million annually in direct FDA funding.\nhttps://t.co/pvQ7IhMA48 https://t.co/PRmyJnHhNf"
+  },
+  {
+    "user": {
+      "screenName": "thestustustudio",
+      "name": "Stu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1776094317372649472/JnZNdrlS_normal.jpg",
+      "description": "Citizen Journalist 🇺🇸 Movie Critic 🎥 Bird Nerd 🦅 Redheaded Stepchild👨‍🦰TCB⚡",
+      "followersCount": 21488,
+      "friendsCount": 883,
+      "location": "Parts Unknown"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1906341201411731456/pu/vid/avc1/1280x720/92B_7FpJMcVDbCIm.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/thestustustudio/status/1906342136632521143",
+    "fullText": "On March 26, 2025, UVA students walked out of class to protest in support of Mahmoud Khalil and to demand that the University of Virginia protect students from ICE and the threat of deportation. This “walkout” protest also focused on recent decisions made by the Board of Visitors https://t.co/dba4UEZmkp"
   },
   {
     "user": {
