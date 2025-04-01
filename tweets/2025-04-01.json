@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
+      "followersCount": 5281,
+      "friendsCount": 315,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1906907997051457581",
+    "fullText": "问个 AI 问题：现在想要本地跑 DeepSeek 模型，自己家用，需要啥机器？不一定要满血，就性价比比较高的。"
+  },
+  {
+    "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
+      "followersCount": 101491,
+      "friendsCount": 805,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1906906095131439104/pu/vid/avc1/1280x720/1If6kJjoiTHpTE3u.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/nishuang/status/1906907810639552954",
+    "fullText": "把单张照片变成好莱坞大片的 Higgsfield AI\n\nAI 生成的视频，一大弊病是镜头运动单调、乏味、缺乏生气，更别说是电影感…\n\nHiggsfield AI 特长是模仿电影镜头的运动，提供 50 多种镜头/摄影机运动模板\n\n效果惊人\n\n#设计AI https://t.co/SDvL5kkjL7"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21810,
+      "followersCount": 21812,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -20,7 +52,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72992,
+      "followersCount": 72991,
       "friendsCount": 3363,
       "location": ""
     },
@@ -50,7 +82,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115742,
+      "followersCount": 115746,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -60,6 +92,23 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/1906824686547472446",
     "fullText": "https://t.co/o6FyUNrhIx Perplexity AI CEO Aravind Srinivas 说：跟AI一起写代码就像当年乔布斯和沃兹尼亚克的搭档组合：你扮演的是乔布斯，负责提出清晰的愿景和整体布局，而你的AI编程助手就像是沃兹尼亚克，负责具体的实现和技术执行。"
+  },
+  {
+    "user": {
+      "screenName": "ArtisanLotion",
+      "name": "Xenia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1831869601342541824/QCRhSc0y_normal.jpg",
+      "description": "Handcrafted in beautiful West Haven, UT, we offer a wide range of organic bath & body products using ingredients your skin will love! #madeintheUSA",
+      "followersCount": 43,
+      "friendsCount": 141,
+      "location": "Utah"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnZaDCAbYAAUBWX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ArtisanLotion/status/1906810504221458446",
+    "fullText": "Moms do it all!🌻—now it’s her turn to unwind and feel special 🩷 \nSave 20% sitewide at https://t.co/8g2FqS2kt6 this Mother’s Day with our all-natural, aromatherapy bath and body skincare. \nPacked with skin-loving goodness, these products soothe stress, hydrate deeply, and wrap https://t.co/Yu6dSsaTGB"
   },
   {
     "user": {
@@ -101,7 +150,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18528,
+      "followersCount": 18524,
       "friendsCount": 1354,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -135,7 +184,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18528,
+      "followersCount": 18524,
       "friendsCount": 1354,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -199,7 +248,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56615,
+      "followersCount": 56614,
       "friendsCount": 355,
       "location": ""
     },
@@ -216,7 +265,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56615,
+      "followersCount": 56614,
       "friendsCount": 355,
       "location": ""
     },
@@ -340,7 +389,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56615,
+      "followersCount": 56614,
       "friendsCount": 355,
       "location": ""
     },
@@ -357,7 +406,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115742,
+      "followersCount": 115746,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -374,7 +423,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8224,
+      "followersCount": 8223,
       "friendsCount": 3397,
       "location": ""
     },
@@ -392,7 +441,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18528,
+      "followersCount": 18524,
       "friendsCount": 1354,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -409,7 +458,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18528,
+      "followersCount": 18524,
       "friendsCount": 1354,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -443,7 +492,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8224,
+      "followersCount": 8223,
       "friendsCount": 3397,
       "location": ""
     },
@@ -460,7 +509,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18528,
+      "followersCount": 18524,
       "friendsCount": 1354,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -494,7 +543,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28361,
+      "followersCount": 28359,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -511,7 +560,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8224,
+      "followersCount": 8223,
       "friendsCount": 3397,
       "location": ""
     },
@@ -529,7 +578,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28361,
+      "followersCount": 28359,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -546,7 +595,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18528,
+      "followersCount": 18524,
       "friendsCount": 1354,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -561,7 +610,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53199,
+      "followersCount": 53203,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -578,7 +627,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53199,
+      "followersCount": 53203,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -595,7 +644,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18528,
+      "followersCount": 18524,
       "friendsCount": 1354,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -672,7 +721,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20721,
+      "followersCount": 20722,
       "friendsCount": 1016,
       "location": ""
     },
@@ -834,6 +883,23 @@
   },
   {
     "user": {
+      "screenName": "espn",
+      "name": "ESPN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+      "description": "Serving sports fans. Anytime. Anywhere.\n\nFill out your Tournament Challenge brackets NOW ✍️\n\nTCM: https://t.co/drRyoxbcn0\nTCW: https://t.co/Tso2vB3I2q",
+      "followersCount": 57502703,
+      "friendsCount": 411,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1906424978179768321/vid/avc1/1280x720/clBkPrdMJ70aP3HC.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/espn/status/1906425017937596901",
+    "fullText": "SOUTH CAROLINA IS HEADED TO ITS FIFTH STRAIGHT FINAL FOUR 👏 https://t.co/ZbDKyrvqnM"
+  },
+  {
+    "user": {
       "screenName": "ValliantRenegad",
       "name": "Valliant Renegade",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1664284236113920006/a-H-ariF_normal.jpg",
@@ -851,6 +917,23 @@
     ],
     "tweetUrl": "https://x.com/ValliantRenegad/status/1906420154340143379",
     "fullText": "Snow White set for $300M LOSS. Disney up to HALF BILLION LOSS in 2025 so far. \nHey @greggutfeld @FoxNews we keep hitting the mark with #SnowWhite Thanks for the Shoutout early on! https://t.co/iv6KGZuUCx"
+  },
+  {
+    "user": {
+      "screenName": "Pampalytics",
+      "name": "Pampalytics",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1903864374596620288/8zWF479K_normal.jpg",
+      "description": "Cronos on and off chain analytics. News and Data aggregator.",
+      "followersCount": 697,
+      "friendsCount": 292,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GnTUpdzXYAASQu7.mp4"
+    ],
+    "tweetUrl": "https://x.com/Pampalytics/status/1906382741899198655",
+    "fullText": "🚨Weekly Cronos News🚨\n📅 30/03/2025\n\n1️⃣ @cronos_chain 🚀\n- A major upgrade hit the Cronos zkEVM v26 Mainnet on 26 March 2025 at 07:00AM UTC, with a brief 1-2 hour downtime. Smart Account SSO now simplifies logins with Google, Apple ID, or email.\n- Cronos Labs has a new handsome https://t.co/UJZVkooE8b"
   },
   {
     "user": {
