@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "nextify2024",
+      "name": "Nextify",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
+      "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
+      "followersCount": 22776,
+      "friendsCount": 342,
+      "location": "HK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nextify2024/status/1906977911808360534",
+    "fullText": "人生路美梦似路长 ！"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 18539,
+      "friendsCount": 1360,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gnbw2gZa0AAqSLN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1906976321449955510",
+    "fullText": "微信小帖士\n\n现在进入多选模式，不再需要一个个手点了，多了一个“选择到这里”的按钮，也就是头尾选中自动多选。很不错 https://t.co/NeUXRmFUEz"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 18539,
+      "friendsCount": 1360,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1906973220646928491",
+    "fullText": "等编译的时候翻了一下QQ，自用的那个号现在只有80来个人。从中看到一个小学同学，我不记得为什么之前没有删他，也好奇他的近况，于是进入他的空间，鬼使神差的蒙对了他的相册问题，进去了他的相册。\n虽然吧，都是些他以前打游戏的截图什么的，但我突然有一种很不舒服的侵犯到别人的感觉，现在压力爆大"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21814,
+      "followersCount": 21816,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -35,7 +82,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28373,
+      "followersCount": 28375,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -84,7 +131,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56613,
+      "followersCount": 56615,
       "friendsCount": 355,
       "location": ""
     },
@@ -101,8 +148,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18531,
-      "friendsCount": 1359,
+      "followersCount": 18539,
+      "friendsCount": 1360,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -118,7 +165,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5507,
+      "followersCount": 5508,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -198,7 +245,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26214,
+      "followersCount": 26217,
       "friendsCount": 114,
       "location": "China"
     },
@@ -245,7 +292,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101498,
+      "followersCount": 101500,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -262,7 +309,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21814,
+      "followersCount": 21816,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -294,7 +341,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 72999,
+      "followersCount": 73001,
       "friendsCount": 3363,
       "location": ""
     },
@@ -375,7 +422,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115777,
+      "followersCount": 115776,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -490,6 +537,23 @@
   },
   {
     "user": {
+      "screenName": "ReflexRobot",
+      "name": "Reflex Robotics",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897334803101323264/lDenrtKH_normal.jpg",
+      "description": "We're building affordable general-purpose robots",
+      "followersCount": 3450,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1906791681669677057/pu/vid/avc1/1280x720/B7L-zaE2GB2VVUTZ.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/ReflexRobot/status/1906792436204208591",
+    "fullText": "Three days, three robots, thirty gallons of ice cream 🍦 https://t.co/67CWAsS11q"
+  },
+  {
+    "user": {
       "screenName": "TheSixFiveMedia",
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
@@ -511,8 +575,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18531,
-      "friendsCount": 1359,
+      "followersCount": 18539,
+      "friendsCount": 1360,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -577,8 +641,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18531,
-      "friendsCount": 1359,
+      "followersCount": 18539,
+      "friendsCount": 1360,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -626,7 +690,7 @@
       "name": "andrew chen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1610236905643249664/OdYs6aWP_normal.jpg",
       "description": "🇺🇸 a16z speedrun. Venture capital in tech, entertainment, and AI",
-      "followersCount": 305226,
+      "followersCount": 305229,
       "friendsCount": 13357,
       "location": ""
     },
@@ -641,7 +705,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56613,
+      "followersCount": 56615,
       "friendsCount": 355,
       "location": ""
     },
@@ -658,7 +722,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56613,
+      "followersCount": 56615,
       "friendsCount": 355,
       "location": ""
     },
@@ -709,7 +773,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101498,
+      "followersCount": 101500,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -729,7 +793,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101498,
+      "followersCount": 101500,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -778,7 +842,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101498,
+      "followersCount": 101500,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -797,7 +861,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56613,
+      "followersCount": 56615,
       "friendsCount": 355,
       "location": ""
     },
@@ -814,7 +878,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115777,
+      "followersCount": 115776,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -883,8 +947,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18531,
-      "friendsCount": 1359,
+      "followersCount": 18539,
+      "friendsCount": 1360,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1210,7 +1274,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20754,
+      "followersCount": 20756,
       "friendsCount": 1017,
       "location": ""
     },
@@ -1340,7 +1404,7 @@
       "name": "CBS Sports",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1730281935014895616/VebpL81c_normal.jpg",
       "description": "Hello, friends 👋 | 🏈🏀⛳️⚽️ | 📺 CBS, CBS Sports Network, Paramount+ |📱Download the CBS Sports app ⬇️",
-      "followersCount": 1472567,
+      "followersCount": 1472571,
       "friendsCount": 1888,
       "location": ""
     },
