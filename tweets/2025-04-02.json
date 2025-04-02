@@ -1,6 +1,41 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 18606,
+      "friendsCount": 1375,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GngBjIraMAA1NZS.jpg",
+      "https://pbs.twimg.com/media/GngBjIlaYAABWks.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1907276166446338241",
+    "fullText": "非常感谢大家，从没想过会有这么多人体验我的这个App，实在是受宠若惊\n\n之前说的锁屏之后计时自动停止的bug我已经弄好了还在等审核，昨天前天一共提了两次都被驳回了，再次修改，这次应该可以正常通过了 https://t.co/U2W6yfGh6U"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 21826,
+      "friendsCount": 279,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gnf_I8MbMAA2J2t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1907273542502416588",
+    "fullText": "吉卜力真的看腻了，试试其他风格：阿凡提 https://t.co/lgegRMkrib"
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
@@ -222,7 +257,7 @@
       "name": "Wilder World",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1770665208077533184/bN_ts2pz_normal.jpg",
       "description": "The Metaverse",
-      "followersCount": 280735,
+      "followersCount": 280889,
       "friendsCount": 904,
       "location": "Wiami"
     },
@@ -239,7 +274,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115871,
+      "followersCount": 115873,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -256,7 +291,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4058142,
+      "followersCount": 4058217,
       "friendsCount": 3,
       "location": ""
     },
@@ -290,7 +325,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18604,
+      "followersCount": 18606,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -300,6 +335,23 @@
     ],
     "tweetUrl": "https://x.com/LeeMmai/status/1907106875247894766",
     "fullText": "金枪大叔访谈\n没人告诉你的社会真相：当主角才能拿大头，如果不想当NPC，该怎么成为主角？ https://t.co/KFElt7MsW8"
+  },
+  {
+    "user": {
+      "screenName": "krea_ai",
+      "name": "KREA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884407047279747072/IpioOz4w_normal.jpg",
+      "description": "delightful creative tools with AI inside.",
+      "followersCount": 86255,
+      "friendsCount": 11,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1907071867237564416/pu/vid/avc1/1440x1080/yx525PreVbS-ozew.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/krea_ai/status/1907101512670609762",
+    "fullText": "introducing Gemini Image Editing.\n\nnow you can edit images with natural language in Krea Chat.\n\ntry it now! https://t.co/WxRho6gusR"
   },
   {
     "user": {
@@ -315,6 +367,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/BurgerKing/status/1907100061474959565",
     "fullText": "If you’re craving a joke for April Fool’s Day, try one of our competitors."
+  },
+  {
+    "user": {
+      "screenName": "Tocelot",
+      "name": "Jon Lai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905018775633829888/xaTC4iq3_normal.jpg",
+      "description": "GP @a16z @speedrun - investing in tech x entertainment 🎮🌱 | former PM @RiotGames @TencentGames | dark souls fan & dad to 3 zerglings",
+      "followersCount": 38218,
+      "friendsCount": 2231,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1906936337053487104/pu/vid/avc1/1280x720/wqDnWoPreZBAGowg.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Tocelot/status/1907099386091565336",
+    "fullText": "a16z @speedrun request for startups: AI agents for creative storytelling 🎨\n\nwe want to see a new agentic UGC platform - like a next-gen Wattpad or Roblox - where agents help users compose their ideas into rich transmedia stories. think vibe coding but focused on creative https://t.co/5aSHVkwWWx"
   },
   {
     "user": {
@@ -339,7 +408,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18604,
+      "followersCount": 18606,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -388,7 +457,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56641,
+      "followersCount": 56643,
       "friendsCount": 355,
       "location": ""
     },
@@ -440,7 +509,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18604,
+      "followersCount": 18606,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -450,6 +519,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1907077622259159062",
     "fullText": "之前尝试了好几种小红书账号的玩法，我一度觉得我的账号被我玩坏了，今天发了下自己做开发的心得，发现我之前没流量是因为少了那么点感觉\n\n具体什么感觉呢，正能量、逆袭、努力，总之要传达出一种我行你也行的感觉，并且要给观众们“想过要成为但没有付诸行动”的那种人设 https://t.co/OqOkHo9uJQ"
+  },
+  {
+    "user": {
+      "screenName": "PeterBernegger",
+      "name": "Peter Bernegger",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1607757622391734274/XMLfShP9_normal.jpg",
+      "description": "Independent Journalist, President of Election Watch, Inc. https://t.co/OWOU3fobyx",
+      "followersCount": 83875,
+      "friendsCount": 151,
+      "location": "Wisconsin"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GndKQltWcAA6WU_.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterBernegger/status/1907074813954342955",
+    "fullText": "Effective Dates of Executive Order 14248 on Elections: \n\n1  Immediately Upon Signing unless otherwise specified Agencies are directed to:\n\n-Cease actions under revoked EO 14019\n-Begin compliance efforts under this order\n\n2  By April 24, 2025 (Within 30 Days) Election Assistance https://t.co/QkAqYrKXq6"
   },
   {
     "user": {
@@ -512,7 +598,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18604,
+      "followersCount": 18606,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -527,7 +613,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20821,
+      "followersCount": 20823,
       "friendsCount": 1016,
       "location": ""
     },
@@ -561,7 +647,7 @@
       "name": "Raen Trading",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1803008034735611905/tFASjIzo_normal.jpg",
       "description": "A Private Collective of World-Class Traders, Quietly Shaping Markets",
-      "followersCount": 5561,
+      "followersCount": 5563,
       "friendsCount": 0,
       "location": "Waitlist →"
     },
@@ -576,7 +662,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18604,
+      "followersCount": 18606,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -593,7 +679,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18604,
+      "followersCount": 18606,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -643,7 +729,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20821,
+      "followersCount": 20823,
       "friendsCount": 1016,
       "location": ""
     },
@@ -676,7 +762,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18604,
+      "followersCount": 18606,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -693,7 +779,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18604,
+      "followersCount": 18606,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -815,7 +901,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56641,
+      "followersCount": 56643,
       "friendsCount": 355,
       "location": ""
     },
@@ -832,7 +918,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18604,
+      "followersCount": 18606,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -939,6 +1025,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/PlayDangerWorld/status/1906920173417660527",
     "fullText": "We've got more stickers for the giveaway! It was time to replace these misfits, right?\n\nGet your free Danger World stickers mailed to you: https://t.co/Dq577gAWRI\n\n#indiedev #solodev #stickers #free #freestickers #spine2d #giveaway #b4a https://t.co/sCX8c0DAlM"
+  },
+  {
+    "user": {
+      "screenName": "mthargrove",
+      "name": "Matthew Hargrove",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1887024248297811968/WZXeRv0E_normal.jpg",
+      "description": "Leader | Board Member | Veteran | Entrepreneur | Dad",
+      "followersCount": 297,
+      "friendsCount": 1194,
+      "location": "Southlake, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gna3F4hW0AA_81T.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mthargrove/status/1906912956132290957",
+    "fullText": "VR Therapy works https://t.co/RpXPwnJwAu"
   },
   {
     "user": {
@@ -1193,11 +1296,26 @@
   },
   {
     "user": {
+      "screenName": "alephium",
+      "name": "Alephium",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1757047354018996224/Gm_rx6Mo_normal.jpg",
+      "description": "Scalable for devs. \nSecure for users. \nDecentralized for all.\n\n▶ PoLW + Sharding + sUTXO + AlphredVM + RALPH language + more!",
+      "followersCount": 49972,
+      "friendsCount": 396,
+      "location": "Switzerland"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alephium/status/1906721887582863475",
+    "fullText": "🚨 Attention Alephians! 🚨\n\nWe’re rolling out an important restructuring of the Alephium Ambassador Program aimed at making things clearer, more rewarding, and better aligned with our current growth phase. \n\nAt this time, we are opening applications for only 30 new ambassadors."
+  },
+  {
+    "user": {
       "screenName": "MiniMax__AI",
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "Our mission is to build a world where intelligence thrives with everyone.",
-      "followersCount": 11674,
+      "followersCount": 11726,
       "friendsCount": 1,
       "location": "San Francisco"
     },
@@ -1249,7 +1367,7 @@
       "name": "Carbon Robotics",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1888814408484421632/m9g6AJM3_normal.jpg",
       "description": "Carbon Robotics™, a leader in AI powered robotics, builds innovative agricultural tools that empower farmers to operate more efficiently.",
-      "followersCount": 3074,
+      "followersCount": 3072,
       "friendsCount": 220,
       "location": "Seattle"
     },
