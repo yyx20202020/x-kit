@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
+      "followersCount": 101513,
+      "friendsCount": 805,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GngRou-XQAAtuax.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nishuang/status/1907295458386726961",
+    "fullText": "LLM AI 对话式 UI 的局限性\n\n#设计AI\n\nLinear 的设计师解释了主要局限：输入速度太慢（附图是读、听、写、说的速度，单位是单词数/分钟）\n\n另外人类交流还包括表情、手势、肢体语言，LLM AI 难以理解这些细节\n\n相比古代的文字界面、后来的 GUI 以及触摸界面，对话式 UI 更适合作为补充 https://t.co/NJJqrXqMKI"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 56646,
+      "friendsCount": 355,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1907291539472089179",
+    "fullText": "讲真，到目前这个份上，川普应该可以发现世界的真相了吧，政治谈判，外交谈判和企业谈判有根本性的不同......做企业，压迫上下游供应商的那一套，失灵了"
+  },
+  {
+    "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907253402054328320/FPz_U3YY_normal.png",
+      "description": "The 2024-25 NBA season continues Tuesday on TNT! 🏀 7:30pm/et: @Suns/@Bucks 🏀 10:00pm/et: @Timberwolves/@nuggets",
+      "followersCount": 48107403,
+      "friendsCount": 2012,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1907284004078051328/vid/avc1/1280x720/MW-j5XbAyZiGblI9.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1907284801117438132",
+    "fullText": "Nikola Jokić is up to 40 PTS 🚨\n\nWe've got under 10 minutes to go on TNT! https://t.co/dJD6YQ2tQ3"
+  },
+  {
+    "user": {
       "screenName": "chuckchen_zh",
       "name": "Chuck Chen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1797186447491170304/fLqq1huE_normal.jpg",
@@ -20,7 +69,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5523,
+      "followersCount": 5524,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -38,8 +87,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
-      "friendsCount": 1376,
+      "followersCount": 18604,
+      "friendsCount": 1377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -56,7 +105,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21827,
+      "followersCount": 21829,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -90,7 +139,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21827,
+      "followersCount": 21829,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -124,7 +173,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21827,
+      "followersCount": 21829,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -284,6 +333,23 @@
   },
   {
     "user": {
+      "screenName": "ShockTrauma19",
+      "name": "ShockTrauma19",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891907006966947840/1TEl0c0S_normal.jpg",
+      "description": "Matt |\nUnderDog - Bestball |\nBBM Maxer | Fantasy Football | Crypto Enthusiast | Go Birds 🦅",
+      "followersCount": 115,
+      "friendsCount": 73,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnecxEVXIAAP2M9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ShockTrauma19/status/1907165524062085403",
+    "fullText": "Final Big Board!!!\n#150\n@Underdog\n\nIs this considered Hero RB?\n\nIs she live or what?! https://t.co/kPEoRmeTSc"
+  },
+  {
+    "user": {
       "screenName": "PeloSwing",
       "name": "PeloSwing🎯👸🏻",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1757131068698710016/9dmOvBd__normal.jpg",
@@ -339,7 +405,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115884,
+      "followersCount": 115892,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -356,7 +422,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4058333,
+      "followersCount": 4058400,
       "friendsCount": 3,
       "location": ""
     },
@@ -390,8 +456,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
-      "friendsCount": 1376,
+      "followersCount": 18604,
+      "friendsCount": 1377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -501,12 +567,29 @@
   },
   {
     "user": {
+      "screenName": "KinesisMonetary",
+      "name": "Kinesis Money",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1530120012379344899/zUiyQcjI_normal.jpg",
+      "description": "Kinesis is a monetary system making physical gold and silver globally accessible for spending, saving and trading - with over 50% of revenue shared as yields.",
+      "followersCount": 20316,
+      "friendsCount": 129,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1907088747453173760/pu/vid/avc1/1280x720/jdMyPTp0BG8MbH2u.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/KinesisMonetary/status/1907089848009142668",
+    "fullText": "🚨 A Historic Market Shift Is Unfolding! ⚠️\n\nThis week on #TalkingTrades, @NorthstarCharts &amp; @badcharts1 break down the Dow/Gold ratio's warning signals and how every past breakdown has sparked a major move into #gold, #silver, and commodities.\n\nAre we on the brink of another https://t.co/Mh0udY0kbw"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
-      "friendsCount": 1376,
+      "followersCount": 18604,
+      "friendsCount": 1377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -603,7 +686,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5523,
+      "followersCount": 5524,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -623,8 +706,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
-      "friendsCount": 1376,
+      "followersCount": 18604,
+      "friendsCount": 1377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -674,7 +757,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5523,
+      "followersCount": 5524,
       "friendsCount": 234,
       "location": "NewYork"
     },
@@ -692,7 +775,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28389,
+      "followersCount": 28391,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -712,8 +795,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
-      "friendsCount": 1376,
+      "followersCount": 18604,
+      "friendsCount": 1377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -727,7 +810,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20827,
+      "followersCount": 20826,
       "friendsCount": 1016,
       "location": ""
     },
@@ -776,8 +859,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
-      "friendsCount": 1376,
+      "followersCount": 18604,
+      "friendsCount": 1377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -793,8 +876,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
-      "friendsCount": 1376,
+      "followersCount": 18604,
+      "friendsCount": 1377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -839,11 +922,28 @@
   },
   {
     "user": {
+      "screenName": "Israel",
+      "name": "Israel ישראל",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
+      "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
+      "followersCount": 1789095,
+      "friendsCount": 5133,
+      "location": "Jerusalem, Israel"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gnb-FFUXAAAvx4k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Israel/status/1906990861335888258",
+    "fullText": "The world cannot and must not turn a blind eye to Hamas’ crimes against humanity. \n\nHamas cannot be allowed to exist.\n\nRead the full report: https://t.co/TbjqZ85Km1 https://t.co/njUMlmTZwx"
+  },
+  {
+    "user": {
       "screenName": "lencx_",
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20827,
+      "followersCount": 20826,
       "friendsCount": 1016,
       "location": ""
     },
@@ -876,8 +976,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
-      "friendsCount": 1376,
+      "followersCount": 18604,
+      "friendsCount": 1377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -893,8 +993,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
-      "friendsCount": 1376,
+      "followersCount": 18604,
+      "friendsCount": 1377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -908,7 +1008,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21827,
+      "followersCount": 21829,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -983,7 +1083,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28389,
+      "followersCount": 28391,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -1205,6 +1305,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Perena__/status/1906886955390136801",
     "fullText": "USD* just hit $20M in TVL !\n\nThis is just the beginning...onward 🌸 https://t.co/2R7ObQ7lDN"
+  },
+  {
+    "user": {
+      "screenName": "ElijahForCA",
+      "name": "Elijah Mack 🇺🇸🌲⚓️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1748095073542414336/S0CBximB_normal.jpg",
+      "description": "Pursuing freed markets, wild nature, and strong, interdependent communities in CA! | Distributist | Classical Liberal | Ol’ Fashion Environmentalist | AngloCath",
+      "followersCount": 1374,
+      "friendsCount": 3371,
+      "location": "Central Coast CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnaJmg8aYAEUmuB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ElijahForCA/status/1906863233576915441",
+    "fullText": "Unfortunately, these days, brick-and-mortar farmers markets, like the famous Pike Place Market in Seattle, are more of an antiquated hipster novelty than anything else.\n\nRe-establishing an abundance of these could do wonders for our economy, health, and sense of community.\n\n(A🧵) https://t.co/IpQ19BADCX"
   },
   {
     "user": {
@@ -1439,6 +1556,23 @@
     ],
     "tweetUrl": "https://x.com/MiniMax__AI/status/1906720764885180775",
     "fullText": "MiniMax Audio just leveled up with the new Speech-02 model!\n\nTurn any file or URL into lifelike audio instantly. Create audiobooks and podcasts effortlessly with up to 200k-character in a single input. \n\nEnjoy ultra-realistic TTS in 30+ languages with native flair, unlimited https://t.co/m76S0Og7UK"
+  },
+  {
+    "user": {
+      "screenName": "DatasiteGlobal",
+      "name": "Datasite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1242449477555965952/7tq5nIAS_normal.jpg",
+      "description": "We empower dealmakers around the world with the tools they need to succeed across the entire M&A lifecycle.",
+      "followersCount": 5402,
+      "friendsCount": 474,
+      "location": "Minneapolis, Minnesota "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1906719042607431680/pu/vid/avc1/1278x720/7Z1oA5oA2Mrzgk1B.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/DatasiteGlobal/status/1906719124329292038",
+    "fullText": "Our anonymized Forecaster data includes diligence time for locations all over the world. When looking at the US, deals move faster in the Midwest. \n\nMidwest M&amp;A due diligence accelerated by 33 days year-over-year, the most substantial improvement in the US. Move swiftly, execute https://t.co/7av967v1dR"
   },
   {
     "user": {
