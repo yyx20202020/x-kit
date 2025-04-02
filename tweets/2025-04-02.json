@@ -1,12 +1,44 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 115975,
+      "friendsCount": 1307,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GniqRWoWoAAAUwE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1907461753849483571",
+    "fullText": "解密AI的“性格密码”：从 OpenAI 新的“Monday”音色提示词看提示词工程的魔力\n\n想象一下，你正在和手机里的AI助手聊天，但它不再是那个永远彬彬有礼、甚至有些刻板的“标准音”，而是带着一丝慵懒、一点讽刺，仿佛刚经历了一个漫长周末，还没从“周一综合症”里缓过神来。这就是OpenAI https://t.co/VmFowaCXUF"
+  },
+  {
+    "user": {
+      "screenName": "yuxiyou",
+      "name": "尤雨溪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
+      "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
+      "followersCount": 104022,
+      "friendsCount": 233,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuxiyou/status/1907457776617672754",
+    "fullText": "才发现我一个很熟的朋友（发小的老公）在抖音上有 160 多万粉丝… 他从来没跟我提过，因为大概觉得有些内容在朋友眼里很羞耻哈哈哈"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18625,
-      "friendsCount": 1386,
+      "followersCount": 18626,
+      "friendsCount": 1388,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -22,7 +54,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56672,
+      "followersCount": 56679,
       "friendsCount": 355,
       "location": ""
     },
@@ -40,7 +72,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21852,
+      "followersCount": 21853,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -57,7 +89,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56672,
+      "followersCount": 56679,
       "friendsCount": 355,
       "location": ""
     },
@@ -74,7 +106,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56672,
+      "followersCount": 56679,
       "friendsCount": 355,
       "location": ""
     },
@@ -92,8 +124,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18625,
-      "friendsCount": 1386,
+      "followersCount": 18626,
+      "friendsCount": 1388,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -190,7 +222,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149472,
+      "followersCount": 149478,
       "friendsCount": 467,
       "location": "中华人民共和国"
     },
@@ -272,8 +304,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18625,
-      "friendsCount": 1386,
+      "followersCount": 18626,
+      "friendsCount": 1388,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -290,8 +322,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18625,
-      "friendsCount": 1386,
+      "followersCount": 18626,
+      "friendsCount": 1388,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -305,7 +337,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149472,
+      "followersCount": 149478,
       "friendsCount": 467,
       "location": "中华人民共和国"
     },
@@ -322,8 +354,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18625,
-      "friendsCount": 1386,
+      "followersCount": 18626,
+      "friendsCount": 1388,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -339,7 +371,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142258,
+      "followersCount": 142257,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -356,7 +388,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142258,
+      "followersCount": 142257,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -376,7 +408,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7211,
+      "followersCount": 7210,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -393,7 +425,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7211,
+      "followersCount": 7210,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -427,8 +459,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18625,
-      "friendsCount": 1386,
+      "followersCount": 18626,
+      "friendsCount": 1388,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -525,7 +557,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56672,
+      "followersCount": 56679,
       "friendsCount": 355,
       "location": ""
     },
@@ -642,8 +674,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18625,
-      "friendsCount": 1386,
+      "followersCount": 18626,
+      "friendsCount": 1388,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -660,7 +692,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21852,
+      "followersCount": 21853,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -694,7 +726,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21852,
+      "followersCount": 21853,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -745,7 +777,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21852,
+      "followersCount": 21853,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -794,7 +826,7 @@
       "name": "dbrand",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1673496653863477249/sq4pfWO7_normal.jpg",
       "description": "toxic electric tape // support @robot",
-      "followersCount": 2307610,
+      "followersCount": 2307601,
       "friendsCount": 1,
       "location": "Toronto"
     },
@@ -875,7 +907,7 @@
       "name": "Four Corners",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1900666923609976837/Ia4XaqH9_normal.jpg",
       "description": "Four Corners | Private Charter · Aircraft Management · Freedom™",
-      "followersCount": 7,
+      "followersCount": 8,
       "friendsCount": 11,
       "location": "Frisco, TX"
     },
@@ -1226,7 +1258,7 @@
       "name": "Burger King",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1775974425944309760/xaLBQXMv_normal.jpg",
       "description": "Burger King U.S. Official Account.",
-      "followersCount": 1970743,
+      "followersCount": 1970749,
       "friendsCount": 3401,
       "location": ""
     },
@@ -1392,7 +1424,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56672,
+      "followersCount": 56679,
       "friendsCount": 355,
       "location": ""
     },
@@ -1894,7 +1926,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902706882676207616/N2TIrgS-_normal.jpg",
       "description": "now generating @aminecraftmovie meal + happy meal",
-      "followersCount": 4745405,
+      "followersCount": 4745444,
       "friendsCount": 13034,
       "location": ""
     },
@@ -2491,6 +2523,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NRGgg/status/1906746883281920161",
     "fullText": "We want to see your stats on @opgg_official!  \n\nReply with a screenshot of your https://t.co/vdkHGinnur profile to get analyzed by @FNS and the team on the next episode of the Offscript Podcast.   \n\nMake sure to connect your Riot Account by going to https://t.co/n0keDoHJM2 https://t.co/98yScfiWOC"
+  },
+  {
+    "user": {
+      "screenName": "andrewchen",
+      "name": "andrew chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1610236905643249664/OdYs6aWP_normal.jpg",
+      "description": "🇺🇸 a16z speedrun. Venture capital in tech, entertainment, and AI",
+      "followersCount": 305406,
+      "friendsCount": 13357,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/andrewchen/status/1906744459330789382",
+    "fullText": "new announcement from a16z:\n\nstartup founders -- come work with me 1:1 and let a16z invest up to $1M in your very early stage startup :)\n\n(yes, this is via a16z speedrun, and we are launching the next cycle today, taking applications over the next ~month. Here's how to apply:"
   },
   {
     "user": {
