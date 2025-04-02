@@ -1,11 +1,46 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 115974,
+      "friendsCount": 1307,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gni9OIdWcAEsooS.jpg",
+      "https://pbs.twimg.com/media/Gni9YQPXAAACy7K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1907482674874228740",
+    "fullText": "转：那年愚人节，我差点把自己“作”没了\n\n话说，谁年轻时没干过几件想起来就“噗嗤”一声笑出来，但当时能吓出一身冷汗的傻事呢？我这辈子最得意也最“作死”的一次恶作剧，就发生在我刚踏出校门那会儿。这事儿绝对真实，不过嘛，为了保护“共犯们”，人名咱就隐去啦。\n\n初入职场：一个“不务正业”的程序员 https://t.co/DMZ1WOws5y"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4060744,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gni4aIbakAAXHTd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1907481490457506235",
+    "fullText": "We’re releasing PaperBench, a benchmark evaluating the ability of AI agents to replicate state-of-the-art AI research, as part of our Preparedness Framework.\n\nAgents must replicate top ICML 2024 papers, including understanding the paper, writing code, and executing experiments. https://t.co/CvYcDdk0nI"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26242,
+      "followersCount": 26236,
       "friendsCount": 114,
       "location": "China"
     },
@@ -25,7 +60,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101515,
+      "followersCount": 101519,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -43,7 +78,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115979,
+      "followersCount": 115974,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -61,7 +96,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115979,
+      "followersCount": 115974,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -127,7 +162,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56684,
+      "followersCount": 56688,
       "friendsCount": 355,
       "location": ""
     },
@@ -145,7 +180,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21856,
+      "followersCount": 21858,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -162,7 +197,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56684,
+      "followersCount": 56688,
       "friendsCount": 355,
       "location": ""
     },
@@ -179,7 +214,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56684,
+      "followersCount": 56688,
       "friendsCount": 355,
       "location": ""
     },
@@ -210,11 +245,28 @@
   },
   {
     "user": {
+      "screenName": "LiquidiumFi",
+      "name": "Liquidium | Bitcoin DeFi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874937510842810368/1SXvpk3I_normal.png",
+      "description": "Borrow & Lend BTC against Ordinals, Runes, and BRC-20 — earn Bitcoin. \n\nInstant loans are LIVE NOW. For help support: https://t.co/1dIMbVd6lU",
+      "followersCount": 41612,
+      "friendsCount": 840,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1907434111318507520/vid/avc1/1280x720/QIVOsfLT1TcCmAy1.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/LiquidiumFi/status/1907434188493758530",
+    "fullText": "Instant loans are here for EVERYONE!\n\n• Simple ⚡️\n• Fast 🏎️\n• No friction  ✅\n\nCollateralize your Runes NOW! https://t.co/6fU0VPbdqI"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28390,
+      "followersCount": 28389,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -231,7 +283,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73029,
+      "followersCount": 73034,
       "friendsCount": 3364,
       "location": ""
     },
@@ -246,7 +298,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101515,
+      "followersCount": 101519,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -312,7 +364,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149481,
+      "followersCount": 149476,
       "friendsCount": 467,
       "location": "中华人民共和国"
     },
@@ -327,7 +379,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28390,
+      "followersCount": 28389,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -427,7 +479,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149481,
+      "followersCount": 149476,
       "friendsCount": 467,
       "location": "中华人民共和国"
     },
@@ -461,7 +513,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142260,
+      "followersCount": 142264,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -478,7 +530,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142260,
+      "followersCount": 142264,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -564,7 +616,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28390,
+      "followersCount": 28389,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -581,7 +633,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73029,
+      "followersCount": 73034,
       "friendsCount": 3364,
       "location": ""
     },
@@ -630,7 +682,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101515,
+      "followersCount": 101519,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -647,7 +699,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56684,
+      "followersCount": 56688,
       "friendsCount": 355,
       "location": ""
     },
@@ -782,7 +834,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21856,
+      "followersCount": 21858,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -1393,7 +1445,7 @@
       "name": "Burger King",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1775974425944309760/xaLBQXMv_normal.jpg",
       "description": "Burger King U.S. Official Account.",
-      "followersCount": 1970753,
+      "followersCount": 1970785,
       "friendsCount": 3401,
       "location": ""
     },
@@ -1574,7 +1626,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56684,
+      "followersCount": 56688,
       "friendsCount": 355,
       "location": ""
     },
@@ -2091,7 +2143,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902706882676207616/N2TIrgS-_normal.jpg",
       "description": "now generating @aminecraftmovie meal + happy meal",
-      "followersCount": 4745612,
+      "followersCount": 4745428,
       "friendsCount": 13034,
       "location": ""
     },
@@ -2448,7 +2500,7 @@
       "name": "Padlet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689829413079429120/a_X0dEfk_normal.jpg",
       "description": "Software for a good education.\nFor support, visit https://t.co/djfZw8wkCZ.\nFor jobs, visit https://t.co/dIYMR2Hk8R.",
-      "followersCount": 74698,
+      "followersCount": 74699,
       "friendsCount": 209,
       "location": "San Francisco, CA"
     },
