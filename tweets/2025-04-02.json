@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
+      "followersCount": 101516,
+      "friendsCount": 805,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gnf3wTgXIAAdXMG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nishuang/status/1907267317492285833",
+    "fullText": "都说推荐算法导致了“信息茧房”，但最新研究说，相比用户自我选择的结果，推荐算法的结果反而更具多样性\n\nWhat🤪？\n\n研究来自暨南大学，他们用假账号在抖音上做测试，得到了研究数据 https://t.co/IuFqlnOBMB"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21825,
+      "followersCount": 21826,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -22,7 +39,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21825,
+      "followersCount": 21826,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -81,6 +98,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/everlign/status/1907200080500707499",
     "fullText": "We’re building containerized enterprise AI applications with native Kubernetes orchestration—fully self-managed and cloud-agnostic.\nNo managed abstractions. No lock-in.\nRun it on any cloud, on-prem, or keep it air-gapped. Your infrastructure, your rules. https://t.co/blNj89eSop"
+  },
+  {
+    "user": {
+      "screenName": "j3nnings",
+      "name": "Ian Jennings",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1283158928721883142/0Yg9wGgr_normal.jpg",
+      "description": "Building next-gen AI-first QA agent https://t.co/amm10OpVAS Ex @pubnub, @bitly, @facebook, and sold @hackerleague to @intel when I was 23.",
+      "followersCount": 1717,
+      "friendsCount": 2276,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/j3nnings/status/1907198286701674740",
+    "fullText": "You already use AI to write code, but what about e2e tests?\n\nTestDriver is agentic QA right inside your IDE!\n\nUse powerful computer-use agents to build and deploy tests that never break\n\nTry it free: https://t.co/xXKJIxJKHT"
   },
   {
     "user": {
@@ -207,7 +239,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115862,
+      "followersCount": 115871,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -224,7 +256,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4058045,
+      "followersCount": 4058142,
       "friendsCount": 3,
       "location": ""
     },
@@ -258,7 +290,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
+      "followersCount": 18604,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -290,7 +322,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6316,
+      "followersCount": 6315,
       "friendsCount": 472,
       "location": ""
     },
@@ -307,7 +339,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
+      "followersCount": 18604,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -356,7 +388,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56637,
+      "followersCount": 56641,
       "friendsCount": 355,
       "location": ""
     },
@@ -408,7 +440,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
+      "followersCount": 18604,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -480,7 +512,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
+      "followersCount": 18604,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -495,7 +527,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20822,
+      "followersCount": 20821,
       "friendsCount": 1016,
       "location": ""
     },
@@ -544,7 +576,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
+      "followersCount": 18604,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -561,7 +593,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
+      "followersCount": 18604,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -593,7 +625,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6316,
+      "followersCount": 6315,
       "friendsCount": 472,
       "location": ""
     },
@@ -611,7 +643,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20822,
+      "followersCount": 20821,
       "friendsCount": 1016,
       "location": ""
     },
@@ -629,7 +661,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22772,
+      "followersCount": 22771,
       "friendsCount": 342,
       "location": "HK"
     },
@@ -644,7 +676,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
+      "followersCount": 18604,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -661,7 +693,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
+      "followersCount": 18604,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -676,7 +708,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21825,
+      "followersCount": 21826,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -736,7 +768,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149459,
+      "followersCount": 149460,
       "friendsCount": 466,
       "location": "中华人民共和国"
     },
@@ -783,7 +815,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56637,
+      "followersCount": 56641,
       "friendsCount": 355,
       "location": ""
     },
@@ -800,7 +832,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18605,
+      "followersCount": 18604,
       "friendsCount": 1375,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -835,7 +867,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149459,
+      "followersCount": 149460,
       "friendsCount": 466,
       "location": "中华人民共和国"
     },
@@ -852,7 +884,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6316,
+      "followersCount": 6315,
       "friendsCount": 472,
       "location": ""
     },
@@ -1175,6 +1207,21 @@
     ],
     "tweetUrl": "https://x.com/MiniMax__AI/status/1906720764885180775",
     "fullText": "MiniMax Audio just leveled up with the new Speech-02 model!\n\nTurn any file or URL into lifelike audio instantly. Create audiobooks and podcasts effortlessly with up to 200k-character in a single input. \n\nEnjoy ultra-realistic TTS in 30+ languages with native flair, unlimited https://t.co/m76S0Og7UK"
+  },
+  {
+    "user": {
+      "screenName": "DAmericasFuture",
+      "name": "Defending America's Future",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1794040413889736704/9LpaxgOY_normal.jpg",
+      "description": "Supporting candidates who will fight to preserve the American Dream for future generations through defending faith, family, freedom, and opportunity.",
+      "followersCount": 2242,
+      "friendsCount": 10,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DAmericasFuture/status/1906715633175167151",
+    "fullText": "Secretary of Defense Pete Hegeseth just publicly applauded Senator Katie Britt for her recent work!\n\nTop Republicans are calling Katie of the 'most effective leaders' of the US Senate...and she's just getting started. \n\nDoes Katie have YOUR support? Join her team now!"
   },
   {
     "user": {
