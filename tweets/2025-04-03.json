@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28390,
+      "friendsCount": 555,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1907630350379135375",
+    "fullText": "前两周GPT4o，设计师要失业了.\n这两天即梦3.0，设计师又焦虑了.\n\n其实我很好奇，🧑‍🎨👨‍🎨设计师们真的很焦虑吗？很想知道业内人士的想法🤔"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 53289,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1907627917544456192/pu/vid/avc1/1150x720/57D8fzcjHYd1f6NS.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1907628125066039497",
+    "fullText": "一个有趣的开源小服务 GitDiagram \n可以将Github 中的代码以图表的形式展示出来，对于读一些小型的源代码还是很有帮助的。\n\nhttps://t.co/qRZckpDJra\n\n可以直接体验：https://t.co/xTEQVanp8d \n看上哪个 repo 将 URL 中的 github 换成 gitdiagram 就可以生成图表。目前都是完全免费的。 https://t.co/s2wQj86mUc"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -70,11 +102,26 @@
   },
   {
     "user": {
+      "screenName": "GerarddeMarigny",
+      "name": "Gerard de Marigny",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/784809679469764608/Goh_tVmI_normal.jpg",
+      "description": "Writer | Producer                  \n                                   Read great stories at : https://t.co/tRsYSgMis5 \nFollower of #TheWay 🙌🙏🤟🏼✌️",
+      "followersCount": 8263,
+      "friendsCount": 1545,
+      "location": "Henderson, NV"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GerarddeMarigny/status/1907563748078034948",
+    "fullText": "While I've been focused on my partner Mike Greenburg's and my awesome feature film and TV series projects, all of my published works (my novels and novellas) are finally now available as audiobooks on:\n\nAmazon: https://t.co/1HAyBnZIzj\n\nAudible: https://t.co/KAQAdopoaZ\n\nIf you"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56929,
+      "followersCount": 56940,
       "friendsCount": 356,
       "location": ""
     },
@@ -91,7 +138,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115989,
+      "followersCount": 115991,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -116,6 +163,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Scroll_ZKP/status/1907522675922419969",
     "fullText": "Euclid upgrade incoming: Scroll will become the first ZK rollup to reach Stage 1 status.\n\nWhat does this mean for you, builders?\n\nTrue decentralization = user sovereignty:\n\n• Permissionless sequencing: in an unlikely event of sequencer failure, anyone will be able to submit a"
+  },
+  {
+    "user": {
+      "screenName": "mathemagic1an",
+      "name": "Jay Hack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
+      "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
+      "followersCount": 49218,
+      "friendsCount": 2980,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1907519009547063296/vid/avc1/1112x720/ghD_EavMyiIbvOi1.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/mathemagic1an/status/1907519061980066240",
+    "fullText": "⚡️ Huge update now live! ⚡️\n\n@codegen can now execute arbitrary code 💻 💻 💻\n\nWatch it build =&gt; execute a HN scraper, then slack me a PR below.\n\nPowered by @modal_labs sandboxes. Absolutely 🔥 . No \"invite codes\", this is fully GA.\n\nMore below 👇 https://t.co/9qYtRl45BW"
   },
   {
     "user": {
@@ -167,6 +231,23 @@
     ],
     "tweetUrl": "https://x.com/DrPhil/status/1907509214940934569",
     "fullText": "Welcome to The Real Story. A brand new daily podcast from Dr. Phil and MeritTV. No spin. No BS. Just the truth. https://t.co/d1k6y1MEWR"
+  },
+  {
+    "user": {
+      "screenName": "WilderWorld",
+      "name": "Wilder World",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1770665208077533184/bN_ts2pz_normal.jpg",
+      "description": "The Metaverse",
+      "followersCount": 280433,
+      "friendsCount": 905,
+      "location": "Wiami"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1907126019544248320/pu/vid/avc1/1920x1080/USxhe5Utppt9GRX_.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/WilderWorld/status/1907508334745309281",
+    "fullText": "NFTs that go pew pew https://t.co/egqtq5rC3u"
   },
   {
     "user": {
@@ -240,7 +321,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115989,
+      "followersCount": 115991,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -258,7 +339,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4061608,
+      "followersCount": 4061649,
       "friendsCount": 3,
       "location": ""
     },
@@ -313,7 +394,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115989,
+      "followersCount": 115991,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -344,6 +425,21 @@
   },
   {
     "user": {
+      "screenName": "benlkatz",
+      "name": "Ben Katz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886405368454000640/iNdZwgaJ_normal.jpg",
+      "description": "Co-Founder @hybrd_app (YC F24) | Health & fitness tech | Former growth @ WHOOP",
+      "followersCount": 969,
+      "friendsCount": 1299,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/benlkatz/status/1907462968411120099",
+    "fullText": "When we got into YC, we had:\n- no product\n- 1 engineer (across 4 founders)\n- 10 weeks until demo day\n\nYet we managed to vibe-code our way to hundreds of paid users and a successful fundraise.\n\nHere are the systems that made this possible with a mostly non-technical team 👇"
+  },
+  {
+    "user": {
       "screenName": "alexkhuda",
       "name": "Alexander Khuda",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1837253374003019776/0eIjy0b7_normal.jpg",
@@ -365,7 +461,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 115989,
+      "followersCount": 115991,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -382,7 +478,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 104028,
+      "followersCount": 104034,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -414,7 +510,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56929,
+      "followersCount": 56940,
       "friendsCount": 356,
       "location": ""
     },
@@ -432,7 +528,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21865,
+      "followersCount": 21866,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -449,7 +545,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56929,
+      "followersCount": 56940,
       "friendsCount": 356,
       "location": ""
     },
@@ -483,7 +579,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 56929,
+      "followersCount": 56940,
       "friendsCount": 356,
       "location": ""
     },
@@ -538,7 +634,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28391,
+      "followersCount": 28390,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -604,7 +700,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16379,
+      "followersCount": 16373,
       "friendsCount": 1190,
       "location": "San Antonio, TX"
     },
@@ -702,7 +798,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) |  全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28391,
+      "followersCount": 28390,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -718,7 +814,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
       "followersCount": 5545,
-      "friendsCount": 235,
+      "friendsCount": 236,
       "location": "NewYork"
     },
     "images": [
@@ -982,6 +1078,23 @@
   },
   {
     "user": {
+      "screenName": "ledgerlaw",
+      "name": "The Ledger Law Firm",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1906437258951155712/sBBELkuj_normal.jpg",
+      "description": "Injury & Wrongful Death Law Firm Founded By Nationally Recognized Attorney Emery Brett Ledger | Toll Free 800-300-0001",
+      "followersCount": 12112,
+      "friendsCount": 126,
+      "location": "CA | TX | WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnfDOmhacAAo8m5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ledgerlaw/status/1907207628872433711",
+    "fullText": "Welcome To 2nd Quarter 2025;  I Hope It Is As Amazing As The First!  Special Congrats to our Texas, California &amp; Washington Injury Divisions!  Winning At Ever Turn! @ledgerlaw https://t.co/1DFkX2O3pk"
+  },
+  {
+    "user": {
       "screenName": "sekurprivate",
       "name": "Sekur Private (OTCQB:SWISF)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826372068579180548/yLFIrKnW_normal.jpg",
@@ -994,6 +1107,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/sekurprivate/status/1907191250031104246",
     "fullText": "Think about it… 💭 \n\nWhat sensitive information have you shared through messaging apps, believing it was truly secure?  \n\n💰 Financial details about your business? \n🔐 Confidential client information? \n💡 Proprietary company strategies? \n📂 Personal data that could be misused?"
+  },
+  {
+    "user": {
+      "screenName": "levisgranfondo",
+      "name": "Levi's GranFondo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904938160985190400/9xQ50fIA_normal.png",
+      "description": "North America's Premier Gran Fondo. The richest, goodest road race in the world • WATCH LIVE 4-19-25",
+      "followersCount": 4046,
+      "friendsCount": 45,
+      "location": "Santa Rosa, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1907185474424520704/pu/vid/avc1/1280x720/2oFAPO_bNHdB-7cA.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/levisgranfondo/status/1907187126380503276",
+    "fullText": "WATCH LIVE ON APRIL 19TH\n\nThe race is called “The Growler”, and is but one component of the 16 year old mass-participation ride known as Levi’s GranFondo. The ride has existed here since 2009, and was founded by former WorldTour professional Levi Leipheimer as a way to give back https://t.co/tJfPXZo0HG"
   },
   {
     "user": {
@@ -1078,6 +1208,21 @@
   },
   {
     "user": {
+      "screenName": "kevinjonaslover",
+      "name": "Amanda Jonas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905196492450922496/v4rK7010_normal.jpg",
+      "description": "This design, of course, can be used for matures and children, and you can use it for almost anything you want to customize with a dog theme.",
+      "followersCount": 7,
+      "friendsCount": 4,
+      "location": "Bismarck"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/kevinjonaslover/status/1907093069201113489",
+    "fullText": "During elevation, take the time to raise the upper body, especially the upper back."
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -1137,5 +1282,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/McDonalds/status/1906964874208698526",
     "fullText": "so ur telling me my fav characters are now collectibles??? collect 1 of 6 in @aminecraftmovie meal. out now."
+  },
+  {
+    "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902706882676207616/N2TIrgS-_normal.jpg",
+      "description": "now generating @aminecraftmovie meal + happy meal",
+      "followersCount": 4745370,
+      "friendsCount": 13035,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1906964874112217437",
+    "fullText": "haven’t stopped crafting since i dug into @aminecraftmovie meal"
   }
 ]
