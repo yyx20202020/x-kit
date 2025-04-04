@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 116359,
+      "friendsCount": 1308,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GntEyC6WoAA9Voa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1908194518345678865",
+    "fullText": "把照片变成 3D Q版风格\n工具：Sora 或 GPT-4o\n提示词（需要上传一张照片）：\n\n将场景中的角色转化为3D Q版风格，同时保持原本的场景布置和服装造型不变。 https://t.co/vUnjE9ymEu"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 57065,
+      "friendsCount": 356,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1908193116009693312",
+    "fullText": "-中国宣布对美加征对等关税，34%，不予减免\n\n-并宣布对16家美国企业出口管制，11家列入不可靠清单，6家企业禁止对华出口\n\n-并对钐、钆、铽、镝、镥、钪、钇等7类中重稀土实施出口管制"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
+      "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 5584,
+      "friendsCount": 238,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GntB5WKa8AA2x3K.jpg",
+      "https://pbs.twimg.com/media/GntB5rPaAAAlIaZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1908191345547903480",
+    "fullText": "4 月 1 日 274 元买入特斯拉\n4 月 2 日 265 元卖出特斯拉\n\n当然只是感觉不对劲，立刻割肉离场了，持币在手；现在特斯拉 243.8 元\n\n那么现在该怎么办，做空、持币、抄底？ https://t.co/H3lVeEZrmK"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18639,
+      "followersCount": 18635,
       "friendsCount": 1395,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -22,7 +72,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8332,
+      "followersCount": 8338,
       "friendsCount": 3400,
       "location": ""
     },
@@ -39,7 +89,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142246,
+      "followersCount": 142248,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -76,7 +126,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101551,
+      "followersCount": 101540,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -93,7 +143,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5297,
+      "followersCount": 5295,
       "friendsCount": 1179,
       "location": ""
     },
@@ -110,7 +160,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18639,
+      "followersCount": 18635,
       "friendsCount": 1395,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -120,6 +170,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1908149478143471666",
     "fullText": "烤冷面和鸡蛋灌饼，饿晕我了 https://t.co/XwSCICil1O"
+  },
+  {
+    "user": {
+      "screenName": "TheRobertBshow",
+      "name": "Robert Bortins",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1783554269385240576/mLP0e8h8_normal.jpg",
+      "description": "Homeschooled to Homeschooler, CEO of @ClassicalConv serving 135k students, 3x Father, 3x Rugby National Champ, Eduprenuer, Join the Movement",
+      "followersCount": 8001,
+      "friendsCount": 656,
+      "location": "Weekly Show➜"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnsVeY-XgAAEA_1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheRobertBshow/status/1908144190464115048",
+    "fullText": "\"We can either teach our children that they're a little better than monkeys or a little lower than the angels, and that changes a whole world view of how children are raised and taught and what's expected of them.\" - Leigh Bortins\n\n🧵10 best quotes from the Shawn Ryan Podcast https://t.co/oe2MnnKmAm"
   },
   {
     "user": {
@@ -144,7 +211,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6324,
+      "followersCount": 6323,
       "friendsCount": 472,
       "location": ""
     },
@@ -213,7 +280,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6324,
+      "followersCount": 6323,
       "friendsCount": 472,
       "location": ""
     },
@@ -231,7 +298,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21938,
+      "followersCount": 21937,
       "friendsCount": 280,
       "location": "Guangdong"
     },
@@ -268,7 +335,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21938,
+      "followersCount": 21937,
       "friendsCount": 280,
       "location": "Guangdong"
     },
@@ -318,7 +385,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18639,
+      "followersCount": 18635,
       "friendsCount": 1395,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -335,7 +402,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142246,
+      "followersCount": 142248,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -352,7 +419,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18639,
+      "followersCount": 18635,
       "friendsCount": 1395,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -371,7 +438,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142246,
+      "followersCount": 142248,
       "friendsCount": 1430,
       "location": "東京 港区"
     },
@@ -390,7 +457,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18639,
+      "followersCount": 18635,
       "friendsCount": 1395,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -437,7 +504,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101551,
+      "followersCount": 101540,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -456,7 +523,7 @@
       "name": "Midjourney",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
       "description": "New research lab. Exploring new mediums of thought and amplifying the imaginative powers of the human species. Join our beta:  https://t.co/Kn6Ltg8yn0",
-      "followersCount": 378354,
+      "followersCount": 378438,
       "friendsCount": 0,
       "location": ""
     },
@@ -473,7 +540,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26373,
+      "followersCount": 26376,
       "friendsCount": 114,
       "location": "China"
     },
@@ -488,7 +555,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26373,
+      "followersCount": 26376,
       "friendsCount": 114,
       "location": "China"
     },
@@ -533,11 +600,28 @@
   },
   {
     "user": {
+      "screenName": "soumilrathi",
+      "name": "Sicarius",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1906478435112771584/2V7_x39V_normal.jpg",
+      "description": "AGI Researcher, Founder | CS @ UIUC | Prev. founded @SkillPool_Tech",
+      "followersCount": 282,
+      "friendsCount": 559,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1907995722466656256/pu/vid/avc1/1280x720/5LA3gvTNdECSLuu7.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/soumilrathi/status/1907997947230314928",
+    "fullText": "Worked on enabling app actions for the ai assistant im building!\n\nIt can now take actions on 50+ apps, including gmail, notion, etc. \n\nNow just have to keep improving it to handle more and more complex tasks.\n\nDemo: creating an event on my calendar https://t.co/MZcxYyR2YU"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26373,
+      "followersCount": 26376,
       "friendsCount": 114,
       "location": "China"
     },
@@ -554,7 +638,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116326,
+      "followersCount": 116359,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -572,7 +656,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101551,
+      "followersCount": 101540,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -606,7 +690,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5297,
+      "followersCount": 5295,
       "friendsCount": 1179,
       "location": ""
     },
@@ -737,7 +821,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5578,
+      "followersCount": 5584,
       "friendsCount": 238,
       "location": "NewYork"
     },
@@ -789,7 +873,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116326,
+      "followersCount": 116359,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -806,7 +890,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101551,
+      "followersCount": 101540,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -1019,7 +1103,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26373,
+      "followersCount": 26376,
       "friendsCount": 114,
       "location": "China"
     },
@@ -1218,7 +1302,7 @@
       "name": "Dinkum",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904147262403723265/nE1pBYN8_normal.png",
       "description": "Dinkum Official",
-      "followersCount": 13,
+      "followersCount": 20,
       "friendsCount": 0,
       "location": ""
     },
@@ -1248,7 +1332,7 @@
       "name": "Dinkum",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904147262403723265/nE1pBYN8_normal.png",
       "description": "Dinkum Official",
-      "followersCount": 19,
+      "followersCount": 20,
       "friendsCount": 0,
       "location": ""
     },
