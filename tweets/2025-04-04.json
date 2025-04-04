@@ -1,11 +1,44 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 21920,
+      "friendsCount": 279,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnrQL2ZakAA2b72.jpg",
+      "https://pbs.twimg.com/media/GnrQL2aaMAAoiFI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1908066306433364073",
+    "fullText": "本来打算清明写点代码的，结果又来了厦门，我说这么远的路打个车吧，偏不，不是坐地铁就是刷马路，继续开启特种兵模式： https://t.co/xrqK1EuXjG"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18648,
+      "followersCount": 18647,
+      "friendsCount": 1390,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1908065097941135571",
+    "fullText": "语言跟随系统，每次都出问题，最后决定把这个功能砍掉了，想换语言的自觉去设置里面自己改好了🫥"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 18647,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -22,7 +55,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142220,
+      "followersCount": 142238,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -39,7 +72,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18648,
+      "followersCount": 18647,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -58,7 +91,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142220,
+      "followersCount": 142238,
       "friendsCount": 1431,
       "location": "東京 港区"
     },
@@ -77,7 +110,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18648,
+      "followersCount": 18647,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -85,6 +118,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1908038982262534451",
     "fullText": "昨晚三点半睡的，少有的身体熬不住的感觉，好在把任务完成了。现在出门吃个饭，今天把上架信息提交一下任务就算完成，目标是10号之前修修改改一定要成功上架"
+  },
+  {
+    "user": {
+      "screenName": "ECoaching1569",
+      "name": "Elevate coaching",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899042541170790400/UXqyKfAe_normal.jpg",
+      "description": "Elevate Coaching empowers personal growth with tailored self-development courses. Our mission is to provide tools for lifelong transformation.",
+      "followersCount": 3,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ECoaching1569/status/1908038390349500569",
+    "fullText": "Tired of watching others level up while you stay stuck?\n\nThe truth is, success isn’t about luck — it’s about mindset, discipline, and daily action. That’s exactly what you’ll build inside The Elevation Project.\n\nEvery week, members get a new powerful PDF focused on:\n•Mindset"
   },
   {
     "user": {
@@ -109,7 +157,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101532,
+      "followersCount": 101536,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -128,7 +176,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26288,
+      "followersCount": 26291,
       "friendsCount": 114,
       "location": "China"
     },
@@ -143,7 +191,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26288,
+      "followersCount": 26291,
       "friendsCount": 114,
       "location": "China"
     },
@@ -160,7 +208,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26272,
+      "followersCount": 26291,
       "friendsCount": 114,
       "location": "China"
     },
@@ -175,7 +223,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101529,
+      "followersCount": 101536,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -192,7 +240,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26288,
+      "followersCount": 26291,
       "friendsCount": 114,
       "location": "China"
     },
@@ -209,7 +257,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116176,
+      "followersCount": 116182,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -227,7 +275,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101532,
+      "followersCount": 101536,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -444,7 +492,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116176,
+      "followersCount": 116182,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -461,7 +509,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101532,
+      "followersCount": 101536,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -593,7 +641,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18648,
+      "followersCount": 18647,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -659,7 +707,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21915,
+      "followersCount": 21920,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -674,7 +722,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26288,
+      "followersCount": 26291,
       "friendsCount": 114,
       "location": "China"
     },
@@ -689,7 +737,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149508,
+      "followersCount": 149514,
       "friendsCount": 467,
       "location": "中华人民共和国"
     },
@@ -704,7 +752,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8303,
+      "followersCount": 8304,
       "friendsCount": 3398,
       "location": ""
     },
@@ -751,7 +799,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101532,
+      "followersCount": 101536,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -1331,6 +1379,23 @@
   },
   {
     "user": {
+      "screenName": "vicentes",
+      "name": "Vicente Silveira",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1752428304693608448/Jm3DlZdK_normal.jpg",
+      "description": "Co-creator of AI PDF GPT and AI Drive. Formerly WhatsApp, Uber and LinkedIn.",
+      "followersCount": 2162,
+      "friendsCount": 2101,
+      "location": "San Francisco Bay Area"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnkY6TaaMAAM52L.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vicentes/status/1907583764534042671",
+    "fullText": "Want to know more about todays Tariffs announcements ? AI Drive downloaded all the data and created an interactive report. Link in 🧵 https://t.co/U5DQZKrVcV"
+  },
+  {
+    "user": {
       "screenName": "theVincentStark",
       "name": "Vincent Stark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615905255874564096/6Ob-zzZS_normal.jpg",
@@ -1412,7 +1477,7 @@
       "name": "RIFT AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907403642279231488/I2Grtzes_normal.png",
       "description": "Create your own autonomous business | https://t.co/SfmQAdEJD3",
-      "followersCount": 59126,
+      "followersCount": 59338,
       "friendsCount": 17,
       "location": "The Rift"
     },
@@ -1465,7 +1530,7 @@
       "name": "Vanda Pharmaceuticals",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1201922312611749888/8SHs2v5Q_normal.jpg",
       "description": "Vanda is a global pharmaceutical company focused on the development of innovative therapies to address unmet medical needs and improve the lives of patients.",
-      "followersCount": 1418,
+      "followersCount": 1417,
       "friendsCount": 242,
       "location": "Washington DC"
     },
@@ -1529,7 +1594,7 @@
       "name": "Agree.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894237600472240128/4mwrviNx_normal.jpg",
       "description": "An all-in-one agreements platform with modern e-signature, intelligent invoicing, and secure payment processing; powered by AI.",
-      "followersCount": 5754,
+      "followersCount": 5784,
       "friendsCount": 57,
       "location": "San Francisco"
     },
