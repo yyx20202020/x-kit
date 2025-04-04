@@ -1,11 +1,80 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 26266,
+      "friendsCount": 114,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnqR3MFbIAAzsQZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1907997913848098877",
+    "fullText": "开源作者的日常起床开心：\n\n自己的作品帮助到世界另外一个陌生人，让他生活更美好。\n\nhttps://t.co/9lBzksgCsM https://t.co/Aq8Wp6vyBp"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 116120,
+      "friendsCount": 1308,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnqQ-sAXIAAO659.jpg",
+      "https://pbs.twimg.com/media/GnqQ-tgXEAA7BEx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1907996809328222462",
+    "fullText": "提示词：\n把这张照片设计成一个3D风格的Q版APP图标，保留人物特征，风格要可爱一些，人物要稍微超出图标背景边框。 https://t.co/oHHXSPAFDm"
+  },
+  {
+    "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
+      "followersCount": 101528,
+      "friendsCount": 805,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnqO7ZMXIAAdFxo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nishuang/status/1907994733957247261",
+    "fullText": "受到 Trump 关税政策影响，今天苹果股价跌了 9%\n\n纽约时报说，考虑到中国正面临 54% 的关税，而全球 90% 的 iPhone 都产自中国，售价 1,000 美元的 iPhone，价格将上涨至 1,300 美元左右😭 https://t.co/Is5Ce7w7TY"
+  },
+  {
+    "user": {
+      "screenName": "cypherpunkd_",
+      "name": "Cypherpunk'd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841194355362570242/3eiQSUIP_normal.jpg",
+      "description": "We explore money’s history, crypto’s future, & Web 3’s role in advancing human rights, freedom, and digital liberty. Down the rabbit hole!",
+      "followersCount": 394,
+      "friendsCount": 65,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1907955595732193280/vid/avc1/1280x720/5kabhtxeCZ3pT7hZ.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/cypherpunkd_/status/1907963518764331237",
+    "fullText": "\"They're putting fertilizer industry waste—too toxic to dump in oceans—directly into your drinking water\" 💀 \n\nThat’s not a conspiracy. Look it up. Fluorosilicic acid.\n\nAnd in most of the U.S., it’s still happening.\n\nBut not in Florida. Not anymore.\n\nMeet Scott Kiley https://t.co/HZhnkdy04h"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5299,
+      "followersCount": 5298,
       "friendsCount": 1180,
       "location": ""
     },
@@ -128,7 +197,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116124,
+      "followersCount": 116120,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -145,7 +214,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101525,
+      "followersCount": 101528,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -211,7 +280,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57026,
+      "followersCount": 57027,
       "friendsCount": 356,
       "location": ""
     },
@@ -228,7 +297,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5299,
+      "followersCount": 5298,
       "friendsCount": 1180,
       "location": ""
     },
@@ -245,7 +314,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57026,
+      "followersCount": 57027,
       "friendsCount": 356,
       "location": ""
     },
@@ -260,7 +329,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57026,
+      "followersCount": 57027,
       "friendsCount": 356,
       "location": ""
     },
@@ -292,7 +361,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57026,
+      "followersCount": 57027,
       "friendsCount": 356,
       "location": ""
     },
@@ -322,11 +391,28 @@
   },
   {
     "user": {
+      "screenName": "Moms4Liberty",
+      "name": "Moms for Liberty",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1338931301223718915/BZ46xN1N_normal.jpg",
+      "description": "Started by 2 Moms, now 300 chapters/48 states/130k members & growing. We are fighting for the survival of America, uniting & empowering parents. Join us 👇 🇺🇸",
+      "followersCount": 201564,
+      "friendsCount": 3126,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1907813304954753024/vid/avc1/1080x1920/26UMd1ms_r-WR-7s.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Moms4Liberty/status/1907813400798707979",
+    "fullText": "“ Let these Moms for Liberty write our curriculum. Let these Moms for Liberty educate our children.”\n\nChallenge accepted. When do we start??? https://t.co/HDi7kENiQU"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21915,
+      "followersCount": 21916,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -341,7 +427,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26260,
+      "followersCount": 26266,
       "friendsCount": 114,
       "location": "China"
     },
@@ -356,7 +442,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149511,
+      "followersCount": 149515,
       "friendsCount": 467,
       "location": "中华人民共和国"
     },
@@ -371,7 +457,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8275,
+      "followersCount": 8282,
       "friendsCount": 3398,
       "location": ""
     },
@@ -403,7 +489,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6318,
+      "followersCount": 6319,
       "friendsCount": 472,
       "location": ""
     },
@@ -418,7 +504,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101525,
+      "followersCount": 101528,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -437,7 +523,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21915,
+      "followersCount": 21916,
       "friendsCount": 279,
       "location": "Guangdong"
     },
@@ -469,7 +555,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28385,
+      "followersCount": 28384,
       "friendsCount": 555,
       "location": "Hong Kong"
     },
@@ -506,7 +592,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6318,
+      "followersCount": 6319,
       "friendsCount": 472,
       "location": ""
     },
@@ -557,6 +643,21 @@
     },
     "images": [],
     "videos": [],
+    "tweetUrl": "https://x.com/Dinkum_official/status/1907734200138215838",
+    "fullText": "📢 Top Steam game Dinkum offers Free Weekend + Weekend Deal right now!\n\n⏰ Limited-Time Offer (ends Apr. 7)\n🎮 Jump in and play now!"
+  },
+  {
+    "user": {
+      "screenName": "Dinkum_official",
+      "name": "Dinkum",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904147262403723265/nE1pBYN8_normal.png",
+      "description": "Dinkum Official",
+      "followersCount": 14,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
     "tweetUrl": "https://x.com/Dinkum_official/status/1907733453682155944",
     "fullText": "📢 Top Steam game Dinkum offers Free Weekend + Weekend Deal right now!\n\n⏰ Limited-Time Offer (ends Apr. 7)\n🎮 Jump in and play now!"
   },
@@ -566,7 +667,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5299,
+      "followersCount": 5298,
       "friendsCount": 1180,
       "location": ""
     },
@@ -583,7 +684,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the digital world. Qiniu Limited CEO.",
-      "followersCount": 6318,
+      "followersCount": 6319,
       "friendsCount": 472,
       "location": ""
     },
@@ -598,7 +699,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149511,
+      "followersCount": 149515,
       "friendsCount": 467,
       "location": "中华人民共和国"
     },
@@ -678,7 +779,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73046,
+      "followersCount": 73043,
       "friendsCount": 3364,
       "location": ""
     },
@@ -693,7 +794,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149511,
+      "followersCount": 149515,
       "friendsCount": 467,
       "location": "中华人民共和国"
     },
@@ -923,7 +1024,7 @@
       "name": "Citizens for Sound Money",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1696988855105187841/0lgHAh83_normal.jpg",
       "description": "A non-profit to encourage the use of Sound Money and protect your right to do so!",
-      "followersCount": 3061,
+      "followersCount": 3062,
       "friendsCount": 167,
       "location": "United States"
     },
@@ -1032,11 +1133,28 @@
   },
   {
     "user": {
+      "screenName": "SeiNetwork",
+      "name": "Sei 🔴💨",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1873839225914716160/w8650_qp_normal.jpg",
+      "description": "The Fastest Layer 1. Parallelizing the EVM // Join the Sei community: https://t.co/zYasNBD1kr RT ≠ endorsement. Account managed by the @Sei_FND",
+      "followersCount": 784064,
+      "friendsCount": 196,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1907417231840911360/pu/vid/avc1/1280x720/4IEKIG8HYMd9o_Hm.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/SeiNetwork/status/1907417863511515395",
+    "fullText": "Introducing the Sei Development Foundation, a U.S. nonprofit organization headquartered in Manhattan, the financial capital of the world 🇺🇲\n\nEstablished by Sei Foundation, the Sei Development Foundation will provide the infrastructure required for institutional adoption and for https://t.co/iHm0Lg71wd"
+  },
+  {
+    "user": {
       "screenName": "khloekardashian",
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29845636,
+      "followersCount": 29845580,
       "friendsCount": 228,
       "location": ""
     },
