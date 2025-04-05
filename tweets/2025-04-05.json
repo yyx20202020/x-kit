@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5296,
+      "friendsCount": 1180,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnwuuuCbYAQcU7j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1908451728422531089",
+    "fullText": "打工人的福音，外卖打包盒终于升级了。这款锡箔纸打包盒看上去耐高温且能完全密封，不用担心外卖小哥心情不好给加点小料了。而且看上去感觉比塑料盒更健康一点。点外卖最大的焦虑就是：1.黑店黑厨 2.包装有毒 3.小哥加料。打工人生存状况堪忧啊，不容易。 https://t.co/vrp8hqMRee"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142369,
+      "followersCount": 142382,
+      "friendsCount": 1429,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1908445383161741816",
+    "fullText": "推上无论发什么，现在评论都充斥着拉黑不完的网络喷子和孜孜不倦的 AI 复读机账号，中文网络到底有没有块清净地？"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 142382,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -22,7 +54,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21958,
+      "followersCount": 21961,
       "friendsCount": 280,
       "location": "Guangdong"
     },
@@ -56,7 +88,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18637,
+      "followersCount": 18640,
       "friendsCount": 1395,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -73,7 +105,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142369,
+      "followersCount": 142382,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -93,7 +125,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5295,
+      "followersCount": 5296,
       "friendsCount": 1180,
       "location": ""
     },
@@ -108,7 +140,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18637,
+      "followersCount": 18640,
       "friendsCount": 1395,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -142,7 +174,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26414,
+      "followersCount": 26416,
       "friendsCount": 114,
       "location": "China"
     },
@@ -159,7 +191,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8495,
+      "followersCount": 8511,
       "friendsCount": 3398,
       "location": ""
     },
@@ -176,7 +208,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142369,
+      "followersCount": 142382,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -196,7 +228,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101566,
+      "followersCount": 101569,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -213,7 +245,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8495,
+      "followersCount": 8511,
       "friendsCount": 3398,
       "location": ""
     },
@@ -247,7 +279,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8495,
+      "followersCount": 8511,
       "friendsCount": 3398,
       "location": ""
     },
@@ -281,7 +313,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101566,
+      "followersCount": 101569,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -349,7 +381,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5295,
+      "followersCount": 5296,
       "friendsCount": 1180,
       "location": ""
     },
@@ -381,7 +413,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101566,
+      "followersCount": 101569,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -398,7 +430,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142369,
+      "followersCount": 142382,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -485,7 +517,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73085,
+      "followersCount": 73087,
       "friendsCount": 3365,
       "location": ""
     },
@@ -534,7 +566,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116593,
+      "followersCount": 116601,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -601,7 +633,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101566,
+      "followersCount": 101569,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -686,7 +718,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116593,
+      "followersCount": 116601,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -719,7 +751,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116593,
+      "followersCount": 116601,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -730,6 +762,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1908234806653313342",
     "fullText": "将人像变成可爱 3D 微缩立体模型\n工具：Sora 或 GPT-4o\n提示词（需要上传一张清晰人脸的个人照片）： \n3D微缩立体模型场景，以超大头部比例的可爱 Q 版卡通造型呈现。 https://t.co/RAi07hfBhL"
+  },
+  {
+    "user": {
+      "screenName": "chai_research",
+      "name": "CHAI. William Beauchamp.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1823049168199540737/VHdjiMD2_normal.jpg",
+      "description": "CHAI Founder/CEO. ✝️\nCHAI is a platform for Social AI, performing research in conversational generative artificial intelligence.\nhttps://t.co/SRbYKFJeh6",
+      "followersCount": 197368,
+      "friendsCount": 124,
+      "location": "Palo Alto, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chai_research/status/1908228761566564629",
+    "fullText": "Team at CHAI is 12 Engineers. \nWe just hit ARR &gt;$30M 👏 \nThat's $2.5M / Engineer!\n\nHiring Hardcore Engineers in Palo Alto.\n\nCareer Acceleration: L4 to L6 in 24 months + Expect 1.5-2x in comp\nE4: $500k/yr\nE5: $750k/yr"
   },
   {
     "user": {
@@ -754,7 +801,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142369,
+      "followersCount": 142382,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -803,7 +850,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142369,
+      "followersCount": 142382,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -885,7 +932,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8495,
+      "followersCount": 8511,
       "friendsCount": 3398,
       "location": ""
     },
@@ -917,7 +964,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116593,
+      "followersCount": 116601,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -934,7 +981,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57076,
+      "followersCount": 57083,
       "friendsCount": 356,
       "location": ""
     },
@@ -949,7 +996,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "一个知识产权师，在 AI 的帮助下已经成熟的运维、开发了两个业务，我爱这个时代\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5602,
+      "followersCount": 5601,
       "friendsCount": 238,
       "location": "NewYork"
     },
@@ -1275,7 +1322,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
-      "followersCount": 3457,
+      "followersCount": 3458,
       "friendsCount": 314,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -1505,7 +1552,7 @@
       "name": "NITRAK ☉ ℝ ∀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1765184048031563776/I_OP5CF1_normal.jpg",
       "description": "volunteer @oraprotocol \n\n𝒪𝑅𝒜 𝒫𝑅𝒪 𝒩𝒪𝐵𝐼𝒮",
-      "followersCount": 47781,
+      "followersCount": 47690,
       "friendsCount": 605,
       "location": "☉"
     },
@@ -1623,7 +1670,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 116593,
+      "followersCount": 116601,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -2063,6 +2110,21 @@
       "name": "Dinkum",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904147262403723265/nE1pBYN8_normal.png",
       "description": "Dinkum Official",
+      "followersCount": 24,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Dinkum_official/status/1907737963280347311",
+    "fullText": "📢 Top Steam game Dinkum offers Free Weekend + Weekend Deal right now!\n\n⏰ Limited-Time Offer (ends Apr. 7)\n🎮 Jump in and play now!"
+  },
+  {
+    "user": {
+      "screenName": "Dinkum_official",
+      "name": "Dinkum",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904147262403723265/nE1pBYN8_normal.png",
+      "description": "Dinkum Official",
       "followersCount": 22,
       "friendsCount": 0,
       "location": ""
@@ -2131,6 +2193,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Dinkum_official/status/1907736854516125888",
     "fullText": "📢 Find adventure in every direction! Free Weekend &amp; Weekend Deal are now live!\n\n⏰ Limited-Time Offer (ends Apr. 7)\n🎮 Jump in and play now!"
+  },
+  {
+    "user": {
+      "screenName": "MeizaiCorner",
+      "name": "Meizai Corner- Custom plush doll",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1399675174153199616/h_9pxlfA_normal.jpg",
+      "description": "Hello, I'm Meizai, I make custom custom plush doll.\nI'm always 18 years old 💖💖💖",
+      "followersCount": 156,
+      "friendsCount": 9,
+      "location": "VietNam"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnmjeNcaMAEd7Gy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MeizaiCorner/status/1907735659265265896",
+    "fullText": "This Trump is cuter than that Trump🤣🤣.\nI made him for myself\n#Trump\n#meizai \n#customdoll \n#handmade https://t.co/UW72RJTNv7"
   },
   {
     "user": {
