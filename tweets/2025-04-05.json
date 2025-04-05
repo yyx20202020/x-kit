@@ -1,11 +1,82 @@
 [
   {
     "user": {
+      "screenName": "nishuang",
+      "name": "倪爽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+      "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
+      "followersCount": 101564,
+      "friendsCount": 805,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnyhgRAXcAAQrTJ.jpg",
+      "https://pbs.twimg.com/media/GnyhkUQW0AAHiWM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nishuang/status/1908580377775439928",
+    "fullText": "“一人公司”的成功案例、电商平台 Gumroad 开放了源代码（注）\n\n它背后的技术是 Ruby 和 MySQL，功能极简，上线 10 年才支持店铺功能😂，但这不影响它的影响力：不但帮创造者获得 10 亿美元利润，还建立了庞大的创造者社区\n\n开放源代码之后，预计会有更多的开发者来扩展功能，类似 WordPress https://t.co/Y1F8hls1yp"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 57082,
+      "friendsCount": 356,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnyhokxbYAA38dH.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GnyhokubYAEkBEf.mp4"
+    ],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1908578066533924924",
+    "fullText": "继续生气中！ https://t.co/sU4lIsLYdg"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 57082,
+      "friendsCount": 356,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnygeC2bYAIjPvf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1908576783332761972",
+    "fullText": "亚太，环中国区域是“重灾区”\n\n如XX所料，东盟，金砖国家可以开始区域内循环了 https://t.co/XOJtNhpGrq"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 57082,
+      "friendsCount": 356,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnygFdQbwAA_g72.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1908576362539212867",
+    "fullText": "让我们看看，最糟糕的总统在哪里？后面的朋友请举个手，让我看见你！ https://t.co/hyEih9Kq5d"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28400,
+      "followersCount": 28401,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -65,7 +136,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5317,
+      "followersCount": 5319,
       "friendsCount": 1180,
       "location": ""
     },
@@ -84,7 +155,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 1400,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -99,7 +170,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 1400,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -117,7 +188,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5317,
+      "followersCount": 5319,
       "friendsCount": 1180,
       "location": ""
     },
@@ -132,7 +203,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 1400,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -149,7 +220,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 1400,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -186,7 +257,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 1400,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -201,7 +272,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 1400,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -216,7 +287,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5317,
+      "followersCount": 5319,
       "friendsCount": 1180,
       "location": ""
     },
@@ -233,7 +304,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142541,
+      "followersCount": 142517,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -248,7 +319,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142541,
+      "followersCount": 142517,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -299,7 +370,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 1400,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -316,7 +387,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142541,
+      "followersCount": 142517,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -329,6 +400,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/turingou/status/1908407017620070769",
     "fullText": "排位赛 Q1 结束，Yuki 开大红牛比想象的好很多，lawson 在最后一刻挤入前 15，没有再次在 Q1 被淘汰😂 https://t.co/KHRAKUlWCD"
+  },
+  {
+    "user": {
+      "screenName": "ParisHilton",
+      "name": "Paris Hilton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890443951598878721/-uznLcPU_normal.jpg",
+      "description": "Founder @ParivieBeauty ✨ Sign up for early access now ⬇️",
+      "followersCount": 16278222,
+      "friendsCount": 18211,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ParisHilton/status/1908405743323406438",
+    "fullText": "My new podcast #MyFriendDaisy is out now 🎧 This story is heartbreaking. A reminder of how strong love &amp; friendship can be 🥹 It’s also a gripping true crime story. Full of unanswered questions and a fight for justice that captured the internet’s attention https://t.co/rccIpJF946"
   },
   {
     "user": {
@@ -351,7 +437,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5317,
+      "followersCount": 5319,
       "friendsCount": 1180,
       "location": ""
     },
@@ -366,7 +452,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 1400,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -400,7 +486,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26436,
+      "followersCount": 26434,
       "friendsCount": 114,
       "location": "China"
     },
@@ -417,7 +503,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8796,
+      "followersCount": 8800,
       "friendsCount": 3399,
       "location": ""
     },
@@ -434,7 +520,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 142541,
+      "followersCount": 142517,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -454,7 +540,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101569,
+      "followersCount": 101564,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -471,7 +557,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8796,
+      "followersCount": 8800,
       "friendsCount": 3399,
       "location": ""
     },
@@ -505,7 +591,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 8796,
+      "followersCount": 8800,
       "friendsCount": 3399,
       "location": ""
     },
@@ -539,7 +625,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101569,
+      "followersCount": 101564,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -624,7 +710,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5317,
+      "followersCount": 5319,
       "friendsCount": 1180,
       "location": ""
     },
@@ -770,6 +856,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/ETNational/status/1908320813188546884",
     "fullText": "#April5, 2025, marks 35 years since the 1990 #EastTurkistanUprising, when the people of Baren rose against the Chinese colonial regime’s brutal campaign of colonization and repression. In response to mass forced abortions targeting #Uyghur women, initially hundreds, and later https://t.co/6i0HTCunME"
+  },
+  {
+    "user": {
+      "screenName": "ScooperNovaBay",
+      "name": "ScooperNova",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908213705529319424/gNI-vRBz_normal.jpg",
+      "description": "Beaming up 🐶💩 across the Bay Area. \nCosmis Cleanup service for dog lovers who deserve better. \nScooperNova: Dog Waste Abduction Pros",
+      "followersCount": 0,
+      "friendsCount": 11,
+      "location": "Bay Area, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ScooperNovaBay/status/1908305048695939282",
+    "fullText": "✨Dog Waste Removal Service\n\nAffordable, Reliable, Cosmically Clean🚀\n\nForget Your Dog Even Poops✅"
   },
   {
     "user": {
@@ -927,7 +1028,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101569,
+      "followersCount": 101564,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -1063,7 +1164,7 @@
       "name": "CHAI. William Beauchamp.",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1823049168199540737/VHdjiMD2_normal.jpg",
       "description": "CHAI Founder/CEO. ✝️\nCHAI is a platform for Social AI, performing research in conversational generative artificial intelligence.\nhttps://t.co/SRbYKFJeh6",
-      "followersCount": 197357,
+      "followersCount": 197328,
       "friendsCount": 124,
       "location": "Palo Alto, CA"
     },
@@ -1086,6 +1187,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/chai_research/status/1908228761566564629",
     "fullText": "Team at CHAI is 12 Engineers. \nWe just hit ARR &gt;$30M 👏 \nThat's $2.5M / Engineer!\n\nHiring Hardcore Engineers in Palo Alto.\n\nCareer Acceleration: L4 to L6 in 24 months + Expect 1.5-2x in comp\nE4: $500k/yr\nE5: $750k/yr"
+  },
+  {
+    "user": {
+      "screenName": "chai_research",
+      "name": "CHAI. William Beauchamp.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1823049168199540737/VHdjiMD2_normal.jpg",
+      "description": "CHAI Founder/CEO. ✝️\nCHAI is a platform for Social AI, performing research in conversational generative artificial intelligence.\nhttps://t.co/SRbYKFJeh6",
+      "followersCount": 197328,
+      "friendsCount": 124,
+      "location": "Palo Alto, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chai_research/status/1908228761553952820",
+    "fullText": "Serving 2 trillion tokens a day at CHAI to our 10M users. How we did it? RLHF in production!\n\n+ Now hiring hardcore engineers in Palo Alto. \n+If accepted: L4 to L6 in 24 months and 1.5x-2x in comp\n\nE4: $500k/yr\nE5: $750k/yr"
   },
   {
     "user": {
@@ -1663,7 +1779,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
-      "followersCount": 3475,
+      "followersCount": 3476,
       "friendsCount": 318,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
