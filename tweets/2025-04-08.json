@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 53374,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gn__nGBbYAASGP1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1909526289062764722",
+    "fullText": "用 Cursor 挺久了，最近从零到一一起做了稍微复杂一些的 monorepo 项目，针对这种类型的项目分享自己的一个非常实用的经验：\n\n针对中大型项目，在项目架构稳定之后，针对自己项目的结构，让 Cursor 生成一个包含项目架构图的 cursor rule，它解释了整个项目的架构，然后在后面添加各种 feature https://t.co/KMJR6SSFcq"
+  },
+  {
+    "user": {
       "screenName": "thecandledep",
       "name": "thecandledepot",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1906881236691206144/94ixOpbl_normal.jpg",
@@ -35,7 +52,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28434,
+      "followersCount": 28432,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -87,7 +104,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
       "followersCount": 18575,
-      "friendsCount": 1436,
+      "friendsCount": 1437,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -118,7 +135,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101685,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -138,7 +155,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73119,
+      "followersCount": 73120,
       "friendsCount": 3366,
       "location": ""
     },
@@ -153,7 +170,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101685,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -205,7 +222,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101685,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -350,7 +367,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73119,
+      "followersCount": 73120,
       "friendsCount": 3366,
       "location": ""
     },
@@ -360,6 +377,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/1909376203573883390",
     "fullText": "#今天的跑步电台。 https://t.co/8w52gGJ1Y3"
+  },
+  {
+    "user": {
+      "screenName": "HebbiaAI",
+      "name": "Hebbia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1810137626638483456/bUFO8ceN_normal.jpg",
+      "description": "The AI agent platform for finance & law",
+      "followersCount": 5055,
+      "friendsCount": 218,
+      "location": "hello@hebbia.com"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gm1UMofbUAAUiTa.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/HebbiaAI/status/1909375130909704562",
+    "fullText": "Seriously. Hebbia turns endless data into a simple table, so you are finally free to do what you love: find insights and generate alpha. https://t.co/WQ6DfpisK8"
   },
   {
     "user": {
@@ -601,7 +635,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101685,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -618,7 +652,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57998,
+      "followersCount": 57990,
       "friendsCount": 356,
       "location": ""
     },
@@ -697,7 +731,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57998,
+      "followersCount": 57990,
       "friendsCount": 356,
       "location": ""
     },
@@ -729,7 +763,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101685,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -932,7 +966,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101685,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -1051,7 +1085,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73119,
+      "followersCount": 73120,
       "friendsCount": 3366,
       "location": ""
     },
@@ -1117,7 +1151,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73119,
+      "followersCount": 73120,
       "friendsCount": 3366,
       "location": ""
     },
@@ -1152,7 +1186,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
       "followersCount": 18575,
-      "friendsCount": 1436,
+      "friendsCount": 1437,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -1183,7 +1217,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57998,
+      "followersCount": 57990,
       "friendsCount": 356,
       "location": ""
     },
@@ -1200,7 +1234,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149533,
+      "followersCount": 149534,
       "friendsCount": 467,
       "location": "中华人民共和国"
     },
@@ -1279,7 +1313,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101685,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -1344,7 +1378,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101685,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -1471,6 +1505,23 @@
   },
   {
     "user": {
+      "screenName": "SCManny",
+      "name": "Manny @Hyperfastcars",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1427509561456435200/VJpC42oV_normal.jpg",
+      "description": "Wannabe Nuclear Physicist who tries to perform Manny random acts of Manny'ness. Multipreneurship\n\nhttps://t.co/5Kg69Oyf8W",
+      "followersCount": 7183,
+      "friendsCount": 492,
+      "location": "Orange County, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gn5K7OSaoAAMtWj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SCManny/status/1909045678858543173",
+    "fullText": "Honest question about the tariffs. \nNot interested in political takes as they do not add any merit to perspective.\n\nDoing an ad in hopes to get the most thoughtful response.\n\nCan I get the rational and \"pro case\" behind the way the tariffs were calculated?  \n\nAs a Layman it does https://t.co/omIx3g5Sgm"
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
@@ -1519,6 +1570,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LuminonGaming/status/1909003435732541671",
     "fullText": "🚨Our HCS Jerseys 2025 are now available for pre-order!🚨\n\n💚 Personalized Gamertags \n📦 Shipping Worldwide (starting next week)\n📍 In-person pickup at @HCS Arlington available\n🧥 Buy one jersey &amp; get 50% OFF the 2nd one!\n🛒 Secure yours before April 15th at https://t.co/n7AUzkMVKq"
+  },
+  {
+    "user": {
+      "screenName": "SlideBelts",
+      "name": "SlideBelts",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1098272421465882624/kzQlAFu2_normal.png",
+      "description": "We sell ratchet belts that are both stylish & functional. Discover the belt you never knew you needed. It’s the perfect fit every time. https://t.co/KahRyF0XLe",
+      "followersCount": 2774,
+      "friendsCount": 174,
+      "location": "El Dorado Hills, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GPQvnL-aMAAys_N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SlideBelts/status/1908996800545210691",
+    "fullText": "SlideBelts is American-owned. Over half of our popular products are made in America 🇺🇸  We're working hard to manufacture more and more state-side. Don't buy cheap knock-offs. We've been selling ratchet belts since 2007! https://t.co/XGffZuoyNQ https://t.co/MCKJWIaPFA"
   },
   {
     "user": {
