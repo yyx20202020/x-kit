@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 117114,
+      "friendsCount": 1307,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoCbiFFXYAAqglJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1909697304720032241",
+    "fullText": "斯坦福 2025 年 AI 指数报告\n人工智能对社会的影响从未如此深远。 https://t.co/K9ekpmLpaO"
+  },
+  {
+    "user": {
+      "screenName": "baysmokes",
+      "name": "Bay Smokes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908961499512520704/kD9mh1ex_normal.jpg",
+      "description": "#1 Online Dispensary ⬇️ ig: @ baysmkez",
+      "followersCount": 28059,
+      "friendsCount": 135,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1909674972378796033/vid/avc1/1080x1920/opIzKsRG-NrNfMMk.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/baysmokes/status/1909675023276589300",
+    "fullText": "Legal Cannabis Delivered Straight To Your Door. Grab your FREE sample now while supplies last! https://t.co/BpGnw5CXGY"
+  },
+  {
+    "user": {
       "screenName": "_mockdrafts",
       "name": "MDDB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1559187716528607232/yicd1Sjd_normal.jpg",
@@ -84,7 +118,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28427,
+      "followersCount": 28424,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -203,7 +237,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28427,
+      "followersCount": 28424,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -269,7 +303,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20858,
+      "followersCount": 20857,
       "friendsCount": 1017,
       "location": ""
     },
@@ -320,7 +354,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57999,
+      "followersCount": 58004,
       "friendsCount": 356,
       "location": ""
     },
@@ -352,7 +386,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53426,
+      "followersCount": 53428,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -399,7 +433,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28427,
+      "followersCount": 28424,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -482,7 +516,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101647,
+      "followersCount": 101649,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -502,7 +536,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73083,
+      "followersCount": 73076,
       "friendsCount": 3366,
       "location": ""
     },
@@ -517,7 +551,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101647,
+      "followersCount": 101649,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -569,7 +603,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101647,
+      "followersCount": 101649,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -586,7 +620,7 @@
       "name": "Porter Stansberry",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1587516043538432000/NtW6ttjO_normal.jpg",
       "description": "Founder of MarketWise, OneBlade, and Porter & Co.",
-      "followersCount": 48541,
+      "followersCount": 48542,
       "friendsCount": 543,
       "location": "Stevenson, Maryland"
     },
@@ -729,7 +763,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73083,
+      "followersCount": 73076,
       "friendsCount": 3366,
       "location": ""
     },
@@ -897,7 +931,7 @@
       "name": "Hebbia",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1810137626638483456/bUFO8ceN_normal.jpg",
       "description": "The AI agent platform for finance & law",
-      "followersCount": 5055,
+      "followersCount": 5065,
       "friendsCount": 218,
       "location": "hello@hebbia.com"
     },
@@ -1012,7 +1046,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101647,
+      "followersCount": 101649,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -1029,7 +1063,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57999,
+      "followersCount": 58004,
       "friendsCount": 356,
       "location": ""
     },
@@ -1037,6 +1071,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1909317651765002657",
     "fullText": "欧盟🇪🇺准备对美国一些商品和金属征收25%的关税"
+  },
+  {
+    "user": {
+      "screenName": "kgast99",
+      "name": "Kevin Gast",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832422816232157184/ZrZrmxOG_normal.jpg",
+      "description": "Chairman & CEO of @vvaterglobal | Electrifying the Water industry with Farady Reactors | Entrepreneur | Investor | Philanthropist",
+      "followersCount": 286,
+      "friendsCount": 913,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1909312854903214080/pu/vid/avc1/1920x1080/lzprZfLJ9GjRZSxv.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/kgast99/status/1909316837499666549",
+    "fullText": "It is time to start Rebuilding American Infrastructure with the latest technologies available in the water purification space. We will achieve this by manufacturing in Texas, investing in America, and impacting real people.\n\nThis is not a business opportunity. This is a https://t.co/XBHWQCu4NW"
   },
   {
     "user": {
@@ -1125,7 +1176,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57999,
+      "followersCount": 58004,
       "friendsCount": 356,
       "location": ""
     },
@@ -1174,7 +1225,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101647,
+      "followersCount": 101649,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -1675,7 +1726,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 57999,
+      "followersCount": 58004,
       "friendsCount": 356,
       "location": ""
     },
@@ -1771,7 +1822,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101647,
+      "followersCount": 101649,
       "friendsCount": 805,
       "location": "United States"
     },
