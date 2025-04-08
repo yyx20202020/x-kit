@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 18580,
+      "friendsCount": 1422,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gn_WfKObwAEhuDa.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1909485864549597556",
+    "fullText": "朋友之前和我一起买纳指基金，现在难兄难弟一起小亏。\n\n今天听他说，同事买黄金赚了所以想回本之后平掉去买黄金。\n\n追风口好像也没错，乱世黄金好像也没错，多去尝试好像也没错，但是我的脑子一直在告诉我“达咩”，黄金追高有风险，被套估计时间得按年计 https://t.co/Ljz7w6o4ga"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
+      "followersCount": 5274,
+      "friendsCount": 314,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1909482387387650454",
+    "fullText": "有啥网站的 analytics 比较好用的吗？vercel 自带的和 ga4 都不是很舒服"
+  },
+  {
+    "user": {
       "screenName": "nishuang",
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101689,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -25,7 +57,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73119,
+      "followersCount": 73120,
       "friendsCount": 3366,
       "location": ""
     },
@@ -40,7 +72,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101689,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -92,7 +124,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101689,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -109,7 +141,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9320,
+      "followersCount": 9322,
       "friendsCount": 3401,
       "location": ""
     },
@@ -137,6 +169,23 @@
   },
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908020865221988352/NZf9l0Zi_normal.jpg",
+      "description": "The 2024-25 NBA season continues Tuesday on TNT! 🏀 7:30pm/et: @celtics/@nyknicks 🏀 10pm/et: @warriors/@Suns",
+      "followersCount": 48131811,
+      "friendsCount": 2014,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1909404951182467072/vid/avc1/1280x720/iDY_GPoXu2GmxAN4.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1909405750989935018",
+    "fullText": "Cade steal.\nCade slam.\n\nPistons, Kings in a tight one on NBA TV 🍿 https://t.co/hWLtigoujL"
+  },
+  {
+    "user": {
       "screenName": "NewsSlingshot",
       "name": "Slingshot News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1757153580228730880/iMCXW9D8_normal.jpg",
@@ -156,7 +205,7 @@
       "name": "Bay Smokes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908961499512520704/kD9mh1ex_normal.jpg",
       "description": "#1 Online Dispensary ⬇️ ig: @ baysmkez",
-      "followersCount": 28033,
+      "followersCount": 28034,
       "friendsCount": 135,
       "location": ""
     },
@@ -203,7 +252,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73119,
+      "followersCount": 73120,
       "friendsCount": 3366,
       "location": ""
     },
@@ -284,6 +333,40 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2756,
+      "friendsCount": 972,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1909342011586445312/pu/vid/avc1/1080x1920/kZ62WoNdVB5glEzf.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1909343432516022290",
+    "fullText": "The consumer AI landscape is heating up! 🔥 @PatrickMoorhead on The Six Five Pod notes how Perplexity, ChatGPT, and even the \"AI service of the month\" are stealing the spotlight. BUT... Microsoft just dropped a flurry of consumer features like memory &amp; personalization! Moorhead https://t.co/SVmRAPK17V"
+  },
+  {
+    "user": {
+      "screenName": "HebbiaAI",
+      "name": "Hebbia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1810137626638483456/bUFO8ceN_normal.jpg",
+      "description": "The AI agent platform for finance & law",
+      "followersCount": 5053,
+      "friendsCount": 218,
+      "location": "hello@hebbia.com"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gm1UMofbUAAUiTa.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/HebbiaAI/status/1909341911703240822",
+    "fullText": "Seriously. Hebbia turns endless data into a simple table, so you can find the signal, generate alpha and finally be happy. https://t.co/6CYWhJZZW8"
+  },
+  {
+    "user": {
       "screenName": "nudge",
       "name": "Nudge",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909336973413957633/qDB9DwPn_normal.jpg",
@@ -298,6 +381,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/nudge/status/1909338892475814243",
     "fullText": "Our mission is to develop the best technology for interfacing with the brain to improve people’s lives. https://t.co/ygbki2dsj2"
+  },
+  {
+    "user": {
+      "screenName": "weraiseco",
+      "name": "Weraise",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1888184364900483072/C2tdfKPI_normal.jpg",
+      "description": "End-to-end fundraising solutions. 🎯 We help founders & funds connect with investors. 📆 Meet the new standard for raising capital.",
+      "followersCount": 398,
+      "friendsCount": 1244,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gn9RVpPbwAApNO_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/weraiseco/status/1909334351437087128",
+    "fullText": "VC funding is shifting fast.\nNot everything is getting money right now, but these 4 sectors are 👇 https://t.co/vNJo0ChS4H"
   },
   {
     "user": {
@@ -337,7 +437,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101689,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -354,7 +454,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58008,
+      "followersCount": 58005,
       "friendsCount": 356,
       "location": ""
     },
@@ -433,7 +533,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58008,
+      "followersCount": 58005,
       "friendsCount": 356,
       "location": ""
     },
@@ -465,7 +565,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101689,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -651,7 +751,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101689,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -668,7 +768,7 @@
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
       "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
-      "followersCount": 2757,
+      "followersCount": 2756,
       "friendsCount": 972,
       "location": "Austin, Texas"
     },
@@ -717,7 +817,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9320,
+      "followersCount": 9322,
       "friendsCount": 3401,
       "location": ""
     },
@@ -753,7 +853,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73119,
+      "followersCount": 73120,
       "friendsCount": 3366,
       "location": ""
     },
@@ -819,7 +919,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73119,
+      "followersCount": 73120,
       "friendsCount": 3366,
       "location": ""
     },
@@ -868,7 +968,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21994,
+      "followersCount": 21993,
       "friendsCount": 282,
       "location": "Guangdong"
     },
@@ -885,7 +985,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58008,
+      "followersCount": 58005,
       "friendsCount": 356,
       "location": ""
     },
@@ -949,7 +1049,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73119,
+      "followersCount": 73120,
       "friendsCount": 3366,
       "location": ""
     },
@@ -964,7 +1064,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9320,
+      "followersCount": 9322,
       "friendsCount": 3401,
       "location": ""
     },
@@ -981,7 +1081,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101689,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -1046,7 +1146,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101689,
+      "followersCount": 101680,
       "friendsCount": 805,
       "location": "United States"
     },
