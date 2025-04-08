@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28425,
+      "friendsCount": 556,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1909499118923485184/pu/vid/avc1/1920x1080/fTaf3_mKmLi6ij9Q.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1909501668229890105",
+    "fullText": "本周的实战课更新了，我们没有写一行代码，用Cursor做了一个浏览器插件用来爬取Coze模板 + 新浪财经中概股的数据，一键保存csv。\n\n我们会学到：如何让AI解析网页结构并给出获取数据代码、如何实现表格自动翻页逻辑等知识，欢迎大家来我的零基础AI编程课学习（https://t.co/ro7EtifyKX）。 https://t.co/yJnlfrHnIy"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
+      "followersCount": 18574,
+      "friendsCount": 1424,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gn_pTInbwAAuW2C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1909501289618457042",
+    "fullText": "收到 https://t.co/nCL5M70FR1"
+  },
+  {
+    "user": {
       "screenName": "TheSandboxGame",
       "name": "The Sandbox",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1675843993190506496/HeGzewKw_normal.jpg",
@@ -22,8 +56,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18580,
-      "friendsCount": 1423,
+      "followersCount": 18574,
+      "friendsCount": 1424,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -159,7 +193,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
       "followersCount": 9323,
-      "friendsCount": 3401,
+      "friendsCount": 3402,
       "location": ""
     },
     "images": [],
@@ -393,6 +427,23 @@
       "location": "hello@hebbia.com"
     },
     "images": [
+      "https://pbs.twimg.com/media/Gm-pmgfbYAUagnJ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/HebbiaAI/status/1909341911858487747",
+    "fullText": "Seriously. Hebbia turns endless data into a simple table, so you can find the signal, generate alpha and finally be happy. https://t.co/iUY3SE0aVe"
+  },
+  {
+    "user": {
+      "screenName": "HebbiaAI",
+      "name": "Hebbia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1810137626638483456/bUFO8ceN_normal.jpg",
+      "description": "The AI agent platform for finance & law",
+      "followersCount": 5053,
+      "friendsCount": 218,
+      "location": "hello@hebbia.com"
+    },
+    "images": [
       "https://pbs.twimg.com/media/Gm1UMofbUAAUiTa.png"
     ],
     "videos": [],
@@ -488,7 +539,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58009,
+      "followersCount": 58003,
       "friendsCount": 356,
       "location": ""
     },
@@ -567,7 +618,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58009,
+      "followersCount": 58003,
       "friendsCount": 356,
       "location": ""
     },
@@ -616,7 +667,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5632,
+      "followersCount": 5631,
       "friendsCount": 238,
       "location": "NewYork"
     },
@@ -702,7 +753,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5403,
+      "followersCount": 5401,
       "friendsCount": 1184,
       "location": ""
     },
@@ -832,6 +883,23 @@
   },
   {
     "user": {
+      "screenName": "MattSilver",
+      "name": "Matt Silver",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1564790388313014273/kd8LNjXp_normal.jpg",
+      "description": "I believe technology will change how freight moves. Building Cargado. Former founder/CEO of Forager 🇺🇸 🇲🇽 🇨🇦 (acq'd in Jan 2022 by Arrive Logistics).",
+      "followersCount": 2393,
+      "friendsCount": 641,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gn79OSIWAAAipbt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MattSilver/status/1909241763224572379",
+    "fullText": "💥 Big news from the border: Cargado just raised a $12M Series A to redefine cross-border freight.\n\nWe’re not building another load board. We’re building a collaborative platform for logistics and trucking companies to actually work together.\n\n🧵 https://t.co/Un5bP0MKZA"
+  },
+  {
+    "user": {
       "screenName": "USFunds",
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
@@ -852,7 +920,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
       "followersCount": 9323,
-      "friendsCount": 3401,
+      "friendsCount": 3402,
       "location": ""
     },
     "images": [
@@ -936,7 +1004,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5403,
+      "followersCount": 5401,
       "friendsCount": 1184,
       "location": ""
     },
@@ -970,7 +1038,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5403,
+      "followersCount": 5401,
       "friendsCount": 1184,
       "location": ""
     },
@@ -987,8 +1055,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18580,
-      "friendsCount": 1423,
+      "followersCount": 18574,
+      "friendsCount": 1424,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -1002,7 +1070,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21993,
+      "followersCount": 21994,
       "friendsCount": 282,
       "location": "Guangdong"
     },
@@ -1019,7 +1087,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58009,
+      "followersCount": 58003,
       "friendsCount": 356,
       "location": ""
     },
@@ -1051,8 +1119,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "用X写日常｜Python/Swift｜加密/美股｜先吃饭吧｜INTJ ｜感谢follow｜电报 https://t.co/qYINMLQgVt ｜自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18580,
-      "friendsCount": 1423,
+      "followersCount": 18574,
+      "friendsCount": 1424,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
