@@ -1,6 +1,59 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 117102,
+      "friendsCount": 1307,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoD5ctiXkAAB3LQ.jpg",
+      "https://pbs.twimg.com/media/GoD5cthXMAAQ5P-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1909800530739679488",
+    "fullText": "用个人照片制作一套Q版表情包\n\n工具：sora 或 GPT-4o\n\n注意：\n- 需要上传一张清晰头像的照片\n\n提示词：\n创作一套全新的 chibi sticker，共六个独特姿势，以用户形象为主角：\n1. 双手比出剪刀手，俏皮地眨眼；\n2. 泪眼汪汪、嘴唇微微颤动，呈现可爱哭泣的表情；\n3. 张开双臂，做出热情的大大拥抱姿势； https://t.co/Dy94qRXgt2"
+  },
+  {
+    "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
+      "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
+      "followersCount": 6319,
+      "friendsCount": 471,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoDyKUha0AAdbHX.jpg",
+      "https://pbs.twimg.com/media/GoDyLyabwAESQNR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1909792784573419710",
+    "fullText": "Go+ 进军 AI 第一站：昨天用 Go+ 写了一个 MCP Server 的 classfile，还是非常好用，这是 demo：https://t.co/YzTtTg1MJ7 https://t.co/DvMwyYTwfv"
+  },
+  {
+    "user": {
+      "screenName": "3RD_AI_",
+      "name": "3RD EYE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1753885528309829632/tSKcnruL_normal.jpg",
+      "description": "AI model to track common-sense and make predictions on geopolitics, elections and global crisis.",
+      "followersCount": 1110,
+      "friendsCount": 4,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoDn5uWW0AAUvuq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/3RD_AI_/status/1909784847100395615",
+    "fullText": "Trump Tracker: President Trump's Alignment to Public Commonsense as of April 8 2025.\n\nOverall Alignment: 40% (on January 20 it was 63%)\n\nPresident Trump is majorly aligned with public commonsense on domestic issues (50%). \n\nAs for Economic Management (35%) and Tariffs (30%) https://t.co/sixS8dNnKJ"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -22,7 +75,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73073,
+      "followersCount": 73075,
       "friendsCount": 3366,
       "location": ""
     },
@@ -37,7 +90,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73073,
+      "followersCount": 73075,
       "friendsCount": 3366,
       "location": ""
     },
@@ -52,7 +105,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101640,
+      "followersCount": 101638,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -70,7 +123,7 @@
       "name": "Slingshot News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1757153580228730880/iMCXW9D8_normal.jpg",
       "description": "Your source for real news.",
-      "followersCount": 16159,
+      "followersCount": 16170,
       "friendsCount": 1369,
       "location": ""
     },
@@ -85,7 +138,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58007,
+      "followersCount": 57997,
       "friendsCount": 356,
       "location": ""
     },
@@ -102,7 +155,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73073,
+      "followersCount": 73075,
       "friendsCount": 3366,
       "location": ""
     },
@@ -120,7 +173,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7011,
+      "followersCount": 7012,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -152,7 +205,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7011,
+      "followersCount": 7012,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -169,7 +222,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58007,
+      "followersCount": 57997,
       "friendsCount": 356,
       "location": ""
     },
@@ -184,7 +237,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101640,
+      "followersCount": 101638,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -201,7 +254,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7011,
+      "followersCount": 7012,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -218,7 +271,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58007,
+      "followersCount": 57997,
       "friendsCount": 356,
       "location": ""
     },
@@ -233,7 +286,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58007,
+      "followersCount": 57997,
       "friendsCount": 356,
       "location": ""
     },
@@ -246,11 +299,26 @@
   },
   {
     "user": {
+      "screenName": "ThomasWhig15308",
+      "name": "Thomas Whigham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1903541209383219200/byltZRsl_normal.jpg",
+      "description": "One day I met an Indian guru and life got wild. Now I help men with the most meaningful concerns in their lives.  DM for free group calls or to book 1on1",
+      "followersCount": 40,
+      "friendsCount": 215,
+      "location": "Broomfield, CO"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ThomasWhig15308/status/1909699250260451500",
+    "fullText": "“How do I reach the highest states of consciousness without psychedelics?  Should I meditate?  Should I watch non-dual youtubers?”\n\nThe highest states of consciousness happen by themselves automatically. Unconscious intelligence will take over naturally.  Meditation and youtubers"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117106,
+      "followersCount": 117102,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -312,6 +380,23 @@
   },
   {
     "user": {
+      "screenName": "RileysFarm1776",
+      "name": "Riley's Farm",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1519134406367006720/zRzNP_S9_normal.jpg",
+      "description": "Riley's Farm -- Oak Glen, California -- The Past is just a moment away",
+      "followersCount": 748,
+      "friendsCount": 379,
+      "location": "Oak Glen, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoB3fKtbIAAFPgG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RileysFarm1776/status/1909657733470863388",
+    "fullText": "Courage, New Hampshire!\n\nWe've decided to move our \"Courage, New Hampshire\" premiere over to RUMBLE.  On April 19, you can watch four hours of period 18th century drama, for FREE, (with possibly a little advertising.)\n\nCourage is a fictional township on the western frontier of https://t.co/pIkWs9jy2Y"
+  },
+  {
+    "user": {
       "screenName": "eminiplayer",
       "name": "Awais Bokhari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905268378417426432/PKQMVpQE_normal.jpg",
@@ -350,7 +435,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5644,
+      "followersCount": 5645,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -367,7 +452,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28428,
+      "followersCount": 28427,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -416,11 +501,26 @@
   },
   {
     "user": {
+      "screenName": "cygnal",
+      "name": "Cygnal Polling & Analytics",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1184933255243554821/16EvSOhe_normal.jpg",
+      "description": "Polling firm. Pioneer of multi-mode research. Creating intelligence for action by understanding opinions, hearts, and minds.",
+      "followersCount": 3383,
+      "friendsCount": 1566,
+      "location": "Arlington, VA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cygnal/status/1909614811090170121",
+    "fullText": "The South is more than a monolithic voting bloc—it’s the key to America’s political future. Dive into Pollster @brentbuc &amp; Sampling Lead Nicholas Valdiviez's analysis of the region’s complexity + its impact on elections. Read the first part of this exclusive series on"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩Crypto玩美股的，写Python写Swift的，瞎逼逼的，做油管的，到处挣点小钱的，叫李麦麦的 「MoxCV」Mac剪切板工具 && 「MoxList」iOS番茄钟待办 电报群 https://t.co/cajppYfjQj / 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18485,
+      "followersCount": 18476,
       "friendsCount": 1443,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -437,7 +537,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28428,
+      "followersCount": 28427,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -452,7 +552,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 21994,
+      "followersCount": 21992,
       "friendsCount": 282,
       "location": "Guangdong"
     },
@@ -486,7 +586,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20858,
+      "followersCount": 20857,
       "friendsCount": 1017,
       "location": ""
     },
@@ -503,7 +603,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩Crypto玩美股的，写Python写Swift的，瞎逼逼的，做油管的，到处挣点小钱的，叫李麦麦的 「MoxCV」Mac剪切板工具 && 「MoxList」iOS番茄钟待办 电报群 https://t.co/cajppYfjQj / 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18485,
+      "followersCount": 18476,
       "friendsCount": 1443,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -520,7 +620,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58007,
+      "followersCount": 57997,
       "friendsCount": 356,
       "location": ""
     },
@@ -584,7 +684,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28428,
+      "followersCount": 28427,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -601,7 +701,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩Crypto玩美股的，写Python写Swift的，瞎逼逼的，做油管的，到处挣点小钱的，叫李麦麦的 「MoxCV」Mac剪切板工具 && 「MoxList」iOS番茄钟待办 电报群 https://t.co/cajppYfjQj / 自留地 https://t.co/WQYgnkH9Ew",
-      "followersCount": 18485,
+      "followersCount": 18476,
       "friendsCount": 1443,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -619,7 +719,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
       "followersCount": 5271,
-      "friendsCount": 316,
+      "friendsCount": 317,
       "location": "杭州"
     },
     "images": [],
@@ -633,7 +733,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101640,
+      "followersCount": 101638,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -653,7 +753,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73073,
+      "followersCount": 73075,
       "friendsCount": 3366,
       "location": ""
     },
@@ -668,7 +768,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101640,
+      "followersCount": 101638,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -686,7 +786,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22671,
+      "followersCount": 22667,
       "friendsCount": 342,
       "location": "HK"
     },
@@ -703,7 +803,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101640,
+      "followersCount": 101638,
       "friendsCount": 805,
       "location": "United States"
     },
@@ -916,7 +1016,7 @@
       "name": "倪爽",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
       "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
-      "followersCount": 101640,
+      "followersCount": 101638,
       "friendsCount": 805,
       "location": "United States"
     },
