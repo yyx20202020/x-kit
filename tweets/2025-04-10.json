@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 20861,
+      "friendsCount": 1017,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoKaXO1bcAAK8Wm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1910259726849544220",
+    "fullText": "在 MCP 生态日益壮大的今天，Google 又搞了个 A2A 协议，意欲何为？为了搞清楚两个协议之间的关系，我画了一张 A2A 核心图解帮助大家快速理解。其实两者并非竞争关系，而是一种互补协议。\n\n- 公众号: https://t.co/94RJFbYugi\n- GitHub: https://t.co/z2UXBf5iPN\n- A2A Docs: https://t.co/M1Ic9iPNIc https://t.co/SQPF0mGebQ"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
+      "followersCount": 9356,
+      "friendsCount": 3408,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1910256385646018560/vid/avc1/1848x1080/l-IkjNz4RTuRCoMg.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/1910258238597243174",
+    "fullText": "在 @yihui_indie 评论区提问怎么搞那些视频，收到了 @s1ntone 推荐的 ScreenSage，打开小火炉随手一顿操作，没有做任何编辑，直出视频⬇️\n\n一些建议：\n1）导出时，提交成功反馈不明显，以为没开始，结果是进度条在滚动区域被隐藏了；\n2）可以在输入的时候加上打字机音效； https://t.co/EpjSda3Bm2"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -20,7 +54,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28491,
+      "followersCount": 28500,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -35,7 +69,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149493,
+      "followersCount": 149489,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -97,7 +131,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117318,
+      "followersCount": 117321,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -151,7 +185,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8137,
+      "followersCount": 8136,
       "friendsCount": 291,
       "location": ""
     },
@@ -200,7 +234,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28491,
+      "followersCount": 28500,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -317,7 +351,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9355,
+      "followersCount": 9356,
       "friendsCount": 3408,
       "location": ""
     },
@@ -350,7 +384,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117318,
+      "followersCount": 117321,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -368,7 +402,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117318,
+      "followersCount": 117321,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -451,7 +485,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73134,
+      "followersCount": 73136,
       "friendsCount": 3367,
       "location": ""
     },
@@ -483,7 +517,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58105,
+      "followersCount": 58113,
       "friendsCount": 356,
       "location": ""
     },
@@ -675,8 +709,8 @@
       "name": "Don Winslow",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1647525880430993409/60HaCvHF_normal.jpg",
       "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\n#WinslowDigitalArmy  \n\nFind great books by following: @WinslowBookClub",
-      "followersCount": 884514,
-      "friendsCount": 35956,
+      "followersCount": 884529,
+      "friendsCount": 35955,
       "location": "Tweets are just my opinion"
     },
     "images": [],
@@ -756,7 +790,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58105,
+      "followersCount": 58113,
       "friendsCount": 356,
       "location": ""
     },
@@ -774,7 +808,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58105,
+      "followersCount": 58113,
       "friendsCount": 356,
       "location": ""
     },
@@ -1296,7 +1330,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9355,
+      "followersCount": 9356,
       "friendsCount": 3408,
       "location": ""
     },
@@ -1330,7 +1364,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28491,
+      "followersCount": 28500,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -1396,7 +1430,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9355,
+      "followersCount": 9356,
       "friendsCount": 3408,
       "location": ""
     },
@@ -1413,7 +1447,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5683,
+      "followersCount": 5685,
       "friendsCount": 1187,
       "location": ""
     },
@@ -1445,7 +1479,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9355,
+      "followersCount": 9356,
       "friendsCount": 3408,
       "location": ""
     },
@@ -1494,7 +1528,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5683,
+      "followersCount": 5685,
       "friendsCount": 1187,
       "location": ""
     },
@@ -1868,8 +1902,8 @@
       "name": "ATR",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1527753123317547012/eDYch__k_normal.jpg",
       "description": "Americans for Tax Reform: Advocating for lower taxes, a simpler tax code, and limited government since 1985. Sponsors of the Taxpayer Protection Pledge.",
-      "followersCount": 29049,
-      "friendsCount": 7692,
+      "followersCount": 29047,
+      "friendsCount": 7691,
       "location": "Washington, D.C."
     },
     "images": [],
