@@ -5,7 +5,75 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26535,
+      "followersCount": 26534,
+      "friendsCount": 114,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoNvVWVbgAAW9jU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1910493276748284126",
+    "fullText": "调试 SystemD 启动错误：从键盘布局到流畅开机\n\n这几天升级系统后，发现启动的时候有错误， 导致整个启动时间超过 3 分钟\n\nFailed to start Virtual Console Setup\nA start job is running for Journal Service\n\n下面是解决方案：\n\n看 SystemD 日志\n终端输入\n\nsudo systemctl status https://t.co/nKIP1p58ZW"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 186944,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoNsKuuasAAvYhv.jpg",
+      "https://pbs.twimg.com/media/GoNsKuYaoAAGmok.jpg",
+      "https://pbs.twimg.com/media/GoNsKuxbYAI7HWk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1910489628727271441",
+    "fullText": "周五软件分享\n\n- NixVis（图一）：nginx 日志分析工具 https://t.co/2Nrp89BFAR\n\n- DNS-Splitter（图二）：DNS 分流的浏览器插件 https://t.co/WiSYg4OcIl\n\n- 图三：为游戏《黑神话：悟空》添加实时地图 https://t.co/hOPndpVgEs\n\n更多软件 #科技爱好者周刊（第 344 期）https://t.co/FEYHI5rBsq https://t.co/MhcZxGbYyo"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 186944,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoNpGnkbYAE79mE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1910486287985107374",
+    "fullText": "本周分享一篇北京大学张丹丹老师的文章。\n\n她注意到一个现象：零工越来越多。所谓\"零工\"，就是不与用人单位签订劳动合同，也不缴纳社保的工人。\n\n正常情况下，零工是少数，大部分员工应该是正式的长期工。\n\n但是，现实恰恰相反。制造业自动化以后，零工不减反增，越来越多。https://t.co/FEYHI5rBsq https://t.co/OvqVv4uQCJ"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 117440,
+      "friendsCount": 1307,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1910484429853573627",
+    "fullText": "虫虫特工队，好片子 https://t.co/TRLJCp1YRe"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 26534,
       "friendsCount": 114,
       "location": "China"
     },
@@ -35,7 +103,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58140,
+      "followersCount": 58145,
       "friendsCount": 356,
       "location": ""
     },
@@ -52,7 +120,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58140,
+      "followersCount": 58145,
       "friendsCount": 356,
       "location": ""
     },
@@ -66,11 +134,28 @@
   },
   {
     "user": {
+      "screenName": "WilderWorld",
+      "name": "Wilder World",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1770665208077533184/bN_ts2pz_normal.jpg",
+      "description": "The Metaverse",
+      "followersCount": 277361,
+      "friendsCount": 907,
+      "location": "Wiami"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoNNjlDb0AAjlJL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WilderWorld/status/1910456356047589805",
+    "fullText": "The ULTIMATE web3 gaming KOL tier list.\n\n12+ years of influencer evaluation experience (most in industry).\n\nUnbiased ratings based on:\n- Real to fake follower count ratio\n- Dumping on follower %\n- Shill versus real news ratio\n- SEC Regulatory Compliance\n\nBrutal honest assessment, https://t.co/UYpEjuVvLd"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117428,
+      "followersCount": 117440,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -82,6 +167,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1910454947868823704",
     "fullText": "用 AI 帮你设计生成一张婚礼邀请海报\n工具：sora 或 GPT-4o\n\n说明：\n可以上传一张新郎新娘照片作为参考，可以修改姓名为真实姓名\n\n提示词：\n制作一张中国传统风格的婚礼邀请函海报，采用竖版双联设计，主色调为红色与白色搭配，背景为带有金色纹理点缀的红色。整体风格喜庆、典雅，适合婚庆场合。 https://t.co/hr9GGg2V7d"
+  },
+  {
+    "user": {
+      "screenName": "xx_network",
+      "name": "xx.network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1486005231645192192/skG_l3Eh_normal.jpg",
+      "description": "Fast, full-stack, linear scalable, quantum-ready  on the world's most private comms network.\n\nhttps://t.co/MhxQbv3IEP\nhttps://t.co/SJhaXi3x7m",
+      "followersCount": 57919,
+      "friendsCount": 126,
+      "location": "Decentralized "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xx_network/status/1910431231579189312",
+    "fullText": "🎙️ New Privacy Podcast Episode!\nWe’re joined by William Wendt from @OasisProtocol to dive deep into confidential computing, Web3 privacy, and the future of data sovereignty.\n\nhttps://t.co/HaFwlzqqpz"
   },
   {
     "user": {
@@ -102,11 +202,26 @@
   },
   {
     "user": {
+      "screenName": "guardianbikes",
+      "name": "Guardian Bikes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1515524344767823872/g56or6A4_normal.png",
+      "description": "America’s most loved kids bike brand. Building a Guardian factory and supply chain in the USA. Follow our journey here.",
+      "followersCount": 960,
+      "friendsCount": 154,
+      "location": "Seymour, IN"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/guardianbikes/status/1910416702816608492",
+    "fullText": "Today, we announced a $19M financing with @jpmorgan  to launch the first high-volume bicycle frame manufacturing plant in the U.S.  \n\nBut this isn’t just about bikes—or even just about manufacturing.  \n\nIt’s about a new model for how physical products are built and delivered in"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4075041,
+      "followersCount": 4075221,
       "friendsCount": 3,
       "location": ""
     },
@@ -117,11 +232,28 @@
   },
   {
     "user": {
+      "screenName": "RiscZero",
+      "name": "RISC Zero",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909327706803646464/sqc6jCD9_normal.jpg",
+      "description": "Building high-performance ZK systems to power the next era of computing.\n\nBuilding @boundless_xyz",
+      "followersCount": 42915,
+      "friendsCount": 366,
+      "location": "R0VM 2.0"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1910373710365671424/vid/avc1/1280x720/xEizli01V8SaqQfa.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/RiscZero/status/1910387048340705465",
+    "fullText": "Introducing R0VM 2.0.\n\nThe zkVM built for the real-time era. https://t.co/mjxM36iqZr"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4075041,
+      "followersCount": 4075221,
       "friendsCount": 3,
       "location": ""
     },
@@ -168,7 +300,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5751,
+      "followersCount": 5755,
       "friendsCount": 1187,
       "location": ""
     },
@@ -185,7 +317,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117428,
+      "followersCount": 117440,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -217,7 +349,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117428,
+      "followersCount": 117440,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -232,7 +364,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22037,
+      "followersCount": 22039,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -249,7 +381,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117428,
+      "followersCount": 117440,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -281,7 +413,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 20913,
+      "followersCount": 20919,
       "friendsCount": 1017,
       "location": ""
     },
@@ -330,7 +462,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28599,
+      "followersCount": 28608,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -345,7 +477,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149521,
+      "followersCount": 149530,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -392,7 +524,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117428,
+      "followersCount": 117440,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -429,7 +561,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8138,
+      "followersCount": 8139,
       "friendsCount": 291,
       "location": ""
     },
@@ -461,7 +593,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28599,
+      "followersCount": 28608,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -478,7 +610,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22037,
+      "followersCount": 22039,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -528,7 +660,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117428,
+      "followersCount": 117440,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -546,7 +678,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117428,
+      "followersCount": 117440,
       "friendsCount": 1307,
       "location": "Chicago, IL"
     },
@@ -597,7 +729,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73154,
+      "followersCount": 73155,
       "friendsCount": 3366,
       "location": ""
     },
@@ -663,11 +795,28 @@
   },
   {
     "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16396,
+      "friendsCount": 1191,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoG69S6WcAAITF2.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1910013297098645789",
+    "fullText": "According to an April report from the @GOLDCOUNCIL, central banks added 24t to global #gold reserves in February, led by Poland’s 29t purchase, marking its 11th month of net buying.\n\nOther notable buyers include China, Turkey, Jordan, the Czech Republic and Qatar.\n\nCentral bank https://t.co/xxeQtvCDUu"
+  },
+  {
+    "user": {
       "screenName": "khloekardashian",
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29831781,
+      "followersCount": 29831513,
       "friendsCount": 228,
       "location": ""
     },
