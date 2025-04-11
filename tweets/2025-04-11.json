@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 143010,
+      "friendsCount": 1428,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1910737263308542273",
+    "fullText": "很好奇，3D 打印机在工业制造领域有没有大规模的，生产环境的实践？还只是过了这么多年依然停留在家用玩具领域？"
+  },
+  {
+    "user": {
+      "screenName": "PalantirTech",
+      "name": "Palantir",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1877789778344828928/ibFj3Vhw_normal.jpg",
+      "description": "Software (that wins).",
+      "followersCount": 274131,
+      "friendsCount": 46,
+      "location": "Denver, CO"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PalantirTech/status/1910726349376856547",
+    "fullText": "Not everyone needs college to succeed."
+  },
+  {
+    "user": {
       "screenName": "nateleex",
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7208,
+      "followersCount": 7210,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -18,11 +48,26 @@
   },
   {
     "user": {
+      "screenName": "vandapharma",
+      "name": "Vanda Pharmaceuticals",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1201922312611749888/8SHs2v5Q_normal.jpg",
+      "description": "Vanda is a global pharmaceutical company focused on the development of innovative therapies to address unmet medical needs and improve the lives of patients.",
+      "followersCount": 1457,
+      "friendsCount": 244,
+      "location": "Washington DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vandapharma/status/1910710705793155461",
+    "fullText": "For the acute treatment of manic or mixed episodes associated with Bipolar I in adults"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 143004,
+      "followersCount": 143010,
       "friendsCount": 1428,
       "location": "東京 港区"
     },
@@ -62,6 +107,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/CryptoLifer33/status/1910683216890966453",
     "fullText": "Do you desire to change your life financially?\n\nAre you on the edge? \n\nDo you tell yourself I am quitting this horrible job today, only to come back the next day.\n\nCome to my live stream today lets fix the broken version of you.\n\nThrough my daily mental focusing tips and constant"
+  },
+  {
+    "user": {
+      "screenName": "RobinhoodApp",
+      "name": "Robinhood",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
+      "description": "Trade. Invest. Earn.",
+      "followersCount": 1175196,
+      "friendsCount": 21,
+      "location": "Menlo Park, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1910679295896293376/vid/avc1/1280x720/ImvMA6nZCq-Kx8yT.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/RobinhoodApp/status/1910679502033682470",
+    "fullText": "Just dropped on Robinhood Legend: New IV metrics in your Watchlist and Positions widgets.\n\n✔️ IV Rank\n✔️ Historical Volatility\n✔️ 52-week IV High\n✔️ 52-week IV Low\n\nSpot tickers with elevated volatility and identify when the market may be underpricing or overpricing options. https://t.co/8EctVEQ0ep"
   },
   {
     "user": {
@@ -152,7 +214,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9368,
+      "followersCount": 9370,
       "friendsCount": 3410,
       "location": ""
     },
@@ -186,7 +248,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26550,
+      "followersCount": 26551,
       "friendsCount": 114,
       "location": "China"
     },
@@ -201,7 +263,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18557,
+      "followersCount": 18562,
       "friendsCount": 1487,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -235,7 +297,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18557,
+      "followersCount": 18562,
       "friendsCount": 1487,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -252,7 +314,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58406,
+      "followersCount": 58420,
       "friendsCount": 356,
       "location": ""
     },
@@ -269,7 +331,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58406,
+      "followersCount": 58420,
       "friendsCount": 356,
       "location": ""
     },
@@ -303,7 +365,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28676,
+      "followersCount": 28680,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -322,7 +384,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58406,
+      "followersCount": 58420,
       "friendsCount": 356,
       "location": ""
     },
@@ -356,7 +418,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28676,
+      "followersCount": 28680,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -373,7 +435,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22065,
+      "followersCount": 22067,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -388,7 +450,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22720,
+      "followersCount": 22721,
       "friendsCount": 336,
       "location": "HK"
     },
@@ -405,7 +467,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149571,
+      "followersCount": 149579,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -422,7 +484,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18557,
+      "followersCount": 18562,
       "friendsCount": 1487,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -437,7 +499,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28676,
+      "followersCount": 28680,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -452,7 +514,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18557,
+      "followersCount": 18562,
       "friendsCount": 1487,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -469,7 +531,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149571,
+      "followersCount": 149579,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -516,7 +578,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18557,
+      "followersCount": 18562,
       "friendsCount": 1487,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -531,7 +593,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22065,
+      "followersCount": 22067,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -548,7 +610,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9368,
+      "followersCount": 9370,
       "friendsCount": 3410,
       "location": ""
     },
@@ -580,7 +642,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18557,
+      "followersCount": 18562,
       "friendsCount": 1487,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -595,7 +657,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26550,
+      "followersCount": 26551,
       "friendsCount": 114,
       "location": "China"
     },
@@ -612,7 +674,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73183,
+      "followersCount": 73184,
       "friendsCount": 3368,
       "location": ""
     },
@@ -644,7 +706,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26550,
+      "followersCount": 26551,
       "friendsCount": 114,
       "location": "China"
     },
@@ -661,7 +723,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 186985,
+      "followersCount": 186994,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -680,7 +742,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 186985,
+      "followersCount": 186994,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -697,7 +759,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117632,
+      "followersCount": 117635,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -712,7 +774,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26550,
+      "followersCount": 26551,
       "friendsCount": 114,
       "location": "China"
     },
@@ -742,7 +804,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58406,
+      "followersCount": 58420,
       "friendsCount": 356,
       "location": ""
     },
@@ -759,7 +821,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58406,
+      "followersCount": 58420,
       "friendsCount": 356,
       "location": ""
     },
@@ -828,7 +890,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117632,
+      "followersCount": 117635,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -994,7 +1056,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4077574,
+      "followersCount": 4077614,
       "friendsCount": 3,
       "location": ""
     },
@@ -1041,7 +1103,7 @@
       "name": "RISC Zero",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909327706803646464/sqc6jCD9_normal.jpg",
       "description": "Building high-performance ZK systems to power the next era of computing.\n\nBuilding @boundless_xyz",
-      "followersCount": 43263,
+      "followersCount": 43285,
       "friendsCount": 366,
       "location": "R0VM 2.0"
     },
@@ -1090,7 +1152,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4077574,
+      "followersCount": 4077614,
       "friendsCount": 3,
       "location": ""
     },
@@ -1896,7 +1958,7 @@
       "name": "DCprotests4Iran",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1901699601939181568/ZUw7Hi5J_normal.jpg",
       "description": "Our mission is to bring people together to echo the voice of Iranians who want Prince Reza Pahlavi as their opposition leader for Iran.",
-      "followersCount": 1470,
+      "followersCount": 1472,
       "friendsCount": 3,
       "location": "Washington, DC"
     },
@@ -2190,7 +2252,7 @@
       "name": "Howie Liu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908611434898206720/CRup1_nM_normal.jpg",
       "description": "Cofounder/CEO @ Airtable",
-      "followersCount": 7850,
+      "followersCount": 7851,
       "friendsCount": 1292,
       "location": "SF"
     },
