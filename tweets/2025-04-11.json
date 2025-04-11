@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 142982,
+      "friendsCount": 1428,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1910693125225664665",
+    "fullText": "最近比较感兴趣的一个问题，AI 生成内容可以凭空创造东西，是不是供应和需求的模式就变了？如果 AI 生成内容能够从无到有创造需求，先于库存供应感知需求，是否可以重塑供应链？进一步畅想，如果弹性的个性化制造成为现实，能否颠覆目前国家之间的贸易关系？"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
@@ -41,7 +56,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9372,
+      "followersCount": 9364,
       "friendsCount": 3410,
       "location": ""
     },
@@ -75,7 +90,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26548,
+      "followersCount": 26549,
       "friendsCount": 114,
       "location": "China"
     },
@@ -141,7 +156,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58310,
+      "followersCount": 58324,
       "friendsCount": 356,
       "location": ""
     },
@@ -158,7 +173,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58310,
+      "followersCount": 58324,
       "friendsCount": 356,
       "location": ""
     },
@@ -192,7 +207,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28667,
+      "followersCount": 28669,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -211,7 +226,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58310,
+      "followersCount": 58324,
       "friendsCount": 356,
       "location": ""
     },
@@ -245,7 +260,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28667,
+      "followersCount": 28669,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -262,7 +277,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22064,
+      "followersCount": 22062,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -294,7 +309,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149567,
+      "followersCount": 149561,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -326,7 +341,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28667,
+      "followersCount": 28669,
       "friendsCount": 556,
       "location": "Hong Kong"
     },
@@ -358,7 +373,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149567,
+      "followersCount": 149561,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -420,7 +435,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22064,
+      "followersCount": 22062,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -437,7 +452,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9372,
+      "followersCount": 9364,
       "friendsCount": 3410,
       "location": ""
     },
@@ -484,7 +499,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26548,
+      "followersCount": 26549,
       "friendsCount": 114,
       "location": "China"
     },
@@ -533,7 +548,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26548,
+      "followersCount": 26549,
       "friendsCount": 114,
       "location": "China"
     },
@@ -586,7 +601,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117605,
+      "followersCount": 117596,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -601,7 +616,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26548,
+      "followersCount": 26549,
       "friendsCount": 114,
       "location": "China"
     },
@@ -631,7 +646,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58310,
+      "followersCount": 58324,
       "friendsCount": 356,
       "location": ""
     },
@@ -648,7 +663,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58310,
+      "followersCount": 58324,
       "friendsCount": 356,
       "location": ""
     },
@@ -717,7 +732,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117605,
+      "followersCount": 117596,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -768,7 +783,7 @@
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
       "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
-      "followersCount": 2767,
+      "followersCount": 2768,
       "friendsCount": 974,
       "location": "Austin, Texas"
     },
@@ -883,7 +898,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4077079,
+      "followersCount": 4077140,
       "friendsCount": 3,
       "location": ""
     },
@@ -930,7 +945,7 @@
       "name": "RISC Zero",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909327706803646464/sqc6jCD9_normal.jpg",
       "description": "Building high-performance ZK systems to power the next era of computing.\n\nBuilding @boundless_xyz",
-      "followersCount": 43267,
+      "followersCount": 43160,
       "friendsCount": 366,
       "location": "R0VM 2.0"
     },
@@ -979,7 +994,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4077079,
+      "followersCount": 4077140,
       "friendsCount": 3,
       "location": ""
     },
@@ -1196,7 +1211,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117605,
+      "followersCount": 117596,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -1260,7 +1275,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117605,
+      "followersCount": 117596,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -1761,6 +1776,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/1910127536702710230",
     "fullText": "总有人告诉你这些政治关税博弈干你屁事儿不用关心，你又改变不了什么。\n但是真正关心的人有的得到了流量\n有的开心的写了不少段子\n有的躲过了股灾\n有的因为信息源赚了一点点钱就跑了"
+  },
+  {
+    "user": {
+      "screenName": "DCprotests4Iran",
+      "name": "DCprotests4Iran",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901699601939181568/ZUw7Hi5J_normal.jpg",
+      "description": "Our mission is to bring people together to echo the voice of Iranians who want Prince Reza Pahlavi as their opposition leader for Iran.",
+      "followersCount": 1467,
+      "friendsCount": 3,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoIcdkzXcAEDSrx.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DCprotests4Iran/status/1910121393938723187",
+    "fullText": "✌️ Largest Iranian gathering in front of the White House in support of recognizing Prince Reza Pahlavi to lead complete regime change in Iran.\n\n✌️بزرگترین گردهمایی ایرانیان در مقابل کاخ‌سفید برای حمایت از رهبری شاهزاده رضا پهلوی در راه براندازی کامل جمهوری اسلامی https://t.co/Rd949wvC8s"
   },
   {
     "user": {
