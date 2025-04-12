@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28693,
+      "friendsCount": 555,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoTpSjWWkAEFMK3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1910909589085991281",
+    "fullText": "早上起来直播了一个小时，抖音3单，希望下周能场均破千😆。慢慢找到了一些技巧，核心还是得多播，多有反馈，多迭代~ https://t.co/jGdpZOzUni"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
+      "followersCount": 73168,
+      "friendsCount": 3368,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1910906232220901814",
+    "fullText": "拉肚子算不算 vibe shitting."
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117676,
+      "followersCount": 117673,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -54,7 +86,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 186966,
+      "followersCount": 186965,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -69,7 +101,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58612,
+      "followersCount": 58620,
       "friendsCount": 356,
       "location": ""
     },
@@ -84,7 +116,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58612,
+      "followersCount": 58620,
       "friendsCount": 356,
       "location": ""
     },
@@ -101,7 +133,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7014,
+      "followersCount": 7013,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -116,7 +148,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58612,
+      "followersCount": 58620,
       "friendsCount": 356,
       "location": ""
     },
@@ -133,7 +165,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58612,
+      "followersCount": 58620,
       "friendsCount": 356,
       "location": ""
     },
@@ -153,7 +185,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58612,
+      "followersCount": 58620,
       "friendsCount": 356,
       "location": ""
     },
@@ -202,7 +234,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58612,
+      "followersCount": 58620,
       "friendsCount": 356,
       "location": ""
     },
@@ -268,7 +300,7 @@
       "name": "Puck Games 🚪 WISHLIST CAPTURED 2",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1910805511949164544/jmvg1_rJ_normal.jpg",
       "description": "Game developer 🎮\nWishlist CAPTURED 2👇",
-      "followersCount": 474,
+      "followersCount": 475,
       "friendsCount": 146,
       "location": ""
     },
@@ -436,7 +468,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7207,
+      "followersCount": 7206,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -446,6 +478,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/nateleex/status/1910755961536733267",
     "fullText": "好吧。小红书上点赞3k多的笑话。\n为什么这是一个笑话，确实很奇怪🙃 https://t.co/TOrQTgVfm0"
+  },
+  {
+    "user": {
+      "screenName": "sosa_oksana",
+      "name": "Oksana Sosa",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/717902610724990977/IY_ZyvtS_normal.jpg",
+      "description": "District Supervisor overseeing MTSS implementation in the 3rd largest district | military wife | Mother of two | Devoted Christian",
+      "followersCount": 847,
+      "friendsCount": 2206,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoRaa08WsAA7fGt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sosa_oksana/status/1910751564056187119",
+    "fullText": "1996 https://t.co/qvShSY5kzI"
   },
   {
     "user": {
@@ -487,7 +536,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 143004,
+      "followersCount": 142998,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -510,6 +559,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/NewsSlingshot/status/1910730679274406370",
     "fullText": "🚨🔥BREAKING: Exposing Chuck Schumer, Jasmine Crockett, And AOC For Taking Millions In Wall Street Donations! Slingshot TV w/ Troy Smith https://t.co/D2jkuGvqTT"
+  },
+  {
+    "user": {
+      "screenName": "DanGoikhman",
+      "name": "Dan G",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1737458822791217152/JsdCbeY-_normal.jpg",
+      "description": "Founder/CEO @ Dappier - Open Web ➡️ Agentic Web - earlier founder @ Mojiva (Mobile Ads Acq. Pubmatic), https://t.co/1pWH2XkOjm (CTV Acq. by Bitcentral), Replay (Web3 TV)",
+      "followersCount": 523,
+      "friendsCount": 1002,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1910727784252461057/vid/avc1/1056x720/Fw511l7KlN8BwlF4.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/DanGoikhman/status/1910727867538747848",
+    "fullText": "Turn your @beehiiv  newsletter into an AI Agent and use it to acquire subs and engage in new ways (powered by Dappier) https://t.co/7KkDlCCouq"
   },
   {
     "user": {
@@ -551,7 +617,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7207,
+      "followersCount": 7206,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -600,7 +666,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 143004,
+      "followersCount": 142998,
       "friendsCount": 1429,
       "location": "東京 港区"
     },
@@ -717,7 +783,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26550,
+      "followersCount": 26552,
       "friendsCount": 114,
       "location": "China"
     },
@@ -800,7 +866,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58612,
+      "followersCount": 58620,
       "friendsCount": 356,
       "location": ""
     },
@@ -817,7 +883,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58612,
+      "followersCount": 58620,
       "friendsCount": 356,
       "location": ""
     },
@@ -872,7 +938,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58612,
+      "followersCount": 58620,
       "friendsCount": 356,
       "location": ""
     },
@@ -923,7 +989,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22078,
+      "followersCount": 22079,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -938,7 +1004,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22716,
+      "followersCount": 22711,
       "friendsCount": 336,
       "location": "HK"
     },
@@ -955,7 +1021,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149562,
+      "followersCount": 149558,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -1036,7 +1102,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149562,
+      "followersCount": 149558,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -1068,7 +1134,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22078,
+      "followersCount": 22079,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -1276,6 +1342,21 @@
   },
   {
     "user": {
+      "screenName": "ripmeeeee",
+      "name": "dead",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1662553003344424960/ygA3HaOA_normal.jpg",
+      "description": "I make Oldschool Runescape videos.",
+      "followersCount": 3,
+      "friendsCount": 15,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ripmeeeee/status/1910458933812089036",
+    "fullText": "I’m emotionally available as long as you don’t need me to be emotionally stable."
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
@@ -1380,6 +1461,23 @@
   },
   {
     "user": {
+      "screenName": "kickfinance",
+      "name": "Kick 😎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1682518310330732544/qIDfQ3JY_normal.png",
+      "description": "Kick back, your books are handled. Start free: https://t.co/h67woSN5eT",
+      "followersCount": 1423,
+      "friendsCount": 8,
+      "location": "Internet"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoMJLUKbYAIDZsr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/kickfinance/status/1910381229427589440",
+    "fullText": "Tax deadline in 5 days. \nNeed to file a tax extension?  \nUse our tax extension guide + calculator to get it done. https://t.co/NBmThhaWcG"
+  },
+  {
+    "user": {
       "screenName": "VRisingGame",
       "name": "V Rising",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1389868427548966916/oAxpKbTI_normal.jpg",
@@ -1433,7 +1531,7 @@
       "name": "Inco ☁️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909850439786659841/nfws7K_i_normal.jpg",
       "description": "Inco is the missing layer of the blockchain stack, empowering smart contracts with confidentiality to unlock use cases and enable widespread web3 adoption.",
-      "followersCount": 12799,
+      "followersCount": 12795,
       "friendsCount": 68,
       "location": "Onchain"
     },
