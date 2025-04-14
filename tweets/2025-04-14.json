@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
+      "followersCount": 3611,
+      "friendsCount": 327,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GodbbMZWAAADxgX.mp4"
+    ],
+    "tweetUrl": "https://x.com/s1ntone/status/1911599973340418090",
+    "fullText": "比 ScreenStudio 强 15 倍（bushi）的 #ScreenSage 即将发布赛博菩萨功能，换上 sequoia 射线背景➡️移除视频背景➡️再加上边框特效➡️你就变成了网友们的赛博菩萨，视频播放量百万不用愁！ https://t.co/gUI8QLQCcl"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22193,
+      "friendsCount": 285,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GodYGJfWAAAVrQC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1911593593669820843",
+    "fullText": "Cursor 要挂？微软限定一系列 vscode 的自家插件只能用于微软产品，包括 remote ssh，pylance，cpptools，pydbg 等，其他基于 vscode 二次开发的编辑器将不能再使用这些插件： https://t.co/oOq2EShdEx"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 53692,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1911592852511175027",
+    "fullText": "最近写代码停用sonnet了， 改为用Gemini 2.5，一下感觉神清气爽，和sonnet 自大抽风的风格相比，Gemini 就像个性格内敛冷静但是无比专业的程序员，再也不用担心跨越多个文件的一阵胡改，再也不需要无时无刻的添加不要乱改的rule,像手术刀一样准确, 感觉非常舒服。"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -20,7 +69,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117835,
+      "followersCount": 117842,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -37,7 +86,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117835,
+      "followersCount": 117842,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -70,7 +119,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117835,
+      "followersCount": 117842,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -122,7 +171,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 117835,
+      "followersCount": 117842,
       "friendsCount": 1308,
       "location": "Chicago, IL"
     },
@@ -152,6 +201,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/ovst36099/status/1911457703647694917",
     "fullText": "看到个段子 https://t.co/hSL4EaRpQo"
+  },
+  {
+    "user": {
+      "screenName": "dpdhillon",
+      "name": "Deepinder Dhillon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1906350918150586368/kmfQ8Jlk_normal.jpg",
+      "description": "Money-Manager looking @ global equity, tech & econ trends",
+      "followersCount": 108,
+      "friendsCount": 951,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GobVa_1XEAEbofv.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dpdhillon/status/1911452142583394492",
+    "fullText": "🌍 Pivot Your Supply Chain with TradeFi Cimex! 🇮🇳\nU.S. Businesses Hit by China Tariffs?\nAt TradeFi Cimex, we help you re-align your supply chain to India—avoiding tariffs and cutting costs!\n•Why Us? Strong U.S. connections, trusted Indian manufacturers, quality guaranteed. https://t.co/QN2nnociKK"
   },
   {
     "user": {
@@ -194,7 +260,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26665,
+      "followersCount": 26674,
       "friendsCount": 114,
       "location": "China"
     },
@@ -226,7 +292,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26665,
+      "followersCount": 26674,
       "friendsCount": 114,
       "location": "China"
     },
@@ -241,8 +307,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18673,
-      "friendsCount": 1647,
+      "followersCount": 18688,
+      "friendsCount": 1651,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -274,11 +340,28 @@
   },
   {
     "user": {
+      "screenName": "polymarketinfo",
+      "name": "The Oracle by Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863703568009637888/UOE3ybY8_normal.png",
+      "description": "News & Views from the World's Largest Prediction Market\n\nGet the Newsletter & Podcast\n👇",
+      "followersCount": 814,
+      "friendsCount": 85,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1911399609856888832/vid/avc1/1280x720/ykSqGzuA0czgM-eF.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/polymarketinfo/status/1911407808806867389",
+    "fullText": "🔮 PODCAST: Tariffs Will Fail\n\nPorter Stansberry @porterstansb is the founder of Stansberry Research. In a recent tweet, he predicted that the United States will default on its debt within four years. \n\nTimestamps\n(00:00) Introduction\n(1:00) US Debt Default prediction\n(2:59) Will https://t.co/SvTRJqhaDf"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26665,
+      "followersCount": 26674,
       "friendsCount": 114,
       "location": "China"
     },
@@ -293,8 +376,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18673,
-      "friendsCount": 1647,
+      "followersCount": 18688,
+      "friendsCount": 1651,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -310,8 +393,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18673,
-      "friendsCount": 1647,
+      "followersCount": 18688,
+      "friendsCount": 1651,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -357,7 +440,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26665,
+      "followersCount": 26674,
       "friendsCount": 114,
       "location": "China"
     },
@@ -372,7 +455,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5777,
+      "followersCount": 5779,
       "friendsCount": 1204,
       "location": ""
     },
@@ -439,7 +522,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22194,
+      "followersCount": 22193,
       "friendsCount": 285,
       "location": "Guangdong"
     },
@@ -456,7 +539,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5777,
+      "followersCount": 5779,
       "friendsCount": 1204,
       "location": ""
     },
@@ -505,7 +588,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 104364,
+      "followersCount": 104359,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -523,8 +606,8 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 6446,
-      "friendsCount": 473,
+      "followersCount": 6452,
+      "friendsCount": 474,
       "location": ""
     },
     "images": [
@@ -592,8 +675,8 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 6446,
-      "friendsCount": 473,
+      "followersCount": 6452,
+      "friendsCount": 474,
       "location": ""
     },
     "images": [],
@@ -607,8 +690,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18673,
-      "friendsCount": 1647,
+      "followersCount": 18688,
+      "friendsCount": 1651,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -624,8 +707,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18673,
-      "friendsCount": 1647,
+      "followersCount": 18688,
+      "friendsCount": 1651,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -728,5 +811,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1911028715301347574",
     "fullText": "今天吃梅菜扣肉饭 https://t.co/NKeXWoT99M"
+  },
+  {
+    "user": {
+      "screenName": "TexasWatch",
+      "name": "Texas Watch",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/657303187024515072/en6vkvv5_normal.jpg",
+      "description": "Restoring responsibility. Protecting families.",
+      "followersCount": 2495,
+      "friendsCount": 1324,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TexasWatch/status/1910922224472596603",
+    "fullText": "When communities can’t recover their costs from wrongdoers in court, local taxpayers are made to pay the price. That isn’t right. #txlege\n\nLegislative advertising paid for by Ware Wendell, Executive Director, Texas Watch, P.O. Box 42198, Austin, TX 78704."
   }
 ]
