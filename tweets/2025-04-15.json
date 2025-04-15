@@ -1,6 +1,36 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22220,
+      "friendsCount": 284,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1911974327203037309",
+    "fullText": "我恨广交会，么此都是全市大堵车，它为什么不挪到南沙去？不是要发展南沙么？"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 26751,
+      "friendsCount": 114,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1911966873018863678",
+    "fullText": "招募iOS浏览器开发者：\n\n1.  全职，坐标武汉\n2. 开发过iOS浏览器\n3. 开发过Chrome插件\n4. C++和JavaScript基础好\n5. 武汉操作系统团队，除了不造芯片，其他都搞，硬件，操作系统，编译器，Native应用，Web...真全栈\n\n有意向的大佬请赐简历 lazycat.manatee@gmail.com\n\n推荐朋友入职的送懒猫微服"
+  },
+  {
+    "user": {
       "screenName": "alanblogsooo",
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
@@ -69,7 +99,7 @@
       "name": "HyBroNi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1891735453457580033/sPtV3uOI_normal.jpg",
       "description": "Share your stories of Defense Health Agency’s bureaucratic failures. Long waits, understaffing, neglect? Your voice can push for change.",
-      "followersCount": 176,
+      "followersCount": 177,
       "friendsCount": 988,
       "location": ""
     },
@@ -98,11 +128,28 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2776,
+      "friendsCount": 974,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1911901610814341121/vid/avc1/1920x1080/04lEjti5INAOAQpr.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1911902047059784159",
+    "fullText": "IBM's new z17 is not your grandpa's mainframe. Think hybrid cloud, lighting fast API's, DevOps CI/CD pipelines, observability &amp; performance management, and AI in one powerful system. 🤯 @RossMauri, GM IBM Z &amp; LinuxONE at @IBM, joins @PatrickMoorhead and @DanielNewmanUV to share https://t.co/Zyzy3Xbhxd"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 118741,
+      "followersCount": 118775,
       "friendsCount": 1309,
       "location": "Chicago, IL"
     },
@@ -136,7 +183,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -254,7 +301,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4083759,
+      "followersCount": 4083945,
       "friendsCount": 3,
       "location": ""
     },
@@ -269,7 +316,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -299,11 +346,28 @@
   },
   {
     "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16420,
+      "friendsCount": 1191,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gogd4P7WAAABEIZ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1911811148149571869",
+    "fullText": "Did you know?\n\nEvery day, there are approximately 106,000 flights around the world, according to the @IATA.\n\nIt’s not just #airlines that benefit, either – this also boosts:\n\n✈️ Aircraft manufacturers\n✈️ Aerospace suppliers\n✈️ Airport infrastructure and services\n✈️ Jet fuel https://t.co/nclWbdTwRM"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 118741,
+      "followersCount": 118775,
       "friendsCount": 1309,
       "location": "Chicago, IL"
     },
@@ -320,7 +384,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -350,7 +414,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -380,7 +444,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73223,
+      "followersCount": 73230,
       "friendsCount": 3370,
       "location": ""
     },
@@ -412,7 +476,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -430,7 +494,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22221,
+      "followersCount": 22220,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -445,7 +509,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21039,
+      "followersCount": 21044,
       "friendsCount": 1017,
       "location": ""
     },
@@ -465,7 +529,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4083759,
+      "followersCount": 4083945,
       "friendsCount": 3,
       "location": ""
     },
@@ -563,7 +627,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 118741,
+      "followersCount": 118775,
       "friendsCount": 1309,
       "location": "Chicago, IL"
     },
@@ -595,7 +659,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5727,
+      "followersCount": 5728,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -612,7 +676,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -627,7 +691,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -642,7 +706,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -706,7 +770,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -723,7 +787,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149604,
+      "followersCount": 149618,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -738,7 +802,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5727,
+      "followersCount": 5728,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -755,7 +819,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28756,
+      "followersCount": 28759,
       "friendsCount": 557,
       "location": "Hong Kong"
     },
@@ -787,7 +851,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -802,7 +866,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5727,
+      "followersCount": 5728,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -819,7 +883,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18942,
+      "followersCount": 18941,
       "friendsCount": 1691,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -836,7 +900,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5727,
+      "followersCount": 5728,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -993,6 +1057,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/SeventhOracle/status/1911468867244732647",
     "fullText": "Is The REDPILL EXPOSED For Being Radical, Misuderstood, Or A Red Flag? https://t.co/d6RdXQ8f6Y"
+  },
+  {
+    "user": {
+      "screenName": "dpdhillon",
+      "name": "Deepinder Dhillon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1906350918150586368/kmfQ8Jlk_normal.jpg",
+      "description": "Money-Manager looking @ global equity, tech & econ trends",
+      "followersCount": 108,
+      "friendsCount": 951,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GobVa_1XEAEbofv.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dpdhillon/status/1911452142583394492",
+    "fullText": "🌍 Pivot Your Supply Chain with TradeFi Cimex! 🇮🇳\nU.S. Businesses Hit by China Tariffs?\nAt TradeFi Cimex, we help you re-align your supply chain to India—avoiding tariffs and cutting costs!\n•Why Us? Strong U.S. connections, trusted Indian manufacturers, quality guaranteed. https://t.co/QN2nnociKK"
   },
   {
     "user": {
