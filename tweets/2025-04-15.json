@@ -1,11 +1,31 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 119348,
+      "friendsCount": 1310,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GonFrL0WYAALuDy.jpg",
+      "https://pbs.twimg.com/media/GonFrK7W0AA-ECL.jpg",
+      "https://pbs.twimg.com/media/GonFrL4XQAAZqZi.jpg",
+      "https://pbs.twimg.com/media/GonFrK6W4AA9pOJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1912276883196039520",
+    "fullText": "画毛茸茸的表情包\n工具：Sora 或者 GPT-4o\n\n注意：\n请替换[]中括号内的表情为你想生成的表情\n如果有单张表情图片，可以作为附件上传，然后把中括号内的文字修改为[参考附件图]\n\n提示词：\n将一个简单平面的矢量图标 [💩] https://t.co/5mycyWZQRw"
+  },
+  {
+    "user": {
       "screenName": "IBKR",
       "name": "Interactive Brokers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/865584067152150528/KQPfL4Zd_normal.jpg",
       "description": "Rated #1 Best Online Broker in 2023 for 6 consecutive years by Barron's. For more info, visit: https://t.co/hC01mZaVCb",
-      "followersCount": 433978,
+      "followersCount": 433983,
       "friendsCount": 62,
       "location": ""
     },
@@ -20,7 +40,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4085544,
+      "followersCount": 4085578,
       "friendsCount": 3,
       "location": ""
     },
@@ -54,7 +74,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4085544,
+      "followersCount": 4085578,
       "friendsCount": 3,
       "location": ""
     },
@@ -86,7 +106,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5740,
+      "followersCount": 5741,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -106,7 +126,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5740,
+      "followersCount": 5741,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -170,7 +190,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7213,
+      "followersCount": 7211,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -221,7 +241,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5740,
+      "followersCount": 5741,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -238,7 +258,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119341,
+      "followersCount": 119348,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -289,7 +309,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28761,
+      "followersCount": 28760,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -351,7 +371,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73231,
+      "followersCount": 73232,
       "friendsCount": 3371,
       "location": ""
     },
@@ -400,7 +420,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8191,
+      "followersCount": 8190,
       "friendsCount": 291,
       "location": ""
     },
@@ -417,7 +437,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28761,
+      "followersCount": 28760,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -462,7 +482,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7213,
+      "followersCount": 7211,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -479,7 +499,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8191,
+      "followersCount": 8190,
       "friendsCount": 291,
       "location": ""
     },
@@ -511,7 +531,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53757,
+      "followersCount": 53758,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -650,7 +670,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8191,
+      "followersCount": 8190,
       "friendsCount": 291,
       "location": ""
     },
@@ -667,7 +687,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149612,
+      "followersCount": 149613,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -733,7 +753,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149612,
+      "followersCount": 149613,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -783,7 +803,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149612,
+      "followersCount": 149613,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -798,7 +818,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119341,
+      "followersCount": 119348,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -818,7 +838,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5740,
+      "followersCount": 5741,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -835,7 +855,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119341,
+      "followersCount": 119348,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -1197,7 +1217,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119341,
+      "followersCount": 119348,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -1432,7 +1452,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4085544,
+      "followersCount": 4085578,
       "friendsCount": 3,
       "location": ""
     },
@@ -1498,7 +1518,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119341,
+      "followersCount": 119348,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -1626,7 +1646,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73231,
+      "followersCount": 73232,
       "friendsCount": 3371,
       "location": ""
     },
