@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
+      "followersCount": 18975,
+      "friendsCount": 1701,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GokGAWtXUAAyi83.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1912067541939134912",
+    "fullText": "今天学了一些Solidity进阶语法，参考着跟着写了一个简单的NFT代币的Demo。\n比想象中的简单，也可能是Demo的原因，只有创建、转移、售卖、查询的功能，明天开始就要多敲代码多弄实战，思路清晰但是自己敲出来的代码挺多报错的，这就挺不好的。\n之前说的嘉立创打印的PCB板到了，今天就到这，出门取快递 https://t.co/cFNV8Ee2uN"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53750,
+      "followersCount": 53746,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -20,7 +37,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -69,7 +86,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8159,
+      "followersCount": 8164,
       "friendsCount": 291,
       "location": ""
     },
@@ -101,7 +118,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -167,7 +184,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -200,7 +217,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119012,
+      "followersCount": 119023,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -220,7 +237,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5732,
+      "followersCount": 5734,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -237,7 +254,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119012,
+      "followersCount": 119023,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -255,7 +272,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22226,
+      "followersCount": 22224,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -484,7 +501,7 @@
       "name": "Gamma.io",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1520498582754934790/z4nFO30s_normal.jpg",
       "description": "Bitcoin creator launchpad, marketplace, artist network. Explore Gamma: https://t.co/LFT9dz1uCv — Need help? @gammaiosupport",
-      "followersCount": 45046,
+      "followersCount": 45050,
       "friendsCount": 2,
       "location": "Bitcoin"
     },
@@ -535,7 +552,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119012,
+      "followersCount": 119023,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -586,7 +603,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -753,7 +770,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4084392,
+      "followersCount": 4084431,
       "friendsCount": 3,
       "location": ""
     },
@@ -768,7 +785,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -819,7 +836,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119012,
+      "followersCount": 119023,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -836,7 +853,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -883,7 +900,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -947,7 +964,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73238,
+      "followersCount": 73239,
       "friendsCount": 3371,
       "location": ""
     },
@@ -979,7 +996,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -997,7 +1014,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22226,
+      "followersCount": 22224,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -1049,7 +1066,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4084392,
+      "followersCount": 4084431,
       "friendsCount": 3,
       "location": ""
     },
@@ -1098,7 +1115,7 @@
       "name": "stacks.btc",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1764968185399267328/lrmnHOuN_normal.jpg",
       "description": "A Bitcoin L2 enabling smart contracts & apps with Bitcoin as secure base layer 🟧\n\nRegular Stacks Updates: https://t.co/w8goj3MlPU\n\n 🟧 TG+ https://t.co/MNXiV0kOyR",
-      "followersCount": 234150,
+      "followersCount": 234152,
       "friendsCount": 228,
       "location": "Bitcoin"
     },
@@ -1146,7 +1163,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8159,
+      "followersCount": 8164,
       "friendsCount": 291,
       "location": ""
     },
@@ -1180,7 +1197,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119012,
+      "followersCount": 119023,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -1212,7 +1229,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5732,
+      "followersCount": 5734,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -1229,7 +1246,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1244,7 +1261,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1259,7 +1276,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1323,7 +1340,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18957,
+      "followersCount": 18975,
       "friendsCount": 1701,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
