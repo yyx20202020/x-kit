@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 119598,
+      "friendsCount": 1310,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1912558003783414240",
+    "fullText": "OpenAI 开源的 Codex：\nLightweight coding agent that runs in your terminal\n\nhttps://t.co/IMOl6POu3R"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4087404,
+      "followersCount": 4087572,
       "friendsCount": 3,
       "location": ""
     },
@@ -35,7 +50,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119594,
+      "followersCount": 119598,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -118,7 +133,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22704,
+      "followersCount": 22703,
       "friendsCount": 336,
       "location": "HK"
     },
@@ -154,7 +169,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4087404,
+      "followersCount": 4087572,
       "friendsCount": 3,
       "location": ""
     },
@@ -219,7 +234,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5860,
+      "followersCount": 5861,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -303,7 +318,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5860,
+      "followersCount": 5861,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -318,7 +333,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28908,
+      "followersCount": 28910,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -453,7 +468,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26753,
+      "followersCount": 26754,
       "friendsCount": 114,
       "location": "China"
     },
@@ -485,7 +500,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26753,
+      "followersCount": 26754,
       "friendsCount": 114,
       "location": "China"
     },
@@ -588,7 +603,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28908,
+      "followersCount": 28910,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -605,7 +620,7 @@
       "name": "The HighWire",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1422666863738249223/08oKwaPG_normal.jpg",
       "description": "High above the circus of mainstream media spin, death-defying talk without the corporate safety net… this is The HighWire.",
-      "followersCount": 229287,
+      "followersCount": 229289,
       "friendsCount": 617,
       "location": ""
     },
@@ -753,7 +768,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119594,
+      "followersCount": 119598,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -773,7 +788,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4087404,
+      "followersCount": 4087572,
       "friendsCount": 3,
       "location": ""
     },
@@ -943,7 +958,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4087404,
+      "followersCount": 4087572,
       "friendsCount": 3,
       "location": ""
     },
@@ -992,7 +1007,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5860,
+      "followersCount": 5861,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -1012,7 +1027,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5860,
+      "followersCount": 5861,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -1097,7 +1112,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5860,
+      "followersCount": 5861,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -1114,7 +1129,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119594,
+      "followersCount": 119598,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -1231,7 +1246,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28908,
+      "followersCount": 28910,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -1664,7 +1679,7 @@
       "name": "fal",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836456388937285632/OFsq77aX_normal.jpg",
       "description": "generative media platform for developers",
-      "followersCount": 19143,
+      "followersCount": 19144,
       "friendsCount": 4,
       "location": ""
     },
