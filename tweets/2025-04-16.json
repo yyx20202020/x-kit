@@ -1,11 +1,232 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
+      "followersCount": 18979,
+      "friendsCount": 1715,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoqipKfWIAAH8L8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1912519833339765053",
+    "fullText": "去年6月份去考了张足球裁判员证，都快一年了证还没办下来，我找的是xx省的足协，官方这个下证流程也太离谱了，三级下证才有资格考二级证，现在是直接打消念头了，能把我的证给我就谢天谢地了 https://t.co/UoxUP5IB5s"
+  },
+  {
+    "user": {
+      "screenName": "nextify2024",
+      "name": "Nextify",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
+      "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
+      "followersCount": 22700,
+      "friendsCount": 336,
+      "location": "HK"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoqfN0xXsAAg6d4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nextify2024/status/1912516297185014007",
+    "fullText": "HI 2025 😆 https://t.co/rkThFo0Bz8"
+  },
+  {
+    "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21087,
+      "friendsCount": 1017,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoqavzvWsAA9DiB.jpg",
+      "https://pbs.twimg.com/media/GoqavzlWQAANRqC.jpg",
+      "https://pbs.twimg.com/media/GoqcNJbXEAE2HuC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1912514619593425138",
+    "fullText": "关于编写 Prompt，我发现 OpenAI 和 Google 都在文档中明确提到了复杂 Prompt 使用 XML 也是不错选择。OpenAI 指南里还明确提到大模型在长上下文中表现：首尾同时放置指令 &gt; 头部指令 &gt; 尾部指令。\n- https://t.co/HojFzuiT0m\n- https://t.co/T4vjQdbWno https://t.co/amTVtBV6Uq"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4087020,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1912506271187832904",
+    "fullText": "Livestream in o3 hours."
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73258,
+      "followersCount": 73264,
+      "friendsCount": 3372,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoqE4cmXMAAV2kt.jpg",
+      "https://pbs.twimg.com/media/GoqE4cuWgAA9PEU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1912487161355727193",
+    "fullText": "#今天的跑步电台。 https://t.co/l8y11CRCkJ"
+  },
+  {
+    "user": {
+      "screenName": "PAIRSFOUNDATION",
+      "name": "PAIRS Foundation",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755017028375646208/vOveqVxS_normal.jpg",
+      "description": "Relationship gurus delivering practical, proven skills for successful relationships since 1977. Discover the impact PAIRS training can have on your life.",
+      "followersCount": 1174,
+      "friendsCount": 384,
+      "location": "Hollywood, Florida"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoqAs4kW8AAW5R7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PAIRSFOUNDATION/status/1912482565132349909",
+    "fullText": "https://t.co/tm4cvHaOxu"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 5849,
+      "friendsCount": 239,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gop-iMgXEAANZe7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1912480120994250765",
+    "fullText": "中国婚姻制度是如此的简陋\n\n整个社会能提供给家庭的财产管理工具都远不如一家公司；一直想以夫妻名字合开一个账户，该账户可以设定小额消费免密，大额消费要双方共同审批。\n\n但是，我找不到这样的银行工具。 https://t.co/NVgsCSEtau"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
+      "followersCount": 18979,
+      "friendsCount": 1715,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1912476795036921899",
+    "fullText": "从小就是你应该干什么你应该怎么做\n\n没做到就死定了就完蛋了\n\n我在无数场pvp里面走到现在\n\n好像可厉害的样子\n\n仔细一想也就那样\n\n而且由于pvp赢了\n\n导致任务难度变的究极的高\n\n想下车了，发现不对啊，下车我真要死\n\n然后继续苦哈哈的熬着\n\n区别就是从怕鞭子抽变成了不抽也得抽\n\n不抽没干劲\n\n前功尽弃"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5778,
+      "friendsCount": 1205,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gopu_CxXoAAlqBx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1912463033617772982",
+    "fullText": "号外：面向全球高薪招AI项目前端远程岗位，项目类型：AI前端。可远程也可以来公司，你高兴就好。地域不限，上海优先，公司在上海（大公司）。有意者可联系我内推，直通老板。 https://t.co/qgUjIUUaKx"
+  },
+  {
+    "user": {
+      "screenName": "nateleex",
+      "name": "李自然 Nate Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
+      "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
+      "followersCount": 7218,
+      "friendsCount": 180,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gopf0_kXMAArn_d.jpg",
+      "https://pbs.twimg.com/media/Gopf0_fXIAA17St.jpg",
+      "https://pbs.twimg.com/media/Gopf0_WW4AAmmv8.jpg",
+      "https://pbs.twimg.com/media/Gopf0_yWEAEl35b.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nateleex/status/1912446366917488936",
+    "fullText": "GPT开启了全局记忆，团队的几个人在测GPT眼中的自己，打开图1的开关，模型用4.5\n\n1. AI夸人很有情绪价值\n\n2. 之前说Facebook比用户更了解用户自己，可能要把Facebook换成AI了\n\n3. 这样看我确实是典中典的intp😂😂 https://t.co/orrQgClzHx"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 5849,
+      "friendsCount": 239,
+      "location": "NewYork"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1912423946395525374",
+    "fullText": "@yihui_indie 这东西靠谱吗？学生版只要 100 美金哦"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 28887,
+      "friendsCount": 558,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Goo_YvXWoAA0Qn3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1912412285622186469",
+    "fullText": "今天相信不少人通过Lenny's Newsletter，入手了AI编程工具：Cursor/V0/Bolt，但是对于新手来说如何更好的发挥这些工具的能力？来开发网站/小程序/App/浏览器插件呢？这些都是大大的问题啊！ https://t.co/NApwXb9Kd5"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
+      "followersCount": 683,
+      "friendsCount": 426,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Goo-HZNWcAAoMhP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1912409432388211120",
+    "fullText": "Trae 目前新模型已经添加了 Gemini 2.5 Pro 、GPT-4.1 了，还是免费的，如果不是特别复杂的项目完全可以用它了。 https://t.co/iNoZbALPkX"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
+      "followersCount": 73264,
       "friendsCount": 3372,
       "location": ""
     },
@@ -22,7 +243,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
-      "followersCount": 680,
+      "followersCount": 683,
       "friendsCount": 426,
       "location": ""
     },
@@ -37,8 +258,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
-      "friendsCount": 1713,
+      "followersCount": 18979,
+      "friendsCount": 1715,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -89,7 +310,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26754,
+      "followersCount": 26753,
       "friendsCount": 114,
       "location": "China"
     },
@@ -106,8 +327,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
-      "followersCount": 5279,
-      "friendsCount": 317,
+      "followersCount": 5285,
+      "friendsCount": 319,
       "location": "杭州"
     },
     "images": [],
@@ -121,7 +342,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26754,
+      "followersCount": 26753,
       "friendsCount": 114,
       "location": "China"
     },
@@ -136,7 +357,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
-      "followersCount": 680,
+      "followersCount": 683,
       "friendsCount": 426,
       "location": ""
     },
@@ -153,8 +374,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
-      "friendsCount": 1713,
+      "followersCount": 18979,
+      "friendsCount": 1715,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -170,8 +391,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9387,
-      "friendsCount": 3419,
+      "followersCount": 9382,
+      "friendsCount": 3420,
       "location": ""
     },
     "images": [
@@ -224,7 +445,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28826,
+      "followersCount": 28887,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -241,7 +462,7 @@
       "name": "The HighWire",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1422666863738249223/08oKwaPG_normal.jpg",
       "description": "High above the circus of mainstream media spin, death-defying talk without the corporate safety net… this is The HighWire.",
-      "followersCount": 229247,
+      "followersCount": 229278,
       "friendsCount": 617,
       "location": ""
     },
@@ -290,7 +511,7 @@
       "name": "Passes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1783206497964494848/Wq4rnIVz_normal.jpg",
       "description": "Building 🤝 between creators and fans",
-      "followersCount": 2526,
+      "followersCount": 2524,
       "friendsCount": 75,
       "location": ""
     },
@@ -340,7 +561,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58752,
+      "followersCount": 58739,
       "friendsCount": 356,
       "location": ""
     },
@@ -372,7 +593,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119507,
+      "followersCount": 119573,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -392,7 +613,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4086286,
+      "followersCount": 4087020,
       "friendsCount": 3,
       "location": ""
     },
@@ -562,7 +783,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4086286,
+      "followersCount": 4087020,
       "friendsCount": 3,
       "location": ""
     },
@@ -611,7 +832,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5811,
+      "followersCount": 5849,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -631,7 +852,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5811,
+      "followersCount": 5849,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -682,7 +903,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7214,
+      "followersCount": 7218,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -716,7 +937,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5811,
+      "followersCount": 5849,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -733,7 +954,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119507,
+      "followersCount": 119573,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -750,8 +971,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
-      "friendsCount": 1713,
+      "followersCount": 18979,
+      "friendsCount": 1715,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -767,8 +988,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5776,
-      "friendsCount": 1204,
+      "followersCount": 5778,
+      "friendsCount": 1205,
       "location": ""
     },
     "images": [
@@ -816,7 +1037,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28826,
+      "followersCount": 28887,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -848,8 +1069,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
-      "followersCount": 5279,
-      "friendsCount": 317,
+      "followersCount": 5285,
+      "friendsCount": 319,
       "location": "杭州"
     },
     "images": [],
@@ -912,7 +1133,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73258,
+      "followersCount": 73264,
       "friendsCount": 3372,
       "location": ""
     },
@@ -961,8 +1182,8 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8197,
-      "friendsCount": 291,
+      "followersCount": 8204,
+      "friendsCount": 292,
       "location": ""
     },
     "images": [
@@ -978,7 +1199,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28826,
+      "followersCount": 28887,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -993,8 +1214,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
-      "followersCount": 5279,
-      "friendsCount": 317,
+      "followersCount": 5285,
+      "friendsCount": 319,
       "location": "杭州"
     },
     "images": [],
@@ -1138,7 +1359,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912138239521034240/D66g0sz7_normal.png",
       "description": "grimace is a close personal friend of mine",
-      "followersCount": 4743232,
+      "followersCount": 4743200,
       "friendsCount": 13032,
       "location": ""
     },
@@ -1217,7 +1438,7 @@
       "name": "fal",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836456388937285632/OFsq77aX_normal.jpg",
       "description": "generative media platform for developers",
-      "followersCount": 19122,
+      "followersCount": 19146,
       "friendsCount": 4,
       "location": ""
     },
@@ -1328,8 +1549,8 @@
       "name": "Women Who Think",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1813392513/wwt_logo_normal.jpg",
       "description": "Conservative🇺🇸#America1st🇺🇸#UnalienableRights🇺🇸#FedSoc🇺🇸#Constitution🐘#IncreaseLegalImmigration🙏GodCountryFamilySelf🤟🏻#AmericanDreamNotGeographical",
-      "followersCount": 5616,
-      "friendsCount": 6144,
+      "followersCount": 5617,
+      "friendsCount": 6145,
       "location": "Minnesota, USA"
     },
     "images": [
@@ -1828,7 +2049,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119507,
+      "followersCount": 119573,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
