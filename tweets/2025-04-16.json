@@ -33,11 +33,44 @@
   },
   {
     "user": {
+      "screenName": "SmootherStudio",
+      "name": "Smoothie Studio",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902473311306838017/kP-qYs_4_normal.jpg",
+      "description": "Just a team of talented indie game developers sharing a mission: crafting unforgettable gaming experiences that captivate and inspire players around the globe",
+      "followersCount": 130,
+      "friendsCount": 844,
+      "location": "Los Angeles"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1912566067781857282/vid/avc1/1920x1080/Ux_lH8Eg4qee4kkh.mp4?tag=16",
+      "https://video.twimg.com/amplify_video/1912566396577542149/vid/avc1/1920x1080/xb0nKi_nEAkRSFjV.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/SmootherStudio/status/1912566576949366928",
+    "fullText": "As our first project, we remade the 90s cult classic Another World by Eric Chahi—just for fun, reimagined in Unreal Engine 5. A passion project that kicked off our journey as a studio. More to come!\n#gamedev #UnrealEngine5 #AnotherWorld #indiegames https://t.co/gI8XlDhfOi"
+  },
+  {
+    "user": {
+      "screenName": "PapaJohnsRD",
+      "name": "Papa John's RD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1495768693099356160/NvTDnBV8_normal.jpg",
+      "description": "Mejores Ingredientes, Mejor Pizza.\n\nDelivery y Take Out: 809-620-7272",
+      "followersCount": 21577,
+      "friendsCount": 3378,
+      "location": "República Dominicana"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PapaJohnsRD/status/1912565838210908340",
+    "fullText": "Happy Easter!"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119598,
+      "followersCount": 119602,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -54,7 +87,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4087909,
+      "followersCount": 4088006,
       "friendsCount": 3,
       "location": ""
     },
@@ -67,11 +100,28 @@
   },
   {
     "user": {
+      "screenName": "earnscape",
+      "name": "Earnscape",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1866146828736966656/x2Idnn3C_normal.jpg",
+      "description": "Web3 Enabled Gaming Ecosystem With Over 10k Games, Rewarding Users In Stablecoins🎮 Get our app! https://t.co/2Ta8uwVsFP",
+      "followersCount": 8240,
+      "friendsCount": 115,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Goqqnc3WEAARHsB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/earnscape/status/1912559112673505346",
+    "fullText": "We are proud to announce our strategic partnership with @WARPChain_ \n\nWarp is a gaming ecosystem built by proven game developers and publishers. They provide Web3 infrastructure, tooling, consultancy, and publishing - all within one trust network. Earnscape shares in their https://t.co/g3WTf399lj"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119598,
+      "followersCount": 119602,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -86,7 +136,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4087909,
+      "followersCount": 4088006,
       "friendsCount": 3,
       "location": ""
     },
@@ -118,7 +168,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
-      "followersCount": 5288,
+      "followersCount": 5289,
       "friendsCount": 319,
       "location": "杭州"
     },
@@ -150,7 +200,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119598,
+      "followersCount": 119602,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -167,7 +217,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18986,
+      "followersCount": 18987,
       "friendsCount": 1715,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -201,7 +251,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
-      "followersCount": 5288,
+      "followersCount": 5289,
       "friendsCount": 319,
       "location": "杭州"
     },
@@ -216,7 +266,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18986,
+      "followersCount": 18987,
       "friendsCount": 1715,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -233,7 +283,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22702,
+      "followersCount": 22703,
       "friendsCount": 336,
       "location": "HK"
     },
@@ -286,7 +336,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4087909,
+      "followersCount": 4088006,
       "friendsCount": 3,
       "location": ""
     },
@@ -383,7 +433,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18986,
+      "followersCount": 18987,
       "friendsCount": 1715,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -461,11 +511,28 @@
   },
   {
     "user": {
+      "screenName": "Old_SpicyGinger",
+      "name": "OldGinger | XOCIETY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889688979341205504/mxnDOfCV_normal.jpg",
+      "description": "FOUNDER | CEO for @xocietyofficial | XOCIETY is POP Shooter with RPG progression | Aiming #1 gaming project on #Sui",
+      "followersCount": 48919,
+      "friendsCount": 636,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GopFbZGW0AAikm_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Old_SpicyGinger/status/1912417332099432600",
+    "fullText": "#XOCIETY has started appearing on the list of \"most wishlisted upcoming titles.\"\nThis is just the beginning. XFG. 🚀\n@xocietyofficial https://t.co/9uZmCnXF3d"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28923,
+      "followersCount": 28925,
       "friendsCount": 557,
       "location": "Hong Kong"
     },
@@ -548,7 +615,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18986,
+      "followersCount": 18987,
       "friendsCount": 1715,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -600,7 +667,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26753,
+      "followersCount": 26752,
       "friendsCount": 114,
       "location": "China"
     },
@@ -617,7 +684,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
-      "followersCount": 5288,
+      "followersCount": 5289,
       "friendsCount": 319,
       "location": "杭州"
     },
@@ -632,7 +699,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26753,
+      "followersCount": 26752,
       "friendsCount": 114,
       "location": "China"
     },
@@ -664,7 +731,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18986,
+      "followersCount": 18987,
       "friendsCount": 1715,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -750,7 +817,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28923,
+      "followersCount": 28925,
       "friendsCount": 557,
       "location": "Hong Kong"
     },
@@ -915,7 +982,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119598,
+      "followersCount": 119602,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -935,7 +1002,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4087909,
+      "followersCount": 4088006,
       "friendsCount": 3,
       "location": ""
     },
@@ -1105,7 +1172,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4087909,
+      "followersCount": 4088006,
       "friendsCount": 3,
       "location": ""
     },
@@ -1293,7 +1360,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119598,
+      "followersCount": 119602,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -1310,7 +1377,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18986,
+      "followersCount": 18987,
       "friendsCount": 1715,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1359,7 +1426,7 @@
       "name": "Jack Hibbs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605959278656770049/rnq90LXs_normal.jpg",
       "description": "Founder & President of Real Life Network- Senior & Founding Pastor of Calvary Chapel Chino Hills • Nationally Syndicated Radio and TV Host",
-      "followersCount": 116312,
+      "followersCount": 116302,
       "friendsCount": 73,
       "location": "Chino Hills, California"
     },
@@ -1779,7 +1846,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912138239521034240/D66g0sz7_normal.png",
       "description": "grimace is a close personal friend of mine",
-      "followersCount": 4743228,
+      "followersCount": 4743218,
       "friendsCount": 13032,
       "location": ""
     },
