@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21079,
+      "friendsCount": 1017,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GooMzVdXoAAE9_v.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1912355343088382380",
+    "fullText": "这种大礼包看着很诱人，但为啥我提不起一点兴趣，难道是对 AI 脱敏了吗 😢 https://t.co/7sZu5sOT6d"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 26758,
+      "friendsCount": 114,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GooJrvkXIAACeAW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1912351656387432700",
+    "fullText": "尊敬的懒猫微服VIP用户，上午好！🌹\n\n🌈【懒猫微服系统】 1.3.5 版本已发布，更新内容如下：\n\n1. 新增 OIDC/openid 支持, 适配后可使用微服账号直接登录应用\n\n2. 网络设置页面新增显示微服局域网 IP 的功能\n\n3. 优化系统启动速度, 提升系统稳定性\n\n4. 修复近期用户反馈的一些问题 https://t.co/rOeCXI0ffN"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -20,7 +54,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26760,
+      "followersCount": 26758,
       "friendsCount": 114,
       "location": "China"
     },
@@ -52,7 +86,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
+      "followersCount": 18993,
       "friendsCount": 1713,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -123,7 +157,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28762,
+      "followersCount": 28761,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -192,7 +226,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58755,
+      "followersCount": 58752,
       "friendsCount": 356,
       "location": ""
     },
@@ -224,7 +258,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119447,
+      "followersCount": 119455,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -244,7 +278,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4085888,
+      "followersCount": 4085945,
       "friendsCount": 3,
       "location": ""
     },
@@ -305,6 +339,23 @@
     ],
     "tweetUrl": "https://x.com/PrompterPeople/status/1912241718445138362",
     "fullText": "Stage and Speech Automatically Rising and Falling Poles | AutoStepper V2 by Prompter People. Allow for speakers of different heights to read off of the same Presidential Teleprompter system with presets, meaning no stage hands adjusting pole heights during any event, allowing the https://t.co/mc9tRtlYJF"
+  },
+  {
+    "user": {
+      "screenName": "WatchmanHQ",
+      "name": "The Watchman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886930393515089921/Y5dmAzA6_normal.jpg",
+      "description": "⚔️⚔️⚔️ MAGA | Husband, father, truth seeker. Standing for faith, freedom, & traditional values. Advocating accountability & strong, sovereign USA.",
+      "followersCount": 8136,
+      "friendsCount": 7353,
+      "location": "Arizona, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1912240933325725696/vid/avc1/1920x1080/_1tqvyMBpmswuetE.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/WatchmanHQ/status/1912241297408364852",
+    "fullText": "⚔️⚔️⚔️ THE HIDDEN TRUTH\n\nO-SP UNMASKED: AI WARFARE BEGINS (1 of 8)\n\nThey deleted this 3 weeks ago! AI drones hunt, kill, no human needed. Who pulls the strings? Pentagon? China? Shadow elites? Entertainment or Prophetic? Watch before it’s gone again. Next drip soon! \n#AIWarfare https://t.co/shjbjKMT8s"
   },
   {
     "user": {
@@ -397,7 +448,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4085888,
+      "followersCount": 4085945,
       "friendsCount": 3,
       "location": ""
     },
@@ -446,7 +497,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5761,
+      "followersCount": 5764,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -466,7 +517,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5761,
+      "followersCount": 5764,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -534,7 +585,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5761,
+      "followersCount": 5764,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -551,7 +602,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119447,
+      "followersCount": 119455,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -568,7 +619,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
+      "followersCount": 18993,
       "friendsCount": 1713,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -585,7 +636,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5780,
+      "followersCount": 5779,
       "friendsCount": 1204,
       "location": ""
     },
@@ -634,7 +685,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28762,
+      "followersCount": 28761,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -644,6 +695,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1912159614554038742",
     "fullText": "这个月的Cursor额外使用量，又可以订阅一个月了😂 https://t.co/IxM05ZgP4A"
+  },
+  {
+    "user": {
+      "screenName": "roncrhodes",
+      "name": "Ron Rhodes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/818845039019200514/_GEZTV9L_normal.jpg",
+      "description": "Christian Author",
+      "followersCount": 3134,
+      "friendsCount": 55,
+      "location": "Frisco, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/roncrhodes/status/1912150141122805945",
+    "fullText": "HE IS ALIVE — HE IS RISEN\n\nToday’s post is Part 2 of a full week of devotionals on the resurrection of Christ. \n\nThe resurrection of Jesus Christ stands as the most hope-filled event in all of history. And it was not a whispered myth or vague tradition passed down through hearsay"
   },
   {
     "user": {
@@ -659,6 +725,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/1912136876842168351",
     "fullText": "现在手头一直用的是台 MacBook Pro 芯片 M1Pro 16G 内存，这个玩意有没有必要换啊，怎么感觉没买两年，现在都在用新版本的 air 了"
+  },
+  {
+    "user": {
+      "screenName": "KimKatieUSA",
+      "name": "Kim \"Katie\" USA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1903589663551758336/vCg6ZKA4_normal.jpg",
+      "description": "Born in Vietnam, raised in the USA, and a 100% American woman. #Patriot #1A #2A ✝️ Catholic ✝️ 🇺🇸 🦅 #MAGA Trump won 3 times!!!",
+      "followersCount": 48450,
+      "friendsCount": 25946,
+      "location": "Turn on my notifications!"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1911816361317134337/vid/avc1/1280x720/qKapAU5Gr3zz9bIR.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/KimKatieUSA/status/1912133384245330407",
+    "fullText": "MUST WATCH:  Tucker Carlson's interview with Congressman Curt Weldon.  Weldon covers how the deep state removed him from the Armed Services Committee and what President Trump needs to do in order to finish the deep state for good.\n\nhttps://t.co/xZUIHwP4kS"
   },
   {
     "user": {
@@ -683,7 +766,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73252,
+      "followersCount": 73247,
       "friendsCount": 3371,
       "location": ""
     },
@@ -698,7 +781,7 @@
       "name": "Auki | The Posemesh",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1839200820895608832/UDvsfJCP_normal.jpg",
       "description": "Building the eyes and ears of physical AI. The posemesh is a DePIN for machine perception and spatial computing.\n\nLinks: https://t.co/KadwD6ZKnT",
-      "followersCount": 24115,
+      "followersCount": 24118,
       "friendsCount": 296,
       "location": "The DePIN for AI perception. "
     },
@@ -749,7 +832,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28762,
+      "followersCount": 28761,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -779,7 +862,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26760,
+      "followersCount": 26758,
       "friendsCount": 114,
       "location": "China"
     },
@@ -843,7 +926,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
+      "followersCount": 18993,
       "friendsCount": 1713,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -860,7 +943,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53772,
+      "followersCount": 53774,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -875,7 +958,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
+      "followersCount": 18993,
       "friendsCount": 1713,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -943,7 +1026,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149630,
+      "followersCount": 149626,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -958,7 +1041,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
+      "followersCount": 18993,
       "friendsCount": 1713,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1007,7 +1090,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149630,
+      "followersCount": 149626,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -1039,7 +1122,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
+      "followersCount": 18993,
       "friendsCount": 1713,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1057,7 +1140,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149630,
+      "followersCount": 149626,
       "friendsCount": 468,
       "location": "中华人民共和国"
     },
@@ -1072,7 +1155,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119447,
+      "followersCount": 119455,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -1092,7 +1175,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5761,
+      "followersCount": 5764,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -1109,7 +1192,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119447,
+      "followersCount": 119455,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
@@ -1127,7 +1210,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26760,
+      "followersCount": 26758,
       "friendsCount": 114,
       "location": "China"
     },
@@ -1185,6 +1268,72 @@
   },
   {
     "user": {
+      "screenName": "TGSLeadership1",
+      "name": "TGSLeadership",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850392409966063617/NQvcT4am_normal.jpg",
+      "description": "The GreyScale is a modern leadership assessment designed for the complexities of 21st-century leadership, including psychosocial safety requirements.",
+      "followersCount": 5,
+      "friendsCount": 1,
+      "location": "Global"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1911926560002572288/vid/avc1/720x1280/2vyXESeBp6A0wyit.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/TGSLeadership1/status/1911929939949211906",
+    "fullText": "There are claims that no personality test can detect fake responses or when it is being gamed, and it isn't important anyway. \n\nNOT TRUE. If you are employing, developing, or promoting leaders and using a test, you need to trust the results.\n\nCould you fool The GreyScale? https://t.co/N0QKZ2SpPp"
+  },
+  {
+    "user": {
+      "screenName": "ChrisKolaYT",
+      "name": "Chris",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1911527781420130304/vZ6HcJ2u_normal.jpg",
+      "description": "Video Editor |\nWriter |\nPoster |\n\"Youtuber\" |\n\nHarass me about finishing my novel(s).\n\nI love storytelling in its various forms: what else can a guy really say?",
+      "followersCount": 132,
+      "friendsCount": 19,
+      "location": "Best Coast"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChrisKolaYT/status/1911926809022894429",
+    "fullText": "Hey, other creative types: how do you prioritize which projects you pursue, and which ones you drop? I have so many I want to do, but sitting down to do them, I often end up getting very little done.\nThe gift-curse of being born in a generation where you can so easily learn"
+  },
+  {
+    "user": {
+      "screenName": "DENSITYDECK",
+      "name": "Density Deck",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790586402008346626/g9INncUL_normal.jpg",
+      "description": "A competitive card game, built by old school gamers for the Web3 world 🤍\n\nBacked by @OldRockNFT ⛰️\n\nWin $DENSITY. Play now 👇",
+      "followersCount": 1289,
+      "friendsCount": 37,
+      "location": "Old Rock"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1911911113249181698/vid/avc1/1280x720/EAfmz77ZHqrd3hN-.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/DENSITYDECK/status/1911917433130193186",
+    "fullText": "The BETA of DENSITY DECK is now live! \n\nGather some friends and play some games. https://t.co/U8TnefeHHx"
+  },
+  {
+    "user": {
+      "screenName": "avisbird_",
+      "name": "avis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899751580871843840/Ei5EHyxU_normal.jpg",
+      "description": "Building a utopia where humanity breaks free from modernity's prison—no emails, alarms, chores, or calendars, and work becomes obsolete.",
+      "followersCount": 17,
+      "friendsCount": 69,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1911898362279866368/vid/avc1/1144x720/H6MmmkrqzawYnDTR.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/avisbird_/status/1911899305775866066",
+    "fullText": "Summarise your email - Saves time by 80% https://t.co/IY7o67VeJQ"
+  },
+  {
+    "user": {
       "screenName": "AwakenTax",
       "name": "Awaken (crypto tax & tracking)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1884428647249108992/PUMlI8kp_normal.jpg",
@@ -1231,6 +1380,23 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/1911890520651026692",
     "fullText": "古老魔术揭秘\nhttps://t.co/OFev0YYjeG"
+  },
+  {
+    "user": {
+      "screenName": "BoomerHitsDiff",
+      "name": "ThisBoomerHitsDifferent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1803128520454852609/tFEMw4Zb_normal.jpg",
+      "description": "#Boomer who #HitsDifferent. #Democracy #TruthOverLies #Resist #Progressive #SocialJustice #RuleOfLaw #BLM #Roe #DCStatehood #LifelongEntrepreneur",
+      "followersCount": 28246,
+      "friendsCount": 21430,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1911883516192722944/vid/avc1/1280x720/_IVWPiA-6S_C049M.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/BoomerHitsDiff/status/1911884440596324771",
+    "fullText": "Trump and Central American dictator make foreplay in the White House. Hope they both get measles. Crisis right now. America is on the brink. Supreme Court, Senate, Congress step up, let's go! https://t.co/miYhWjrBcJ"
   },
   {
     "user": {
@@ -1387,7 +1553,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119447,
+      "followersCount": 119455,
       "friendsCount": 1310,
       "location": "Chicago, IL"
     },
