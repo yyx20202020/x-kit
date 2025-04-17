@@ -1,11 +1,65 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 119722,
+      "friendsCount": 1311,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GotbxKqWIAALYFd.jpg",
+      "https://pbs.twimg.com/media/Gotbz6uWIAAB8xA.png",
+      "https://pbs.twimg.com/media/Gotb1xpXAAArT0h.jpg",
+      "https://pbs.twimg.com/media/Gotb3yIWsAA1tvQ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1912723485475880976",
+    "fullText": "现在 ChatGPT 从底部移除了 Create Image 的工具，但是并不影响生成图片，只要提示词明确是画图的，或者你在对话里面加一个前缀：“请生成图片：” 就可以的。\n\n另外现在 GPT-4.5 、o1 pro 模型下不能生成图片，其他模型比如 GPT-4o、o3、o4-mini 应该都没问题 https://t.co/V60kWDRzY8"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 7012,
+      "friendsCount": 725,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GotY7BvbAAATfs-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1912720243690205275",
+    "fullText": "似乎北京的老胡同政府也无力管理太多。这是个居民区中间的废品处理站。 https://t.co/zGO1wKaOfT"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 5876,
+      "friendsCount": 239,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GotW-jCacAIWd_1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1912718311198208461",
+    "fullText": "上午OpenAI官方绘画崩了20分钟，弄得还以为我服务出故障了，查了半天。 https://t.co/w5XsOYstVj"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26755,
+      "followersCount": 26757,
       "friendsCount": 114,
       "location": "China"
     },
@@ -138,11 +192,28 @@
   },
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912726268555956224/j_hqFJ1T_normal.jpg",
+      "description": "The #SoFiPlayIn continues Wednesday, April 16 on ESPN! 🏀 7:30pm/et: @MiamiHEAT/@chicagobulls 🏀 10:00pm/et: @dallasmavs/@SacramentoKings",
+      "followersCount": 48164060,
+      "friendsCount": 2011,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1912687935016562688/vid/avc1/1280x720/Oa52GgUgp0DWGys7.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1912688724430774277",
+    "fullText": "HEAT STAY ALIVE, WILL FACE HAWKS FOR EAST #8 SEED 🌴🔥 https://t.co/4FxC6yOGmX"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53793,
+      "followersCount": 53787,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -159,7 +230,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73283,
+      "followersCount": 73285,
       "friendsCount": 3373,
       "location": ""
     },
@@ -174,7 +245,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119721,
+      "followersCount": 119722,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -226,7 +297,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73283,
+      "followersCount": 73285,
       "friendsCount": 3373,
       "location": ""
     },
@@ -271,6 +342,21 @@
   },
   {
     "user": {
+      "screenName": "adrian_mikulski",
+      "name": "Adrian Mikulski",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912171040303726592/1hwEtPQ6_normal.jpg",
+      "description": "Wandering mind with a coffee addiction",
+      "followersCount": 1,
+      "friendsCount": 7,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/adrian_mikulski/status/1912637048508277199",
+    "fullText": "Capturing chaos in"
+  },
+  {
+    "user": {
       "screenName": "CreatorBuddyX",
       "name": "Creator Buddy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907567991086264320/If3gEl6f_normal.png",
@@ -307,7 +393,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119721,
+      "followersCount": 119722,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -490,7 +576,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119721,
+      "followersCount": 119722,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -524,7 +610,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4089118,
+      "followersCount": 4089097,
       "friendsCount": 3,
       "location": ""
     },
@@ -541,7 +627,7 @@
       "name": "Turkish Airlines",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1883771335567941632/7BUExsM4_normal.jpg",
       "description": "We fly to more countries than any other airline in the world. The @TK_HelpDesk is at your disposal 24/7 to help you with any questions you have.",
-      "followersCount": 1876822,
+      "followersCount": 1876825,
       "friendsCount": 17,
       "location": "Istanbul"
     },
@@ -556,7 +642,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119721,
+      "followersCount": 119722,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -571,7 +657,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4089118,
+      "followersCount": 4089097,
       "friendsCount": 3,
       "location": ""
     },
@@ -667,7 +753,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119721,
+      "followersCount": 119722,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -854,7 +940,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4089118,
+      "followersCount": 4089097,
       "friendsCount": 3,
       "location": ""
     },
@@ -916,7 +1002,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73283,
+      "followersCount": 73285,
       "friendsCount": 3373,
       "location": ""
     },
@@ -947,6 +1033,21 @@
   },
   {
     "user": {
+      "screenName": "chuck1947b",
+      "name": "Charles  Cunningham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897535363247222784/9aX-gCng_normal.jpg",
+      "description": "Trump fan. Vietnam veteran.Also a misunderstood genius , an ego maniac with an inferiority complex , a legend during his own lunchtime. NO DMs ,no crypto,",
+      "followersCount": 321,
+      "friendsCount": 225,
+      "location": "Florida"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chuck1947b/status/1912485356361961725",
+    "fullText": "Good morning fellow patriots. I hope you are patient enough to read this whole post and I thank you in advance. I am a 78 yo, 100% disabled vet. Not as bad as it sounds I was disabled due to a back injury which gives me hardly any problem today as long as I take care of myself. I"
+  },
+  {
+    "user": {
       "screenName": "markminervini",
       "name": "Mark Minervini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1537118279667425281/0AxLCNg4_normal.jpg",
@@ -968,7 +1069,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5875,
+      "followersCount": 5876,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -1000,7 +1101,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5771,
+      "followersCount": 5774,
       "friendsCount": 1205,
       "location": ""
     },
@@ -1086,7 +1187,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28957,
+      "followersCount": 28959,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -1120,7 +1221,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73283,
+      "followersCount": 73285,
       "friendsCount": 3373,
       "location": ""
     },
@@ -1285,7 +1386,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28957,
+      "followersCount": 28959,
       "friendsCount": 558,
       "location": "Hong Kong"
     },
@@ -1369,6 +1470,23 @@
     ],
     "tweetUrl": "https://x.com/OpenAI/status/1912255254512722102",
     "fullText": "All of your image creations, all in one place.\n\nIntroducing the new library for your ChatGPT image creations—rolling out now to all Free, Plus, and Pro users on mobile and https://t.co/nYW5KO1aIg. https://t.co/ADWuf5fPbj"
+  },
+  {
+    "user": {
+      "screenName": "windscribecom",
+      "name": "Windscribe",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1775218115132956672/q5zCi6Mz_normal.png",
+      "description": "The best, the fastest, the smartest and the most humble VPN service on this side of a flat disk you call Earth.",
+      "followersCount": 175727,
+      "friendsCount": 69,
+      "location": "Toronto, Ontario"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1912222631505416192/vid/avc1/846x720/rnUzTwWBBdd5IHw0.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/windscribecom/status/1912222913337401643",
+    "fullText": "How it feels when you enable adblocking in 2025 https://t.co/YmLWOrJoza"
   },
   {
     "user": {
@@ -1462,7 +1580,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5875,
+      "followersCount": 5876,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -1489,6 +1607,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/neo4ic/status/1912192221115478290",
     "fullText": "Marathon longsleeve shirt is up https://t.co/9SjZbklLes"
+  },
+  {
+    "user": {
+      "screenName": "piedpin",
+      "name": "PIEDPIN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1462893699311243264/WiSgI_RB_normal.jpg",
+      "description": "・初心者から学べるCISSP講座／CISSP Exam Prep 2025 | Udemy\n・ハクスル | YouTube",
+      "followersCount": 2983,
+      "friendsCount": 673,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/piedpin/status/1912167704431390916",
+    "fullText": "I recently released a CISSP-focused course on Udemy with the intention of supporting those who may be finding this particular domain challenging.\n\n🎁 Free for the first 100 learners:\n👉 https://t.co/oLwL1WOUN0\n👉 https://t.co/erJhr1Wdow\n👉 https://t.co/6JNohHaPeT\n👉"
   },
   {
     "user": {
