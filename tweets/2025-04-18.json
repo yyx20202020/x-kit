@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 5897,
+      "friendsCount": 238,
+      "location": "NewYork"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1913202244201435521",
+    "fullText": "OpenAI绘图，官方挂了1个多小时了。\n\n一个请求10多分钟都还回来，CPU又被大家弄融化了么？"
+  },
+  {
+    "user": {
       "screenName": "nateleex",
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7212,
+      "followersCount": 7214,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -22,7 +37,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73336,
+      "followersCount": 73335,
       "friendsCount": 3374,
       "location": ""
     },
@@ -57,7 +72,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73336,
+      "followersCount": 73335,
       "friendsCount": 3374,
       "location": ""
     },
@@ -175,7 +190,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22247,
+      "followersCount": 22246,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -274,7 +289,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LiH6. Indie hacker",
-      "followersCount": 5311,
+      "followersCount": 5314,
       "friendsCount": 321,
       "location": "杭州"
     },
@@ -401,7 +416,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22247,
+      "followersCount": 22246,
       "friendsCount": 284,
       "location": "Guangdong"
     },
@@ -418,7 +433,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119990,
+      "followersCount": 119986,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -453,7 +468,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119990,
+      "followersCount": 119986,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -473,7 +488,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187317,
+      "followersCount": 187320,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -492,7 +507,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187317,
+      "followersCount": 187320,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -686,7 +701,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912882762991771648/_Oh8bljD_normal.jpg",
       "description": "now generating @aminecraftmovie meal + happy meal",
-      "followersCount": 4743359,
+      "followersCount": 4743365,
       "friendsCount": 13029,
       "location": ""
     },
@@ -782,7 +797,7 @@
       "name": "DuckDuckGo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1654224891632074754/pMeUysz0_normal.png",
       "description": "Independent online protection company. Get our mobile & desktop browser with protections built-in, including our search engine that doesn't track you.",
-      "followersCount": 2728112,
+      "followersCount": 2728105,
       "friendsCount": 4,
       "location": ""
     },
@@ -1306,7 +1321,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73336,
+      "followersCount": 73335,
       "friendsCount": 3374,
       "location": ""
     },
@@ -1323,7 +1338,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7169,
+      "followersCount": 7170,
       "friendsCount": 474,
       "location": ""
     },
@@ -1622,7 +1637,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119990,
+      "followersCount": 119986,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
