@@ -1,11 +1,50 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 119906,
+      "friendsCount": 1311,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gox2QA8XQAAWidT.jpg",
+      "https://pbs.twimg.com/media/Gox2S92X0AE3fUX.jpg",
+      "https://pbs.twimg.com/media/Gox2VeQWgAAAMaE.jpg",
+      "https://pbs.twimg.com/media/Gox2XnFWoAAJ0Nr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1913034097275847118",
+    "fullText": "AI 帮你圆你小时候的连环画梦\n小时候爱看连环画，经常在书摊蹭着看，后来不知道怎么就没连环画卖了，不过现在用 AI 也可以画连环画了。\n\n工具：sora 或者 GPT-4o\n\n注意：替换大括号内的文字，或者直接上传一张图片作为参考，可以让AI帮你写故事场景\n\n提示词模板： https://t.co/OajwiJ3p6a"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187295,
+      "followersCount": 187301,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gox0B2qbsAA61vQ.jpg",
+      "https://pbs.twimg.com/media/Gox0B3KaAAA8YUM.jpg",
+      "https://pbs.twimg.com/media/Gox0B3TbQAAwQ4G.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1913031545079951446",
+    "fullText": "周五软件分享\n\n- Pākiki Proxy（图一）：拦截和查看本机的网络通信 https://t.co/Mj32N5N6qI\n\n- Vanna（图二）：用自然语言查询各种数据库 https://t.co/jNYQkk82eR\n\n- 图三：查看航班飞行路线，在 3D 地球仪上 https://t.co/bjWmYaGqvZ\n\n更多软件 #科技爱好者周刊（第356期）https://t.co/fjCJuuDLcL https://t.co/q72Fse6wXO"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 187301,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -50,6 +89,23 @@
   },
   {
     "user": {
+      "screenName": "PHKayigire",
+      "name": "Prince Kayigire",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912635545169326082/yug2v8KU_normal.jpg",
+      "description": "Husband, father, entrepreneur & author",
+      "followersCount": 313,
+      "friendsCount": 1049,
+      "location": "Boston,MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoxMTqubcAAXo-R.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PHKayigire/status/1912989601666670781",
+    "fullText": "Thirty-one years later, our story is not one of defeat but of relentless resilience. A few survivors, remnants of a shattered generation, refused to surrender to despair. I still vividly recall sitting as a teenager on the soccer field of my childhood, paralyzed by confusion and https://t.co/lZ6FtuYDGK"
+  },
+  {
+    "user": {
       "screenName": "sidyadav",
       "name": "Sid Yadav",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1910049448694026240/W4-Ru62Q_normal.jpg",
@@ -79,6 +135,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/McDonalds/status/1912966797470634404",
     "fullText": "Birdie Wings are powered by Nether Flame Sauce fyi. movie and meal out now"
+  },
+  {
+    "user": {
+      "screenName": "ochealth",
+      "name": "OC Health Care Agency",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1519698581996773376/RzyItfb0_normal.png",
+      "description": "We protect and promote health through partnership and coordination of public and private sector resources to our diverse communities 🍊 @ocgovca",
+      "followersCount": 29811,
+      "friendsCount": 821,
+      "location": "Orange County, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ochealth/status/1912963061465661530",
+    "fullText": "Healthy aging is important to all of us. Learn the difference between typical signs of aging and warning signs. Learn more on how to support your brain health."
   },
   {
     "user": {
@@ -116,7 +187,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28997,
+      "followersCount": 29000,
       "friendsCount": 569,
       "location": "Hong Kong"
     },
@@ -165,7 +236,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5890,
+      "followersCount": 5894,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -215,7 +286,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5890,
+      "followersCount": 5894,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -250,7 +321,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
       "followersCount": 9393,
-      "friendsCount": 3422,
+      "friendsCount": 3423,
       "location": ""
     },
     "images": [
@@ -360,7 +431,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
-      "followersCount": 3760,
+      "followersCount": 3762,
       "friendsCount": 346,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -375,7 +446,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73324,
+      "followersCount": 73328,
       "friendsCount": 3374,
       "location": ""
     },
@@ -392,7 +463,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7144,
+      "followersCount": 7145,
       "friendsCount": 474,
       "location": ""
     },
@@ -407,8 +478,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18988,
-      "friendsCount": 1730,
+      "followersCount": 18990,
+      "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -424,8 +495,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18988,
-      "friendsCount": 1730,
+      "followersCount": 18990,
+      "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -441,8 +512,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18988,
-      "friendsCount": 1730,
+      "followersCount": 18990,
+      "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -459,7 +530,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
       "followersCount": 9393,
-      "friendsCount": 3422,
+      "friendsCount": 3423,
       "location": ""
     },
     "images": [
@@ -581,7 +652,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
       "followersCount": 9393,
-      "friendsCount": 3422,
+      "friendsCount": 3423,
       "location": ""
     },
     "images": [
@@ -598,7 +669,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
       "followersCount": 9393,
-      "friendsCount": 3422,
+      "friendsCount": 3423,
       "location": ""
     },
     "images": [
@@ -607,6 +678,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1912763208479256730",
     "fullText": "“看得见的是利益的把戏，看不见的是关系的博弈。\n没有绝对的利益，只有相对的关系。”\n\n加入队列一本新书《品牌黑客》 https://t.co/Nwj3VeqoYL"
+  },
+  {
+    "user": {
+      "screenName": "phoenixpeng1119",
+      "name": "Phoenix Peng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1511220856416239618/jVF5zd5y_normal.jpg",
+      "description": "Co-Founder&CEO , NeuroXess Technologies",
+      "followersCount": 121,
+      "friendsCount": 365,
+      "location": "Shanghai，China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1912761433353494528/vid/avc1/1920x1080/MItSujvZ9cHpDUyK.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/phoenixpeng1119/status/1912761739172802792",
+    "fullText": "Pleased to announce the latest progress of Neuroxess. This experiments has achieved excellent results, reflected in several aspects: 1. Achieving mouse movement speed and accuracy close to Neuralink. 2. Enabling more daily applications, including smart home control, the use of https://t.co/XQFx8jpnb6"
   },
   {
     "user": {
@@ -644,7 +732,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119893,
+      "followersCount": 119906,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -665,7 +753,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
       "followersCount": 9393,
-      "friendsCount": 3422,
+      "friendsCount": 3423,
       "location": ""
     },
     "images": [
@@ -696,7 +784,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119893,
+      "followersCount": 119906,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -733,7 +821,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5890,
+      "followersCount": 5894,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -785,7 +873,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8235,
+      "followersCount": 8237,
       "friendsCount": 292,
       "location": ""
     },
@@ -802,7 +890,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53866,
+      "followersCount": 53868,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -819,7 +907,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73324,
+      "followersCount": 73328,
       "friendsCount": 3374,
       "location": ""
     },
@@ -834,7 +922,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119893,
+      "followersCount": 119906,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -851,7 +939,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73324,
+      "followersCount": 73328,
       "friendsCount": 3374,
       "location": ""
     },
@@ -894,11 +982,31 @@
   },
   {
     "user": {
+      "screenName": "villageglobal",
+      "name": "Village Global",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808275544326524928/28QStezS_normal.jpg",
+      "description": "Village Global is a network-native, early-stage VC firm with ~$500M AUM, chaired by Reid Hoffman, and backed by tech’s best. We lead pre-seed and seed rounds.",
+      "followersCount": 17565,
+      "friendsCount": 973,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GorzdnnbAAA097l.jpg",
+      "https://pbs.twimg.com/media/GorzdniacAM2-ep.jpg",
+      "https://pbs.twimg.com/media/GorzdnjacAIEB3M.jpg",
+      "https://pbs.twimg.com/media/Gorz-HZaMAAkc49.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/villageglobal/status/1912612265263857808",
+    "fullText": "It's a big deal to ask early-stage founders to take a day off of building. But 100+ did last week to gather to learn and connect at Villager's Day— flying across the country, even Tokyo — to join us at the Presidio. As one put it: “24hrs with the Village team — totally worth it.” https://t.co/deL5X79xP9"
+  },
+  {
+    "user": {
       "screenName": "TurkishAirlines",
       "name": "Turkish Airlines",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1883771335567941632/7BUExsM4_normal.jpg",
       "description": "We fly to more countries than any other airline in the world. The @TK_HelpDesk is at your disposal 24/7 to help you with any questions you have.",
-      "followersCount": 1876869,
+      "followersCount": 1876850,
       "friendsCount": 17,
       "location": "Istanbul"
     },
