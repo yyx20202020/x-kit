@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
+      "followersCount": 684,
+      "friendsCount": 427,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1913254320579006906",
+    "fullText": "Augment 今天开始为什么那么卡，不会是蹦了吧，Cursor 也降智了，跟个傻子一样。"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22248,
+      "friendsCount": 284,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Go08_D0asAAn-X9.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1913252641343418369",
+    "fullText": "《程序员做饭指南》供大龄失业程序员（或即将失业）收藏： https://t.co/cPniU5FUKD"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5783,
+      "friendsCount": 1205,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1913246822077772244",
+    "fullText": "大学时候的同学打电话给我，他当年学通信工程我学计算机。他问：你们现在写程序是不是都用 AI 写了？（画外音：他想自己借助 AI 自己写程序）我说：我们的都是行业应用类的项目，AI 写不了，只能代替搜索引擎解决疑难杂症。不过，我看 X 上有很多玩具类的项目的确 AI 可以写，他瞬间又觉得他能行了：）"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149645,
+      "followersCount": 149643,
       "friendsCount": 472,
       "location": "中华人民共和国"
     },
@@ -22,7 +69,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5901,
+      "followersCount": 5899,
       "friendsCount": 238,
       "location": "NewYork"
     },
@@ -54,7 +101,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73332,
+      "followersCount": 73329,
       "friendsCount": 3374,
       "location": ""
     },
@@ -74,7 +121,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8235,
+      "followersCount": 8234,
       "friendsCount": 292,
       "location": ""
     },
@@ -89,7 +136,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73332,
+      "followersCount": 73329,
       "friendsCount": 3374,
       "location": ""
     },
@@ -104,7 +151,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29009,
+      "followersCount": 29010,
       "friendsCount": 570,
       "location": "Hong Kong"
     },
@@ -187,7 +234,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5901,
+      "followersCount": 5899,
       "friendsCount": 238,
       "location": "NewYork"
     },
@@ -239,7 +286,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9396,
+      "followersCount": 9394,
       "friendsCount": 3424,
       "location": ""
     },
@@ -371,7 +418,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
-      "followersCount": 3769,
+      "followersCount": 3768,
       "friendsCount": 347,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -386,7 +433,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9396,
+      "followersCount": 9394,
       "friendsCount": 3424,
       "location": ""
     },
@@ -450,7 +497,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120000,
+      "followersCount": 120006,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -485,7 +532,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120003,
+      "followersCount": 120006,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -505,7 +552,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187315,
+      "followersCount": 187318,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -524,7 +571,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187315,
+      "followersCount": 187318,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -814,7 +861,7 @@
       "name": "DuckDuckGo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1654224891632074754/pMeUysz0_normal.png",
       "description": "Independent online protection company. Get our mobile & desktop browser with protections built-in, including our search engine that doesn't track you.",
-      "followersCount": 2728095,
+      "followersCount": 2728153,
       "friendsCount": 4,
       "location": ""
     },
@@ -861,7 +908,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29009,
+      "followersCount": 29010,
       "friendsCount": 570,
       "location": "Hong Kong"
     },
@@ -910,7 +957,7 @@
       "name": "Dane Wigington",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/702609113004548096/e9CVTsDn_normal.png",
       "description": "Dane Wigington is the lead researcher for  https://t.co/O8UkiCfZcJ, the world's most visited climate engineering website and the producer of THE DIMMING.",
-      "followersCount": 41590,
+      "followersCount": 41599,
       "friendsCount": 2,
       "location": "PO Box 9, Bella Vista CA 96008"
     },
@@ -927,7 +974,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5901,
+      "followersCount": 5899,
       "friendsCount": 238,
       "location": "NewYork"
     },
@@ -945,7 +992,7 @@
       "name": "Paul J Powers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1650590423323123720/eo8ek4NW_normal.jpg",
       "description": "Co-Founder & CEO of @Physna3D",
-      "followersCount": 1107,
+      "followersCount": 1108,
       "friendsCount": 914,
       "location": "Cincinnati, OH"
     },
@@ -977,7 +1024,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5901,
+      "followersCount": 5899,
       "friendsCount": 238,
       "location": "NewYork"
     },
@@ -1045,7 +1092,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9396,
+      "followersCount": 9394,
       "friendsCount": 3424,
       "location": ""
     },
@@ -1128,7 +1175,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
-      "followersCount": 685,
+      "followersCount": 684,
       "friendsCount": 427,
       "location": ""
     },
@@ -1192,7 +1239,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26759,
+      "followersCount": 26757,
       "friendsCount": 114,
       "location": "China"
     },
@@ -1207,7 +1254,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
-      "followersCount": 685,
+      "followersCount": 684,
       "friendsCount": 427,
       "location": ""
     },
@@ -1259,7 +1306,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
-      "followersCount": 3769,
+      "followersCount": 3768,
       "friendsCount": 347,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -1338,7 +1385,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73332,
+      "followersCount": 73329,
       "friendsCount": 3374,
       "location": ""
     },
@@ -1355,7 +1402,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7179,
+      "followersCount": 7182,
       "friendsCount": 474,
       "location": ""
     },
@@ -1421,7 +1468,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9396,
+      "followersCount": 9394,
       "friendsCount": 3424,
       "location": ""
     },
@@ -1577,7 +1624,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912882762991771648/_Oh8bljD_normal.jpg",
       "description": "now generating @aminecraftmovie meal + happy meal",
-      "followersCount": 4743353,
+      "followersCount": 4743291,
       "friendsCount": 13029,
       "location": ""
     },
@@ -1654,7 +1701,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120003,
+      "followersCount": 120006,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
