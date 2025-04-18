@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
+      "followersCount": 3762,
+      "friendsCount": 347,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/1913064327114068073",
+    "fullText": "求助 #macOS #iOS 开发者们！🙏 音视频相关。\n\n使用 ScreenCaptureKit 录制完全静止的屏幕内容后，生成的 MP4 文件视频轨道时长 (AVAssetTrack.timeRange.duration) 异常短（比如录了10秒，轨道时长只有0.33秒），估计是编码优化。"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9395,
+      "followersCount": 9393,
       "friendsCount": 3424,
       "location": ""
     },
@@ -22,8 +37,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
-      "friendsCount": 1732,
+      "followersCount": 18993,
+      "friendsCount": 1733,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -89,7 +104,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119911,
+      "followersCount": 119919,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -109,7 +124,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187298,
+      "followersCount": 187301,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -128,7 +143,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187298,
+      "followersCount": 187301,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -185,6 +200,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/purifiedst0rm/status/1913002930996957196",
     "fullText": "I am a 31 year old disabled man with a vent. I have been a fan of @kendricklamar for 10 years &amp; wish to meet him in Minneapolis after the concert. He's my #1 favorite artist of all time. I will be holding a big white sign with red letters. \n@pgLang @mustard @Luxxkjr @Hittaj3tml https://t.co/pkgzLtIABt"
+  },
+  {
+    "user": {
+      "screenName": "DuckDuckGo",
+      "name": "DuckDuckGo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1654224891632074754/pMeUysz0_normal.png",
+      "description": "Independent online protection company. Get our mobile & desktop browser with protections built-in, including our search engine that doesn't track you.",
+      "followersCount": 2728274,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DuckDuckGo/status/1913000771487965630",
+    "fullText": "Do you want AI knowing all your Google searches? That rash? The dating advice?...doubt it.\n\nGoogle announced “personalized” Gemini, exposing all your searches to its AI.😬\n\nInstead, use https://t.co/gZKADER7S8, our private AI chat service. Always optional, no account required."
   },
   {
     "user": {
@@ -273,7 +303,7 @@
       "name": "OC Health Care Agency",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1519698581996773376/RzyItfb0_normal.png",
       "description": "We protect and promote health through partnership and coordination of public and private sector resources to our diverse communities 🍊 @ocgovca",
-      "followersCount": 29811,
+      "followersCount": 29813,
       "friendsCount": 821,
       "location": "Orange County, CA"
     },
@@ -369,7 +399,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 28999,
+      "followersCount": 28998,
       "friendsCount": 569,
       "location": "Hong Kong"
     },
@@ -481,6 +511,23 @@
   },
   {
     "user": {
+      "screenName": "spurtest_",
+      "name": "Spur",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1823037806727569408/NZk2oXHc_normal.jpg",
+      "description": "",
+      "followersCount": 910,
+      "friendsCount": 23,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GowGmtZWIAIJhQ8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/spurtest_/status/1912911307235279196",
+    "fullText": "We're excited to share that @spurtest_ has raised $4.5M, led by @firstround to allow teams to own high quality testing\n\nWe've partnered with some of the most customer centric companies like @wander  @ycombinator @LivingSpaces @flynorse to deliver the best user experiences https://t.co/1onAGfSgiw"
+  },
+  {
+    "user": {
       "screenName": "sneha8sivakumar",
       "name": "Sneha Sivakumar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1883210285009313792/Lm11z9Cy_normal.jpg",
@@ -502,7 +549,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9395,
+      "followersCount": 9393,
       "friendsCount": 3424,
       "location": ""
     },
@@ -519,7 +566,7 @@
       "name": "LORDS OF THE FALLEN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912901614572015617/lww4rlGU_normal.jpg",
       "description": "A vast world awaits in the all-new, dark fantasy action-RPG, Lords of the Fallen.\n\nOUT NOW for PC, PlayStation 5 & Xbox Series X|S",
-      "followersCount": 52970,
+      "followersCount": 52998,
       "friendsCount": 70,
       "location": ""
     },
@@ -583,7 +630,7 @@
       "name": "LORDS OF THE FALLEN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912901614572015617/lww4rlGU_normal.jpg",
       "description": "A vast world awaits in the all-new, dark fantasy action-RPG, Lords of the Fallen.\n\nOUT NOW for PC, PlayStation 5 & Xbox Series X|S",
-      "followersCount": 52994,
+      "followersCount": 52998,
       "friendsCount": 70,
       "location": ""
     },
@@ -615,7 +662,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26768,
+      "followersCount": 26769,
       "friendsCount": 114,
       "location": "China"
     },
@@ -662,8 +709,8 @@
       "name": "Petastic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1240830770056286208/wepYn48Z_normal.jpg",
       "description": "Changing pet care furrrrever\nBuilt on Anymal (@hello_anymal)",
-      "followersCount": 2445,
-      "friendsCount": 3710,
+      "followersCount": 2444,
+      "friendsCount": 3733,
       "location": "Space + Time"
     },
     "images": [],
@@ -694,7 +741,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73332,
+      "followersCount": 73337,
       "friendsCount": 3374,
       "location": ""
     },
@@ -726,8 +773,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
-      "friendsCount": 1732,
+      "followersCount": 18993,
+      "friendsCount": 1733,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -743,8 +790,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
-      "friendsCount": 1732,
+      "followersCount": 18993,
+      "friendsCount": 1733,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -760,8 +807,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18992,
-      "friendsCount": 1732,
+      "followersCount": 18993,
+      "friendsCount": 1733,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -777,7 +824,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9395,
+      "followersCount": 9393,
       "friendsCount": 3424,
       "location": ""
     },
@@ -899,7 +946,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9395,
+      "followersCount": 9393,
       "friendsCount": 3424,
       "location": ""
     },
@@ -916,7 +963,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9395,
+      "followersCount": 9393,
       "friendsCount": 3424,
       "location": ""
     },
@@ -926,6 +973,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1912763208479256730",
     "fullText": "“看得见的是利益的把戏，看不见的是关系的博弈。\n没有绝对的利益，只有相对的关系。”\n\n加入队列一本新书《品牌黑客》 https://t.co/Nwj3VeqoYL"
+  },
+  {
+    "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912882762991771648/_Oh8bljD_normal.jpg",
+      "description": "now generating @aminecraftmovie meal + happy meal",
+      "followersCount": 4743330,
+      "friendsCount": 13029,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1912763080356032856",
+    "fullText": "Nether Flame Sauce is spicier than getting cornered in the nether by piglins with no gold armor.  try it urself"
   },
   {
     "user": {
@@ -950,7 +1012,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7014,
+      "followersCount": 7015,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -980,7 +1042,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119911,
+      "followersCount": 119919,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1000,7 +1062,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9395,
+      "followersCount": 9393,
       "friendsCount": 3424,
       "location": ""
     },
@@ -1032,7 +1094,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119911,
+      "followersCount": 119919,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1052,7 +1114,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7014,
+      "followersCount": 7015,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -1086,7 +1148,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26768,
+      "followersCount": 26769,
       "friendsCount": 114,
       "location": "China"
     },
