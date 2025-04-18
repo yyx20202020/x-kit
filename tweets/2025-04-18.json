@@ -1,11 +1,48 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22238,
+      "friendsCount": 284,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoyEsxpaEAAcM6h.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1913049855318171650",
+    "fullText": "天降横财，看来我要翻身了，从此开始享受生活： https://t.co/UCG3hwArRa"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119906,
+      "followersCount": 119907,
+      "friendsCount": 1311,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gox5QiUXAAAZD_J.jpg",
+      "https://pbs.twimg.com/media/Gox5SQcXYAAE_rh.jpg",
+      "https://pbs.twimg.com/media/Gox5TruWYAApe6G.jpg",
+      "https://pbs.twimg.com/media/Gox5U_FX0AAEder.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1913037369525342377",
+    "fullText": "https://t.co/dnSi3KVwEz"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 119907,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -25,7 +62,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187301,
+      "followersCount": 187297,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -44,7 +81,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187301,
+      "followersCount": 187297,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -54,6 +91,36 @@
     "videos": [],
     "tweetUrl": "https://x.com/ruanyf/status/1913027583450714204",
     "fullText": "今年一月，有一个消息，大家可能没关注，那就是 HDMI 接口发布了2.2版。\n\n我冒着打脸的风险，猜测一下，这个标准可能到头了。\n\n这一次，从2.1版升级到2.2版，信号传输速率从 48Gbps 加大到 96Gbps。\n\n这个速率，大得吓人。但问题是，你用不到它。https://t.co/fjCJuuDLcL https://t.co/0rzxsUqcvG"
+  },
+  {
+    "user": {
+      "screenName": "IllusionOfLife",
+      "name": "Illusion Of Life",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1882954668797812736/ciNG82Se_normal.jpg",
+      "description": "Living Characters. Backed by @sparkcapital.",
+      "followersCount": 334,
+      "friendsCount": 0,
+      "location": "Alphabet City, New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/IllusionOfLife/status/1913024108436271500",
+    "fullText": "Excited to announce closing of a giant deal with Lingonberry Intelligence JP. We are now the exclusive distributor of Inter-Dimensional Quantum Technologies from Lingonberry Intelligence."
+  },
+  {
+    "user": {
+      "screenName": "DuckDuckGo",
+      "name": "DuckDuckGo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1654224891632074754/pMeUysz0_normal.png",
+      "description": "Independent online protection company. Get our mobile & desktop browser with protections built-in, including our search engine that doesn't track you.",
+      "followersCount": 2728347,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DuckDuckGo/status/1913007361108619355",
+    "fullText": "\"Whether you need help generating content, summarizing text, or answering general queries, https://t.co/gZKADER7S8 provides an accessible and secure AI chat service.\" - Tech Radar\n\nhttps://t.co/gZKADER7S8 offers free, optional access to popular chatbots."
   },
   {
     "user": {
@@ -86,6 +153,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/HipHopCaucus/status/1912997500153118928",
     "fullText": "LIVE: Blackout: Exposing Utility Injustice  https://t.co/d5VSilOhvy"
+  },
+  {
+    "user": {
+      "screenName": "SenecaSpeaks21",
+      "name": "Seneca Scott",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1868466908305203200/-hNBekHg_normal.jpg",
+      "description": "Organizer | Post-Partisan Independent | Led Recalls of Oakland's Corrupt Mayor & DA | Goat Dad 🐐💚 | RTs 🚫 endorsements.",
+      "followersCount": 13868,
+      "friendsCount": 2396,
+      "location": "Oakland, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoxMnP8bQAAyHXa.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SenecaSpeaks21/status/1912993220700914163",
+    "fullText": "Progressives Want a Do-Over — But Oakland Deserves Better\nBy Seneca Scott\n\nIf you’ve burned down the house, you don’t get to walk back in with a new paint job and call yourself a renovator. But that’s exactly what some folks are trying to do in Oakland right now.\n\nIf Sheng Thao’s https://t.co/2dCFfyUW7o"
   },
   {
     "user": {
@@ -187,7 +271,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29000,
+      "followersCount": 28999,
       "friendsCount": 569,
       "location": "Hong Kong"
     },
@@ -236,7 +320,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5894,
+      "followersCount": 5893,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -286,7 +370,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5894,
+      "followersCount": 5893,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -320,8 +404,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9393,
-      "friendsCount": 3423,
+      "followersCount": 9394,
+      "friendsCount": 3424,
       "location": ""
     },
     "images": [
@@ -365,6 +449,23 @@
   },
   {
     "user": {
+      "screenName": "SoulBound",
+      "name": "Soulbound",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1815811156239384576/7QGyyNis_normal.jpg",
+      "description": "An ever-evolving universe.\nYour actions decide its fate.\n\nJoin the community.\nhttps://t.co/x3S11brv4w",
+      "followersCount": 98855,
+      "friendsCount": 17,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gov7KYUaUAAZy4h.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SoulBound/status/1912898626478850333",
+    "fullText": "Patch 5.15\nEchoes of the Necroqueen is LIVE!\nSpectra has broken her chains beneath Virelda &amp; the first 6‑player raid has landed. https://t.co/KrcOU0fo0C"
+  },
+  {
+    "user": {
       "screenName": "alanblogsooo",
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
@@ -399,7 +500,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26765,
+      "followersCount": 26768,
       "friendsCount": 114,
       "location": "China"
     },
@@ -432,7 +533,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧\n💡 用代码打造更智能的工作方式",
       "followersCount": 3762,
-      "friendsCount": 346,
+      "friendsCount": 347,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
     "images": [],
@@ -442,11 +543,26 @@
   },
   {
     "user": {
+      "screenName": "RegJoeShow",
+      "name": "Regular Joe",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1498707865082728449/clblQftU_normal.jpg",
+      "description": "Live Life Boldly!",
+      "followersCount": 1722,
+      "friendsCount": 1102,
+      "location": "Midwest U.S."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RegJoeShow/status/1912852344280117507",
+    "fullText": "The Left's narratives seem to be falling apart all at once and I'm here for it. Let's dig into it together, be sure to like and SHARE the stream!\n#LiveLifeBoldly https://t.co/8ft2sxpUj5"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 73328,
+      "followersCount": 73330,
       "friendsCount": 3374,
       "location": ""
     },
@@ -478,7 +594,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18990,
+      "followersCount": 18992,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -495,7 +611,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18990,
+      "followersCount": 18992,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -512,7 +628,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "玩【Crypto/美股】的，写【Python/Swift】的，瞎折腾的，做油管的，那个叫李麦麦的 。 【MoxCV】-Mac剪切板工具 && 【MoxList】-iOS番茄钟待办 【油管】https://t.co/xqIdF5os0k 【电报群】 https://t.co/cajppYfjQj",
-      "followersCount": 18990,
+      "followersCount": 18992,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -529,8 +645,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9393,
-      "friendsCount": 3423,
+      "followersCount": 9394,
+      "friendsCount": 3424,
       "location": ""
     },
     "images": [
@@ -651,8 +767,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9393,
-      "friendsCount": 3423,
+      "followersCount": 9394,
+      "friendsCount": 3424,
       "location": ""
     },
     "images": [
@@ -668,8 +784,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9393,
-      "friendsCount": 3423,
+      "followersCount": 9394,
+      "friendsCount": 3424,
       "location": ""
     },
     "images": [
@@ -702,7 +818,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7014,
+      "followersCount": 7013,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -732,7 +848,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119906,
+      "followersCount": 119907,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -752,8 +868,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9393,
-      "friendsCount": 3423,
+      "followersCount": 9394,
+      "friendsCount": 3424,
       "location": ""
     },
     "images": [
@@ -784,7 +900,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 119906,
+      "followersCount": 119907,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -804,7 +920,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7014,
+      "followersCount": 7013,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -821,7 +937,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5894,
+      "followersCount": 5893,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -838,7 +954,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26765,
+      "followersCount": 26768,
       "friendsCount": 114,
       "location": "China"
     },
@@ -873,7 +989,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8237,
+      "followersCount": 8236,
       "friendsCount": 292,
       "location": ""
     },
@@ -890,7 +1006,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53868,
+      "followersCount": 53865,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1017,6 +1133,40 @@
   },
   {
     "user": {
+      "screenName": "CreeperHost",
+      "name": "CreeperHost 🕹",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824535421306523648/i6gM-lbC_normal.jpg",
+      "description": "Providing servers for all your favourite games🎮 DMs are monitored Mon-Fri 11am-6pm GMT. Any server issues, please open a support ticket via your CreeperPanel",
+      "followersCount": 5362,
+      "friendsCount": 208,
+      "location": "Grantham, England"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoqfC1GWkAAuqbM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CreeperHost/status/1912515961388773683",
+    "fullText": "We're shelling out a cracking 30% off your first month on any new service. That’s right: big savings, ❌no eggs-tra strings attached ❌\n\nBut don’t bunny-hop away just yet🐰 If you’re migrating from another host, we’ll sweeten the deal even more: we’ll match your old provider’s https://t.co/8UW4M76vWx"
+  },
+  {
+    "user": {
+      "screenName": "RobinhoodApp",
+      "name": "Robinhood",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
+      "description": "Trade. Invest. Earn.",
+      "followersCount": 1175957,
+      "friendsCount": 21,
+      "location": "Menlo Park, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1912277010526924805/vid/avc1/720x720/Q0bk1Kjo-Pd8bL5l.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/RobinhoodApp/status/1912498817414652114",
+    "fullText": "Seamlessly trade stocks, options, crypto, and futures, in one place. On Robinhood. https://t.co/qcCeu5hPp9"
+  },
+  {
+    "user": {
       "screenName": "mmatshora",
       "name": "Some one",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908233207092248576/imrNmrLh_normal.jpg",
@@ -1046,5 +1196,23 @@
     ],
     "tweetUrl": "https://x.com/khloekardashian/status/1912491165045121308",
     "fullText": "UFC boss @danawhite gets real on biohacking, cancel culture and being a total softie for his daughter. Watch now on @X. https://t.co/RThOH7Kd5k"
+  },
+  {
+    "user": {
+      "screenName": "RMD_Wallet",
+      "name": "RampMeDaddy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841326976088309760/2nTgjIki_normal.jpg",
+      "description": "RampMeDaddy - Digital Wallet inside Telegram. Memecoins made easy!  \nTry it out 👉 https://t.co/D1q9QVd2pd",
+      "followersCount": 12918,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gon5mHSXgAAx5pt.png",
+      "https://pbs.twimg.com/media/Gon5omfWEAASKIj.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RMD_Wallet/status/1912335623740088487",
+    "fullText": "New Rugs for the office https://t.co/6bsxceyv9z"
   }
 ]
