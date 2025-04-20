@@ -1,6 +1,53 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22261,
+      "friendsCount": 289,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Go_WSrnbgAAmua8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1913984150614446552",
+    "fullText": "C/C++ 高性能优化里最搞笑的一件事情是一堆人热衷在应用层实现 spinlock，导致并发少的时候看起来好像很美妙，让他们误以为是个好东西，但并发一上去立马就成为性能杀手： https://t.co/3kxAmoQxJu"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 26802,
+      "friendsCount": 114,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1913980205896778068",
+    "fullText": "🐛 有奖找茬：快来 Gitee 挑毛病！提交补丁的小伙伴，🎁 礼物 + 优惠券直接安排！😎\n\nhttps://t.co/3HzqXre5dg\n\n🚀懒猫微服开发者文档升级！https://t.co/LhAegviF4B\n\n1.分类更清晰：不同方向的文档精准归类，阅读更加流畅\n2.内容更贴心：域名规则、多域名配置、鉴权、HTTP header"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 149665,
+      "friendsCount": 473,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1913979675044663586",
+    "fullText": "每次分享我在读的书，评论里都有一大群发盗版资源的，书这么有价值的东西很多人都不愿意付费啊……"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -37,7 +84,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149658,
+      "followersCount": 149665,
       "friendsCount": 473,
       "location": "中华人民共和国"
     },
@@ -54,7 +101,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73352,
+      "followersCount": 73349,
       "friendsCount": 3377,
       "location": ""
     },
@@ -106,7 +153,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73352,
+      "followersCount": 73349,
       "friendsCount": 3377,
       "location": ""
     },
@@ -121,7 +168,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26801,
+      "followersCount": 26802,
       "friendsCount": 114,
       "location": "China"
     },
@@ -189,7 +236,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149658,
+      "followersCount": 149665,
       "friendsCount": 473,
       "location": "中华人民共和国"
     },
@@ -204,7 +251,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120237,
+      "followersCount": 120224,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -272,7 +319,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18116,
+      "followersCount": 18118,
       "friendsCount": 810,
       "location": "Mountain View, CA"
     },
@@ -346,6 +393,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1913819870401278350",
     "fullText": "睡醒就看到群友打预售four爆赚，好在对我美好的一天结没产生什么影响。\n我总是错过这种机会，因为本金太少了，输不起。别说1000u了就算500u我也不愿意冒这个风险，我只要保证几年之后我在币圈的收益仍然是正的，就超过80%的人了，只有亏过钱才知道，能做到不赚不亏，也是一种幸福。\n加油哦，生活很美好"
+  },
+  {
+    "user": {
+      "screenName": "DRIVESMARTVA",
+      "name": "DRIVE SMART Virginia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1748158522053857280/lsFIobaA_normal.jpg",
+      "description": "DRIVE SMART Virginia is a non-profit organization designed to raise awareness of traffic safety issues.",
+      "followersCount": 14999,
+      "friendsCount": 1540,
+      "location": "Richmond, VA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Go88k_LXYAAVCyo.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DRIVESMARTVA/status/1913815569163239696",
+    "fullText": "🚫🌿 If you feel different, you drive different! Don’t risk it on 4/20, or any other day. Be safe, be smart. Designate a sober driver. 🛑🚗 #420Safety #DriveSober https://t.co/IW6qu5uSu5"
   },
   {
     "user": {
@@ -434,7 +498,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73352,
+      "followersCount": 73349,
       "friendsCount": 3377,
       "location": ""
     },
@@ -517,7 +581,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53894,
+      "followersCount": 53895,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -532,7 +596,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120237,
+      "followersCount": 120224,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -566,7 +630,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18116,
+      "followersCount": 18118,
       "friendsCount": 810,
       "location": "Mountain View, CA"
     },
@@ -694,7 +758,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120237,
+      "followersCount": 120224,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -764,7 +828,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29053,
+      "followersCount": 29052,
       "friendsCount": 570,
       "location": "Hong Kong"
     },
@@ -833,7 +897,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22691,
+      "followersCount": 22690,
       "friendsCount": 336,
       "location": "HK"
     },
@@ -932,7 +996,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149658,
+      "followersCount": 149665,
       "friendsCount": 473,
       "location": "中华人民共和国"
     },
