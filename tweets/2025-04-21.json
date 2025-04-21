@@ -18,6 +18,40 @@
   },
   {
     "user": {
+      "screenName": "antispaceAI",
+      "name": "Antispace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1820890270877282304/9NDCOUf6_normal.jpg",
+      "description": "Gamifying Human Productivity with the First AIOS",
+      "followersCount": 365,
+      "friendsCount": 738,
+      "location": "AIOS Hacker House"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1914080084723748865/vid/avc1/1620x1080/2JoP9Hs_PF1t0YOq.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/antispaceAI/status/1914080253443797427",
+    "fullText": "Write more and publish often.\n\n{you}.anti.space\n\n- \n\n(sound on) https://t.co/ooIv7yh82X"
+  },
+  {
+    "user": {
+      "screenName": "MyLandEarth",
+      "name": "MyLand Metaverse™(Official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1803923659310141445/9W5qIjmi_normal.jpg",
+      "description": "MyLandEarth Engine beta release launched the World's first 3D Virtual Earth on Web3. Join us & experience the immersive new Earth on https://t.co/QWzMUljR0H",
+      "followersCount": 4941,
+      "friendsCount": 5542,
+      "location": "www.MyLand.Earth"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpAQiQsbYAAwj89.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MyLandEarth/status/1914048754577293339",
+    "fullText": "Happy Easter Everyone!  This weekend we have updated our domain on X/Twitter to MyLandEARTH, and the same domain change applied across all social media platforms MyLandEARTH is on to reflect our next 2-3 years of platform dev direction focusing on virtual space building and VR/MR https://t.co/qbxXtaS4uN"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -56,7 +90,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22270,
+      "followersCount": 22273,
       "friendsCount": 288,
       "location": "Guangdong"
     },
@@ -73,7 +107,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26806,
+      "followersCount": 26813,
       "friendsCount": 114,
       "location": "China"
     },
@@ -88,7 +122,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18976,
+      "followersCount": 18977,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -103,7 +137,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5789,
+      "followersCount": 5791,
       "friendsCount": 1209,
       "location": ""
     },
@@ -116,11 +150,28 @@
   },
   {
     "user": {
+      "screenName": "victor_mapunga",
+      "name": "Victor Mapunga",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1814954361149108225/i49dvtKK_normal.jpg",
+      "description": "Serial Entrepreneur| Currently building Shona Prince Technologies @shona_tech  #Starlink \n🇲🇿🇷🇼🇿🇼🇿🇦 🇱🇸",
+      "followersCount": 5084,
+      "friendsCount": 2715,
+      "location": "Africa"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Go-qslxXkAEGr49.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/victor_mapunga/status/1913937349689434118",
+    "fullText": "We're pushing the boundaries of @Starlink  &amp; pushing adoption via our ShoFi platform. \n\nSmall businesses in Africa can immediately harness the power of Starlink through Shona Prince Technologies (Authorized Retailer in Africa).\n\n📷A ShoFi Starlink Agent in Matola, Mozambique 🇲🇿 https://t.co/rU3vNC1KYb"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149700,
+      "followersCount": 149723,
       "friendsCount": 473,
       "location": "中华人民共和国"
     },
@@ -137,7 +188,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73352,
+      "followersCount": 73350,
       "friendsCount": 3377,
       "location": ""
     },
@@ -155,7 +206,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18976,
+      "followersCount": 18977,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -172,7 +223,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18976,
+      "followersCount": 18977,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -189,7 +240,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73352,
+      "followersCount": 73350,
       "friendsCount": 3377,
       "location": ""
     },
@@ -204,7 +255,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26806,
+      "followersCount": 26813,
       "friendsCount": 114,
       "location": "China"
     },
@@ -219,7 +270,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18976,
+      "followersCount": 18977,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -236,7 +287,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18976,
+      "followersCount": 18977,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -253,7 +304,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149700,
+      "followersCount": 149723,
       "friendsCount": 473,
       "location": "中华人民共和国"
     },
@@ -268,7 +319,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120287,
+      "followersCount": 120305,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -285,7 +336,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5789,
+      "followersCount": 5791,
       "friendsCount": 1209,
       "location": ""
     },
@@ -302,7 +353,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18976,
+      "followersCount": 18977,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -319,7 +370,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7228,
+      "followersCount": 7230,
       "friendsCount": 475,
       "location": ""
     },
@@ -336,7 +387,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18976,
+      "followersCount": 18977,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -370,7 +421,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5789,
+      "followersCount": 5791,
       "friendsCount": 1209,
       "location": ""
     },
@@ -387,7 +438,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5789,
+      "followersCount": 5791,
       "friendsCount": 1209,
       "location": ""
     },
@@ -402,7 +453,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73352,
+      "followersCount": 73350,
       "friendsCount": 3377,
       "location": ""
     },
@@ -417,7 +468,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5789,
+      "followersCount": 5791,
       "friendsCount": 1209,
       "location": ""
     },
@@ -434,7 +485,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5941,
+      "followersCount": 5939,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -466,7 +517,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120287,
+      "followersCount": 120305,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -483,7 +534,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18119,
+      "followersCount": 18121,
       "friendsCount": 810,
       "location": "Mountain View, CA"
     },
@@ -498,7 +549,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120287,
+      "followersCount": 120305,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -534,7 +585,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18976,
+      "followersCount": 18977,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -551,7 +602,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5941,
+      "followersCount": 5939,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -585,7 +636,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5789,
+      "followersCount": 5791,
       "friendsCount": 1209,
       "location": ""
     },
@@ -602,7 +653,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22687,
+      "followersCount": 22694,
       "friendsCount": 336,
       "location": "HK"
     },
@@ -610,6 +661,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/nextify2024/status/1913610794237046786",
     "fullText": "最近看了《猫猫的奇幻漂流》、《朱同学在三年级丢失了超能力》以及《宇宙探索编辑部》这三部电影 ，感觉不错！"
+  },
+  {
+    "user": {
+      "screenName": "americasgreat",
+      "name": "Futurist™",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902726135214923776/vNMjWB6W_normal.jpg",
+      "description": "Political Commentator, common sense reporting, former U.S. Senate Legislative Aide. Subscribe to DM.",
+      "followersCount": 37460,
+      "friendsCount": 3170,
+      "location": "Florida, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/americasgreat/status/1913605454090887287",
+    "fullText": "IDEA: OPEN UNIVERSITY BORDERS. Since Dems believe in open borders, welcoming all regardless of criminal history, Harvard and other universities, should eliminate their acceptance application process. Everyone should be accepted, regardless of GPA, high school diploma, etc."
   },
   {
     "user": {
@@ -634,7 +700,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18976,
+      "followersCount": 18977,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -644,5 +710,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1913439626448240759",
     "fullText": "Safepal和fiat24联名的万事达卡又抽风了，微信支付宝都付款失败☹️@SafePalCN @Fiat24Official https://t.co/O6xcBagR0U"
+  },
+  {
+    "user": {
+      "screenName": "Jack_Stewart242",
+      "name": "Jack Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1590521736155389953/68WaDhyW_normal.jpg",
+      "description": "Author, Spoonman, Madman, MS Certified Shaman, Skin Mechanic, Chaotic Good. I'm all right, Jack keep your hands off of my stack. NFTs, Books, ghosts -n- stuff.",
+      "followersCount": 10754,
+      "friendsCount": 9559,
+      "location": "In your head."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Go3aQYmawAASa5T.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Jack_Stewart242/status/1913425420684271939",
+    "fullText": "Gear up. Get paid.  \n\n#AlphaBeta #FoxtrotRescueServices\n\nI write and produce this stuff with @AdamArcherArt! https://t.co/GSWN7G4OVz"
   }
 ]
