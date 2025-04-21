@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 3784,
+      "friendsCount": 349,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/1914128156900090278",
+    "fullText": "周末刚刚南迁🕊️到成都，找了个公寓临时落脚。发个推，看看有没有面基的机会，交流交流、认识认识新朋友。暂时只保证一年内在成都，因此帖子一年内有效。\n\n虽然有快4000的朋友关注了我，但可能很多人对我还是不太熟悉，所以做个简单自我介绍。"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 53921,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1914122983654002688/vid/avc1/950x720/-Wnl7TOFBHX5LllT.mp4?tag=16",
+      "https://video.twimg.com/amplify_video/1914123039610122240/vid/avc1/950x720/uZgsCw-caP1564eE.mp4?tag=16",
+      "https://video.twimg.com/amplify_video/1914123039639535616/vid/avc1/950x720/bL6m8BH547APVSDi.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1914124227063779526",
+    "fullText": "简单简历 https://t.co/xkpKTH0tUV 迎来今年最大的一次更新，添加了更多和 AI 相关的功能：\n\n* 自动生成简历，现在可以添加更多相关的信息，比如工作经历和教育经历，比之前一个职位名称要准确的多。\n* 自动翻译简历，可以一键翻译成其他语言。\n* 支持简历上传，AI 自动解析文件内容并且生成。 https://t.co/Noob5xsweo"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7010,
+      "followersCount": 7011,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -56,7 +90,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7010,
+      "followersCount": 7011,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -73,7 +107,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7010,
+      "followersCount": 7011,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -90,7 +124,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22273,
+      "followersCount": 22281,
       "friendsCount": 288,
       "location": "Guangdong"
     },
@@ -107,7 +141,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26813,
+      "followersCount": 26815,
       "friendsCount": 114,
       "location": "China"
     },
@@ -122,7 +156,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18977,
+      "followersCount": 18979,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -137,7 +171,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5791,
+      "followersCount": 5792,
       "friendsCount": 1209,
       "location": ""
     },
@@ -171,7 +205,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149723,
+      "followersCount": 149721,
       "friendsCount": 473,
       "location": "中华人民共和国"
     },
@@ -188,7 +222,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73350,
+      "followersCount": 73352,
       "friendsCount": 3377,
       "location": ""
     },
@@ -206,7 +240,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18977,
+      "followersCount": 18979,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -223,7 +257,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18977,
+      "followersCount": 18979,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -240,7 +274,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73350,
+      "followersCount": 73352,
       "friendsCount": 3377,
       "location": ""
     },
@@ -251,11 +285,29 @@
   },
   {
     "user": {
+      "screenName": "INSECURITYsol",
+      "name": "$INSECURITY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890712720791445504/jmDbDYth_normal.jpg",
+      "description": "Official $INSECURITY \n5m5617WqRBh8FBVadwVF9uMhsnYfxDcMjCrsqHfzpump",
+      "followersCount": 318,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Go-EvEeXkAAl7xX.png",
+      "https://pbs.twimg.com/media/Go-EwdRWAAA_vUv.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/INSECURITYsol/status/1913894390776348819",
+    "fullText": "Tate didn’t tweet $INSECURITY, he wore it! \nIt wasn’t merch. It was a message.  \n\nThe market dip delayed it. \nNow it’s gearing up inside the Trenches Campus.  \n\nYou’ve seen the signs. Position while it’s still quiet. https://t.co/ekl20Vm8k4"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26813,
+      "followersCount": 26815,
       "friendsCount": 114,
       "location": "China"
     },
@@ -270,7 +322,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18977,
+      "followersCount": 18979,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -287,7 +339,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18977,
+      "followersCount": 18979,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -304,7 +356,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149723,
+      "followersCount": 149721,
       "friendsCount": 473,
       "location": "中华人民共和国"
     },
@@ -319,7 +371,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120305,
+      "followersCount": 120306,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -336,7 +388,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5791,
+      "followersCount": 5792,
       "friendsCount": 1209,
       "location": ""
     },
@@ -353,7 +405,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18977,
+      "followersCount": 18979,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -363,6 +415,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1913837310153768963",
     "fullText": "没想明白为什么在合约里面要把Ether单位换成Wei，除了多一种操作失误的可能性还有什么正向作用吗 https://t.co/h5NnNt7ESm"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 18121,
+      "friendsCount": 810,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/1913835383806374243",
+    "fullText": "下单了，M4 Air，32GRAM + 1T SSD。"
   },
   {
     "user": {
@@ -387,7 +454,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18977,
+      "followersCount": 18979,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -421,7 +488,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5791,
+      "followersCount": 5792,
       "friendsCount": 1209,
       "location": ""
     },
@@ -438,7 +505,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5791,
+      "followersCount": 5792,
       "friendsCount": 1209,
       "location": ""
     },
@@ -453,7 +520,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73350,
+      "followersCount": 73352,
       "friendsCount": 3377,
       "location": ""
     },
@@ -468,7 +535,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5791,
+      "followersCount": 5792,
       "friendsCount": 1209,
       "location": ""
     },
@@ -485,7 +552,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5939,
+      "followersCount": 5938,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -502,7 +569,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53914,
+      "followersCount": 53921,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -517,7 +584,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120305,
+      "followersCount": 120306,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -549,7 +616,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120305,
+      "followersCount": 120306,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -568,7 +635,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO,  Bootloader  AI | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7209,
+      "followersCount": 7211,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -585,7 +652,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18977,
+      "followersCount": 18979,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -602,7 +669,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5939,
+      "followersCount": 5938,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -619,7 +686,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29049,
+      "followersCount": 29058,
       "friendsCount": 570,
       "location": "Hong Kong"
     },
@@ -668,7 +735,7 @@
       "name": "Futurist™",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902726135214923776/vNMjWB6W_normal.jpg",
       "description": "Political Commentator, common sense reporting, former U.S. Senate Legislative Aide. Subscribe to DM.",
-      "followersCount": 37460,
+      "followersCount": 37461,
       "friendsCount": 3170,
       "location": "Florida, USA"
     },
@@ -700,7 +767,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18977,
+      "followersCount": 18979,
       "friendsCount": 1699,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
