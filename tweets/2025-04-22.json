@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 120511,
+      "friendsCount": 1311,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpHm-m7WoAAMguc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1914565302991438139",
+    "fullText": "AI 画国潮古今混搭 🧵\n\n工具：Sora 或 GPT-4o\n\n提示词： https://t.co/M7cQK3pZsc"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁 带你来看这场庙会",
+      "followersCount": 18976,
+      "friendsCount": 1700,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1914563259325407541",
+    "fullText": "和没有任务观念的上级真的很难相处。\n\n上级安排一个任务，我都是尽量快的做好，然后等截止日期再一起提交，心里有底，也不卷别人。"
+  },
+  {
+    "user": {
+      "screenName": "yuxiyou",
+      "name": "尤雨溪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
+      "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
+      "followersCount": 104589,
+      "friendsCount": 232,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuxiyou/status/1914562020009238895",
+    "fullText": "我一个在新加坡开兰博基尼的朋友，日本人，去试驾了下极氪 009，赞不绝口，差点当场下单，还给我强力推荐。另一个在上海开 911 Turbo S 的，下单了 su7 ultra。中国电车真的在对汽车品牌的格局进行着颠覆…"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7013,
+      "followersCount": 7014,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -20,7 +67,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -35,7 +82,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7013,
+      "followersCount": 7014,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -53,7 +100,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
       "followersCount": 5944,
-      "friendsCount": 239,
+      "friendsCount": 240,
       "location": "NewYork"
     },
     "images": [],
@@ -117,7 +164,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58776,
+      "followersCount": 58777,
       "friendsCount": 356,
       "location": ""
     },
@@ -132,7 +179,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4088,
+      "followersCount": 4092,
       "friendsCount": 371,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -201,7 +248,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18124,
+      "followersCount": 18123,
       "friendsCount": 810,
       "location": "Mountain View, CA"
     },
@@ -218,7 +265,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29062,
+      "followersCount": 29064,
       "friendsCount": 571,
       "location": "Hong Kong"
     },
@@ -236,7 +283,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
       "followersCount": 5944,
-      "friendsCount": 239,
+      "friendsCount": 240,
       "location": "NewYork"
     },
     "images": [
@@ -252,7 +299,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73388,
+      "followersCount": 73391,
       "friendsCount": 3382,
       "location": ""
     },
@@ -267,7 +314,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58776,
+      "followersCount": 58777,
       "friendsCount": 356,
       "location": ""
     },
@@ -282,8 +329,8 @@
       "name": "Matt St. Onge",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1486936926523432962/vClP4O_z_normal.jpg",
       "description": "#Author #embedded #Linux #security #RedHat #architect  #opensource #cloud  #veteran #FlightSim controls builder #DCSWorld content creator   My Tweets==my own",
-      "followersCount": 1220,
-      "friendsCount": 3447,
+      "followersCount": 1221,
+      "friendsCount": 3446,
       "location": "Wilmington, MA"
     },
     "images": [
@@ -348,7 +395,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -497,8 +544,8 @@
       "name": "The Man From Post-Dystopia",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1195697739927080965/xVPnmOxl_normal.jpg",
       "description": "Abused optimist. Antiutopian dreamer. I have a massive stack of out-of-print books, and lead a band of dyspeptic misfits.",
-      "followersCount": 1142,
-      "friendsCount": 3415,
+      "followersCount": 1143,
+      "friendsCount": 3414,
       "location": "Upper West Side, Manhattan"
     },
     "images": [
@@ -515,7 +562,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
       "followersCount": 5944,
-      "friendsCount": 239,
+      "friendsCount": 240,
       "location": "NewYork"
     },
     "images": [
@@ -583,7 +630,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -600,7 +647,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -632,7 +679,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7013,
+      "followersCount": 7014,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -683,7 +730,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -700,7 +747,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -751,7 +798,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73388,
+      "followersCount": 73391,
       "friendsCount": 3382,
       "location": ""
     },
@@ -766,7 +813,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7269,
+      "followersCount": 7271,
       "friendsCount": 475,
       "location": ""
     },
@@ -796,7 +843,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -814,7 +861,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -829,7 +876,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -847,7 +894,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -881,7 +928,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -900,7 +947,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁 带你来看这场庙会",
-      "followersCount": 18977,
+      "followersCount": 18976,
       "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1297,7 +1344,7 @@
       "name": "Victor Mapunga",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1814954361149108225/i49dvtKK_normal.jpg",
       "description": "Serial Entrepreneur| Currently building Shona Prince Technologies @shona_tech  #Starlink \n🇲🇿🇷🇼🇿🇼🇿🇦 🇱🇸",
-      "followersCount": 5127,
+      "followersCount": 5126,
       "friendsCount": 2715,
       "location": "Africa"
     },
