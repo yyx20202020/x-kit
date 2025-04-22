@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 120648,
+      "friendsCount": 1311,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpKiSGuWEAA1BZ_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1914771670440554881",
+    "fullText": "把你不喜欢人物设计成马桶刷子\n工具：sora 或者 GPT-4o\n\n提示词（请修改中括号部分为人物姓名，如果不修改 Sora 也会给你生成，比如配图😄）： https://t.co/iqzjslmveH"
+  },
+  {
+    "user": {
       "screenName": "PalantirTech",
       "name": "Palantir",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1877789778344828928/ibFj3Vhw_normal.jpg",
       "description": "Software (that wins).",
-      "followersCount": 278716,
+      "followersCount": 278728,
       "friendsCount": 46,
       "location": "Denver, CO"
     },
@@ -22,7 +39,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120646,
+      "followersCount": 120648,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -56,7 +73,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16433,
+      "followersCount": 16432,
       "friendsCount": 1191,
       "location": "San Antonio, TX"
     },
@@ -69,11 +86,28 @@
   },
   {
     "user": {
+      "screenName": "usetapestry",
+      "name": "tapestry",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912506036444946432/81vO7-AV_normal.jpg",
+      "description": "The internet's social graph ⚡️ by @solana | Claim your profile ➡️ https://t.co/7GFL05oseC",
+      "followersCount": 26814,
+      "friendsCount": 133,
+      "location": "solana"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpJ4gQlXUAEq28u.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/usetapestry/status/1914725483263950980",
+    "fullText": "What would happen if social data flowed as freely as financial data on Solana? 🤔 https://t.co/Gp3VGQpUcL"
+  },
+  {
+    "user": {
       "screenName": "yuxiyou",
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 104747,
+      "followersCount": 104755,
       "friendsCount": 232,
       "location": "Singapore"
     },
@@ -122,8 +156,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18970,
-      "friendsCount": 1701,
+      "followersCount": 18969,
+      "friendsCount": 1703,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -155,7 +189,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120646,
+      "followersCount": 120648,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -383,7 +417,7 @@
       "name": "Genspark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1782715833099382784/R6nadR8G_normal.jpg",
       "description": "General AI Agent for Everyone and Everyday Tasks\n\nFollow us: \nhttps://t.co/s8I5BNX3on\nhttps://t.co/y0XAALqjny\nhttps://t.co/DADNzMIyjO",
-      "followersCount": 7329,
+      "followersCount": 7351,
       "friendsCount": 35,
       "location": "Palo Alto + Singapore"
     },
@@ -400,7 +434,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29062,
       "friendsCount": 572,
       "location": "Hong Kong"
     },
@@ -449,8 +483,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18970,
-      "friendsCount": 1701,
+      "followersCount": 18969,
+      "friendsCount": 1703,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -500,8 +534,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18970,
-      "friendsCount": 1701,
+      "followersCount": 18969,
+      "friendsCount": 1703,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -532,7 +566,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53947,
+      "followersCount": 53952,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -549,7 +583,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29062,
       "friendsCount": 572,
       "location": "Hong Kong"
     },
@@ -564,8 +598,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18970,
-      "friendsCount": 1701,
+      "followersCount": 18969,
+      "friendsCount": 1703,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -594,7 +628,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120646,
+      "followersCount": 120648,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -611,8 +645,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18970,
-      "friendsCount": 1701,
+      "followersCount": 18969,
+      "friendsCount": 1703,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -626,7 +660,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 104754,
+      "followersCount": 104755,
       "friendsCount": 232,
       "location": "Singapore"
     },
@@ -658,7 +692,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7012,
+      "followersCount": 7013,
       "friendsCount": 726,
       "location": "San Jose, CA"
     },
@@ -673,8 +707,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18970,
-      "friendsCount": 1701,
+      "followersCount": 18969,
+      "friendsCount": 1703,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -688,7 +722,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7012,
+      "followersCount": 7013,
       "friendsCount": 726,
       "location": "San Jose, CA"
     },
@@ -705,7 +739,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5950,
+      "followersCount": 5952,
       "friendsCount": 240,
       "location": "NewYork"
     },
@@ -735,7 +769,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120646,
+      "followersCount": 120648,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -770,7 +804,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58797,
+      "followersCount": 58798,
       "friendsCount": 356,
       "location": ""
     },
@@ -849,7 +883,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120646,
+      "followersCount": 120648,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -886,7 +920,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29062,
       "friendsCount": 572,
       "location": "Hong Kong"
     },
@@ -903,7 +937,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5950,
+      "followersCount": 5952,
       "friendsCount": 240,
       "location": "NewYork"
     },
@@ -920,7 +954,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73421,
+      "followersCount": 73430,
       "friendsCount": 3383,
       "location": ""
     },
@@ -935,7 +969,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58797,
+      "followersCount": 58798,
       "friendsCount": 356,
       "location": ""
     },
@@ -1065,8 +1099,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18970,
-      "friendsCount": 1701,
+      "followersCount": 18969,
+      "friendsCount": 1703,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -1095,7 +1129,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16434,
+      "followersCount": 16432,
       "friendsCount": 1191,
       "location": "San Antonio, TX"
     },
@@ -1197,7 +1231,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16434,
+      "followersCount": 16432,
       "friendsCount": 1191,
       "location": "San Antonio, TX"
     },
@@ -1231,7 +1265,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5950,
+      "followersCount": 5952,
       "friendsCount": 240,
       "location": "NewYork"
     },
@@ -1455,7 +1489,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9415,
+      "followersCount": 9414,
       "friendsCount": 3432,
       "location": ""
     },
