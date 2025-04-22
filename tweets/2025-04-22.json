@@ -1,6 +1,75 @@
 [
   {
     "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
+      "followersCount": 689,
+      "friendsCount": 431,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1914510058576339333",
+    "fullText": "我只能说trae的排队让它处于完全不可用状态，你不如开启付费模式呢，现在只能看不能用有啥意思。"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 120521,
+      "friendsCount": 1311,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpG0BfWWQAAdTPN.jpg",
+      "https://pbs.twimg.com/media/GpG0SkMWsAEAX0a.jpg",
+      "https://pbs.twimg.com/media/GpG0WyfW0AA_VBJ.jpg",
+      "https://pbs.twimg.com/media/GpG0aGLXUAEwQ0S.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1914509696678965297",
+    "fullText": "让 AI 用不同风格重画清明上河图\n工具：GPT-4o\n提示词：用【XXX风格】生成《清明上河图》中的局部图像\n\n可以试试下面这些风格（不限于）：\n- 3D Q版风格\n- 3D风格\n- 3D微缩风格\n- 写实风格\n- 迪斯尼动画风格\n- 皮克斯动画风格\n- 吉卜力工作室风格 https://t.co/6bSfWsk0rm"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 18122,
+      "friendsCount": 810,
+      "location": "Mountain View, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpGyqFVa4AANA6z.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/1914507789311074436",
+    "fullText": "https://t.co/1Q005H4Hwp"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 29066,
+      "friendsCount": 571,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpGxFp1boAAoQd2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1914506051950723269",
+    "fullText": "北京早上想吃一碗不错的粉面都得 10 点才有，这也许就是我为什么很久不吃早餐的原因吧... https://t.co/3aEFG8aZiz"
+  },
+  {
+    "user": {
       "screenName": "ovst36099",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
@@ -22,7 +91,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73381,
+      "followersCount": 73385,
       "friendsCount": 3379,
       "location": ""
     },
@@ -37,7 +106,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58773,
+      "followersCount": 58777,
       "friendsCount": 356,
       "location": ""
     },
@@ -84,8 +153,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -109,6 +178,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/USFunds/status/1914392040152162625",
     "fullText": "Gold miners, we are happy to report, appear to be back in favor along with the yellow metal itself. The IBD 50, Investor’s Business Daily’s flagship screen of growth stocks, now includes about a dozen gold mining names.\n\nCompanies that were just added to the list include DRDGold, https://t.co/2CMniKDjsl"
+  },
+  {
+    "user": {
+      "screenName": "TopHatStudiosEN",
+      "name": "Top Hat Studios, Inc.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/968231327840571394/kl1dbuX4_normal.jpg",
+      "description": "Your favorite publisher and curator of Japanese-inspired and retro delicacies. We port, publish, develop, and distribute to all major platforms. 🎩🎮",
+      "followersCount": 18826,
+      "friendsCount": 1143,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1914374616224534528/vid/avc1/1920x1080/ihh43_f_u6CwaO9x.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/TopHatStudiosEN/status/1914378551291261032",
+    "fullText": "A girl and her drone. Doing a regular job.\n\nSEE MORE of MOTORSLICE - April 22 10am PDT / 1pm EDT / 5pm UTC https://t.co/GKTEO9jn5B"
   },
   {
     "user": {
@@ -249,12 +335,29 @@
   },
   {
     "user": {
+      "screenName": "noelregrets",
+      "name": "Noel Moldvai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1703603571256668160/SJPfQKt1_normal.jpg",
+      "description": "ceo @augmentmarkets, buy/sell shares in private tech companies",
+      "followersCount": 284,
+      "friendsCount": 423,
+      "location": "Austin, TX 🇺🇸"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpEeTFhaEAAoriG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/noelregrets/status/1914344632038940696",
+    "fullText": "⏰ 33 unread in Superhuman\n📋 68 items on TODO list\n✅ Phone charged\n✅ Coffee in hand\n🚀 Happy Monday https://t.co/YeUQSB691W"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -270,8 +373,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -285,7 +388,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7012,
+      "followersCount": 7013,
       "friendsCount": 725,
       "location": "San Jose, CA"
     },
@@ -302,7 +405,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9417,
+      "followersCount": 9419,
       "friendsCount": 3430,
       "location": ""
     },
@@ -319,8 +422,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -336,8 +439,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -370,7 +473,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73381,
+      "followersCount": 73385,
       "friendsCount": 3379,
       "location": ""
     },
@@ -385,7 +488,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7264,
+      "followersCount": 7265,
       "friendsCount": 475,
       "location": ""
     },
@@ -400,8 +503,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -418,8 +521,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -433,8 +536,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -451,8 +554,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -468,7 +571,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9417,
+      "followersCount": 9419,
       "friendsCount": 3430,
       "location": ""
     },
@@ -485,8 +588,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -504,8 +607,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -536,7 +639,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9417,
+      "followersCount": 9419,
       "friendsCount": 3430,
       "location": ""
     },
@@ -551,7 +654,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120511,
+      "followersCount": 120521,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -569,8 +672,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -586,7 +689,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120511,
+      "followersCount": 120521,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -643,8 +746,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "",
-      "followersCount": 18987,
-      "friendsCount": 1702,
+      "followersCount": 18988,
+      "friendsCount": 1700,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -660,7 +763,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9417,
+      "followersCount": 9419,
       "friendsCount": 3430,
       "location": ""
     },
@@ -677,7 +780,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9417,
+      "followersCount": 9419,
       "friendsCount": 3430,
       "location": ""
     },
@@ -694,8 +797,8 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4067,
-      "friendsCount": 367,
+      "followersCount": 4071,
+      "friendsCount": 368,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
     "images": [],
