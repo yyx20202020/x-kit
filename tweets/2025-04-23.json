@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 149814,
+      "friendsCount": 473,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1914890603026112810",
+    "fullText": "给苹果报的 bug 报了三个多月没有回应。我用了两次 DTS（类似于直接发工单给苹果的工程师，开发者每年有两次机会使用）后才终于看了我的 feedback……"
+  },
+  {
+    "user": {
       "screenName": "jeda3342",
       "name": "Jeremy Dahlberg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1728198394697359360/7F1BWt7l_normal.jpg",
@@ -37,7 +52,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29062,
       "friendsCount": 572,
       "location": "Hong Kong"
     },
@@ -52,7 +67,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22320,
+      "followersCount": 22322,
       "friendsCount": 290,
       "location": "Guangdong"
     },
@@ -131,7 +146,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73425,
+      "followersCount": 73433,
       "friendsCount": 3384,
       "location": ""
     },
@@ -254,7 +269,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120728,
+      "followersCount": 120737,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -385,7 +400,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120728,
+      "followersCount": 120737,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -432,12 +447,29 @@
   },
   {
     "user": {
+      "screenName": "usetapestry",
+      "name": "tapestry",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912506036444946432/81vO7-AV_normal.jpg",
+      "description": "The internet's social graph ⚡️ by @solana | Claim your profile ➡️ https://t.co/7GFL05oseC",
+      "followersCount": 26808,
+      "friendsCount": 133,
+      "location": "solana"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpJ4gQlXUAEq28u.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/usetapestry/status/1914725483263950980",
+    "fullText": "What would happen if social data flowed as freely as financial data on Solana? 🤔 https://t.co/Gp3VGQpUcL"
+  },
+  {
+    "user": {
       "screenName": "yuxiyou",
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 104771,
-      "friendsCount": 232,
+      "followersCount": 104800,
+      "friendsCount": 233,
       "location": "Singapore"
     },
     "images": [],
@@ -464,11 +496,26 @@
   },
   {
     "user": {
+      "screenName": "dennistroeger",
+      "name": "Dennis Tröger",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909935894439587840/WnoD8wKO_normal.jpg",
+      "description": "Helping You to Validate Your SaaS & Save Month - Find, test, and validate your idea in 7 days - Free Course: → https://t.co/BpezGVAw9b",
+      "followersCount": 109,
+      "friendsCount": 67,
+      "location": "Join 500+ Builders →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dennistroeger/status/1914720424195166354",
+    "fullText": "Builders, this one’s for you.\n\nYou’ve launched.\nYou’ve tweeted your product.\nYou’ve maybe even posted to Product Hunt.\n\nAnd then... crickets.\n\nNot because your idea sucks.\nYou haven’t validated.\nNot really.\n\nValidation isn’t just a waitlist.\nIt’s not a landing page with zero"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18964,
+      "followersCount": 18965,
       "friendsCount": 1705,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -503,7 +550,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120728,
+      "followersCount": 120737,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -549,11 +596,28 @@
   },
   {
     "user": {
+      "screenName": "shoppietra",
+      "name": "Pietra | Your e-commerce operations platform",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1655403896242597889/bNqzsPpB_normal.jpg",
+      "description": "Turnkey solutions for business owners to run their online businesses. Members get the best rates on sourcing, packaging, fulfillment, and software.",
+      "followersCount": 1550,
+      "friendsCount": 51,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GpJkZYOW8AA9t6T.mp4"
+    ],
+    "tweetUrl": "https://x.com/shoppietra/status/1914703348579680468",
+    "fullText": "New in Pulse: Your personal AI analyst\n\nWe just launched a powerful new AI agent inside Pietra Pulse that helps you uncover what customers are saying about your brand, your products—even your competitors.\n\nJust ask a question, and Pulse AI scans social channels, reviews, and more https://t.co/E150sQXDlY"
+  },
+  {
+    "user": {
       "screenName": "Dexponentx",
       "name": "Dexponent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1884242261527183360/xI1eor7K_normal.jpg",
       "description": "Decentralised Institutional-Grade Investments. Now DeFi is for everyone.",
-      "followersCount": 60489,
+      "followersCount": 60502,
       "friendsCount": 275,
       "location": "On-chain"
     },
@@ -636,7 +700,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29062,
       "friendsCount": 572,
       "location": "Hong Kong"
     },
@@ -655,7 +719,7 @@
       "name": "Aipotheosis Labs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1883510066260615168/cOo7Ogf0_normal.jpg",
       "description": "Building ACI.dev--the open source platform that connects your AI agents to 600+ tool integrations, accessible by function calling or a unified MCP server!",
-      "followersCount": 53,
+      "followersCount": 54,
       "friendsCount": 26,
       "location": ""
     },
@@ -670,7 +734,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18964,
+      "followersCount": 18965,
       "friendsCount": 1705,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -704,7 +768,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18964,
+      "followersCount": 18965,
       "friendsCount": 1705,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -736,7 +800,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 53955,
+      "followersCount": 53954,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -764,11 +828,28 @@
   },
   {
     "user": {
+      "screenName": "AltfinsA",
+      "name": "altFINS_altcoins",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1524687087814991874/9erwQkay_normal.jpg",
+      "description": "Find crypto trading ideas on altFINS. Trade smarter using Crypto Screener, AI Chart Patterns, Trade Setups. \n\nStart now for free: https://t.co/1HANEBcNym",
+      "followersCount": 10963,
+      "friendsCount": 1207,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpH9FyeWIAANMYQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AltfinsA/status/1914590537589444610",
+    "fullText": "🧵You spend hours scanning crypto charts.\nWe built a tool that does it for you  -  in seconds.\n\nAI-powered trade discovery, alerts, chart patterns, and TA. Here’s how it works (and why traders love it) 👇 https://t.co/8rHUb3YGrN"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29062,
       "friendsCount": 572,
       "location": "Hong Kong"
     },
@@ -783,7 +864,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18964,
+      "followersCount": 18965,
       "friendsCount": 1705,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -798,7 +879,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120728,
+      "followersCount": 120737,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -815,7 +896,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18964,
+      "followersCount": 18965,
       "friendsCount": 1705,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -830,7 +911,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 104797,
+      "followersCount": 104800,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -845,8 +926,8 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7014,
-      "friendsCount": 726,
+      "followersCount": 7015,
+      "friendsCount": 727,
       "location": "San Jose, CA"
     },
     "images": [],
@@ -860,7 +941,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18964,
+      "followersCount": 18965,
       "friendsCount": 1705,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -875,8 +956,8 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7014,
-      "friendsCount": 726,
+      "followersCount": 7015,
+      "friendsCount": 727,
       "location": "San Jose, CA"
     },
     "images": [
@@ -907,7 +988,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120728,
+      "followersCount": 120737,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -918,6 +999,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1914530694790807867",
     "fullText": "Trae 发布了最新的智能体模式，AI 代码编辑器中的智能体模式到底是什么？🧵\n\n今天 Trae 发布了最新的智能体和智能工具（MCP）功能，很多朋友问我：“AI 代码编辑器里的 Agent（智能体）模式是什么意思？跟以前的编辑模式有什么差别？”确实，过去几年 AI https://t.co/F2zLJmTAVD"
+  },
+  {
+    "user": {
+      "screenName": "HebbiaAI",
+      "name": "Hebbia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1810137626638483456/bUFO8ceN_normal.jpg",
+      "description": "The AI agent platform for finance & law",
+      "followersCount": 5168,
+      "friendsCount": 218,
+      "location": "hello@hebbia.com"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpG7QrGXEAA6I9r.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/HebbiaAI/status/1914519528521769230",
+    "fullText": "Eyes glazing over? Hebbia reads it all, from filings to decks to transcripts and PDFs, then structures it into simple clean tables, so that you can find the alpha. It’s just the edge you need, without the meltdown. https://t.co/LdLykQwX84"
   },
   {
     "user": {
@@ -1043,7 +1141,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73425,
+      "followersCount": 73433,
       "friendsCount": 3384,
       "location": ""
     },
