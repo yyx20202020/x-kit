@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 53946,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpRHsrLbYAEEksN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1915235020874407951",
+    "fullText": "如果2025年项目要选择 auth 库的，我推荐两个：\n\n假如要是一体化解决方案，我极力推荐 better-auth：\nhttps://t.co/Y14GA3s0a7\n因为它的功能简直太全太全了，几乎没有想不到的，新项目用来减少特别多工作，支持多种前端框架， typescript 写的太好了，几乎所有功能都能找到类型定义，甚至跳脱 auth https://t.co/p24eCx4ZPX"
+  },
+  {
+    "user": {
+      "screenName": "UnboxingTomorro",
+      "name": "Unboxing Tomorrow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1200223320777641984/YdBMwV-E_normal.jpg",
+      "description": "💡🗼)))📻 Electrical engineer & world traveler doing projects in electronics, robotics, and communications systems.  The best way to learn is by doing.",
+      "followersCount": 354,
+      "friendsCount": 179,
+      "location": "Springfield, Illinois USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1915221154970705920/vid/avc1/1920x1080/jpALRpv3zpUv_S2l.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/UnboxingTomorro/status/1915221370860167393",
+    "fullText": "Caught THIS in Minneapolis at Night—You Won’t Believe What I Saw! https://t.co/9sbrSGNv39"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26805,
+      "followersCount": 26811,
       "friendsCount": 114,
       "location": "China"
     },
@@ -33,11 +67,26 @@
   },
   {
     "user": {
+      "screenName": "DeRE_dao",
+      "name": "Decentralized Real Estate",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1545885918690562048/SsV6W0_G_normal.jpg",
+      "description": "Building the next generation of real world asset tokenization on the XRP Ledger. Sign up now!",
+      "followersCount": 5816,
+      "friendsCount": 171,
+      "location": "Blockchain"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeRE_dao/status/1915172848471060821",
+    "fullText": "Looking to tokenize your property?"
+  },
+  {
+    "user": {
       "screenName": "ovst36099",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5953,
+      "followersCount": 5959,
       "friendsCount": 240,
       "location": "NewYork"
     },
@@ -71,7 +120,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5953,
+      "followersCount": 5959,
       "friendsCount": 240,
       "location": "NewYork"
     },
@@ -99,6 +148,23 @@
     ],
     "tweetUrl": "https://x.com/LAThieves/status/1915112042429862132",
     "fullText": "Time to Get in Your Bag and Run It Up 🚀\n\nWe're thrilled to announce our new partnership with @CordaRoys!\n#LAThieves https://t.co/PMUwQJxR2O"
+  },
+  {
+    "user": {
+      "screenName": "OraProtocol",
+      "name": "ORA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1887628221052497920/Z9c0SQaO_normal.jpg",
+      "description": "World Intelligence\n\n𝒪𝑅𝒜 𝒫𝑅𝒪 𝒩𝒪𝐵𝐼𝒮",
+      "followersCount": 296582,
+      "friendsCount": 1,
+      "location": "⛓️"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpPIdKta8AUwy6C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OraProtocol/status/1915095273040429059",
+    "fullText": "Unveiling ORA’s new whitepaper and tokenomics — introducing a groundbreaking concept: Web6.  \n\nWeb6 = Web3 of AI + Web3 of Crypto.\n\nThis is the new evolution of the internet: Read, Write, Think, Own. https://t.co/bTdUlAzHEV"
   },
   {
     "user": {
@@ -157,7 +223,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120881,
+      "followersCount": 120886,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -173,11 +239,28 @@
   },
   {
     "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16431,
+      "friendsCount": 1191,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpOt6xJWgAAzNb1.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1915065511479832954",
+    "fullText": "Catalyst Metals broke above its 50-day moving average and has maintained the momentum!\n\nThe stock, which we own in our gold royalty ETF, has delivered exceptional revenue and earnings growth – posting a 148% revenue increase in the last year while averaging 67.7% annual revenue https://t.co/iYNSFRTFCg"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58806,
+      "followersCount": 58798,
       "friendsCount": 356,
       "location": ""
     },
@@ -206,11 +289,45 @@
   },
   {
     "user": {
+      "screenName": "GeniusTerminal",
+      "name": "Genius",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790129938189656064/Sx7DNsZY_normal.jpg",
+      "description": "The easiest way to buy crypto & memes. \n\nAny token, any chain, 1 account.",
+      "followersCount": 24682,
+      "friendsCount": 80,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpN0FQlWMAAoIiS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeniusTerminal/status/1915050528138313770",
+    "fullText": "A quick lesson for the @Boithebear class. \n\nWith 1 click, in 1 account you can swap any token on Solana, Base, Avax and more to $Boi. \n\n🐻 Genius is self-custodial \n🐻 There is no KYC\n🐻 Swap across chains seamlessly \n\nCreate an account and on-ramp in less than 2 minutes. https://t.co/oyWrQ8CPln"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16431,
+      "friendsCount": 1191,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpOe5VVW0AArx4w.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1915049030758941031",
+    "fullText": "Did you know?\n\nEvery day in the U.S. alone, there are approximately 46,000 flights.\n\nAnd if you look on a global scale, there are over 106,000 daily flights around the world, according to the @IATA.\n\nThat’s not just traffic — it’s a sign of resilience, demand, and a thriving https://t.co/87PNInQeIL"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29055,
       "friendsCount": 574,
       "location": "Hong Kong"
     },
@@ -225,7 +342,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73455,
+      "followersCount": 73441,
       "friendsCount": 3385,
       "location": ""
     },
@@ -242,7 +359,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5953,
+      "followersCount": 5959,
       "friendsCount": 240,
       "location": "NewYork"
     },
@@ -272,11 +389,28 @@
   },
   {
     "user": {
+      "screenName": "spikesonly",
+      "name": "Sprint Science",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1349334679799922688/oRnlbj89_normal.jpg",
+      "description": "In-depth analysis on speed and human performance. Motion Analysis and sports technology consulting since 2006. Shares don’t imply endorsement.",
+      "followersCount": 33142,
+      "friendsCount": 341,
+      "location": "Rogue Island "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpNuduVXgAAr5xF.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/spikesonly/status/1914996912744264024",
+    "fullText": "You want to get faster? \n\nFocus on what matters and have a real system. \n\n⏱️The key is simple and honest math, addressing milliseconds, centimeters, and degrees.\n\nI wrote this super thread 🧵as this is the most useful information for consistently progressing with your training. https://t.co/2s3sSXx8KE"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -293,7 +427,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58806,
+      "followersCount": 58798,
       "friendsCount": 356,
       "location": ""
     },
@@ -312,7 +446,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29055,
       "friendsCount": 574,
       "location": "Hong Kong"
     },
@@ -329,7 +463,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -344,7 +478,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -378,7 +512,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -395,7 +529,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29055,
       "friendsCount": 574,
       "location": "Hong Kong"
     },
@@ -410,7 +544,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 5953,
+      "followersCount": 5959,
       "friendsCount": 240,
       "location": "NewYork"
     },
@@ -491,7 +625,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -524,7 +658,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -539,7 +673,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -554,7 +688,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -586,7 +720,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -603,7 +737,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18956,
+      "followersCount": 18953,
       "friendsCount": 1707,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -650,7 +784,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29063,
+      "followersCount": 29055,
       "friendsCount": 574,
       "location": "Hong Kong"
     },
@@ -665,7 +799,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22415,
+      "followersCount": 22417,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -688,6 +822,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1914832982915056125",
     "fullText": "持续成事的模式\n1.  抬头仰望星空\n2. 低头脚踏实地\n3. 保持注意力，不要嫉妒他人，不要和他人争对错"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16431,
+      "friendsCount": 1191,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpKzcfQWwAA3FBR.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1914790148937490460",
+    "fullText": "A potential $1 trillion U.S. defense budget is on the horizon. Trump’s proposed $106 billion increase for fiscal 2026 would mark the biggest jump in two decades—an important trend to watch across aerospace and defense industries. Chart courtesy of @mises. https://t.co/vQzqHoZJ6W"
   },
   {
     "user": {
@@ -720,5 +871,20 @@
     ],
     "tweetUrl": "https://x.com/genspark_ai/status/1914650977577394295",
     "fullText": "The Future of Presentations Is Here! \nIntroducing Genspark AI Slides, a full agentic tool that makes creating slides fast and simple. https://t.co/i1xY9mpUZm"
+  },
+  {
+    "user": {
+      "screenName": "AipoLabs",
+      "name": "Aipotheosis Labs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1883510066260615168/cOo7Ogf0_normal.jpg",
+      "description": "Building ACI.dev--the open source platform that connects your AI agents to 600+ tool integrations, accessible by function calling or a unified MCP server!",
+      "followersCount": 55,
+      "friendsCount": 26,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AipoLabs/status/1914645693689454937",
+    "fullText": "🔓https://t.co/ZNWgljF6yW is now fully open source (Apache 2.0)!\n\n👉 Come grab the repo &amp; drop a ⭐: https://t.co/mrJck9PKaL\n\nhttps://t.co/ZNWgljF6yW connects your AI agents to 600+ tool integrations with multi-tenant authentication, granular permissions, and dynamic tool"
   }
 ]
