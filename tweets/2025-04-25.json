@@ -1,6 +1,25 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 120998,
+      "friendsCount": 1311,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpXAYJ4WAAAv5l6.jpg",
+      "https://pbs.twimg.com/media/GpXAiIAXsAAhfP1.jpg",
+      "https://pbs.twimg.com/media/GpXBM7vWUAAgQXo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1915650504169865314",
+    "fullText": "一个 ChatGPT / Gemini 的实用技巧：检索并提取部分 PDF 内容\n\nChatGPT 和 Gemini 应该都内置了 PDF 工具，可以读取 PDF 内容，也可以帮你检索。如果你选的是推理模型的话（o3/o4-mini/Gemini 2.5 pro等）由于它们都有推理能力，所以可以对 PDF 先进行检索，然后去提取。 https://t.co/YTtzt76E0w"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -69,7 +88,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54005,
+      "followersCount": 54010,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -101,7 +120,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187513,
+      "followersCount": 187515,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -137,7 +156,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6028,
+      "followersCount": 6029,
       "friendsCount": 240,
       "location": "NewYork"
     },
@@ -154,7 +173,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187513,
+      "followersCount": 187515,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -188,7 +207,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7014,
+      "followersCount": 7013,
       "friendsCount": 727,
       "location": "San Jose, CA"
     },
@@ -245,6 +264,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/PFF/status/1915552738269680121",
     "fullText": "PFF NFL Draft Show 2025: Night One! https://t.co/ijrFGdD2Ov"
+  },
+  {
+    "user": {
+      "screenName": "fullcastandcrew",
+      "name": "Full Cast and Crew Podcast",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780254852662046721/Gy5MxBwG_normal.jpg",
+      "description": "The Full Cast and Crew Podcast. TV Producer. Dead '71-74. Dead & Co today. Skiing & Our Cat. Rockford Files & Columbo are my comfort zone. Physical Media, Pls.",
+      "followersCount": 3620,
+      "friendsCount": 1522,
+      "location": "Wherever You Get Podcasts"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpVjVoJW8AAUvl-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fullcastandcrew/status/1915549094518677979",
+    "fullText": "Episode 227: 'Caddyshack' (1980).  \n\nHow one of the druggiest location shoots resulted in a mess of a film saved by the least likely Producer in Hollywood and an animatronic gopher. Rodney learns \"Action\". Ted Knight steals the whole picture. Bill Murray makes off with Lacy https://t.co/T9Y4RkKQA2"
   },
   {
     "user": {
@@ -340,7 +376,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4102051,
+      "followersCount": 4102106,
       "friendsCount": 3,
       "location": ""
     },
@@ -585,7 +621,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22480,
+      "followersCount": 22482,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -698,7 +734,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73472,
+      "followersCount": 73471,
       "friendsCount": 3387,
       "location": ""
     },
@@ -796,7 +832,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29071,
+      "followersCount": 29067,
       "friendsCount": 574,
       "location": "Hong Kong"
     },
@@ -854,11 +890,28 @@
   },
   {
     "user": {
+      "screenName": "smacktok",
+      "name": "SmackTok",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878535815845842944/LxxiirTo_normal.jpg",
+      "description": "Higher/Lower Picks App.  You're early if you know about us now. We are the future of Sports Engagement.\n\nSupport: support@smacktok.com",
+      "followersCount": 4590,
+      "friendsCount": 317,
+      "location": "IN THE APP STORE 👉"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1915396251581112320/vid/avc1/720x1280/BsAH4Z8RAjaLgW26.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/smacktok/status/1915396345084678376",
+    "fullText": "You don’t even have to know sports that well…\n\nYou just need to know who THINKS they know sports and fade em 😉 https://t.co/8cCafCjhJC"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26842,
+      "followersCount": 26844,
       "friendsCount": 115,
       "location": "China"
     },
@@ -888,7 +941,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29071,
+      "followersCount": 29067,
       "friendsCount": 574,
       "location": "Hong Kong"
     },
@@ -989,7 +1042,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 26842,
+      "followersCount": 26844,
       "friendsCount": 115,
       "location": "China"
     },
@@ -1069,7 +1122,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54005,
+      "followersCount": 54010,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1387,7 +1440,7 @@
       "name": "Standing for Freedom Center",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1891132341612929024/aDAp-m_t_normal.jpg",
       "description": "Life, Liberty, & Truth are under attack. We exist to advance all three & defend Biblical principles for the next generation.",
-      "followersCount": 46115,
+      "followersCount": 46112,
       "friendsCount": 1245,
       "location": "Liberty University"
     },
@@ -1609,7 +1662,7 @@
       "name": "Flux Point Studios",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836628164342353920/KmBOdS5e_normal.jpg",
       "description": "Competitive Gaming & AI Solutions. https://t.co/d8YqVjaAc8 Cardano $SHARDS $AGENTIC",
-      "followersCount": 16153,
+      "followersCount": 16154,
       "friendsCount": 2837,
       "location": "Delaware, USA"
     },
