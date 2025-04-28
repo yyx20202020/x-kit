@@ -1,12 +1,57 @@
 [
   {
     "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 6063,
+      "friendsCount": 240,
+      "location": "NewYork"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1916915260461879580",
+    "fullText": "@manateelazycat 我也是从腾讯云开始，也蛮习惯他们的操作界面和逻辑。\n\n但是随着业务的深入，就发现同样的“轻量云”腾讯的网络那真是差、真是没保障。\n\n然后也服务器、数据库、OSS就都上了“阿里云”，阿里云让人舒服的地方真就是找的到人和你解决问题，甚至聊一聊部署思路等。\n\n目前主力的服务器上了“搬瓦工”🐶"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 27042,
+      "friendsCount": 115,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1916896838902517954",
+    "fullText": "省流回复： 为啥不用CloudFlare？\n\n我们懒猫微服需要全球搭建内网穿透服务， CloudFlare 的策略和我们不一样， 不允许我们自定义搭建，导致没法用他们牛逼的服务"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18941,
-      "friendsCount": 1717,
+      "friendsCount": 1716,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1916895854675267886",
+    "fullText": "而且我要扫码加群，右上角那么大一个扫描没办法用，因为是支付用的，需要左上角点进去再右上角，很不符合直觉"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18941,
+      "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -19,12 +64,79 @@
   },
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 121468,
+      "friendsCount": 1312,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GposEU1XgAcTPAy.jpg",
+      "https://pbs.twimg.com/media/GposIbXXgBA1i92.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1916893123952738699",
+    "fullText": "提示词（需要参考图）：一张3D https://t.co/nN9rtlruaI"
+  },
+  {
+    "user": {
+      "screenName": "TXReasSolutions",
+      "name": "Texans for Reasonable Solutions",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1552246705646702592/ftIhMogH_normal.jpg",
+      "description": "Texans for Reasonable Solutions 🏗 🏠 Mission: Solve Texas’s housing crisis by making the American Dream attainable for Texans. Sign up👇🏼",
+      "followersCount": 1700,
+      "friendsCount": 695,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gpohm1TWAAAYXSa.mp4"
+    ],
+    "tweetUrl": "https://x.com/TXReasSolutions/status/1916881548382441861",
+    "fullText": "YES:  ✅ HB 23 reforms Texas’s difficult permitting by allowing EXPERT 3rd Party Reviews to help w permitting homes + cutting red tape. 300,000 homes short in TX, this bill saves TIME + COSTS. #txlege \n\nIMPORTANTLY: An amendment will prevent MISUSE, keeping our communities safe. https://t.co/ivXPraE7dD"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18941,
-      "friendsCount": 1717,
+      "friendsCount": 1716,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpoUOhxawAAIeWc.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1916867191405973720",
+    "fullText": "看似只是一个新功能，但跑起来之后市面上的U卡会变成非常鸡肋的东西，因为走链上的成本真的很低，而且内部结算的话是可以做到不上链，从合约等其它地方就很容易把成本给拉平了 https://t.co/JE2y3jemlH"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 18153,
+      "friendsCount": 813,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/1916858829305999476",
+    "fullText": "简历投递 luyu@dify.ai"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18941,
+      "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -55,7 +167,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73524,
+      "followersCount": 73525,
       "friendsCount": 3390,
       "location": ""
     },
@@ -105,7 +217,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18941,
-      "friendsCount": 1717,
+      "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -192,7 +304,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18941,
-      "friendsCount": 1717,
+      "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -205,12 +317,27 @@
   },
   {
     "user": {
+      "screenName": "McKinsey",
+      "name": "McKinsey & Company",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895832062352928768/oVBNTq7__normal.jpg",
+      "description": "Since 1926, the trusted advisor to the world's leading businesses, governments, and institutions. 130+ offices in 65+ countries.",
+      "followersCount": 653456,
+      "friendsCount": 1151,
+      "location": "Global"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McKinsey/status/1916809632611291329",
+    "fullText": "For over 100 years, McKinsey has helped organizations navigate transitions and disruptions to stay ahead. In times of complex change, McKinsey partners with leaders to develop resilient strategies and deliver value for stakeholders"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18941,
-      "friendsCount": 1717,
+      "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -254,6 +381,36 @@
   },
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 145427,
+      "friendsCount": 1414,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1916775396827136242",
+    "fullText": "这件事没有满意的结果之前我不会再发新帖。"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 145427,
+      "friendsCount": 1414,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1916772025537806499",
+    "fullText": "看来林雪菲不在乎，也不想发新帖道歉，这是人血馒头吃上瘾了，看看哪天你吃到的是自己的人血馒头吧，我们走着瞧。"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
@@ -268,6 +425,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/plusyip/status/1916765789715062850",
     "fullText": "这个博客要看广告才能继续看内容，Google Adsense 支持这种激励广告？我看我账号的后台并没有。 https://t.co/qVh1Z1czSx"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 145427,
+      "friendsCount": 1414,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1916763609373331740",
+    "fullText": "最近这件事作为一个小插曲，就能看出许多人根本不值得认识。"
   },
   {
     "user": {
@@ -392,7 +564,24 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18941,
-      "friendsCount": 1717,
+      "friendsCount": 1716,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1916726468346007552/vid/avc1/1920x1080/GdpKrb_R4e6clWlP.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/LeeMmai/status/1916727168245416090",
+    "fullText": "https://t.co/3nz1nEBCht https://t.co/LclHXUev1u"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18941,
+      "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -427,7 +616,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18941,
-      "friendsCount": 1717,
+      "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -462,7 +651,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18941,
-      "friendsCount": 1717,
+      "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -557,6 +746,36 @@
   },
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 145427,
+      "friendsCount": 1414,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1916695592664994031",
+    "fullText": "外国人在日本申请手机号，需要上传在留卡信息，如果知道你的手机号，总有办法通过各种渠道得到你的登录住址，许多人认为日本是个法治社会，只要报警，警察能管到所有事，但日本也是个信任压力社会，雇几个私人侦探，就能了解到一个人的生活作息，平日去处。你敢光明正大这样挑衅，就不要怪我不客气。我"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
+      "followersCount": 9495,
+      "friendsCount": 3450,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1916685389600821565",
+    "fullText": "🎙️《乱翻书：京东和美团的直球对决》⬇️\nhttps://t.co/kpl93KTRtt"
+  },
+  {
+    "user": {
       "screenName": "HumanDigital_",
       "name": "Human Digital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916296667521028099/EQG-6bfC_normal.jpg",
@@ -569,6 +788,51 @@
     "videos": [],
     "tweetUrl": "https://x.com/HumanDigital_/status/1916684288491442480",
     "fullText": "Excited to share that Human Digital has passed its first official smart contract audit with @SolidProof_io. No critical or high issues were found.\n\nWe didn't get a perfect score — nor did we expect to. This audit serves as a confirmation of standing and a means for improvement."
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 121468,
+      "friendsCount": 1312,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1916683986585244118",
+    "fullText": "虽然 OpenAI、Gemini 的 Deep Research 不能上传 PDF 文件，也不会让你下载文件，但是你可以提供一个搜索引擎可以搜索到的 PDF URL（可以用 \"filetype:pdf + 关键字\" 找到可以搜索到的 PDF），要求它们把 PDF 生成 Markdown 并作为最终结果呈现"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8251,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1916681913873342581",
+    "fullText": "以前备案的网站，如果没有内容，挂个页面上去，有备案号就可以了，现在必须按照备案的时候填写的介绍做完整的网站才行，不然其他备案都不给过。。。"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
+      "followersCount": 145427,
+      "friendsCount": 1414,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1916672017094635770",
+    "fullText": "林小姐公众号的标题，主要内容（包括写我的不实内容，什么开旅馆疫情破产了这种乱七八糟不知道从哪儿听来的从未发生的事情，说我照片惨不忍睹了）和小红书账号（我第一篇帖子发布的小红书）标题，内容几乎完全一致，IP 也都是日本，现在说是"
   },
   {
     "user": {
@@ -586,6 +850,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/plusyip/status/1916670109202129310",
     "fullText": "备案 App 又是恶心的经历 😅 初审的傻逼问我 App 是个人用的还是给别人用的，用个人主体备案，只能个人用，要给别人用必须用企业备案，这么说我只能说个人用的了，去他妈的。。。 https://t.co/34znjsudBB"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 18153,
+      "friendsCount": 813,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/1916666368998744133",
+    "fullText": "@dotey 感觉这可能会有失偏薄，原因是与 AI 沟通更多时候在提问，表达的机会很少。"
   },
   {
     "user": {
