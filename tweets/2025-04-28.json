@@ -1,11 +1,78 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22512,
+      "friendsCount": 292,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpmjCHDbAAAZBrQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1916743599183585474",
+    "fullText": "安德斯老爹 65 岁了，typescript-go 里贡献还能排第二，好多程序员 30 岁转了管理岗后，程序都没学会如何写呢，就忙着天天发号施令，再也不碰代码，“技术决策” 这件事情，如果你没有持续的，具体的体验，很多时候就是空中楼阁，雾里看花，很多人热衷 “道术之论”，但没有术的道，是立不住的，是废的： https://t.co/fx6kSvZPN9"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 6054,
+      "friendsCount": 239,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpmitEpasAAas7w.jpg",
+      "https://pbs.twimg.com/media/GpmgHHWaIAAWz7N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1916742039133409382",
+    "fullText": "大家都是草台班子\n\n今年第二次版本更新弄出bug，用户计费全都为0；gpt-image-1 单次调用费用约0.8~1.2人民币，今天算是亏本了。\n\n🤣🤣 https://t.co/nRCaIm5g73"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22512,
+      "friendsCount": 292,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gpmg_7tb0AAWN_C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1916740284463067388",
+    "fullText": "Windows 下调试最有效率的还是 Visual C++，什么 gdb/lldb 套不套 GUI 壳都不好用，VC 调试一直在更新完善，现在都能问 Copilot 为啥崩溃了： https://t.co/EcITQpAKW3"
+  },
+  {
+    "user": {
+      "screenName": "T_Alexandre_",
+      "name": "Tamara ( tamara.base.eth )",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734107623258271744/Q-ZMbeqX_normal.jpg",
+      "description": "Co-founder @gen_rize | \nDeFi | Art | Travel | \nFormerly gems & LVMH | \nBase builder |\nPeople, passion, purpose & possibilities ✨",
+      "followersCount": 2645,
+      "friendsCount": 1561,
+      "location": "Beverly Hills, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/T_Alexandre_/status/1916733805047816244",
+    "fullText": "A great majority of people believe in luck, circumstances or timing, constrained by these ideas. \nBut strong, empowered, extraordinary people believe in cause and effect 💙\n\n #worldbuilders"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -40,7 +107,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -57,7 +124,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6055,
+      "followersCount": 6054,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -75,7 +142,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -175,7 +242,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8246,
+      "followersCount": 8247,
       "friendsCount": 290,
       "location": ""
     },
@@ -207,7 +274,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54105,
+      "followersCount": 54104,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -289,7 +356,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -494,6 +561,23 @@
   },
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916706920649637888/Vm762XgU_normal.jpg",
+      "description": "The #NBAPlayoffs presented by Google continue Monday on TNT! 🏀 7:30pm/et: @cavs (3-0) @MiamiHEAT 🏀 10:00pm/et: @HoustonRockets (1-2) @warriors",
+      "followersCount": 48224871,
+      "friendsCount": 2008,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1916571491493105664/vid/avc1/1920x1080/TYcjookH7URJd4Ou.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1916572188431237170",
+    "fullText": "Jalen... that's not fair 🔥\n\nNYK/DET I 4Q on ABC https://t.co/Rgh5ITQfs1"
+  },
+  {
+    "user": {
       "screenName": "larryperelman",
       "name": "Lawrence Perelman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1156591639495958529/2bjZ7TnR_normal.jpg",
@@ -515,7 +599,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29062,
+      "followersCount": 29060,
       "friendsCount": 576,
       "location": "Hong Kong"
     },
@@ -620,7 +704,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -698,7 +782,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -715,7 +799,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6055,
+      "followersCount": 6054,
       "friendsCount": 239,
       "location": "NewYork"
     },
@@ -747,7 +831,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -779,7 +863,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -809,7 +893,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -826,7 +910,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18914,
+      "followersCount": 18912,
       "friendsCount": 1716,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -843,7 +927,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54105,
+      "followersCount": 54104,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -926,7 +1010,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105074,
+      "followersCount": 105081,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -1058,6 +1142,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Bellassupernova/status/1916320442052202999",
     "fullText": "Is prosperity earned?"
+  },
+  {
+    "user": {
+      "screenName": "timacheson",
+      "name": "Tim Acheson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1167635492/Tim_Acheson_normal.jpg",
+      "description": "Entrepreneur, techie, mad scientist, dad.\n\nTech, web, AI, travel, outdoors, property, business, science, history, theology, politics, farming, scuba, boats, etc",
+      "followersCount": 32611,
+      "friendsCount": 35531,
+      "location": "Guess where?"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1916314146334756864/vid/avc1/720x1280/G-ssQDXYmVfJM-PY.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/timacheson/status/1916315446589981098",
+    "fullText": "🤦‍♂️ Should bullies in our society be indulged, or ostracized?\nhttps://t.co/k8XdPpkhx3"
   },
   {
     "user": {
