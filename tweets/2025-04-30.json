@@ -1,6 +1,42 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 27277,
+      "friendsCount": 117,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpwWWlybQAA2mTk.jpg",
+      "https://pbs.twimg.com/media/GpwWsRAb0AAFtCJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1917433157005238699",
+    "fullText": "世界上最大的私有云应用商店\n\n懒猫微服应用商店今天已经995款应用啦， 5.1节社区大佬们轻松超越1000款应用。\n\n我们LPK软件包相对于Docker最大好处就是，所有镜像都构建好了，一键就可以安装。 不用像Dockerfile那样配置镜像，折腾环境，还非常安全。\n\n懒猫微服的架构设计也非常先进​\n1. 底层系统： https://t.co/FSjA4NTbbl"
+  },
+  {
+    "user": {
+      "screenName": "ovst36099",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 6067,
+      "friendsCount": 241,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpwVheKbwAAa8Gl.jpg",
+      "https://pbs.twimg.com/media/GpwVii0aYAA18Pc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ovst36099/status/1917431893483741683",
+    "fullText": "群友分享的一个提示词，蛮有意思的玩法。\n\n---提示词--- https://t.co/Dbk3yRjtfe"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -37,7 +73,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121566,
+      "followersCount": 121574,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -54,7 +90,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4111753,
+      "followersCount": 4111828,
       "friendsCount": 3,
       "location": ""
     },
@@ -99,7 +135,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9531,
+      "followersCount": 9536,
       "friendsCount": 3450,
       "location": ""
     },
@@ -126,6 +162,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fuzzy_balls123/status/1917372325399347553",
     "fullText": "「一歩一歩、千里の道を億ドルに向かって歩む。」\n$Fuzzy @fuzzy_xrp https://t.co/mFZPgQr9IY"
+  },
+  {
+    "user": {
+      "screenName": "Stocktwits",
+      "name": "Stocktwits",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881836380302557184/WAeW-Tft_normal.png",
+      "description": "World's largest social media platform for traders & investors 📈\n\nAvailable on Web, iOS & Android\n\nJoin Stocktwits for Free 👇",
+      "followersCount": 1071151,
+      "friendsCount": 2712,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917365342654849024/vid/avc1/1920x1080/4yMJlhfVCI2J0NBx.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Stocktwits/status/1917365646603739168",
+    "fullText": "ONLY ONE MORE SLEEP...\n\nThe Cashtag Awards Presented by @eToro is tomorrow! 🍻\n\nIt’s (almost) time to celebrate the creators, products, and bold ideas shaping the future of markets, chosen by the community, for the community! 🎉 \n\nLast chance, get your tickets now! https://t.co/3aFT88HFQb"
   },
   {
     "user": {
@@ -237,6 +290,23 @@
     ],
     "tweetUrl": "https://x.com/Voted4Richard/status/1917329843420815797",
     "fullText": "@Lawrence O'Donnell is the Man! @MSNBC #cheapshots https://t.co/AYDBhQTvl4"
+  },
+  {
+    "user": {
+      "screenName": "ownthedoge",
+      "name": "Own The Doge 🐶🖼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1549962330368270336/Ymfk7XtM_normal.jpg",
+      "description": "The community that owns the Doge IP via $DOG 0xBAac2B4491727D78D2b78815144570b9f2Fe8899 and the Cocoro IP via $COCORO on Base @officialcocoro",
+      "followersCount": 119709,
+      "friendsCount": 1027,
+      "location": "Internet"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpuwoxUWIAAbmMr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ownthedoge/status/1917320285075783831",
+    "fullText": "https://t.co/By2WY3tjeZ"
   },
   {
     "user": {
@@ -510,7 +580,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121566,
+      "followersCount": 121574,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -546,7 +616,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121566,
+      "followersCount": 121574,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -581,7 +651,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121566,
+      "followersCount": 121574,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -628,6 +698,26 @@
   },
   {
     "user": {
+      "screenName": "LassuytChristop",
+      "name": "Christophe Lassuyt",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1676220588065714176/0jQuI5XY_normal.png",
+      "description": "Dad. French and pro peace. CEO & Co-founder at https://t.co/pukQGMyyaG - B2B fiat & stablecoin spend app & accounting. Previously CFO",
+      "followersCount": 10286,
+      "friendsCount": 2767,
+      "location": "Singapore"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpmDE4fbcAAtQ4J.jpg",
+      "https://pbs.twimg.com/media/GpmDE4qaAAAyzG4.jpg",
+      "https://pbs.twimg.com/media/GpmDJdNa8AAYtPI.jpg",
+      "https://pbs.twimg.com/media/GpmDLWGboAAjK_C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LassuytChristop/status/1917240207641895329",
+    "fullText": "5 Lessons for Accountants in the Age of Blockchain, and a preview of the crypto accounting guide 2025 👉 \n\nAccounting is evolving fast in blockchain. In 2025, confidentiality, automation, and productivity will be non-negotiable for accountants. \n\nHere are five lessons from the https://t.co/YDZK0Zbmdj"
+  },
+  {
+    "user": {
       "screenName": "SuddenlyJon",
       "name": "jonathan 🔮 ♞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916896912948473856/oeFItnfj_normal.jpg",
@@ -649,7 +739,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27276,
+      "followersCount": 27277,
       "friendsCount": 117,
       "location": "China"
     },
@@ -715,7 +805,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73560,
+      "followersCount": 73563,
       "friendsCount": 3390,
       "location": ""
     },
@@ -747,7 +837,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22569,
+      "followersCount": 22571,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -830,7 +920,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18923,
+      "followersCount": 18924,
       "friendsCount": 1719,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -882,7 +972,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58778,
+      "followersCount": 58780,
       "friendsCount": 356,
       "location": ""
     },
@@ -899,7 +989,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22569,
+      "followersCount": 22571,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -914,7 +1004,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22569,
+      "followersCount": 22571,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -929,7 +1019,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5788,
+      "followersCount": 5789,
       "friendsCount": 1210,
       "location": ""
     },
@@ -963,7 +1053,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73560,
+      "followersCount": 73563,
       "friendsCount": 3390,
       "location": ""
     },
@@ -997,7 +1087,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105162,
+      "followersCount": 105164,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -1031,7 +1121,7 @@
       "name": "More Crypto Online",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886460135502934016/dtu1NZsu_normal.jpg",
       "description": "Crypto Technical Analysis & Elliott Wave Theory | Trading Psychology | 290K+ on YouTube 📺 https://t.co/8RagydBZfT | Join the MCO Community 👇🏻",
-      "followersCount": 31551,
+      "followersCount": 31552,
       "friendsCount": 302,
       "location": ""
     },
@@ -1065,7 +1155,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18923,
+      "followersCount": 18924,
       "friendsCount": 1719,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1129,7 +1219,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18923,
+      "followersCount": 18924,
       "friendsCount": 1719,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1144,7 +1234,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29081,
+      "followersCount": 29082,
       "friendsCount": 576,
       "location": "Hong Kong"
     },
@@ -1161,7 +1251,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121566,
+      "followersCount": 121574,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -1356,6 +1446,23 @@
   },
   {
     "user": {
+      "screenName": "FelaLyr",
+      "name": "Fela'lyr Dusklily🪻🌆 Mama elf to all 🇨🇭🇳🇴",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916801865519398912/vvGHG7oW_normal.jpg",
+      "description": "⊱❀⊰ Local Mama who loves JRPG and Simulators too much ⊱❀⊰ \n⊱❀⊰ Twitch Affiliat ⊱❀⊰ \nMama: @azuk_21\npapa: @veenaliciousVT\nbanner:@May_Cuii    ⊱❀⊰",
+      "followersCount": 543,
+      "friendsCount": 377,
+      "location": " https://www.twitch.tv/felalyr"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GppXrMqWAAAhpxJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FelaLyr/status/1916941103304937489",
+    "fullText": "LETS GO!\n🥹 https://t.co/ww3RpOxpig"
+  },
+  {
+    "user": {
       "screenName": "KTSmithFFSN",
       "name": "Kevin Smith",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1862592745782591488/6DBEPPNO_normal.jpg",
@@ -1411,7 +1518,7 @@
       "name": "Boba Cat",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1818020996944732160/H8g8lGVP_normal.jpg",
       "description": "$PSPS is a token inspired by the adopted cat of Dogecoin Co-founder @BillyM2k, raising awareness of crypto philanthropy and supporting pet shelters worldwide.",
-      "followersCount": 12605,
+      "followersCount": 12602,
       "friendsCount": 102,
       "location": ""
     },
@@ -1473,5 +1580,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/imctc_en/status/1916817282816266356",
     "fullText": "The Delegates of the Republic of #Sierra_Leone to #IMCTC held today a ceremony to celebrate their country’s Independence Day, in the presence of IMCTC Secretary General, Member Countries’ Delegates and personnel. https://t.co/lzG6gVBww9"
+  },
+  {
+    "user": {
+      "screenName": "jcyber99",
+      "name": "JCyber⚡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909722558909317120/6JCtcab9_normal.jpg",
+      "description": "Family First ⚡ Bitcoin Strategist ⚡ Hodling Since 2017 ⚡ No advice. Only conviction.",
+      "followersCount": 765,
+      "friendsCount": 448,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jcyber99/status/1916722495358464050",
+    "fullText": "Join the Bitcoin Army.\n\nFor more pure Bitcoin content from myself and other Bitcoin Army members.\n\nIt only costs you a click.\n\nIf your timeline isn’t backed by the Bitcoin Army,\nyou’re already at a disadvantage.\nhttps://t.co/A6uehYhLzJ"
   }
 ]
