@@ -1,6 +1,51 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22571,
+      "friendsCount": 291,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1917456985706082716",
+    "fullText": "突然发现 58 同城这家网站，好像已经很久很久没有听人提起过了。"
+  },
+  {
+    "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
+      "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
+      "followersCount": 7284,
+      "friendsCount": 476,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1917453530291659171",
+    "fullText": "C 世界只有 GNU LGPL v3 和 GNU GPL v2 协议下的有理数库 gmp (https://t.co/HBhjbmnB8n，flint 的协议一样，而且也是基于 gmp) 么？有没有宽松一点的比如基于 Apache 2 协议的？C++ boost 倒是有一个有理数的库，只是感觉没有 gmp 好。"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18920,
+      "friendsCount": 1719,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1917453199155552303",
+    "fullText": "鼠标的eDPI今年一年间从400变成800又变成1600，游戏也不想打了，我就知道我老了🥲"
+  },
+  {
+    "user": {
       "screenName": "emad056055",
       "name": "عماد الحربي",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/3377111730/62d716e4c81d15b521f49bb5f7d0b004_normal.jpeg",
@@ -39,7 +84,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27281,
+      "followersCount": 27285,
       "friendsCount": 117,
       "location": "China"
     },
@@ -57,7 +102,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6071,
+      "followersCount": 6070,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -107,7 +152,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121584,
+      "followersCount": 121588,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -124,7 +169,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4111976,
+      "followersCount": 4112009,
       "friendsCount": 3,
       "location": ""
     },
@@ -169,7 +214,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9541,
+      "followersCount": 9548,
       "friendsCount": 3450,
       "location": ""
     },
@@ -203,7 +248,7 @@
       "name": "Stocktwits",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1881836380302557184/WAeW-Tft_normal.png",
       "description": "World's largest social media platform for traders & investors 📈\n\nAvailable on Web, iOS & Android\n\nJoin Stocktwits for Free 👇",
-      "followersCount": 1071166,
+      "followersCount": 1071173,
       "friendsCount": 2712,
       "location": "New York, NY"
     },
@@ -220,7 +265,7 @@
       "name": "The Bettor Life ♠️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1041735158406230016/cJEApVcI_normal.jpg",
       "description": "Bettor Than Ever. Co-host of @DoubleChancePod. Veteran-owned business. #TipYourDealers\n\nSupport the show with donation at the link below.",
-      "followersCount": 6362,
+      "followersCount": 6335,
       "friendsCount": 368,
       "location": "Casino"
     },
@@ -348,7 +393,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6071,
+      "followersCount": 6070,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -382,7 +427,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6071,
+      "followersCount": 6070,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -576,11 +621,28 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 242170,
+      "friendsCount": 5051,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917265831769100288/vid/avc1/1080x1920/RLDGflfy-H7aFJ_e.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1917265906633171338",
+    "fullText": "President Trump’s first 100 days in office have been characterized by some of the largest deregulatory efforts in the modern era, a contrast to the previous administration that grew the regulatory state by $5 billion a day.\n\nNow, proclamations, executive orders, presidential https://t.co/Oalcn9KFVu"
+  },
+  {
+    "user": {
       "screenName": "ovst36099",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6071,
+      "followersCount": 6070,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -631,7 +693,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121584,
+      "followersCount": 121588,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -667,7 +729,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121584,
+      "followersCount": 121588,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -702,7 +764,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121584,
+      "followersCount": 121588,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -736,8 +798,8 @@
       "name": "Luke Alexander 🥂🦇",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908912129018564609/6OvHrIB3_normal.jpg",
       "description": "Founder @kendosalesai @tryclosify @closercartel | Trained over 5000+ sales reps. Building the future",
-      "followersCount": 69153,
-      "friendsCount": 1134,
+      "followersCount": 69158,
+      "friendsCount": 1135,
       "location": ""
     },
     "images": [],
@@ -790,7 +852,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27281,
+      "followersCount": 27285,
       "friendsCount": 117,
       "location": "China"
     },
@@ -856,7 +918,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73567,
+      "followersCount": 73568,
       "friendsCount": 3390,
       "location": ""
     },
@@ -864,6 +926,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/1917224706517897503",
     "fullText": "Things I like\nhttps://t.co/kdCM1snMzg"
+  },
+  {
+    "user": {
+      "screenName": "10minutedrill",
+      "name": "10 Minute Drill",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889767828229607426/m46YXNvN_normal.jpg",
+      "description": "Your morning 10-minute rundown of the most important stories in news and politics, hosted by veteran political strategist @mattdizwhitlock. New episodes T/Th.",
+      "followersCount": 1623,
+      "friendsCount": 95,
+      "location": "Washington, DC "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917046368041938944/vid/avc1/1280x720/2tUE7BOGJtvyyyDZ.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/10minutedrill/status/1917218567629816303",
+    "fullText": "Europe has painted themselves into a corner by destroying their own reliable energy and relying heavily on Russia and China for energy, supply chains, and telecoms infrastructure.\n\nThese trade negotiations are a great opportunity to shift away from autocrats.\n\nFeat. @Michael7ucci https://t.co/EOZ6e7b3Az"
   },
   {
     "user": {
@@ -888,7 +967,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22573,
+      "followersCount": 22571,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -971,7 +1050,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18924,
+      "followersCount": 18920,
       "friendsCount": 1719,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1040,7 +1119,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22573,
+      "followersCount": 22571,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -1055,7 +1134,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22573,
+      "followersCount": 22571,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -1070,7 +1149,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5789,
+      "followersCount": 5788,
       "friendsCount": 1210,
       "location": ""
     },
@@ -1104,7 +1183,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73567,
+      "followersCount": 73568,
       "friendsCount": 3390,
       "location": ""
     },
@@ -1138,7 +1217,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105164,
+      "followersCount": 105169,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -1206,7 +1285,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18924,
+      "followersCount": 18920,
       "friendsCount": 1719,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1270,7 +1349,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18924,
+      "followersCount": 18920,
       "friendsCount": 1719,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1285,7 +1364,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 29082,
+      "followersCount": 29084,
       "friendsCount": 576,
       "location": "Hong Kong"
     },
@@ -1450,6 +1529,23 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 242170,
+      "friendsCount": 5051,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1916960660723843072/pu/vid/avc1/720x1280/ZBWSLCkLgaRM9B1B.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1916960688632725660",
+    "fullText": "Remember when the libs were indicting Trump over nothing?\n\n@michaeljknowles https://t.co/6mMa2rs9SR"
+  },
+  {
+    "user": {
       "screenName": "OMGTheWhyFiles",
       "name": "The Why Files",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1535298735185469441/Nvc0IlpE_normal.jpg",
@@ -1582,6 +1678,23 @@
   },
   {
     "user": {
+      "screenName": "ComEd",
+      "name": "ComEd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1489232687961452552/cgAG2NEg_normal.jpg",
+      "description": "Report outages & emergencies 24/7 on our mobile app or at https://t.co/QFC4rWnlQZ. We're here to help M-F, 9A-5P. CEO: @GQenergy",
+      "followersCount": 49568,
+      "friendsCount": 833,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gpoyy-GXgAAR5Du.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ComEd/status/1916900444980281748",
+    "fullText": "The wait is over! Our annual #SwitchOnSummer event is BACK May 10! ☀️ Watch @BuckinghamFountain come to life, enjoy free entertainment, and explore community resources. Celebrate summer in true Chicago style! https://t.co/QQEpM3ruQ4"
+  },
+  {
+    "user": {
       "screenName": "BobaCatPsps",
       "name": "Boba Cat",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1818020996944732160/H8g8lGVP_normal.jpg",
@@ -1662,6 +1775,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/CoquiAdam/status/1916848515289960595",
     "fullText": "Trying to get the Sigmas Kickstarter page to 500 followers. Link in replies. https://t.co/pR8wlHb2nT"
+  },
+  {
+    "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 242170,
+      "friendsCount": 5051,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1916839071617540096/vid/avc1/1280x720/Jt_fxMzlJPgyo7ut.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1916839565849157828",
+    "fullText": "Border Czar @realtomhoman: “I worked for six presidents. Every president I ever worked for took border security seriously because you can’t have national security if you don’t have strong border security” https://t.co/Bgx3KI8STC"
   },
   {
     "user": {
