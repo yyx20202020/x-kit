@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 121557,
+      "friendsCount": 1312,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpwEe7HXYAAq4bL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1917412535130563006",
+    "fullText": "画一张程序员名片\n\n注：\n- 请修改中括号【】内信息\n- 本图使用 sora[.]com 生成\n\n提示词：\n一张插画特写，展示一只手拿着一张名片。这张名片被设计成在【VS Code】编辑器中打开的【JSON】文件样式。名片上的内容为采用【JSON】语法高亮格式的代码，包含清晰可见的键值对，比如：\n- 【\"姓名\": \"宝玉\"】 https://t.co/BBSQ4G7pQf"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4111622,
+      "followersCount": 4111654,
       "friendsCount": 3,
       "location": ""
     },
@@ -50,7 +67,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9517,
+      "followersCount": 9520,
       "friendsCount": 3450,
       "location": ""
     },
@@ -127,6 +144,21 @@
   },
   {
     "user": {
+      "screenName": "17thSCOG",
+      "name": "17th Special Civilians Operations Group",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892302476763697152/gJXx9DOa_normal.jpg",
+      "description": "Andrew Fayal Board Chairman, Project Milk Carton",
+      "followersCount": 16604,
+      "friendsCount": 814,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/17thSCOG/status/1917348431221211585",
+    "fullText": "According to U.S. Joint Doctrine, NATO AJP-3.10, JP 3-13.2 (PSYOP), and Department of Defense Directives, Information Operations (IO): \n\nIs the umbrella under which the military and intelligence communities conduct influence-based warfare.\n\nIt includes:\n\nPSYOP (Psychological"
+  },
+  {
+    "user": {
       "screenName": "courtstarr",
       "name": "Courtney Guertin",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1652934454351110146/TzMDhgu3_normal.jpg",
@@ -139,6 +171,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/courtstarr/status/1917345022137229473",
     "fullText": "\"Someday\" kills progress. \n\nBuilding new habits? Accountability is key.\n\nRecently I started:\n\n* Workout challenges w/ friends\n* Tracking meals &amp; steps w/ a buddy\n* Scheduling dates, not just hoping\n\nWe built Promise to make sticking to your goals easier.\n\nJoin challenges, add"
+  },
+  {
+    "user": {
+      "screenName": "zgm_inc",
+      "name": "Zhittya Genesis Medicine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1587978135454130176/BodIFS0u_normal.jpg",
+      "description": "Zhittya Genesis Medicine is developing treatments for Parkinson's Disease, Heart Disease, and more.",
+      "followersCount": 67,
+      "friendsCount": 18,
+      "location": "Las Vegas, Nevada"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917333947417255936/vid/avc1/1920x1080/8hm6a58rFj7AJqIF.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/zgm_inc/status/1917334043701698861",
+    "fullText": "Ever wonder why cures for diseases like Parkinson’s feel like distant dreams?\n\nThe London School of Economics (LSE) reveals that getting a new drug through FDA approval takes, on average, 18 years and $1–$2 billion.\n\nIf you discovered a life-changing treatment today, it wouldn’t https://t.co/t8q5DQPy20"
   },
   {
     "user": {
@@ -163,7 +212,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6068,
+      "followersCount": 6067,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -197,7 +246,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6068,
+      "followersCount": 6067,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -344,7 +393,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6068,
+      "followersCount": 6067,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -395,7 +444,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121547,
+      "followersCount": 121557,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -410,11 +459,28 @@
   },
   {
     "user": {
+      "screenName": "larsonraz",
+      "name": "LarLikesDoge",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870239631343493120/oUVUKsad_normal.jpg",
+      "description": "$DOGE $SOL $GME $REX Shitposter",
+      "followersCount": 466,
+      "friendsCount": 998,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gptv40aW0AAA-wi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/larsonraz/status/1917249184781975770",
+    "fullText": "I love seeing $HONK in the top featured coins for @bonk_fun \n\n$HONK on $BONK https://t.co/5s7xz88OyW"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121547,
+      "followersCount": 121557,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -432,7 +498,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121547,
+      "followersCount": 121557,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -479,11 +545,28 @@
   },
   {
     "user": {
+      "screenName": "SuddenlyJon",
+      "name": "jonathan 🔮 ♞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916896912948473856/oeFItnfj_normal.jpg",
+      "description": "AI Litigator | Utility Player | Strategist | 🔮 SprackSlips™️ | 🇺🇸 America First | Undercover Journalism | InfoSec ♔ | Tail @GrokBetsSports!",
+      "followersCount": 7126,
+      "friendsCount": 450,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917240104138973184/vid/avc1/1920x1080/MGL_0ijM4xiTeuQ0.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/SuddenlyJon/status/1917240190130655364",
+    "fullText": "Me standing in line for @Popeyes chicken https://t.co/WWmxZunyEK"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27269,
+      "followersCount": 27270,
       "friendsCount": 117,
       "location": "China"
     },
@@ -511,6 +594,23 @@
   },
   {
     "user": {
+      "screenName": "RiscZero",
+      "name": "RISC Zero",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909327706803646464/sqc6jCD9_normal.jpg",
+      "description": "Building high-performance ZK systems to power the next era of computing.\n\nBuilding @boundless_xyz",
+      "followersCount": 44582,
+      "friendsCount": 366,
+      "location": "R0VM 2.0"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917223151630516224/vid/avc1/1728x720/l3UzhX1IpKmZ2tbm.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/RiscZero/status/1917228377502515304",
+    "fullText": "Introducing Steel 2.0\n\nThe EVM no longer decides how big your app can be.\n\nGo beyond the block. https://t.co/0nKRgI8Ri2"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
@@ -526,11 +626,28 @@
   },
   {
     "user": {
+      "screenName": "tommy3861",
+      "name": "tommy hernandez",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1586217032692903936/sO9TnW_k_normal.jpg",
+      "description": "I love America",
+      "followersCount": 7623,
+      "friendsCount": 8383,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GptM4ljb0AAxiu2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tommy3861/status/1917217741939097614",
+    "fullText": "What an amazing 100 days\n\nThe almost 2000 miles long Southern Border is the most secure in our nations history\n\nThe Press Secretary is verbally beating back the press propaganda everyday day and winning\n\nIllegal Alien criminals are being arrested and sent to CECOT or elsewhere by https://t.co/rVHWeFBo02"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22571,
+      "followersCount": 22572,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -648,7 +765,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22571,
+      "followersCount": 22572,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -663,7 +780,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22571,
+      "followersCount": 22572,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -729,7 +846,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105161,
+      "followersCount": 105160,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -859,7 +976,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121547,
+      "followersCount": 121557,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -909,7 +1026,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6068,
+      "followersCount": 6067,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1037,6 +1154,23 @@
   },
   {
     "user": {
+      "screenName": "aniplexUSA",
+      "name": "Aniplex of America",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1266575478539747328/8hyaeWAw_normal.jpg",
+      "description": "The Official Aniplex of America Twitter Account!",
+      "followersCount": 517868,
+      "friendsCount": 386,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1916944399847641088/pu/vid/avc1/1280x720/j5FPwq8zK6nNfpnH.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/aniplexUSA/status/1916945529302397144",
+    "fullText": "Let's get this party started! 🎉\n\nMake watching \"mono\" on Crunchyroll part of your weekend routine NOW!\n\n(Opening Theme is: \"Many Merry Memories!\" by Cinephoto Club 🎵) https://t.co/ioPX77OaUA"
+  },
+  {
+    "user": {
       "screenName": "KTSmithFFSN",
       "name": "Kevin Smith",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1862592745782591488/6DBEPPNO_normal.jpg",
@@ -1051,6 +1185,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/KTSmithFFSN/status/1916933689285488652",
     "fullText": "Get the latest NFL News and Analysis with Coach Kevin Smith https://t.co/oTud3rTPLT"
+  },
+  {
+    "user": {
+      "screenName": "Collab_Land_",
+      "name": "🦾 Collab.Land 🤖",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1598394761005727760/5_QGhWNT_normal.png",
+      "description": "Almost 5 years of setting the standard in crypto community tech and still at it 🫡 Next up: AI for communities. 🤖TG: collablandbot & Discord https://t.co/QUdtOwHQxO#6372",
+      "followersCount": 43984,
+      "friendsCount": 2151,
+      "location": "Denver, CO"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gpo-dU2bEAMDt72.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Collab_Land_/status/1916913270356906383",
+    "fullText": "🧸🐾 Welcome to the family, @berachain!\n\nWith Proof-of-Liquidity and BeaconKit under the hood, Berachain is pushing Web3 forward - and we’re proud to support such a passionate, fast-growing community!\n\nBerachain projects can now tap into CollabLand’s tools to power even more https://t.co/UANagM1ov5"
   },
   {
     "user": {
