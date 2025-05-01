@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5798,
+      "friendsCount": 1211,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp1int9aYAMA5d2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1917798126221680818",
+    "fullText": "#DataCollie 开发日志\n今天起了个大早，就弄了个删除 Database/Schema 的确认框，忙工出细活哈。现在出去看看买点啥东西，准备下午回云南了。#buildinpublic #indiedev https://t.co/gH9zcQSW7M"
+  },
+  {
+    "user": {
+      "screenName": "rubicondefi",
+      "name": "Rubicon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1313235072049451010/Yov0lKbJ_normal.jpg",
+      "description": "The World’s Last Financial Exchange. 🏛️\n\nBest prices across @Base, @Arbitrum, @Ethereum & @Optimism. 🪙\n\nSwap, trade, or LP to earn $RUBI! 🚀 (TGE 🔜)",
+      "followersCount": 176224,
+      "friendsCount": 123,
+      "location": "Decentralized Finance"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917793027994664961/vid/avc1/1920x1080/5jvkDSHXaHCEv9pP.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/rubicondefi/status/1917796534315319544",
+    "fullText": "The die is cast. $RUBI is live.\n\nSince 2021, Rubicon has been building the World’s Last Financial Exchange — a fully onchain, non-custodial DEX w/ $200mm+ in lifetime volume.\n\nToday we take a major step forward. Decentralization Begins. \n\n$RUBI has launched on @base.\n\n1/🧵👇 https://t.co/r87rOZL19s"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -22,7 +56,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5797,
+      "followersCount": 5798,
       "friendsCount": 1211,
       "location": ""
     },
@@ -84,7 +118,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9593,
+      "followersCount": 9594,
       "friendsCount": 3451,
       "location": ""
     },
@@ -148,7 +182,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121725,
+      "followersCount": 121731,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -234,7 +268,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7012,
+      "followersCount": 7011,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -349,7 +383,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121725,
+      "followersCount": 121731,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -379,7 +413,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6071,
+      "followersCount": 6069,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -495,7 +529,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6071,
+      "followersCount": 6069,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -510,7 +544,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6071,
+      "followersCount": 6069,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -727,7 +761,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5797,
+      "followersCount": 5798,
       "friendsCount": 1211,
       "location": ""
     },
@@ -826,7 +860,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30049,
+      "followersCount": 30059,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -843,7 +877,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6071,
+      "followersCount": 6069,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -976,7 +1010,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6071,
+      "followersCount": 6069,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -994,7 +1028,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7012,
+      "followersCount": 7011,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -1009,7 +1043,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121725,
+      "followersCount": 121731,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1026,7 +1060,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4113633,
+      "followersCount": 4112691,
       "friendsCount": 3,
       "location": ""
     },
@@ -1041,7 +1075,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8251,
+      "followersCount": 8247,
       "friendsCount": 290,
       "location": ""
     },
@@ -1056,7 +1090,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7012,
+      "followersCount": 7011,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -1071,7 +1105,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9593,
+      "followersCount": 9594,
       "friendsCount": 3451,
       "location": ""
     },
@@ -1266,8 +1300,8 @@
       "name": "Christophe Lassuyt",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1676220588065714176/0jQuI5XY_normal.png",
       "description": "Dad. French and pro peace. CEO & Co-founder at https://t.co/pukQGMyyaG - B2B fiat & stablecoin spend app & accounting. Previously CFO",
-      "followersCount": 10282,
-      "friendsCount": 2704,
+      "followersCount": 10264,
+      "friendsCount": 2710,
       "location": "Singapore"
     },
     "images": [
