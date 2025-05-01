@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 4149,
+      "friendsCount": 372,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/1917844264391958749",
+    "fullText": "来吧开发者们，一秒钟💨告诉我“向后兼容”是新兼容旧还是旧兼容新⏰\n\n“向前兼容”“向后兼容”，弄清楚了好几次，又弄混了好几次，从来没一眼就理解对过。\n\n前和后能能理解成未来的意思，即“前方”“后来”；\n也都能理解成过去的意思，即“以前”“后方”。\n\n说成向新兼容、向旧兼容不好咩😭"
+  },
+  {
+    "user": {
+      "screenName": "nateleex",
+      "name": "李自然 Nate Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
+      "description": "西天上，总还留有晚霞",
+      "followersCount": 7298,
+      "friendsCount": 180,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp2NFaEasAAYLFp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nateleex/status/1917844142186733610",
+    "fullText": "本着该省省该花花的思路，把ChatGPT账号从Pro降级成了Plus（之前Pro可以用o1-pro，但现在大家都是用o3）\n\n但很快发现不行。Plus 4.5的限额太少了。最近特别依赖4.5。 https://t.co/oiwotS7XKW"
+  },
+  {
+    "user": {
       "screenName": "nateleex",
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
@@ -35,7 +67,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187749,
+      "followersCount": 187754,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -86,7 +118,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18891,
       "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -150,7 +182,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18891,
       "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -212,7 +244,7 @@
       "name": "Kathryn Rooney Vera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1564346641720680449/m07ck2Op_normal.jpg",
       "description": "Chief Market Strategist. Global macro investing, economics, markets, capitalism. Jersey to Miami, Mother of 5. Opinions are my own. You #makeyourownluck.",
-      "followersCount": 7215,
+      "followersCount": 7214,
       "friendsCount": 1005,
       "location": "Miami"
     },
@@ -261,7 +293,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121692,
+      "followersCount": 121695,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -479,7 +511,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121692,
+      "followersCount": 121695,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -561,7 +593,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18891,
       "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -742,7 +774,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54116,
+      "followersCount": 54118,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -808,7 +840,7 @@
       "name": "Liberty Nation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1742909950341378048/cVV97BAM_normal.jpg",
       "description": "Official X Feed Liberty Nation News | Free Thinking. Free Speech. | News & original commentary. Subscribe: https://t.co/U6VOEK7pPS",
-      "followersCount": 34913,
+      "followersCount": 34900,
       "friendsCount": 1642,
       "location": "Washington, DC"
     },
@@ -825,7 +857,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73577,
+      "followersCount": 73568,
       "friendsCount": 3390,
       "location": ""
     },
@@ -840,7 +872,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18891,
       "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -857,7 +889,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18891,
       "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -892,7 +924,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54116,
+      "followersCount": 54118,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -909,7 +941,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18891,
       "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -924,7 +956,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27308,
+      "followersCount": 27310,
       "friendsCount": 117,
       "location": "China"
     },
@@ -939,7 +971,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27308,
+      "followersCount": 27310,
       "friendsCount": 117,
       "location": "China"
     },
@@ -956,7 +988,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27308,
+      "followersCount": 27310,
       "friendsCount": 117,
       "location": "China"
     },
@@ -973,7 +1005,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30100,
+      "followersCount": 30110,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -1008,7 +1040,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18891,
       "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1073,7 +1105,7 @@
       "name": "Auki | The Posemesh",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1839200820895608832/UDvsfJCP_normal.jpg",
       "description": "Building the eyes and ears of physical AI. The posemesh is a DePIN for machine perception and spatial computing.\n\nLinks: https://t.co/KadwD6ZKnT",
-      "followersCount": 24457,
+      "followersCount": 24454,
       "friendsCount": 308,
       "location": "The DePIN for AI perception. "
     },
@@ -1090,7 +1122,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18891,
       "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1105,7 +1137,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27308,
+      "followersCount": 27310,
       "friendsCount": 117,
       "location": "China"
     },
@@ -1156,7 +1188,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121692,
+      "followersCount": 121695,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1173,7 +1205,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4111828,
+      "followersCount": 4111872,
       "friendsCount": 3,
       "location": ""
     },
@@ -1252,7 +1284,7 @@
       "name": "The Bettor Life ♠️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1041735158406230016/cJEApVcI_normal.jpg",
       "description": "Bettor Than Ever. Co-host of @DoubleChancePod. Veteran-owned business. #TipYourDealers\n\nSupport the show with donation at the link below.",
-      "followersCount": 6106,
+      "followersCount": 6117,
       "friendsCount": 368,
       "location": "Casino"
     },
@@ -1558,6 +1590,24 @@
     "videos": [],
     "tweetUrl": "https://x.com/higgsfield_ai/status/1917231291944017929",
     "fullText": "We’re opening the doors.\nToday we’re announcing the Higgsfield API - now in Beta.\n\nBring cinematic GenAI video into your apps, products, and workflows.\nTrue camera motion and stylized shots. Built for creative speed.\n\nApply for early access now.\nhttps://t.co/SMFcn1YP7n"
+  },
+  {
+    "user": {
+      "screenName": "5to1Formula",
+      "name": "5to1Formulas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1847993759398612993/_5Ko2EfL_normal.jpg",
+      "description": "Five Herbs.  Clean Vibes. \nEdible Plant Based Formulas\nVape The Way Nature Intended",
+      "followersCount": 36,
+      "friendsCount": 156,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GptbCg8XIAAWlE1.jpg",
+      "https://pbs.twimg.com/media/GptbYIcXUAAztRc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/5to1Formula/status/1917227436392976416",
+    "fullText": "https://t.co/HNXKjKPce6\n\nWe don’t do blends, synthetic ingredients, liquid or aerosolized vitamins. It’s just one single herb and high quality organic vegetable glycerin with high thermal breakdown temps ensuring the least possible breakdown of aldehydes or other chemicals known https://t.co/1QiVW4G5rQ"
   },
   {
     "user": {
