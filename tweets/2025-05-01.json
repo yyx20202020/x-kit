@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
+      "followersCount": 684,
+      "friendsCount": 437,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1917810500756463953",
+    "fullText": "Creem 还挺好申请的，两三天就通过了，lemonsqueezy 申请了几个月都不给审的，不过 Creem 是不是不支持支付宝、微信支付的呀，看着好像只有信用卡可以支付。\nhttps://t.co/3z3bFI1CfZ"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187779,
+      "followersCount": 187743,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -199,7 +214,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121731,
+      "followersCount": 121737,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -400,7 +415,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121731,
+      "followersCount": 121737,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -430,7 +445,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6069,
+      "followersCount": 6071,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -512,6 +527,23 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2798,
+      "friendsCount": 976,
+      "location": "Austin, Texas"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gpykl8jW4AA3qlf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1917594807968620820",
+    "fullText": "Exciting news! We're thrilled to announce that @MichaelDell, Founder, Chairman, and CEO of @DellTech, will deliver the Show Opening Keynote for The Six Five Summit: AI Unleashed 2025.\n\nThis fully virtual event, taking place June 16-19, is free to attend and will explore the https://t.co/akgQ0lFJWf"
+  },
+  {
+    "user": {
       "screenName": "CranQnow",
       "name": "CRANQ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1901652242236866560/dttWCIK5_normal.jpg",
@@ -546,7 +578,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6069,
+      "followersCount": 6071,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -561,7 +593,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6069,
+      "followersCount": 6071,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -578,7 +610,7 @@
       "name": "UNHOSTED",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1696260689088667648/l8DtLx_M_normal.jpg",
       "description": "Smart Wallet with a built-in AI Agent 🤖 @UnhostedAI",
-      "followersCount": 665,
+      "followersCount": 659,
       "friendsCount": 40,
       "location": "Account Abstraction"
     },
@@ -646,7 +678,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54144,
+      "followersCount": 54145,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -729,7 +761,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73588,
+      "followersCount": 73575,
       "friendsCount": 3390,
       "location": ""
     },
@@ -796,7 +828,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54144,
+      "followersCount": 54145,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -877,7 +909,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30065,
+      "followersCount": 30058,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -894,7 +926,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6069,
+      "followersCount": 6071,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -962,7 +994,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7287,
+      "followersCount": 7282,
       "friendsCount": 475,
       "location": ""
     },
@@ -1027,7 +1059,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6069,
+      "followersCount": 6071,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1060,7 +1092,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121731,
+      "followersCount": 121737,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1077,7 +1109,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4112726,
+      "followersCount": 4112768,
       "friendsCount": 3,
       "location": ""
     },
@@ -1118,6 +1150,23 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2798,
+      "friendsCount": 976,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917387175534202880/vid/avc1/1280x720/Fif-MJKko0m8QC04.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1917389134731341930",
+    "fullText": "Drowning in fragmented security tools? 😩 It’s time for a smarter strategy. @PatrickMoorhead &amp; @DanielNewmanUV talk with @PaloAltoNtwks's CEO @NikeshArora at #RSAC 2025 about why a platform approach is crucial for effective cybersecurity in the face of evolving threats, and the https://t.co/tI7VVuAhWH"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -1139,7 +1188,7 @@
       "name": "The Bettor Life ♠️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1041735158406230016/cJEApVcI_normal.jpg",
       "description": "Bettor Than Ever. Co-host of @DoubleChancePod. Veteran-owned business. #TipYourDealers\n\nSupport the show with donation at the link below.",
-      "followersCount": 6130,
+      "followersCount": 6093,
       "friendsCount": 368,
       "location": "Casino"
     },
@@ -1296,6 +1345,21 @@
   },
   {
     "user": {
+      "screenName": "AmericaInvests",
+      "name": "American Investment Council",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1331298112200183812/0pTXpXzf_normal.png",
+      "description": "The AIC is an advocacy organization that provides information about how private equity & private credit support jobs, businesses, & retirements across America.",
+      "followersCount": 10373,
+      "friendsCount": 683,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AmericaInvests/status/1917280220006211860",
+    "fullText": "America’s private equity investors directly support the innovative businesses that make our country and economy great. Without their investment, the next breakthrough American innovation might never see the light of day."
+  },
+  {
+    "user": {
       "screenName": "SpryStrategies",
       "name": "Spry Strategies",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824115579998945280/5Ca95Ymh_normal.jpg",
@@ -1327,6 +1391,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/tuziapi/status/1917263142058615153",
     "fullText": "推特粉丝数似乎在每个阶段就会迎来不同的广告\n\n- 当你达到2K-4K粉丝时，涌来的是各种“合作代理广告”，开口就是“置顶一条推文，一个月给你3K人民币”；\n- 而一旦突破5K-6K的门槛，围绕你的广告生态就开始转变，取而代之的是铺天盖地的“快速涨粉秘籍”。\n\n现在期待如果粉丝过万后，又会是哪些广告 https://t.co/XRtxSQ4KrS"
+  },
+  {
+    "user": {
+      "screenName": "Lukealexxander",
+      "name": "Luke Alexander 🥂🦇",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908912129018564609/6OvHrIB3_normal.jpg",
+      "description": "Founder @kendosalesai @tryclosify @closercartel | Trained over 5000+ sales reps. Building the future",
+      "followersCount": 69187,
+      "friendsCount": 1135,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917238195328057344/vid/avc1/1920x1080/NKZWRGe-p_hAPAbS.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Lukealexxander/status/1917241188278522143",
+    "fullText": "Introducing Kendo Ai - The Ai sales training and management platform that you've always dreamed of https://t.co/Z1aK3qK8i3"
   },
   {
     "user": {
@@ -1403,7 +1484,7 @@
       "name": "10 Minute Drill",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1889767828229607426/m46YXNvN_normal.jpg",
       "description": "Your morning 10-minute rundown of the most important stories in news and politics, hosted by veteran political strategist @mattdizwhitlock. New episodes T/Th.",
-      "followersCount": 1625,
+      "followersCount": 1627,
       "friendsCount": 95,
       "location": "Washington, DC "
     },
