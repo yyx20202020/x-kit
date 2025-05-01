@@ -1,6 +1,26 @@
 [
   {
     "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 6077,
+      "friendsCount": 241,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp4q5LQawAEg-so.jpg",
+      "https://pbs.twimg.com/media/Gp4ssUfawAIBnzS.jpg",
+      "https://pbs.twimg.com/media/Gp4swxyawAYIGev.png",
+      "https://pbs.twimg.com/media/Gp4s0_rawAA1yq8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1918020358856425659",
+    "fullText": "这个模型的api是很多研究领域工作人员想要的\n\n现有实验阶段的调用尝试，欢迎体验\n\n调用地址：https://t.co/XIvA4MZ1Q7\n模型名称：o4-mini-dr\n体验令牌：sk-kbiujM1PKKVczEoSla7tZGSY6bZPk9dLo9YBLEDCjIOmSaZS（100美金-模型专用，有效期至5月7日末）\n\n关注兔子一起变强\n\nPS：官方的api应该也会快了 https://t.co/no6QdJuOCP"
+  },
+  {
+    "user": {
       "screenName": "bubblemaps",
       "name": "Bubblemaps",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1542463278412169216/dj1tOY36_normal.png",
@@ -36,11 +56,26 @@
   },
   {
     "user": {
+      "screenName": "BickerinBrattle",
+      "name": "George Robertson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1817980177193783296/HeukIqha_normal.jpg",
+      "description": "Expert in fixed income, equity, and their derivatives. Started at Liars Poker Salomon, last  job as head of long duration (US Treasurys) for MSIM.",
+      "followersCount": 16238,
+      "friendsCount": 2223,
+      "location": "NYC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BickerinBrattle/status/1917990268789260489",
+    "fullText": "time to learn all about \n- section 232  of  Trade Expansion Act 1962 - was Congress move to reduce tariffs - now Trump uses it as empowerment to increase tariffs\n - International Economic Emergency Powers Act (IEEPA)\n-  Administrative Procedure Act  (APA) (Gundy and Chevron)"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121809,
+      "followersCount": 121803,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -53,6 +88,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1917988595228438771",
     "fullText": "生成特色城市天气预报图片\n\n注：\n- 请修改提示词底部的城市、天气、温度\n- “城市特色建筑”可以具体写上名称\n- 本图用 sora 生成\n\n提示词： https://t.co/kavduKfYB1"
+  },
+  {
+    "user": {
+      "screenName": "NeuterTheDebt",
+      "name": "Steve C.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/542116784527011840/I_R1XioI_normal.png",
+      "description": "Steve Conover. Retired. Skeptical optimist. Repulsed by: groupthink. Inspired by: scientific method; innovation. \nMy book (free): https://t.co/6Ie8bUnFuN",
+      "followersCount": 1226,
+      "friendsCount": 442,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NeuterTheDebt/status/1917986853384294438",
+    "fullText": "OPEN LETTER TO PRESIDENT TRUMP FROM REAGAN-ERA PEACE-THROUGH-STRENGTH ADVOCATES.\n\nDear President Trump:\n\nPlease call Pete Hegseth into your office and say the following, loudly and clearly: \n        \"YOU'RE FIRED!\" \n\n(You're good at this, by the way. We've seen you do it on"
   },
   {
     "user": {
@@ -127,7 +177,7 @@
       "name": "WAGMI HUB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887110701681934336/vBA6bbYj_normal.jpg",
       "description": "Web3’s home for memes, markets, media & AI. Powered by community 🚀",
-      "followersCount": 847271,
+      "followersCount": 847195,
       "friendsCount": 239,
       "location": ""
     },
@@ -144,7 +194,7 @@
       "name": "National Right To Work Foundation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/926153777106731008/2JMLmsjj_normal.jpg",
       "description": "Defending American workers from the abuses of compulsory unionism since 1968. \nPress inquiries: https://t.co/BTScY2c0rG\nFree Legal Aid: https://t.co/VJyVkl3KRf",
-      "followersCount": 3557,
+      "followersCount": 3556,
       "friendsCount": 1264,
       "location": "Springfield, Virginia"
     },
@@ -161,7 +211,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18915,
+      "followersCount": 18914,
       "friendsCount": 1721,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -195,7 +245,7 @@
       "name": "Punished Mucho (ACQUITTAL ARC)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695547228566265856/LfvwnYEo_normal.jpg",
       "description": "25 year old, paranoid lolbert cleaning up the planet one leftist meme at a time. DM submissions, and I'll grade leftists' ability to meme.",
-      "followersCount": 7953,
+      "followersCount": 7955,
       "friendsCount": 285,
       "location": "Leftward"
     },
@@ -205,6 +255,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/CptMuchoTexto/status/1917963110897553812",
     "fullText": "Kyle is trending, time to post it again https://t.co/pQ7TczUJl4"
+  },
+  {
+    "user": {
+      "screenName": "AmericanWolf24",
+      "name": "American Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1586009351533256704/CuH9B8mt_normal.jpg",
+      "description": "Lair of the X-Pack. Home of the American Wolf.\nAMERICA WILL PREVAIL.\n\nAMERICA FOREVER!",
+      "followersCount": 3586,
+      "friendsCount": 5923,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1917961390117019648/pu/vid/avc1/888x500/B2C_QCyyukgChx1z.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/AmericanWolf24/status/1917961446647878072",
+    "fullText": "♥️THE BEST VIDEO YOU'LL SEE TODAY♥️\nA young mother elephant desperate to retrieve her baby from a pit. She struggles so ferociously that her heart stops. Human beings, some of the good ones, come to her aid. This is so powerful. People can do great things. https://t.co/2uEzGbm98d"
   },
   {
     "user": {
@@ -240,11 +307,29 @@
   },
   {
     "user": {
+      "screenName": "offchain0",
+      "name": "Angelicism Asset",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890722177986547712/KeFlynfr_normal.jpg",
+      "description": "",
+      "followersCount": 11,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp3zlFeXwAA2IeC.jpg",
+      "https://pbs.twimg.com/media/Gp3zlFhWsAA5oW5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/offchain0/status/1917956932670812417",
+    "fullText": "Love for the world is the final war—so let's go to war, forever, together. https://t.co/NJUaNpuGe9"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30295,
+      "followersCount": 30301,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -321,7 +406,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18915,
+      "followersCount": 18914,
       "friendsCount": 1721,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -390,7 +475,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18915,
+      "followersCount": 18914,
       "friendsCount": 1721,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -424,7 +509,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73583,
+      "followersCount": 73585,
       "friendsCount": 3391,
       "location": ""
     },
@@ -441,7 +526,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105158,
+      "followersCount": 105159,
       "friendsCount": 233,
       "location": "Singapore"
     },
@@ -488,7 +573,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30295,
+      "followersCount": 30301,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -522,7 +607,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9602,
+      "followersCount": 9603,
       "friendsCount": 3451,
       "location": ""
     },
@@ -680,7 +765,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187805,
+      "followersCount": 187807,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -731,7 +816,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18915,
+      "followersCount": 18914,
       "friendsCount": 1721,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -756,6 +841,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1917791397098447115",
     "fullText": "万万没想到天天在使用的 JetBrains 家族产品居然是根正苗红的俄罗斯血统用欧洲身份布局了全球市场。"
+  },
+  {
+    "user": {
+      "screenName": "2digitalLIFT",
+      "name": "digitalLIFT",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1914366055537106944/DVBLc3Hx_normal.jpg",
+      "description": "Our mission is to transform lives through #digitalequity. We believe that access to the Internet is a human right and are working to close the #digitaldivide.",
+      "followersCount": 2965,
+      "friendsCount": 3110,
+      "location": "Austin and San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp1Wx0SawAAx65j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/2digitalLIFT/status/1917784806471131288",
+    "fullText": "Help Your Community Be Safe Online\nEmpower yourself online with our FREE Internet Safety and Responsibility training course and its companion FREE Internet Safety Curriculum, an invaluable $1100 resource. https://t.co/Gv3l4ewWXs"
   },
   {
     "user": {
@@ -829,7 +931,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18915,
+      "followersCount": 18914,
       "friendsCount": 1721,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -876,7 +978,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9602,
+      "followersCount": 9603,
       "friendsCount": 3451,
       "location": ""
     },
@@ -957,7 +1059,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121809,
+      "followersCount": 121803,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1203,6 +1305,23 @@
   },
   {
     "user": {
+      "screenName": "xidaxpcs",
+      "name": "Xidax PCs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894516170235285505/FBDmK_Ss_normal.jpg",
+      "description": "Hand-Built Custom Gaming PCs backed by a Lifetime Service Warranty!",
+      "followersCount": 229010,
+      "friendsCount": 563,
+      "location": "Salt Lake City, UT"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpzUzgwXoAAPXU0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xidaxpcs/status/1917647970100732166",
+    "fullText": "In case you’ve been living under a rock… Oblivion Remastered is out 🔥\nAnd yes — we’re doing a giveaway to celebrate 🛡️\n\nWant a chance to win your copy? Here's how to enter:\n-Make sure you're following @xidaxpcs \n-Like &amp; share this post\n-Tag a friend you'd drag through a Daedric https://t.co/y6mWdk2RoN"
+  },
+  {
+    "user": {
       "screenName": "TheSixFiveMedia",
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
@@ -1224,7 +1343,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121809,
+      "followersCount": 121803,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1275,7 +1394,7 @@
       "name": "Xidax PCs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894516170235285505/FBDmK_Ss_normal.jpg",
       "description": "Hand-Built Custom Gaming PCs backed by a Lifetime Service Warranty!",
-      "followersCount": 229001,
+      "followersCount": 229010,
       "friendsCount": 563,
       "location": "Salt Lake City, UT"
     },
@@ -1292,7 +1411,7 @@
       "name": "vic singh",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1724966742521163776/zoiczgTo_normal.jpg",
       "description": "builder investor | GP @RRE | founder @OriginalisAI | founding GP  @EniacVC | boxer chef gangsta gold chains guyana hard hood | beginner mind meets prepared mind",
-      "followersCount": 5025,
+      "followersCount": 5026,
       "friendsCount": 542,
       "location": "Brooklyn, NY"
     },
@@ -1440,7 +1559,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18915,
+      "followersCount": 18914,
       "friendsCount": 1721,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1638,7 +1757,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54136,
+      "followersCount": 54137,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1738,7 +1857,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73583,
+      "followersCount": 73585,
       "friendsCount": 3391,
       "location": ""
     },
@@ -1753,7 +1872,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18915,
+      "followersCount": 18914,
       "friendsCount": 1721,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1770,7 +1889,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18915,
+      "followersCount": 18914,
       "friendsCount": 1721,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1805,7 +1924,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54136,
+      "followersCount": 54137,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1822,7 +1941,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18915,
+      "followersCount": 18914,
       "friendsCount": 1721,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -2101,7 +2220,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121809,
+      "followersCount": 121803,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -2229,7 +2348,7 @@
       "name": "The Bettor Life ♠️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1041735158406230016/cJEApVcI_normal.jpg",
       "description": "Bettor Than Ever. Co-host of @DoubleChancePod. Veteran-owned business. #TipYourDealers\n\nSupport the show with donation at the link below.",
-      "followersCount": 5971,
+      "followersCount": 5953,
       "friendsCount": 368,
       "location": "Casino"
     },
