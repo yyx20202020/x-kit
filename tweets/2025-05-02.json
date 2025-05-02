@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 54153,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp6XNmgbIAAzBcm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1918136856870568145",
+    "fullText": "国外发短信平台最好的应该是就是 twilio 了吧，整个过程无比丝滑，从注册到发用 API 第一条短信花了 2 两分钟，对开发者的友好程度可见一斑，多语言 SDK，参数非常清晰，一行就接入，提供虚拟号码测试，还送 15刀的 Trial，一个美国号 1.5刀，发一条信息 0.023 刀。\n用这种产品是一种享受。 https://t.co/oQlR8zYzb5"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 7014,
+      "friendsCount": 729,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1918131176159777150",
+    "fullText": "说到「凌晨四点」这个梗，我上月回国坚持做时差党，所以基本上看了七八天北京凌晨四点的景色。没有去国贸。看了来福士，银泰，东二环，燕莎，三元桥。凌晨四点这些地方大多数写字楼没有任何室内灯光，也没有任何外部景观灯。看起来很诡异。如果夜里十点去看，灯光和景观灯倒是基本正常。"
+  },
+  {
+    "user": {
+      "screenName": "RealDawnProject",
+      "name": "The Dawn Project",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1482484771620102151/kZ6rhiZ0_normal.jpg",
+      "description": "Making Computers Safe for Humanity. The first danger we are tackling is Elon Musk’s reckless deployment of unsafe Full Self-Driving cars on our roads.",
+      "followersCount": 1669,
+      "friendsCount": 10,
+      "location": "Santa Barbara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1918119834690437122/vid/avc1/1920x1080/JrawqpP86maspE_H.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/RealDawnProject/status/1918121561837715649",
+    "fullText": ".@DOGE is one of @ElonMusk's biggest failings to date. Less than 10% of the promised savings, and the receipts are riddled with errors.\n\nNo \"fully informed American will be happy the results\".\n\nWatch @RealDanODowd's analysis here: https://t.co/eYVGe0joSi"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121853,
+      "followersCount": 121871,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -25,7 +74,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121853,
+      "followersCount": 121871,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -59,7 +108,7 @@
       "name": "Sean Simms",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1888620658201878528/8XpuuChU_normal.jpg",
       "description": "Baltimore City Born and Raised\nChristian Soldier/Husband\nSon of an Army Ranger\nGrandson of WWII Veteran Baptist Preacher",
-      "followersCount": 2286,
+      "followersCount": 2294,
       "friendsCount": 79,
       "location": ""
     },
@@ -104,6 +153,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/risk100x/status/1918095960460157360",
     "fullText": "Wait this isn’t grok 😭 https://t.co/JRWZwUUWJ8"
+  },
+  {
+    "user": {
+      "screenName": "HoosierTailgate",
+      "name": "Hoosier Tailgate",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1816535452859473920/ru9ZhJ_D_normal.jpg",
+      "description": "Lead football analyst for @TheHoosierOn3 Covering IU football with expert insight, game analysis, and interviews powered by @On3Sports 🏈 🎙️ 🎥 📺",
+      "followersCount": 2638,
+      "friendsCount": 388,
+      "location": "Ft. Wayne, Indiana"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HoosierTailgate/status/1918085505188561122",
+    "fullText": "HOOSIER TAILGATE https://t.co/uMfDP0nDmH"
   },
   {
     "user": {
@@ -181,7 +245,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121853,
+      "followersCount": 121871,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -245,7 +309,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6080,
+      "followersCount": 6081,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -262,7 +326,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6080,
+      "followersCount": 6081,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -329,8 +393,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5802,
-      "friendsCount": 1226,
+      "followersCount": 5804,
+      "friendsCount": 1225,
       "location": ""
     },
     "images": [
@@ -346,7 +410,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121853,
+      "followersCount": 121871,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -362,11 +426,26 @@
   },
   {
     "user": {
+      "screenName": "NeuterTheDebt",
+      "name": "Steve C.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/542116784527011840/I_R1XioI_normal.png",
+      "description": "Steve Conover. Retired. Skeptical optimist. Repulsed by: groupthink. Inspired by: scientific method; innovation. \nMy book (free): https://t.co/6Ie8bUnFuN",
+      "followersCount": 1227,
+      "friendsCount": 443,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NeuterTheDebt/status/1917986853384294438",
+    "fullText": "OPEN LETTER TO PRESIDENT TRUMP FROM REAGAN-ERA PEACE-THROUGH-STRENGTH ADVOCATES.\n\nDear President Trump:\n\nPlease call Pete Hegseth into your office and say the following, loudly and clearly: \n        \"YOU'RE FIRED!\" \n\n(You're good at this, by the way. We've seen you do it on"
+  },
+  {
+    "user": {
       "screenName": "tuziapi",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6080,
+      "followersCount": 6081,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -377,6 +456,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/tuziapi/status/1917985108952531439",
     "fullText": "某人的这幅图片不符合现实；\n\n现实中托关系的病人进来，他的关系会安排真正有实力的医生做手术；而这些托关系成为医生的，只会给没关系的病人看病（图二）。\n\n🐶 https://t.co/rHcYa9mIRl"
+  },
+  {
+    "user": {
+      "screenName": "PersecutedSave",
+      "name": "Save the Persecuted Christians",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1173623439661260800/zY9BVy89_normal.png",
+      "description": "Save the Persecuted Christians, is a grassroots movement. We educate the public on global anti-Christian violence and seek to impose costs on the persecutors.",
+      "followersCount": 776,
+      "friendsCount": 513,
+      "location": "PO Box 543, Monument, CO 80132"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PersecutedSave/status/1917984865129037916",
+    "fullText": "Sign the GLOBAL petition in protest of the odious secret Sino-Vatican deal. \n\n#RevealTheDeal #RepealTheDeal\nVisit: https://t.co/RdJG6Pu4nl for more tools\n\nhttps://t.co/LWAJkjj1ac"
   },
   {
     "user": {
@@ -397,12 +491,29 @@
   },
   {
     "user": {
+      "screenName": "WagmiHub",
+      "name": "WAGMI HUB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1887110701681934336/vBA6bbYj_normal.jpg",
+      "description": "Web3’s home for memes, markets, media & AI. Powered by community 🚀",
+      "followersCount": 846034,
+      "friendsCount": 241,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp4D90JWcAADoHA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WagmiHub/status/1917974859239620702",
+    "fullText": "🎙 A Solana Odyssey: Past, Present, Future!\n\n🗓 Date: Friday, May 2nd, 2025\n⏰ Time: 8AM PST / 11AM EST / 3PM UTC\n📍 Join: https://t.co/RhNXBIgCr0\n\n😍 Guest List:\n1. @PondGNN \n2. @AgentHustleAI \n3. @birdeye_so \n4. @SentientAGI \n5. @HeyAnonai \n6. @condzxyz \n7. @AlexFinnX \n8. https://t.co/dKBTMmSx2w"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18910,
-      "friendsCount": 1719,
+      "followersCount": 18905,
+      "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -411,6 +522,24 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1917968083639259147",
     "fullText": "奥尔良烤腿bro ，咋一大一小差这么多 https://t.co/lW6k3JtlYl"
+  },
+  {
+    "user": {
+      "screenName": "UnitedSAmerican",
+      "name": "United Sovereign Americans",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1705244900319436800/3kaIBH0B_normal.jpg",
+      "description": "We are securing transparent, lawful, and trustworthy elections for all Americans as a matter of civil rights",
+      "followersCount": 3928,
+      "friendsCount": 155,
+      "location": "Chesterfield, MO "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp368URXwAAs_MY.jpg",
+      "https://pbs.twimg.com/media/Gp368tEXEAA8ehj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/UnitedSAmerican/status/1917965121625661506",
+    "fullText": "USA Submits Urgent Evidence to Congress Following California Election Hearing\n\nShocking results in a recent election study conducted by USA indicate 20% of voters in the 2024 Orange County, CA election are likely invalid. In addition, USA’s report, titled “USA California Election https://t.co/B0RxZePru4"
   },
   {
     "user": {
@@ -450,7 +579,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30352,
+      "followersCount": 30360,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -480,8 +609,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18910,
-      "friendsCount": 1719,
+      "followersCount": 18905,
+      "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -532,8 +661,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18910,
-      "friendsCount": 1719,
+      "followersCount": 18905,
+      "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -545,11 +674,28 @@
   },
   {
     "user": {
+      "screenName": "useblacksmith",
+      "name": "Blacksmith",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1816108948946104320/jTuns3Ae_normal.jpg",
+      "description": "The fastest way to run your GitHub Actions. Trusted by @ClerkDev, @veedstudio, @plex and 600+ others.",
+      "followersCount": 423,
+      "friendsCount": 8,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917910079569072128/vid/avc1/1920x1080/ZauM6AFJbR_YUEH0.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/useblacksmith/status/1917912350910538012",
+    "fullText": "We can finally stop holding our breath and just say it: we raised $3.5M, led by Google Ventures (@GVteam), to build a high-performance CI cloud.\n\nWe've partnered with over 600 organizations, including Ashby, Finch, Veed, Clerk, and Mintlify, to deliver the fastest way to run your https://t.co/W7m6HDlPln"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73582,
+      "followersCount": 73585,
       "friendsCount": 3391,
       "location": ""
     },
@@ -581,7 +727,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27321,
+      "followersCount": 27318,
       "friendsCount": 117,
       "location": "China"
     },
@@ -598,7 +744,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30352,
+      "followersCount": 30360,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -758,8 +904,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5802,
-      "friendsCount": 1226,
+      "followersCount": 5804,
+      "friendsCount": 1225,
       "location": ""
     },
     "images": [
@@ -775,8 +921,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18910,
-      "friendsCount": 1719,
+      "followersCount": 18905,
+      "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -792,8 +938,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5802,
-      "friendsCount": 1226,
+      "followersCount": 5804,
+      "friendsCount": 1225,
       "location": ""
     },
     "images": [],
@@ -824,8 +970,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18910,
-      "friendsCount": 1719,
+      "followersCount": 18905,
+      "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -873,7 +1019,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121853,
+      "followersCount": 121871,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -886,6 +1032,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1917713810346872902",
     "fullText": "用 AI 画乐高搭建的城市\n\n注：\n- 可以用 AI 参考提示词示例帮你生成更多\n- 本图用 sora 生成\n\n提示词1: https://t.co/ZFUIYJ0vld"
+  },
+  {
+    "user": {
+      "screenName": "stuartscheller",
+      "name": "Stuart Scheller",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1453046258340335619/XHtdax2E_normal.jpg",
+      "description": "Father. American. Marine.",
+      "followersCount": 15630,
+      "friendsCount": 427,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/stuartscheller/status/1917712979618902381",
+    "fullText": "I started my senior advisor role in the Defense Department this week.\n\nThis has been a long journey. None longer than the last six months of this hiring process. Turns out, when you answer yes to, “have you been imprisoned in the last seven years” and “have you been"
   },
   {
     "user": {
@@ -921,6 +1082,23 @@
   },
   {
     "user": {
+      "screenName": "xidaxpcs",
+      "name": "Xidax PCs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894516170235285505/FBDmK_Ss_normal.jpg",
+      "description": "Hand-Built Custom Gaming PCs backed by a Lifetime Service Warranty!",
+      "followersCount": 229008,
+      "friendsCount": 563,
+      "location": "Salt Lake City, UT"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpzUzgwXoAAPXU0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xidaxpcs/status/1917647970100732166",
+    "fullText": "In case you’ve been living under a rock… Oblivion Remastered is out 🔥\nAnd yes — we’re doing a giveaway to celebrate 🛡️\n\nWant a chance to win your copy? Here's how to enter:\n-Make sure you're following @xidaxpcs \n-Like &amp; share this post\n-Tag a friend you'd drag through a Daedric https://t.co/y6mWdk2RoN"
+  },
+  {
+    "user": {
       "screenName": "TheSixFiveMedia",
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
@@ -942,7 +1120,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121853,
+      "followersCount": 121871,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -957,7 +1135,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6080,
+      "followersCount": 6081,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -975,8 +1153,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18910,
-      "friendsCount": 1719,
+      "followersCount": 18905,
+      "friendsCount": 1720,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -988,11 +1166,28 @@
   },
   {
     "user": {
+      "screenName": "krea_ai",
+      "name": "KREA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884407047279747072/IpioOz4w_normal.jpg",
+      "description": "delightful creative tools with AI inside.",
+      "followersCount": 89367,
+      "friendsCount": 11,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917516727283556353/vid/avc1/1438x1080/DkkXhY1kT4u_Nqwl.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/krea_ai/status/1917587246817108164",
+    "fullText": "introducing our latest enhancer and new integrations with @topazlabs.\n\nour new model improves textures and sharpness, and now you can upscale up to 22k resolution with Topaz!\n\navailable now in Krea Enhancer. https://t.co/alzgLrN9kq"
+  },
+  {
+    "user": {
       "screenName": "tuziapi",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6080,
+      "followersCount": 6081,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1007,7 +1202,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6080,
+      "followersCount": 6081,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1107,8 +1302,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5802,
-      "friendsCount": 1226,
+      "followersCount": 5804,
+      "friendsCount": 1225,
       "location": ""
     },
     "images": [
@@ -1182,6 +1377,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/TrustWallet/status/1917508481294426129",
     "fullText": "🎨 TAG THE WALL. WIN THE DROP. 🧥💥\n\nWe’re live at the @binance Clubhouse Dubai &amp; it’s time to show off your creative side.\n\nTag the wall. Take a pic. Quote the tweet.\n\nBest sketches, wildest styles, boldest vibes win our exclusive merch drop. https://t.co/MqL3TeV5I9"
+  },
+  {
+    "user": {
+      "screenName": "perfecttiffanyy",
+      "name": "Princesstiffany💅💖",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1910147791990497280/klovuQth_normal.jpg",
+      "description": "perfect bratty princess 💋| $22.22 to speak | $100 unblock fee | age-verified |https://t.co/orh6F0d2Oe",
+      "followersCount": 186,
+      "friendsCount": 69,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpwHVMEaYAIkUMD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perfecttiffanyy/status/1917415606489604100",
+    "fullText": "With every post, every moment spent gooning, every flawless picture only draws you further under my spell ✨\n\nFindom finsub hypno hypnodomme paypig humanatm domme financialdominatrix https://t.co/MBMID2Yxuy"
   },
   {
     "user": {
