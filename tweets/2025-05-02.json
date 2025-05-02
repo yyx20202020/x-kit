@@ -1,6 +1,26 @@
 [
   {
     "user": {
+      "screenName": "nateleex",
+      "name": "李自然 Nate Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
+      "description": "西天上，总还留有晚霞",
+      "followersCount": 7301,
+      "friendsCount": 180,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp9px0YawAECh5h.jpg",
+      "https://pbs.twimg.com/media/Gp9pxukawAADznx.jpg",
+      "https://pbs.twimg.com/media/Gp9pxwwa8AAUW-s.jpg",
+      "https://pbs.twimg.com/media/Gp9pxuhb0AA8jBU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nateleex/status/1918368273932173619",
+    "fullText": "https://t.co/fPJxLv0MAB"
+  },
+  {
+    "user": {
       "screenName": "17Bucko",
       "name": "Bucko",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1915061062480912384/PM2RSpcy_normal.jpg",
@@ -39,7 +59,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4115578,
+      "followersCount": 4115655,
       "friendsCount": 3,
       "location": ""
     },
@@ -82,11 +102,43 @@
   },
   {
     "user": {
+      "screenName": "richantoniello",
+      "name": "Rich Antoniello 🔑📈💰",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1534538757126356994/X6H3-6o5_normal.jpg",
+      "description": "Exec. Chairman @UPROXX.\nTWO $300M++ exits.\nFounder & former CEO of @COMPLEX Networks.\nThink BIG, even when you are doing the small things.",
+      "followersCount": 10534,
+      "friendsCount": 1905,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/richantoniello/status/1918314380955140174",
+    "fullText": "Timing a Sale Like a BOSS: Entrepreneurs Need to “Know When To Hold’Em &amp; Know When To Fold’Em”\n\nLet’s be real—building a business isn’t just about making money. It’s about creating something that matters, proving people wrong (my personal favorite), and ideally, leaving a lasting"
+  },
+  {
+    "user": {
+      "screenName": "GetTwinAI",
+      "name": "TwinAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890094004760449024/TGztuiwQ_normal.jpg",
+      "description": "Turn photos into videos. Generate talking videos with AI. With Twin AI, video creation has never been easier.",
+      "followersCount": 10396,
+      "friendsCount": 106,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1918300693729050624/vid/avc1/1080x1874/gWwrrAnGYZriKu8a.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/GetTwinAI/status/1918301497567399995",
+    "fullText": "We'd all read it if @TIME got with the times. \n\nIntroducing our v3 model with massively improved prompt adherence and one click AI-generated audio 🔊 https://t.co/mf6LCiVIfL"
+  },
+  {
+    "user": {
       "screenName": "Mintify",
       "name": "Mintify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1903175200381997059/4wZBH2Qo_normal.jpg",
       "description": "Discover and trade millions of Digital Assets.",
-      "followersCount": 245922,
+      "followersCount": 245921,
       "friendsCount": 333,
       "location": "New York, USA"
     },
@@ -167,7 +219,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58763,
+      "followersCount": 58765,
       "friendsCount": 356,
       "location": ""
     },
@@ -204,7 +256,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58763,
+      "followersCount": 58765,
       "friendsCount": 356,
       "location": ""
     },
@@ -219,7 +271,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58763,
+      "followersCount": 58765,
       "friendsCount": 356,
       "location": ""
     },
@@ -236,7 +288,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58763,
+      "followersCount": 58765,
       "friendsCount": 356,
       "location": ""
     },
@@ -290,7 +342,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18909,
-      "friendsCount": 1726,
+      "friendsCount": 1727,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -324,7 +376,7 @@
       "name": "Formula 1",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_normal.jpg",
       "description": "It's All To Drive For!\n \nThis story can only be written on track... Next up: MIAMI, May 2-4 🇺🇸",
-      "followersCount": 11051220,
+      "followersCount": 11051627,
       "friendsCount": 103,
       "location": ""
     },
@@ -361,7 +413,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18909,
-      "friendsCount": 1726,
+      "friendsCount": 1727,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -378,7 +430,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18909,
-      "friendsCount": 1726,
+      "friendsCount": 1727,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -411,7 +463,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73598,
+      "followersCount": 73600,
       "friendsCount": 3391,
       "location": ""
     },
@@ -427,7 +479,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18909,
-      "friendsCount": 1726,
+      "friendsCount": 1727,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -442,7 +494,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18909,
-      "friendsCount": 1726,
+      "friendsCount": 1727,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -473,7 +525,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30481,
+      "followersCount": 30485,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -493,7 +545,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54174,
+      "followersCount": 54175,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -591,7 +643,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122017,
+      "followersCount": 122020,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -611,7 +663,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122017,
+      "followersCount": 122020,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -800,7 +852,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122017,
+      "followersCount": 122020,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -851,7 +903,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122017,
+      "followersCount": 122020,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1017,7 +1069,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6143,
+      "followersCount": 6144,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1049,7 +1101,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6143,
+      "followersCount": 6144,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1184,7 +1236,7 @@
       "name": "CPAC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
       "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
-      "followersCount": 242099,
+      "followersCount": 242131,
       "friendsCount": 5051,
       "location": "Where Globalism Goes to Die"
     },
@@ -1233,7 +1285,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122017,
+      "followersCount": 122020,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1268,7 +1320,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6143,
+      "followersCount": 6144,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1412,7 +1464,7 @@
       "name": "CPAC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
       "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
-      "followersCount": 242140,
+      "followersCount": 242131,
       "friendsCount": 5051,
       "location": "Where Globalism Goes to Die"
     },
@@ -1430,7 +1482,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18909,
-      "friendsCount": 1726,
+      "friendsCount": 1727,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1530,7 +1582,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30481,
+      "followersCount": 30485,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -1661,7 +1713,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18909,
-      "friendsCount": 1726,
+      "friendsCount": 1727,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1713,7 +1765,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18909,
-      "friendsCount": 1726,
+      "friendsCount": 1727,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -1729,8 +1781,8 @@
       "name": "RetaZaktide David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/554879215946825728/LlMujaFg_normal.png",
       "description": "Peptide Evangelist. https://t.co/8ffDAzgUly\nPreviously co-founder @UrvinTerminal, https://t.co/AtkhOqlXWP\nData Science Advisor https://t.co/mnxQ07kexY",
-      "followersCount": 4638,
-      "friendsCount": 2784,
+      "followersCount": 4639,
+      "friendsCount": 2785,
       "location": "zakdavid.bsky.social"
     },
     "images": [],
@@ -1761,7 +1813,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73598,
+      "followersCount": 73600,
       "friendsCount": 3391,
       "location": ""
     },
@@ -1810,7 +1862,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27343,
+      "followersCount": 27345,
       "friendsCount": 117,
       "location": "China"
     },
@@ -1827,7 +1879,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30481,
+      "followersCount": 30485,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -2421,7 +2473,7 @@
       "name": "CPAC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
       "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
-      "followersCount": 242114,
+      "followersCount": 242131,
       "friendsCount": 5051,
       "location": "Where Globalism Goes to Die"
     },
