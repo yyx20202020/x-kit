@@ -1,6 +1,41 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 122020,
+      "friendsCount": 1312,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp-c06oXgAAPolt.jpg",
+      "https://pbs.twimg.com/media/Gp-c2qgWUAAYE-k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1918424446639194494",
+    "fullText": "坐在相纸上喝奶茶\n\n注：\n- 需要上传单人像作为参考图\n- 本图使用sora生成 https://t.co/3GraJyUYnl"
+  },
+  {
+    "user": {
+      "screenName": "Box",
+      "name": "Box",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895242965435486208/Wfw2p9DY_normal.png",
+      "description": "Secure your content and power collaboration on one platform with Box. Questions about your account or need product support? Tweet @BoxSupport.",
+      "followersCount": 77017,
+      "friendsCount": 3159,
+      "location": "Content + AI "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1918417140404584448/vid/avc1/1918x1080/8gpIoZ1x1a803InX.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Box/status/1918417602596180278",
+    "fullText": "Box AI integrates seamlessly with @OpenAI's new o3 model. See how the Box AI API can extract invoice metadata in bulk and answer image questions 👀👇 https://t.co/zd5qPw7uyc"
+  },
+  {
+    "user": {
       "screenName": "BernAceituno",
       "name": "Bernardo Aceituno",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1591933012744216576/QhMuBm7c_normal.jpg",
@@ -162,7 +197,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5804,
+      "followersCount": 5803,
       "friendsCount": 1228,
       "location": ""
     },
@@ -179,7 +214,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4115892,
+      "followersCount": 4115959,
       "friendsCount": 3,
       "location": ""
     },
@@ -194,7 +229,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22592,
+      "followersCount": 22590,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -211,7 +246,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22592,
+      "followersCount": 22590,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -258,7 +293,7 @@
       "name": "Mintify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1903175200381997059/4wZBH2Qo_normal.jpg",
       "description": "Discover and trade millions of Digital Assets.",
-      "followersCount": 246078,
+      "followersCount": 245969,
       "friendsCount": 333,
       "location": "New York, USA"
     },
@@ -339,7 +374,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58769,
+      "followersCount": 58768,
       "friendsCount": 356,
       "location": ""
     },
@@ -357,7 +392,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5804,
+      "followersCount": 5803,
       "friendsCount": 1228,
       "location": ""
     },
@@ -376,7 +411,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58769,
+      "followersCount": 58768,
       "friendsCount": 356,
       "location": ""
     },
@@ -391,7 +426,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58769,
+      "followersCount": 58768,
       "friendsCount": 356,
       "location": ""
     },
@@ -425,7 +460,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58769,
+      "followersCount": 58768,
       "friendsCount": 356,
       "location": ""
     },
@@ -459,7 +494,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5804,
+      "followersCount": 5803,
       "friendsCount": 1228,
       "location": ""
     },
@@ -530,7 +565,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5804,
+      "followersCount": 5803,
       "friendsCount": 1228,
       "location": ""
     },
@@ -585,7 +620,7 @@
       "name": "Pumpkin's Pool",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1510941370663460867/pSqiw9qF_normal.jpg",
       "description": "A Solana staking platform for decentralized philanthropy.",
-      "followersCount": 662,
+      "followersCount": 661,
       "friendsCount": 282,
       "location": ""
     },
@@ -617,7 +652,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73600,
+      "followersCount": 73594,
       "friendsCount": 3391,
       "location": ""
     },
@@ -696,7 +731,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30488,
+      "followersCount": 30490,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -814,8 +849,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122021,
-      "friendsCount": 1311,
+      "followersCount": 122020,
+      "friendsCount": 1312,
       "location": "Chicago, IL"
     },
     "images": [
@@ -834,8 +869,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122021,
-      "friendsCount": 1311,
+      "followersCount": 122020,
+      "friendsCount": 1312,
       "location": "Chicago, IL"
     },
     "images": [
@@ -1023,8 +1058,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122027,
-      "friendsCount": 1311,
+      "followersCount": 122020,
+      "friendsCount": 1312,
       "location": "Chicago, IL"
     },
     "images": [
@@ -1091,8 +1126,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122021,
-      "friendsCount": 1311,
+      "followersCount": 122020,
+      "friendsCount": 1312,
       "location": "Chicago, IL"
     },
     "images": [
@@ -1257,7 +1292,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6143,
+      "followersCount": 6146,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1289,7 +1324,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6143,
+      "followersCount": 6146,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1375,7 +1410,7 @@
       "name": "Sticker Mule",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1519695868097613825/m5uhNsEh_normal.jpg",
       "description": "1️⃣ Follow us 2️⃣ Reply to any post 3️⃣ Write \"@stickermule frame this\" 4️⃣ We reply with a framed post within a few minutes.",
-      "followersCount": 213032,
+      "followersCount": 212998,
       "friendsCount": 213,
       "location": "Muleville"
     },
@@ -1441,7 +1476,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5804,
+      "followersCount": 5803,
       "friendsCount": 1228,
       "location": ""
     },
@@ -1473,8 +1508,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122021,
-      "friendsCount": 1311,
+      "followersCount": 122020,
+      "friendsCount": 1312,
       "location": "Chicago, IL"
     },
     "images": [
@@ -1508,7 +1543,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6143,
+      "followersCount": 6146,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -1785,7 +1820,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30488,
+      "followersCount": 30490,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -1793,6 +1828,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1917950295574974808",
     "fullText": "lovable更新了2.0之后，目前体验远远甩开了v0和bolt。lovable唯一的问题就是，为什么不支持App Router啊..."
+  },
+  {
+    "user": {
+      "screenName": "rdibizdev",
+      "name": "rdibizdev",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/766387028481171458/5vE0mfKT_normal.jpg",
+      "description": "B2B cold calling professionals. 100% U.S. based. Selling direct for over 24 years.",
+      "followersCount": 238,
+      "friendsCount": 112,
+      "location": "Deerfield IL. "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rdibizdev/status/1917948308338655622",
+    "fullText": "Managing your prospects' apprehension is key.\n\nLow apprehension = greater opportunity.\nHigh apprehension = lower opportunity."
   },
   {
     "user": {
@@ -2016,7 +2066,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73600,
+      "followersCount": 73594,
       "friendsCount": 3391,
       "location": ""
     },
@@ -2082,7 +2132,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30488,
+      "followersCount": 30490,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -2167,7 +2217,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 9607,
+      "followersCount": 9606,
       "friendsCount": 3451,
       "location": ""
     },
