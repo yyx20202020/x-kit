@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "yuxiyou",
+      "name": "尤雨溪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
+      "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
+      "followersCount": 105171,
+      "friendsCount": 235,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuxiyou/status/1918516728012661074",
+    "fullText": "Update: 已约"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122098,
+      "followersCount": 122099,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -36,11 +51,28 @@
   },
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918520840242520064/or8FSXCw_normal.jpg",
+      "description": "The #NBAPlayoffs presented by Google continue Friday on ESPN! 🏀 9:00pm/et: @HoustonRockets (2-3) @warriors",
+      "followersCount": 48266186,
+      "friendsCount": 2007,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1918475430195253248/vid/avc1/1920x1080/5V-YiUYdb18nnW62.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1918475718591173046",
+    "fullText": "Draymond Green gets the Warriors on the board on ESPN! https://t.co/gulmLKmgeJ"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30500,
+      "followersCount": 30503,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -121,7 +153,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122098,
+      "followersCount": 122099,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -241,7 +273,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122098,
+      "followersCount": 122099,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -358,6 +390,21 @@
   },
   {
     "user": {
+      "screenName": "fit_dudes",
+      "name": "fitdudes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918032415525576704/_Nu3iqiT_normal.jpg",
+      "description": "Yes I have one 🔥👇",
+      "followersCount": 1,
+      "friendsCount": 7,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fit_dudes/status/1918378523602940200",
+    "fullText": "New reels, new vibe. It's getting wild over on Instagram ;)"
+  },
+  {
+    "user": {
       "screenName": "laralogan",
       "name": "Lara Logan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916546372074962948/Yhtbgx0Z_normal.jpg",
@@ -464,6 +511,23 @@
   },
   {
     "user": {
+      "screenName": "APompliano",
+      "name": "Anthony Pompliano 🌪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1547787118243561478/PxWzJo1H_normal.jpg",
+      "description": "Entrepreneur, investor, and lifelong learner.\n\nDaily writing: https://t.co/tpCu2xhIBx\nDaily show: https://t.co/1LMzaU05hT \nPodcast: https://t.co/OaOmES2hv1 \nMy first book: https://t.co/2W94vXav7i",
+      "followersCount": 1738334,
+      "friendsCount": 7968,
+      "location": "New York City"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1918347632591749120/vid/avc1/1920x1080/QzLATyhCwk383cGR.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/APompliano/status/1918351528550863093",
+    "fullText": "I recently interviewed @lindayaX about X, Community Notes, original content, working with @elonmusk and much more.\n\nEnjoy! https://t.co/2FPnd08aue"
+  },
+  {
+    "user": {
       "screenName": "USFunds",
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
@@ -534,7 +598,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4116363,
+      "followersCount": 4116369,
       "friendsCount": 3,
       "location": ""
     },
@@ -639,6 +703,24 @@
   },
   {
     "user": {
+      "screenName": "GaryMcAfoz",
+      "name": "GaryMcAfoz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916972737324609536/V0dtVP7P_normal.jpg",
+      "description": "Training a world class LLM from my garage, using only CPUs",
+      "followersCount": 78,
+      "friendsCount": 110,
+      "location": "Måløy, Norway"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp8m-K-XsAAK_yt.jpg",
+      "https://pbs.twimg.com/media/Gp8nRhwWsAAYgnH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMcAfoz/status/1918296245057056786",
+    "fullText": "Our latest model that is at least 5x cheaper to run than any other equivalent on the market.\n\nReasoning from first principles allowed us to see the potential of AMD EPYC 9004, money allowed us to buy plenty and craziness made us pursue and reach this goal.\n\nShould I open a https://t.co/UDlLPkPJfF"
+  },
+  {
+    "user": {
       "screenName": "Mintify",
       "name": "Mintify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1903175200381997059/4wZBH2Qo_normal.jpg",
@@ -707,7 +789,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58821,
+      "followersCount": 58823,
       "friendsCount": 356,
       "location": ""
     },
@@ -744,7 +826,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58821,
+      "followersCount": 58823,
       "friendsCount": 356,
       "location": ""
     },
@@ -759,7 +841,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58821,
+      "followersCount": 58823,
       "friendsCount": 356,
       "location": ""
     },
@@ -776,7 +858,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58821,
+      "followersCount": 58823,
       "friendsCount": 356,
       "location": ""
     },
@@ -829,7 +911,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18913,
+      "followersCount": 18912,
       "friendsCount": 1729,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -900,7 +982,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18913,
+      "followersCount": 18912,
       "friendsCount": 1729,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -917,7 +999,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18913,
+      "followersCount": 18912,
       "friendsCount": 1729,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -953,7 +1035,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73609,
+      "followersCount": 73604,
       "friendsCount": 3391,
       "location": ""
     },
@@ -968,7 +1050,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18913,
+      "followersCount": 18912,
       "friendsCount": 1729,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -983,7 +1065,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18913,
+      "followersCount": 18912,
       "friendsCount": 1729,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1000,7 +1082,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30500,
+      "followersCount": 30503,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -1020,7 +1102,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54183,
+      "followersCount": 54182,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1069,7 +1151,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122098,
+      "followersCount": 122099,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -1089,7 +1171,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122098,
+      "followersCount": 122099,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -1143,7 +1225,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122093,
+      "followersCount": 122099,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -1160,7 +1242,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122098,
+      "followersCount": 122099,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -1173,11 +1255,28 @@
   },
   {
     "user": {
+      "screenName": "brexHQ",
+      "name": "Brex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798046733815136256/BbynhUkt_normal.jpg",
+      "description": "Brex is the modern finance platform with high-limit cards, high-yield banking, and more — trusted by 30,000+ companies, including 1 in 3 US startups.",
+      "followersCount": 17712,
+      "friendsCount": 1694,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp5Il2QWkAApidR.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/brexHQ/status/1918050327430877304",
+    "fullText": "Tariffs have been on everyone's mind, including our customers. We looked at the data to see how Brex card activity outside the US changed in the weeks following the April 2nd announcement.\n\nWe saw spend fluctuate across key markets like China, India, Vietnam, and Canada. Some https://t.co/T4jQTjM818"
+  },
+  {
+    "user": {
       "screenName": "odincoinsol",
       "name": "ODIN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885429650588876800/5qENbETp_normal.jpg",
       "description": "From the fires of Asgard, I’ve forged the strongest Solana tools known to man. Send it to Valhalla",
-      "followersCount": 3468,
+      "followersCount": 3465,
       "friendsCount": 200,
       "location": "Asgard"
     },
@@ -1295,7 +1394,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122098,
+      "followersCount": 122099,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -1625,6 +1724,23 @@
   },
   {
     "user": {
+      "screenName": "usconsulatejed",
+      "name": "U.S. Consulate General Jeddah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1868619877969223680/DB2CUOML_normal.jpg",
+      "description": "أهلاً وسهلاً بكم في الحساب الرسمي للقنصلية العامة الأمريكية في جدة 🇺🇸🇸🇦",
+      "followersCount": 7660,
+      "friendsCount": 216,
+      "location": "Jeddah"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917897004706922496/vid/avc1/1920x1080/U0iDZUOhiLgkTmO2.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/usconsulatejed/status/1917900136963014723",
+    "fullText": "On your way to Saudi Arabia for Hajj next month?  Please check out this video for tips as you plan your journey. 🕋\n\nThread below 👇\nPart 1 of 3 https://t.co/91QEiGZoTD"
+  },
+  {
+    "user": {
       "screenName": "gaitkeeper_DGL",
       "name": "gaitkeeper",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777366916035723265/VqsLbjbK_normal.jpg",
@@ -1652,6 +1768,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuxiyou/status/1917895486343963072",
     "fullText": "5月14/15湾区有没有爱好日料的饭搭子一起吃 Sushi Yoshizumi"
+  },
+  {
+    "user": {
+      "screenName": "CranQnow",
+      "name": "CRANQ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901652242236866560/dttWCIK5_normal.jpg",
+      "description": "CRANQ is your toolkit ⚡ for X:\n\n - Prospect Feed\n - AI Reply Suggestions\n - Engagement Automations\n - Timed-Follow\n\nFree Beta: https://t.co/1DK6ztoA2F 🔥",
+      "followersCount": 2678,
+      "friendsCount": 1769,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CranQnow/status/1917890490944377255",
+    "fullText": "The Best AI Replies on X?\nYou Decide - Free Beta ⚡"
   },
   {
     "user": {
@@ -1686,6 +1817,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1917853385895862675",
     "fullText": "Vibe Coding 伴随着登机广播而结束 https://t.co/OeDrzMtrjt"
+  },
+  {
+    "user": {
+      "screenName": "mindmymindapp",
+      "name": "Mindmymind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899477321137983488/PBDDc21P_normal.jpg",
+      "description": "The next-gen app for self-discovery based on your personality type ✨",
+      "followersCount": 25,
+      "friendsCount": 115,
+      "location": "Copenhagen"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917851102965317632/vid/avc1/720x1560/4lcWoJUou9uac2Fq.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/mindmymindapp/status/1917851403160060351",
+    "fullText": "Most people go through life without truly knowing who they are or why people act the way that they do. We're determined to change that 😃\n\nOur beta is now live — a next-generation app designed to help you understand yourself and others better. \n\nBacked by proven personality https://t.co/zoCqIQAoCC"
   },
   {
     "user": {
