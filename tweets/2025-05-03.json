@@ -33,11 +33,28 @@
   },
   {
     "user": {
+      "screenName": "AipoLabs",
+      "name": "ACI.dev",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1883510066260615168/cOo7Ogf0_normal.jpg",
+      "description": "https://t.co/bEakJmJ7u4\n\nBuilding ACI.dev--the open source platform that powers unified MCP servers!",
+      "followersCount": 189,
+      "friendsCount": 32,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqBqznGXIAAd-YR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AipoLabs/status/1918651582687617341",
+    "fullText": "ACI now trending no.1 on GitHub! The momentum continues!\n\nACI is the open-source infra layer that turns 600+ tools into just 2 MCP calls: search &amp; execute. We provide the only MCP server your AI agents need. \n\nGive agents intent-aware access to 600+ tools with multi-tenant auth, https://t.co/p5IhVNaHFt"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22591,
+      "followersCount": 22589,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -71,7 +88,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18899,
+      "followersCount": 18894,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -103,7 +120,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18899,
+      "followersCount": 18894,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -118,7 +135,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22591,
+      "followersCount": 22589,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -150,7 +167,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18899,
+      "followersCount": 18894,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -183,7 +200,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122155,
+      "followersCount": 122164,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -235,7 +252,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30505,
+      "followersCount": 30506,
       "friendsCount": 580,
       "location": "Hong Kong"
     },
@@ -316,7 +333,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122155,
+      "followersCount": 122164,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -436,7 +453,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122155,
+      "followersCount": 122164,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -471,7 +488,7 @@
       "name": "Stocktwits",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1881836380302557184/WAeW-Tft_normal.png",
       "description": "World's largest social media platform for traders & investors 📈\n\nAvailable on Web, iOS & Android\n\nJoin Stocktwits for Free 👇",
-      "followersCount": 1071748,
+      "followersCount": 1071743,
       "friendsCount": 2714,
       "location": "New York, NY"
     },
@@ -844,7 +861,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4116973,
+      "followersCount": 4117018,
       "friendsCount": 3,
       "location": ""
     },
@@ -859,7 +876,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22591,
+      "followersCount": 22589,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -891,7 +908,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22591,
+      "followersCount": 22589,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -1189,7 +1206,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18899,
+      "followersCount": 18894,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1260,7 +1277,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18899,
+      "followersCount": 18894,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1277,7 +1294,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18899,
+      "followersCount": 18894,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1330,7 +1347,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73618,
+      "followersCount": 73619,
       "friendsCount": 3391,
       "location": ""
     },
@@ -1345,7 +1362,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18900,
+      "followersCount": 18894,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1429,7 +1446,7 @@
       "name": "The Dawn Project",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1482484771620102151/kZ6rhiZ0_normal.jpg",
       "description": "Making Computers Safe for Humanity. The first danger we are tackling is Elon Musk’s reckless deployment of unsafe Full Self-Driving cars on our roads.",
-      "followersCount": 1679,
+      "followersCount": 1680,
       "friendsCount": 10,
       "location": "Santa Barbara, CA"
     },
@@ -1804,7 +1821,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122155,
+      "followersCount": 122164,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
