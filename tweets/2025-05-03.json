@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 27382,
+      "friendsCount": 118,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1918671585164374359",
+    "fullText": "请教大家一个问题， 我用Fcitx5输入法的时候， 不知道为什么， 经常切换到一个  “A” 的输入状态， 这时候怎么都没法切到中文输入法，必须用 fcitx -r 来重启输入法。\n\n大家有什么好的方法吗？ 求指教"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -20,7 +35,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27380,
+      "followersCount": 27382,
       "friendsCount": 118,
       "location": "China"
     },
@@ -101,7 +116,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5810,
+      "followersCount": 5809,
       "friendsCount": 1228,
       "location": ""
     },
@@ -151,7 +166,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122165,
+      "followersCount": 122170,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -169,7 +184,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8255,
+      "followersCount": 8254,
       "friendsCount": 290,
       "location": ""
     },
@@ -203,7 +218,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30510,
+      "followersCount": 30512,
       "friendsCount": 580,
       "location": "Hong Kong"
     },
@@ -250,7 +265,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7015,
+      "followersCount": 7013,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -284,7 +299,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122165,
+      "followersCount": 122170,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -404,7 +419,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122165,
+      "followersCount": 122170,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -746,7 +761,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5810,
+      "followersCount": 5809,
       "friendsCount": 1228,
       "location": ""
     },
@@ -812,7 +827,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4117039,
+      "followersCount": 4116939,
       "friendsCount": 3,
       "location": ""
     },
@@ -1020,7 +1035,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58844,
+      "followersCount": 58845,
       "friendsCount": 356,
       "location": ""
     },
@@ -1038,7 +1053,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5810,
+      "followersCount": 5809,
       "friendsCount": 1228,
       "location": ""
     },
@@ -1057,7 +1072,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58844,
+      "followersCount": 58845,
       "friendsCount": 356,
       "location": ""
     },
@@ -1072,7 +1087,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58844,
+      "followersCount": 58845,
       "friendsCount": 356,
       "location": ""
     },
@@ -1089,7 +1104,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58844,
+      "followersCount": 58845,
       "friendsCount": 356,
       "location": ""
     },
@@ -1123,7 +1138,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5810,
+      "followersCount": 5809,
       "friendsCount": 1228,
       "location": ""
     },
@@ -1194,7 +1209,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5810,
+      "followersCount": 5809,
       "friendsCount": 1228,
       "location": ""
     },
@@ -1242,6 +1257,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1918203205730877594",
     "fullText": "这个世界是一个巨大的草台班子。把前些日子挖的Monad测试网的ON币存进OneKey钱包，发现钱包里显示有两个不同合约的ON币，研究了好久才发现是出问题所以迁移了 https://t.co/eago5iWxqz"
+  },
+  {
+    "user": {
+      "screenName": "pumpkinspool",
+      "name": "Pumpkin's Pool",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1510941370663460867/pSqiw9qF_normal.jpg",
+      "description": "A Solana staking platform for decentralized philanthropy.",
+      "followersCount": 661,
+      "friendsCount": 282,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp64N99WUAAFB40.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/pumpkinspool/status/1918173047862727048",
+    "fullText": "🚨 HUGE Milestone 🚨\nWe just passed $100,000 donated.\n\nNot by us - by you.\n\nEvery SOL you've staked made this happen. You've helped change lives, protect animals, and support incredible causes.\n\nThis is what it means to stake with purpose ♥️ https://t.co/jP7NNlFJhr"
   },
   {
     "user": {
@@ -1365,7 +1397,7 @@
       "name": "The Dawn Project",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1482484771620102151/kZ6rhiZ0_normal.jpg",
       "description": "Making Computers Safe for Humanity. The first danger we are tackling is Elon Musk’s reckless deployment of unsafe Full Self-Driving cars on our roads.",
-      "followersCount": 1678,
+      "followersCount": 1679,
       "friendsCount": 10,
       "location": "Santa Barbara, CA"
     },
@@ -1437,7 +1469,7 @@
       "name": "Midjourney",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
       "description": "New research lab. Exploring new mediums of thought and amplifying the imaginative powers of the human species. Join our beta:  https://t.co/Kn6Ltg8yn0",
-      "followersCount": 382648,
+      "followersCount": 382655,
       "friendsCount": 0,
       "location": ""
     },
@@ -1740,7 +1772,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122165,
+      "followersCount": 122170,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
