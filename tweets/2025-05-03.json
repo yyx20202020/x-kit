@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 30494,
+      "friendsCount": 579,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1918473467097481251",
+    "fullText": "我认为目前AI编程的最佳实践，依然是：一套高质量的模板 + Cursor。\n\n但当前模板市场，对新手普遍存在的明显痛点：\n- 纯前端模板，缺乏真实的功能实现；\n- 完整前后端模板，新手心智负担太重；\n- 直接让AI接入后端时，常用错库或旧方法（不是遵循最佳实践）\n\n✅ AI时代模板的最佳实践应该是：\n-"
+  },
+  {
+    "user": {
+      "screenName": "17thSCOG",
+      "name": "17th Special Civilians Operations Group",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892302476763697152/gJXx9DOa_normal.jpg",
+      "description": "Andrew Fayal Board Chairman, Project Milk Carton",
+      "followersCount": 17477,
+      "friendsCount": 819,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/17thSCOG/status/1918460454197752138",
+    "fullText": "Okay — I’ve been respectful up to this point. But the moment I start getting threats in my DMs for exposing the truth, that ends. You just pissed off a bomb tech.\n\nLet me explain something clearly:\n\nI was trained by the United States Navy to research ordnance.\n\nThat means my"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7017,
+      "followersCount": 7018,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -22,7 +52,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122063,
+      "followersCount": 122075,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -35,6 +65,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1918453627905044505",
     "fullText": "提示词1: I'm Japanese. Visualize my fantasies.\n提示词2: I'm Chinese. Visualize my fantasies.\n提示词3: I'm Korean. Visualize my fantasies.\n提示词4: I'm American. Visualize my fantasies. https://t.co/8j7iNx7faM"
+  },
+  {
+    "user": {
+      "screenName": "JackTurkWriter",
+      "name": "JackTurk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1586075037576351744/uQVeuV6T_normal.jpg",
+      "description": "Author, Microsoft-techie, Magician, ex-Head Copywriter for Dan Kennedy - blending Copy, AI, & Automation and known as \"The Mad Scientist of Direct Response.\"",
+      "followersCount": 71,
+      "friendsCount": 154,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp-tsuSagAIEkBL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JackTurkWriter/status/1918443289130459342",
+    "fullText": "Just sent this message to President Trump at the White House about my new book on Amazon \"MAGA Marketing Secrets\" - a bold, tactical look at the marketing mastery behind his incredible comeback. If you’ve got ideas or connections to help get this in front of him or his team, https://t.co/JPxCXal0ph"
   },
   {
     "user": {
@@ -74,7 +121,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122063,
+      "followersCount": 122075,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -92,7 +139,7 @@
       "name": "Josh",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1858562510212759553/UoR8a3w8_normal.jpg",
       "description": "Founder @AstriaOrg @Flame_evm\n\nPreviously @CelestiaOrg",
-      "followersCount": 4423,
+      "followersCount": 4425,
       "friendsCount": 2137,
       "location": "Boulder, CO"
     },
@@ -158,7 +205,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16457,
+      "followersCount": 16455,
       "friendsCount": 1193,
       "location": "San Antonio, TX"
     },
@@ -212,7 +259,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5802,
+      "followersCount": 5801,
       "friendsCount": 1228,
       "location": ""
     },
@@ -229,7 +276,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4116067,
+      "followersCount": 4116116,
       "friendsCount": 3,
       "location": ""
     },
@@ -289,11 +336,26 @@
   },
   {
     "user": {
+      "screenName": "samuelwoods_",
+      "name": "Sam Woods",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1592201679977447428/BoOrou8m_normal.jpg",
+      "description": "Grow and scale your business with AI & Agents // Explorer, Entrepreneur, Agent Engineer // Also, sometimes AI philosophy: https://t.co/SALJwfoLoY",
+      "followersCount": 10583,
+      "friendsCount": 2376,
+      "location": "Grow your business with AI:"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/samuelwoods_/status/1918288879872033181",
+    "fullText": "Deep Research Prompt for Market Intelligence\n\nGive this prompt a spin with either Perplexity or Deep Research (ChatGPT, Grok 3).\n\nIt’s a pretty decent prompt for uncovering market intelligence.\n\nIf you use Perplexity, you can select to search for social results (social media,"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58795,
+      "followersCount": 58799,
       "friendsCount": 356,
       "location": ""
     },
@@ -311,7 +373,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5802,
+      "followersCount": 5801,
       "friendsCount": 1228,
       "location": ""
     },
@@ -330,7 +392,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58795,
+      "followersCount": 58799,
       "friendsCount": 356,
       "location": ""
     },
@@ -345,7 +407,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58795,
+      "followersCount": 58799,
       "friendsCount": 356,
       "location": ""
     },
@@ -362,7 +424,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58795,
+      "followersCount": 58799,
       "friendsCount": 356,
       "location": ""
     },
@@ -379,7 +441,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5802,
+      "followersCount": 5801,
       "friendsCount": 1228,
       "location": ""
     },
@@ -450,7 +512,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5802,
+      "followersCount": 5801,
       "friendsCount": 1228,
       "location": ""
     },
@@ -505,7 +567,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73604,
+      "followersCount": 73606,
       "friendsCount": 3391,
       "location": ""
     },
@@ -552,7 +614,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30488,
+      "followersCount": 30494,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -572,7 +634,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54170,
+      "followersCount": 54176,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -589,7 +651,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7017,
+      "followersCount": 7018,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -621,7 +683,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122063,
+      "followersCount": 122075,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -641,7 +703,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122063,
+      "followersCount": 122075,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -694,7 +756,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122063,
+      "followersCount": 122075,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -711,7 +773,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6148,
+      "followersCount": 6151,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -728,7 +790,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6148,
+      "followersCount": 6151,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -741,6 +803,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/tuziapi/status/1918020358856425659",
     "fullText": "这个模型的api是很多研究领域工作人员想要的\n\n现有实验阶段的调用尝试，欢迎体验\n\n调用地址：https://t.co/XIvA4MZ1Q7\n模型名称：o4-mini-dr\n体验令牌：sk-kbiujM1PKKVczEoSla7tZGSY6bZPk9dLo9YBLEDCjIOmSaZS（100美金-模型专用，有效期至5月7日末）\n\n关注兔子一起变强\n\nPS：官方的api应该也会快了 https://t.co/no6QdJuOCP"
+  },
+  {
+    "user": {
+      "screenName": "_NEXOfficial",
+      "name": "NEX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1815456725090344960/0JSEH3nC_normal.jpg",
+      "description": "The AI marketing agent that delivers.",
+      "followersCount": 2510,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/_NEXOfficial/status/1918009021908271402",
+    "fullText": "Wanna see what happens when your brand runs 30+ ad variations, without breaking the bank?\n\nHint: increase in sales"
   },
   {
     "user": {
@@ -763,7 +840,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5802,
+      "followersCount": 5801,
       "friendsCount": 1228,
       "location": ""
     },
@@ -780,7 +857,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122063,
+      "followersCount": 122075,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -800,7 +877,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6148,
+      "followersCount": 6151,
       "friendsCount": 241,
       "location": "NewYork"
     },
@@ -851,11 +928,28 @@
   },
   {
     "user": {
+      "screenName": "AmericanWolf24",
+      "name": "American Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1586009351533256704/CuH9B8mt_normal.jpg",
+      "description": "Lair of the X-Pack. Home of the American Wolf.\nAMERICA WILL PREVAIL.\nAMERICA FOREVER!",
+      "followersCount": 3606,
+      "friendsCount": 5957,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1917961390117019648/pu/vid/avc1/888x500/B2C_QCyyukgChx1z.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/AmericanWolf24/status/1917961446647878072",
+    "fullText": "♥️THE BEST VIDEO YOU'LL SEE TODAY♥️\nA young mother elephant desperate to retrieve her baby from a pit. She struggles so ferociously that her heart stops. Human beings, some of the good ones, come to her aid. This is so powerful. People can do great things. https://t.co/2uEzGbm98d"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7017,
+      "followersCount": 7018,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -889,7 +983,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30488,
+      "followersCount": 30494,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -904,7 +998,7 @@
       "name": "Pharmaceutical Reform Alliance",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876751191683522560/GQI17C0g_normal.jpg",
       "description": "We aim to educate individuals about skyrocketing pharmaceutical prices in the United States.",
-      "followersCount": 1988,
+      "followersCount": 1989,
       "friendsCount": 173,
       "location": ""
     },
@@ -1001,7 +1095,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73604,
+      "followersCount": 73606,
       "friendsCount": 3391,
       "location": ""
     },
@@ -1018,7 +1112,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105165,
+      "followersCount": 105170,
       "friendsCount": 235,
       "location": "Singapore"
     },
@@ -1050,7 +1144,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30488,
+      "followersCount": 30494,
       "friendsCount": 579,
       "location": "Hong Kong"
     },
@@ -1109,5 +1203,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/nateleex/status/1917844142186733610",
     "fullText": "本着该省省该花花的思路，把ChatGPT账号从Pro降级成了Plus（之前Pro可以用o1-pro，但现在大家都是用o3）\n\n但很快发现不行。Plus 4.5的限额太少了。最近特别依赖4.5。 https://t.co/oiwotS7XKW"
+  },
+  {
+    "user": {
+      "screenName": "_Tango_Tango",
+      "name": "TKO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/877578639960834048/MLwk0neM_normal.jpg",
+      "description": "Former war correspondent; Wuhan, China house-arrest survivor. Survivor of marriage to fighter pilot.",
+      "followersCount": 90,
+      "friendsCount": 313,
+      "location": "Portland, OR"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917778542802137088/vid/avc1/720x1280/4OUhWu716fUVvurN.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/_Tango_Tango/status/1917780732057116893",
+    "fullText": "Beefing with the talking Dino then turned around showing off her hot pink lip. Zero patience, 100% sass. Sound up.  @get_busy_livin_ #DinoDrama #TexasToddler #Toddlerlife #ThePink #LittlePersonBigAttitude https://t.co/Q15wlp6nr0"
   }
 ]
