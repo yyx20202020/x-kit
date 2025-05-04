@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 122222,
+      "friendsCount": 1311,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqE5h_fXAAAM7KP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1918878241927860337",
+    "fullText": "Prompt: vogue cover shot of Will Smith wearing an elgant dress made of Spaghett, and he is eating the Spaghett similar to the memo of \"Will Smith eating Spaghetti\" https://t.co/Rmc0Mj9ww2"
+  },
+  {
+    "user": {
       "screenName": "HyBroNi",
       "name": "HyBroNi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1891735453457580033/sPtV3uOI_normal.jpg",
@@ -23,7 +40,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7292,
+      "followersCount": 7293,
       "friendsCount": 475,
       "location": ""
     },
@@ -149,6 +166,23 @@
   },
   {
     "user": {
+      "screenName": "BROHagan3",
+      "name": "B.R. O'Hagan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899551151462436865/fdX4Sg3p_normal.jpg",
+      "description": "Author of the Thomas Scoundrel historical fiction-adventure series, awarded ‘best adventure novels of our era.’  Writes in an old barn in Oregon wine country.",
+      "followersCount": 68,
+      "friendsCount": 35,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1918775257655373824/vid/avc1/1920x1080/F57QrNQm6IZm7QXv.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/BROHagan3/status/1918775397333815748",
+    "fullText": "The book that brought adventure back home https://t.co/HKq66EWqoI"
+  },
+  {
+    "user": {
       "screenName": "JaysonRushFB",
       "name": "Jayson Rush",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1873853106267594752/hUAvGacI_normal.jpg",
@@ -251,8 +285,8 @@
       "name": "Zorp",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836785477459861504/kRvMCTlK_normal.jpg",
       "description": "We build @nockchain, the lightweight blockchain for heavyweight verifiable compute.\n\nPowered by ZK-Proof-of-Work.",
-      "followersCount": 5095,
-      "friendsCount": 1931,
+      "followersCount": 5114,
+      "friendsCount": 1932,
       "location": "Texas"
     },
     "images": [],
@@ -313,7 +347,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27393,
+      "followersCount": 27395,
       "friendsCount": 118,
       "location": "China"
     },
@@ -345,7 +379,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27393,
+      "followersCount": 27395,
       "friendsCount": 118,
       "location": "China"
     },
@@ -409,7 +443,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27393,
+      "followersCount": 27395,
       "friendsCount": 118,
       "location": "China"
     },
@@ -460,7 +494,7 @@
       "name": "Formula 1",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_normal.jpg",
       "description": "It's All To Drive For!\n \nThis story can only be written on track... Next up: MIAMI, May 2-4 🇺🇸",
-      "followersCount": 11059386,
+      "followersCount": 11059431,
       "friendsCount": 103,
       "location": ""
     },
@@ -775,6 +809,23 @@
   },
   {
     "user": {
+      "screenName": "onyxdotbond",
+      "name": "Onyx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904333710394331136/8JR5Dsdv_normal.jpg",
+      "description": "Onyx is a platform for tokenizing revenue-generating businesses.\n\nOur mission is to make it infinitely more valuable to build a business onchain.",
+      "followersCount": 439,
+      "friendsCount": 11,
+      "location": "Onchain -- Forever"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp-U_BAXUAAAQLu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/onyxdotbond/status/1918415795987611767",
+    "fullText": "\"Mom, how did we get so rich?\"\n\n\"Dad tokenized our business on ONYX honey.” https://t.co/rZtV6aBv6L"
+  },
+  {
+    "user": {
       "screenName": "nateleex",
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
@@ -865,7 +916,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4117538,
+      "followersCount": 4117557,
       "friendsCount": 3,
       "location": ""
     },
