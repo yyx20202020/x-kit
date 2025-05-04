@@ -1,11 +1,73 @@
 [
   {
     "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
+      "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
+      "followersCount": 7292,
+      "friendsCount": 475,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1918850674202128717",
+    "fullText": "打算将 llgo 命令行工具改用 cobra 重写，但是 cobra 的 deps 包太多，于是 fork 并改了一个 zero deps 的 cobra，并发布了 Go+ cobra  v1.9.7 (https://t.co/BUurmO3abh)。\n里面包含了 Go+ 的 cobra xcmd class framework，一个极度简化的命令行程序框架，llgo 命令行工具也会基于它来做。"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22600,
+      "friendsCount": 293,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1918843727667495217",
+    "fullText": "放假只要回家呆满三天就要开始被父母数落，今天我爹又在骂我懒，说我身上的肌肉以前是铁的，现在都变松弛了，我怒火攻心，差点一句话喊出去 “哪里松弛了？昨天给我按摩的妹子才说我身上的肌肉紧呢！”，话到嘴边想了想，硬生生的翻着白眼咽了回去。"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5813,
+      "friendsCount": 1229,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqEYOMeaIAAu2-r.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1918841603206033813",
+    "fullText": "📍来云南别错过建水！出发～🚁\n\n千年古城、人文荟萃\n🚉 坐最美法式小火车\n🏛 逛国宝级文庙和朱家花园\n🍢 吃地道烧豆腐和建水米线\n🎎 邂逅彝族、回族等多元文化\n🏡 一座适合慢游的宝藏古镇！\n#建水旅行 #云南小众目的地 #中国古镇 https://t.co/TZB9XpPPM5"
+  },
+  {
+    "user": {
+      "screenName": "EHG1911",
+      "name": "EHG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1883540116297207808/NffT8584_normal.jpg",
+      "description": "Proud MAGA MotherFcker..and part time Political Commentator..",
+      "followersCount": 475,
+      "friendsCount": 259,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EHG1911/status/1918805217597935660",
+    "fullText": "Rewatching Schindler's List and wondering exactly how anybody who is not an Actual Nazi could ever think giving up your guns is a good idea..yet here we are..Jewish Senators and Congress Members promoting gun bans.. how sad."
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122211,
+      "followersCount": 122214,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -69,7 +131,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -118,7 +180,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -197,8 +259,8 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22599,
-      "friendsCount": 292,
+      "followersCount": 22600,
+      "friendsCount": 293,
       "location": "Guangdong"
     },
     "images": [],
@@ -231,7 +293,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -248,7 +310,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -280,7 +342,7 @@
       "name": "Formula 1",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_normal.jpg",
       "description": "It's All To Drive For!\n \nThis story can only be written on track... Next up: MIAMI, May 2-4 🇺🇸",
-      "followersCount": 11058972,
+      "followersCount": 11059244,
       "friendsCount": 103,
       "location": ""
     },
@@ -312,8 +374,8 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22599,
-      "friendsCount": 292,
+      "followersCount": 22600,
+      "friendsCount": 293,
       "location": "Guangdong"
     },
     "images": [],
@@ -327,8 +389,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5814,
-      "friendsCount": 1228,
+      "followersCount": 5813,
+      "friendsCount": 1229,
       "location": ""
     },
     "images": [
@@ -344,7 +406,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1731,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -362,7 +424,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105179,
+      "followersCount": 105180,
       "friendsCount": 235,
       "location": "Singapore"
     },
@@ -377,7 +439,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122211,
+      "followersCount": 122214,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -395,7 +457,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8255,
+      "followersCount": 8256,
       "friendsCount": 290,
       "location": ""
     },
@@ -427,7 +489,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30528,
+      "followersCount": 30529,
       "friendsCount": 580,
       "location": "Hong Kong"
     },
@@ -459,7 +521,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122211,
+      "followersCount": 122214,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -496,7 +558,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122211,
+      "followersCount": 122214,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -568,8 +630,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5814,
-      "friendsCount": 1228,
+      "followersCount": 5813,
+      "friendsCount": 1229,
       "location": ""
     },
     "images": [
@@ -585,7 +647,7 @@
       "name": "Cluck Coin",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1911839888988614656/qy4y14gh_normal.jpg",
       "description": "Meme coin. DJ chicken. Slot machine. Vibing.",
-      "followersCount": 3795,
+      "followersCount": 3839,
       "friendsCount": 168,
       "location": "Solana Blockchain"
     },
@@ -602,7 +664,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4117513,
+      "followersCount": 4117495,
       "friendsCount": 3,
       "location": ""
     },
@@ -617,8 +679,8 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22599,
-      "friendsCount": 292,
+      "followersCount": 22600,
+      "friendsCount": 293,
       "location": "Guangdong"
     },
     "images": [
@@ -634,8 +696,8 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22599,
-      "friendsCount": 292,
+      "followersCount": 22600,
+      "friendsCount": 293,
       "location": "Guangdong"
     },
     "images": [],
@@ -659,6 +721,23 @@
     ],
     "tweetUrl": "https://x.com/goingpublic/status/1918284296487313548",
     "fullText": "Buckle up. It's about to get wild.\n\nHelicopters. Explosions. Poker showdowns, and more.\n\nWelcome to Episode 1 featuring @NutcaseMilk - where entrepreneurship meets adrenaline.\n\nTrailer drops NOW.\n\nFull episode streaming Tuesday, May 6th at 9 AM EST on 𝕏. https://t.co/yEQIU2eXtX"
+  },
+  {
+    "user": {
+      "screenName": "Usersearch_web",
+      "name": "UserSearch 2.0",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832808396916998144/NGWlt8X2_normal.jpg",
+      "description": "A Professional Forensic OSINT Platform. All your investigation tools, datasets & techniques in one platform. \n\nhttps://t.co/F4tSdv4whP & https://t.co/wQ1RGcdGQT.",
+      "followersCount": 3298,
+      "friendsCount": 1204,
+      "location": "USA & UK"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp8N-9CWgAAToPg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Usersearch_web/status/1918267677052666092",
+    "fullText": "🚀 Weekly Feature Update: Team Investigations Are Here! 🔍\n\nBuild your squad, pool credits &amp; tackle cases together—instantly.  Lead, share and scale investigations with ease.\n\n1⃣ Dynamic license scaling: Add or remove seats on the fly to match your needs.\n\n2⃣ Central credit pool: https://t.co/0UOYwmhjgK"
   },
   {
     "user": {
@@ -781,6 +860,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1918229988853334294",
     "fullText": "麦麦你也是好起来了，敢一人吃三人餐了 https://t.co/vMsHhn4J9I"
+  },
+  {
+    "user": {
+      "screenName": "pumpkinspool",
+      "name": "Pumpkin's Pool",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1510941370663460867/pSqiw9qF_normal.jpg",
+      "description": "A Solana staking platform for decentralized philanthropy.",
+      "followersCount": 664,
+      "friendsCount": 282,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp64N99WUAAFB40.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/pumpkinspool/status/1918173047862727048",
+    "fullText": "🚨 HUGE Milestone 🚨\nWe just passed $100,000 donated.\n\nNot by us - by you.\n\nEvery SOL you've staked made this happen. You've helped change lives, protect animals, and support incredible causes.\n\nThis is what it means to stake with purpose ♥️ https://t.co/jP7NNlFJhr"
   },
   {
     "user": {
