@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18880,
+      "friendsCount": 1732,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1919028110768697670",
+    "fullText": "【找工作思考】之 销售工具类SaaS公司的三个问题：\n\n1、这类工具的核心功能是辅助管理客户，而客户的真实痛点是在萧条环境下如何获得客户。\n2、这类工具一般是云端部署，客户信息是存放在SaaS工具的乙方那里，而客户的真实痛点是担心客户信息安全，如何防止信息泄露与滥用"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
+      "followersCount": 9613,
+      "friendsCount": 3451,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqHAYfnaAAAkGPh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1919026459068493889",
+    "fullText": "“当你协调了，你就中庸了、油腻了、后生不可畏了。” https://t.co/0qucrv8XeT"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
+      "followersCount": 9613,
+      "friendsCount": 3451,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqG_2BkaoAAtf4F.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1919025878287405434",
+    "fullText": "“你开始做自己，你会发现，身边有一群人开始欣赏你。” https://t.co/8RTyLCYeHl"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -39,7 +88,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18881,
+      "followersCount": 18880,
       "friendsCount": 1732,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -75,7 +124,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105194,
+      "followersCount": 105193,
       "friendsCount": 235,
       "location": "Singapore"
     },
@@ -105,7 +154,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5810,
+      "followersCount": 5811,
       "friendsCount": 1229,
       "location": ""
     },
@@ -122,7 +171,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18881,
+      "followersCount": 18880,
       "friendsCount": 1732,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -140,7 +189,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6171,
+      "followersCount": 6172,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -175,7 +224,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22608,
+      "followersCount": 22609,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -226,7 +275,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54219,
+      "followersCount": 54214,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -246,7 +295,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18881,
+      "followersCount": 18880,
       "friendsCount": 1732,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -280,7 +329,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5810,
+      "followersCount": 5811,
       "friendsCount": 1229,
       "location": ""
     },
@@ -314,7 +363,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122276,
+      "followersCount": 122275,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -339,6 +388,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/lukebielb/status/1918877811625840799",
     "fullText": "EmailGrow is proud to announce that Chase Dimond renowned email marketing expert and partner at Structured, has officially joined the company as a strategic advisor."
+  },
+  {
+    "user": {
+      "screenName": "lukebielb",
+      "name": "Luke Bielby",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892934688408256512/K-UZyOqw_normal.jpg",
+      "description": "We Scale Brands | 100+ Happy Clients including Nike Sports, Bugatti Champagne, Wine by Lamborghini, Real Madrid Foundation, Fox News | Follow For Daily D2C Tips",
+      "followersCount": 17870,
+      "friendsCount": 484,
+      "location": "FREE Audit of Your Brand 👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lukebielb/status/1918877809650344309",
+    "fullText": "Are you struggling to collect email opt-ins?\n\nIntroducing EmailGrow:\n- 2-3X more email revenue\n- Free trial &amp; &lt;5 mins to setup\n- 100% legally compliant\n- Auto-collects consent based on region worldwide (no manual work)\n\nGive it a try, 100% free"
   },
   {
     "user": {
@@ -396,7 +460,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22608,
+      "followersCount": 22609,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -411,7 +475,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5810,
+      "followersCount": 5811,
       "friendsCount": 1229,
       "location": ""
     },
@@ -477,7 +541,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122276,
+      "followersCount": 122275,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -626,7 +690,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18881,
+      "followersCount": 18880,
       "friendsCount": 1732,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -707,7 +771,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18881,
+      "followersCount": 18880,
       "friendsCount": 1732,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -803,7 +867,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22608,
+      "followersCount": 22609,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -837,7 +901,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18881,
+      "followersCount": 18880,
       "friendsCount": 1732,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -854,7 +918,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18881,
+      "followersCount": 18880,
       "friendsCount": 1732,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -918,7 +982,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22608,
+      "followersCount": 22609,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -1321,6 +1385,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/nateleex/status/1918368273932173619",
     "fullText": "https://t.co/fPJxLv0MAB"
+  },
+  {
+    "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 242160,
+      "friendsCount": 5051,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1918367411025158144/pu/vid/avc1/720x1280/Vay0P1BAk3TGy3Wg.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1918367450476773806",
+    "fullText": "We don’t need a study to understand children shouldn’t be mutilated\n\n@TuckerCarlson @MattWalshBlog https://t.co/nojPxVF5rR"
   },
   {
     "user": {
