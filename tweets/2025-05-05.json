@@ -1,11 +1,48 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18893,
+      "friendsCount": 1734,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqKgJNPbIAAX322.jpg",
+      "https://pbs.twimg.com/media/GqKgJNZaEAAmAdy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1919272480578871464",
+    "fullText": "2025年，卖铲子还是一门好工作吗？\n\n以我对跨境私域的理解，从业者都是直接应聘学习，学会了单干。但是不少朋友都说他们的老板是热衷于花大价钱去买课听课的，并且回来之后都会“大搞纪律大改流程”。\n\n作为一个线上卖课的赛博服务员岗位，你们有什么看法呢？ https://t.co/wtmikcEiRU"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5811,
+      "friendsCount": 1229,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqKffrTbEAA2nIy.jpg",
+      "https://pbs.twimg.com/media/GqKfflJaAAAJbBL.jpg",
+      "https://pbs.twimg.com/media/GqKffiha4AA-L_7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1919271760215543927",
+    "fullText": "今天上山吃斋拜佛(-🙏-) https://t.co/L3rmb1GHdU"
+  },
+  {
+    "user": {
       "screenName": "tuziapi",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6178,
+      "followersCount": 6179,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -24,7 +61,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1734,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -41,7 +78,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1734,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -90,7 +127,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122405,
+      "followersCount": 122410,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -261,7 +298,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22614,
+      "followersCount": 22615,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -276,7 +313,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22614,
+      "followersCount": 22615,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -325,7 +362,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7015,
+      "followersCount": 7016,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -342,7 +379,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7015,
+      "followersCount": 7016,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -597,7 +634,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27417,
+      "followersCount": 27416,
       "friendsCount": 118,
       "location": "China"
     },
@@ -631,7 +668,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1734,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -680,7 +717,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27417,
+      "followersCount": 27416,
       "friendsCount": 118,
       "location": "China"
     },
@@ -714,7 +751,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1734,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -765,7 +802,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58874,
+      "followersCount": 58883,
       "friendsCount": 356,
       "location": ""
     },
@@ -882,7 +919,7 @@
       "name": "Identity V",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1801565490650955776/eUsiedO0_normal.jpg",
       "description": "Welcome to Identity V official English Page.\nCustomer Service：gameidentityv@global.netease.com \nTopup Center: https://t.co/8v28neTdcL",
-      "followersCount": 315616,
+      "followersCount": 315640,
       "friendsCount": 4,
       "location": ""
     },
@@ -916,7 +953,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1734,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -934,7 +971,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6178,
+      "followersCount": 6179,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -954,7 +991,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58874,
+      "followersCount": 58883,
       "friendsCount": 356,
       "location": ""
     },
@@ -984,7 +1021,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22614,
+      "followersCount": 22615,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -1001,7 +1038,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58874,
+      "followersCount": 58883,
       "friendsCount": 356,
       "location": ""
     },
@@ -1018,7 +1055,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54242,
+      "followersCount": 54243,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1038,7 +1075,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18892,
+      "followersCount": 18893,
       "friendsCount": 1734,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1072,7 +1109,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73653,
+      "followersCount": 73654,
       "friendsCount": 3392,
       "location": ""
     },
@@ -1089,7 +1126,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122405,
+      "followersCount": 122410,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -1257,6 +1294,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/PhilipWelbourn/status/1918766655141790163",
     "fullText": "♥️Dasha &amp; Reilly Just Married!!!♥️ https://t.co/rsxUA3oYJq"
+  },
+  {
+    "user": {
+      "screenName": "tasty",
+      "name": "Tasty",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1093997423968612353/2g4hxKQE_normal.jpg",
+      "description": "If you like our recipe videos, you’ll love our A.I. Chefbot, Botatouille. Pull up a seat at our table and let us help you figure out dinner—download our app!",
+      "followersCount": 2214436,
+      "friendsCount": 168,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1918760884379213825/vid/avc1/1080x1920/LW7W3blsBZp5FQG9.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/tasty/status/1918761013668688140",
+    "fullText": "Day 7 of Cooking Comfort Foods From Every Country. Mac &amp; Cheese from the USA https://t.co/mxh9NGWxhN"
   },
   {
     "user": {
