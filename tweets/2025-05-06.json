@@ -5,7 +5,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122461,
+      "followersCount": 122469,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -42,7 +42,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58868,
+      "followersCount": 58865,
       "friendsCount": 357,
       "location": ""
     },
@@ -57,7 +57,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58868,
+      "followersCount": 58865,
       "friendsCount": 357,
       "location": ""
     },
@@ -70,11 +70,28 @@
   },
   {
     "user": {
+      "screenName": "FredaDuan",
+      "name": "Freda Duan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1507887539624964101/GHjgo-91_normal.jpg",
+      "description": "Investing @ Altimeter Capital. No investment advice",
+      "followersCount": 20172,
+      "friendsCount": 297,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqNYUJoXsAAe7NX.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FredaDuan/status/1919476374655447096",
+    "fullText": "Been very impressed with o3 lately - it’s the first model that behaves like an agent. Wouldn’t be surprised if it’s replacing 4o and Deep Research for many users.\n\nKey agentic behaviors are: Tool use; Instruction following; Long-context reasoning.\n\no3 marks a step change in tool https://t.co/NQhfDXsKte"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58868,
+      "followersCount": 58865,
       "friendsCount": 357,
       "location": ""
     },
@@ -108,7 +125,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4120020,
+      "followersCount": 4120070,
       "friendsCount": 3,
       "location": ""
     },
@@ -123,7 +140,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18875,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -134,11 +151,31 @@
   },
   {
     "user": {
+      "screenName": "daniel_kiesow",
+      "name": "Daniel Kiesow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1576931986261827586/fRDNXqyc_normal.png",
+      "description": "joined X after Elon purchased.",
+      "followersCount": 15,
+      "friendsCount": 35,
+      "location": "Springfield, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqM7OvOXoAESVOe.jpg",
+      "https://pbs.twimg.com/media/GqM7O1oWYAAi2AC.jpg",
+      "https://pbs.twimg.com/media/GqM7O3AXwAAawFQ.jpg",
+      "https://pbs.twimg.com/media/GqM7O5xWwAAOEfh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/daniel_kiesow/status/1919443019020804563",
+    "fullText": "Well... If you say so. https://t.co/X2cGkYYTFl"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18875,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -183,6 +220,21 @@
   },
   {
     "user": {
+      "screenName": "Complex",
+      "name": "Complex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1616533296770416655/AumWVpWu_normal.jpg",
+      "description": "Making Culture Pop.",
+      "followersCount": 2447534,
+      "friendsCount": 785,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Complex/status/1919413948975067352",
+    "fullText": "Cop the Modern Dandy Collection by AC Miller before it’s sold out. \n\nPowered by @walmart"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -204,7 +256,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18875,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -234,6 +286,23 @@
   },
   {
     "user": {
+      "screenName": "dsiroker",
+      "name": "Dan Siroker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1185328505241735168/x2Me5WS2_normal.jpg",
+      "description": "Co-Founder & CEO of @LimitlessAI: a personalized AI powered by what you’ve seen, said, or heard. Formerly @RewindAI. Co-Founder of @Optimizely (sold for $300M).",
+      "followersCount": 36699,
+      "friendsCount": 3482,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1919400281802166272/vid/avc1/1920x1080/Ut_Z8swtPCC1mLPp.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/dsiroker/status/1919401324161925540",
+    "fullText": "The end of last year sucked. Here's the secret to overcoming the trough of sorrow... https://t.co/cpGZAMSTAz"
+  },
+  {
+    "user": {
       "screenName": "tuziapi",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
@@ -255,7 +324,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27421,
+      "followersCount": 27425,
       "friendsCount": 119,
       "location": "China"
     },
@@ -289,7 +358,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122461,
+      "followersCount": 122469,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -323,7 +392,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73652,
+      "followersCount": 73653,
       "friendsCount": 3391,
       "location": ""
     },
@@ -343,7 +412,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18875,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -360,7 +429,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22618,
+      "followersCount": 22621,
       "friendsCount": 294,
       "location": "Guangdong"
     },
@@ -377,7 +446,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27421,
+      "followersCount": 27425,
       "friendsCount": 119,
       "location": "China"
     },
@@ -409,7 +478,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18875,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -424,7 +493,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58868,
+      "followersCount": 58865,
       "friendsCount": 357,
       "location": ""
     },
@@ -454,7 +523,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18875,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -471,7 +540,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18875,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -527,7 +596,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18875,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -544,7 +613,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18875,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -576,7 +645,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122461,
+      "followersCount": 122469,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -681,7 +750,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22618,
+      "followersCount": 22621,
       "friendsCount": 294,
       "location": "Guangdong"
     },
@@ -696,7 +765,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22618,
+      "followersCount": 22621,
       "friendsCount": 294,
       "location": "Guangdong"
     },
@@ -755,5 +824,39 @@
     "videos": [],
     "tweetUrl": "https://x.com/yobi_app/status/1919031700727669195",
     "fullText": "May the 4th be with you:\n\nIntroducing Yobi-1\n\nYour AI guide who contemplates deeply and helps you figure things out.\n\n#MayThe4th\n\nLink Below 👇 https://t.co/C0mU4VJ3vB"
+  },
+  {
+    "user": {
+      "screenName": "TheOfficial_FFG",
+      "name": "Future Forecasting Group",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1737861437521842176/svCN2WE1_normal.jpg",
+      "description": "Offering: Prediction Forecasts, Crypto Insights, & Mystical Revelations #RemoteViewing #Tarot #Podcasts #FutureForecastingGroup #FFG",
+      "followersCount": 24756,
+      "friendsCount": 593,
+      "location": "The World"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqFy675WkAA3xXo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOfficial_FFG/status/1919030251448889543",
+    "fullText": "🚨 Did We Just Remote View the SAME Event Clif High Predicted?! | May 2025 Shockwave 💥\nYT Teaser 👉 https://t.co/X2gekQ9ssJ\nFULL DEBRIEF 👉 https://t.co/Gy8AwgeBv2 https://t.co/NvFAMo3KfA"
+  },
+  {
+    "user": {
+      "screenName": "G3b3rh",
+      "name": "DOGEfather's Consigliere",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755963057832886272/wHlDJi7C_normal.png",
+      "description": "Freedom loving American. Political commentator. America first MAGA.\nunfiltered personal account.",
+      "followersCount": 580,
+      "friendsCount": 187,
+      "location": "Virginia, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqGX-YkXUAAiKRt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/G3b3rh/status/1918982016072122529",
+    "fullText": "Hey @AGPamBondi @FBIDirectorKash @FBIDDBongino, just a reminder what you've said:\n\"Over 250 victims\" and \"mountains of evidence\"- Pam Bondi \nBut NOT ONE client who paid to r@pe children has been ARRESTED.\nHey @elonmusk, what do you think?\nCopying a few big accounts to make more https://t.co/esXpZrFBap"
   }
 ]
