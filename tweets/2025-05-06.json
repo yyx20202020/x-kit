@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 6179,
+      "friendsCount": 242,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqO94NNbAAAj8lP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1919592094852592002",
+    "fullText": "qwen3模型上架（价格为70%）\n与OpenAl调用格式一致，只需要更换 BaseURL即可\n\nQwen3 是阿里巴巴于 2025 年 4 月发布的最新开源大语言模型，融合了“快思考”与“慢思考”的混合推理架构，支持 119 种语言，具备卓越的数学、代码和多轮对话能力，​旗舰模型 Qwen3-235B-A22B 在多个基准测试中表现领先。 https://t.co/IIWDVXSbYG"
+  },
+  {
+    "user": {
+      "screenName": "elijahliststeve",
+      "name": "Steve Shultz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1842405744886308864/JDnB-hav_normal.jpg",
+      "description": "Founder, ELIJAHStreams,  The Elijah List, Breaking Christian News",
+      "followersCount": 13620,
+      "friendsCount": 602,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqO6g5KbAAI3UIT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elijahliststeve/status/1919583574220800345",
+    "fullText": "Adam Schiff should be among the first lifetime inmates at Alcatraz. Do you Agree? Yes or no?  Follow me, Steve Shultz of ELIJAH https://t.co/I9Ny6UEX9i at   https://t.co/O6bddVRc8S https://t.co/vWCa3wRfMH"
+  },
+  {
+    "user": {
       "screenName": "AZN_Sauce",
       "name": "AZNSauce",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902407117878726657/hIUpm5HQ_normal.jpg",
@@ -25,7 +59,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1272335341064609792/DmF9CslM_normal.jpg",
       "description": "Creator of Go+ (https://t.co/g8JYfPGLvf) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7300,
+      "followersCount": 7301,
       "friendsCount": 477,
       "location": ""
     },
@@ -59,7 +93,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54262,
+      "followersCount": 54261,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -89,11 +123,28 @@
   },
   {
     "user": {
+      "screenName": "AaronMachbitz",
+      "name": "Aaron Machbitz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608853527840833536/M4C1Wbr5_normal.jpg",
+      "description": "🎙️Podcast: Something For Everybody ➡️ https://t.co/tXvDk5QPiU / Owner: @Champs_Adjust, @ShopEverybody & @YouAreLovedLife",
+      "followersCount": 4201,
+      "friendsCount": 481,
+      "location": "4 Things to Quit Now 👉"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1919345425363992576/vid/avc1/1280x720/2gP8im6H1-5JBxnl.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/AaronMachbitz/status/1919526772640567752",
+    "fullText": "Transforming Mental Health Awareness into Action\n\nEpisode #363 of Something For Everybody \n\nThis Something For Everybody episode is available in full on X, YouTube, and all podcast platforms.\n\n00:00 Introduction to Mental Health Awareness Month\n02:56 The Importance of Awareness, https://t.co/AVIKCogyiX"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122508,
+      "followersCount": 122512,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -258,7 +309,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4120221,
+      "followersCount": 4120238,
       "friendsCount": 3,
       "location": ""
     },
@@ -273,7 +324,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18873,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -281,6 +332,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1919452584001339508",
     "fullText": "我更喜欢左侧交易\n\n遇到那种利好之后当天已经涨3%/5%的股票，本能的觉得后续阴跌的可能性很大，而且对于止损线拿不准主意，进场之后每时每刻都想跑。"
+  },
+  {
+    "user": {
+      "screenName": "mehula_7",
+      "name": "Mehul Aggarwal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880826032367730688/x9s1z35U_normal.jpg",
+      "description": "Just startups and tech. Building something new.",
+      "followersCount": 46,
+      "friendsCount": 134,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mehula_7/status/1919446232314872078",
+    "fullText": "Why do 70% of strategies fail?\n\nTeams work hard, but:\n🕒 Silent sprint delays pile up\n📉 Misalignment burns out good plans\n🚨 Leaders only see the fire after it’s raging\nSound familiar?\n(Not selling anything. Just building in public. What’s your biggest execution blind spot?👇)"
   },
   {
     "user": {
@@ -357,7 +423,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18873,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -382,6 +448,23 @@
     ],
     "tweetUrl": "https://x.com/NagiNajjar/status/1919434466545828003",
     "fullText": "“ Pakistan 🇵🇰 Ambassador to Russia 🇷🇺stated  Islamabad could use nuclear weapons in case of war with India 🇮🇳. “ https://t.co/M0KdltkEZM"
+  },
+  {
+    "user": {
+      "screenName": "TheBirbNest",
+      "name": "THE ₿IRB NEST",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884594231307558912/d5BnNVEY_normal.jpg",
+      "description": "A community with trading education and courses, fundamental analysis, live trading, airdrop strategies and trading psychology 📚",
+      "followersCount": 98323,
+      "friendsCount": 139,
+      "location": "Reliable trading community →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqMvAa-XwAALELv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheBirbNest/status/1919429954829218061",
+    "fullText": "The Birb Nest Bulletin is live.\n\nSubscribe for $1 to access crypto insights from @crypto_birb and enter the Hyper Giveaway. One subscriber will win the full subscription pot.\n\nSubscribe to @crypto_birb now and get access for just $1! https://t.co/Cygxl3I2Z2"
   },
   {
     "user": {
@@ -438,7 +521,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9621,
+      "followersCount": 9622,
       "friendsCount": 3452,
       "location": ""
     },
@@ -455,7 +538,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18873,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -472,7 +555,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6177,
+      "followersCount": 6179,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -506,7 +589,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6177,
+      "followersCount": 6179,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -519,11 +602,26 @@
   },
   {
     "user": {
+      "screenName": "sharkhouse23",
+      "name": "Kane ⚡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916263887151697920/M-OfiK2d_normal.jpg",
+      "description": "building stuff, sometimes it works | 2x founder",
+      "followersCount": 71,
+      "friendsCount": 69,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sharkhouse23/status/1919398414451691981",
+    "fullText": "A month ago, I set a goal to build and share 30 projects in 30 days.\n\nThe early days were a blast. I tackled small builds, tinkered with new tools, and learned a ton. But as I gained momentum, my projects also became more ambitious. One of them (an AI code editor) took over 10"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27426,
+      "followersCount": 27429,
       "friendsCount": 119,
       "location": "China"
     },
@@ -540,7 +638,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "西天上，总还留有晚霞",
-      "followersCount": 7303,
+      "followersCount": 7304,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -557,7 +655,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122508,
+      "followersCount": 122512,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -574,7 +672,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6177,
+      "followersCount": 6179,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -628,7 +726,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18873,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -645,7 +743,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22619,
+      "followersCount": 22621,
       "friendsCount": 294,
       "location": "Guangdong"
     },
@@ -662,7 +760,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27426,
+      "followersCount": 27429,
       "friendsCount": 119,
       "location": "China"
     },
@@ -694,7 +792,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18873,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -737,6 +835,23 @@
   },
   {
     "user": {
+      "screenName": "F1",
+      "name": "Formula 1",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_normal.jpg",
+      "description": "It's All To Drive For!\n \nThis story can only be written on track... Next up: IMOLA, May 16-18 🇮🇹",
+      "followersCount": 11070173,
+      "friendsCount": 104,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1919318959184121856/vid/avc1/720x720/fSK2w5a96-P0F5Os.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/F1/status/1919319097818390876",
+    "fullText": "\"You look like Donkey Kong\" 🤣\n\n#F1 #MiamiGP @Bitdefender https://t.co/xs7VTcoNpf"
+  },
+  {
+    "user": {
       "screenName": "chuckchen_zh",
       "name": "Chuck Chen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1797186447491170304/fLqq1huE_normal.jpg",
@@ -756,7 +871,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18873,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -793,7 +908,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18873,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -830,7 +945,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6177,
+      "followersCount": 6179,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -849,7 +964,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18873,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -866,7 +981,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18873,
+      "followersCount": 18877,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -881,7 +996,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9621,
+      "followersCount": 9622,
       "friendsCount": 3452,
       "location": ""
     },
@@ -898,7 +1013,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122508,
+      "followersCount": 122512,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -918,7 +1033,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9621,
+      "followersCount": 9622,
       "friendsCount": 3452,
       "location": ""
     },
@@ -935,7 +1050,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30592,
+      "followersCount": 30594,
       "friendsCount": 580,
       "location": "Hong Kong"
     },
@@ -952,7 +1067,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9621,
+      "followersCount": 9622,
       "friendsCount": 3452,
       "location": ""
     },
@@ -986,7 +1101,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9621,
+      "followersCount": 9622,
       "friendsCount": 3452,
       "location": ""
     },
@@ -1026,6 +1141,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/1919203401021174230",
     "fullText": "我之前玩斯诺克的体验就是桌子太大球太小，两人水平菜的话，半天打不完一局，关键是还要自己搞个计分器去记分，有点麻烦，所以同朋友玩的更多的还是美式八球，桌子小，球大，不用记分，谁先打完自己的球和黑球谁就赢，一局也可以很快打完。"
+  },
+  {
+    "user": {
+      "screenName": "QuinBill",
+      "name": "Bill O'Quin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1388528904730726404/2pycUOVE_normal.jpg",
+      "description": "We have the “CORRUPTED” (politicians; Big Business, Big Government, Big Tech, Big Pharma, Big Academia aided by innumerable lobbyists. TVT exposes the CORRUPTED",
+      "followersCount": 1197,
+      "friendsCount": 87,
+      "location": "Baton Rouge"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqJcGvVWAAAWJO-.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QuinBill/status/1919201060205265108",
+    "fullText": "TVT 267 Judicial Deportation Delay, White House \"Drudge Report\" &amp; AI's BIG BUST https://t.co/oXD6BRYUVq\n\nPLEASE REPLY AND REPOST! THANKS! https://t.co/gEAQ3qSFY3"
   },
   {
     "user": {
