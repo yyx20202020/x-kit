@@ -1,11 +1,31 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 122650,
+      "friendsCount": 1311,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqTyCn6WIAESffJ.jpg",
+      "https://pbs.twimg.com/media/GqTyCn9WsAEZ_Wv.jpg",
+      "https://pbs.twimg.com/media/GqTyCoAXwAA2AVa.jpg",
+      "https://pbs.twimg.com/media/GqTyCn6WsAEl5tp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1919925636434465065",
+    "fullText": "用 AI 帮你设计个性 T 恤\n\n注：\n- 可以修改中括号【】内文字\n- 本图由 sora 生成\n\n提示词：\n请基于以下主题和元素为灵感设计一款富有创意、视觉冲击力强、适合T恤印刷的图案，图案应该呈现在一件T恤上：\n\n主题：【看啥看】\n艺术风格：【Q版漫画】\nT恤颜色：【白色】 https://t.co/SCwMsrxJMh"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58913,
+      "followersCount": 58917,
       "friendsCount": 357,
       "location": ""
     },
@@ -20,8 +40,8 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18187,
-      "friendsCount": 815,
+      "followersCount": 18189,
+      "friendsCount": 816,
       "location": "Mountain View, CA"
     },
     "images": [
@@ -37,7 +57,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58913,
+      "followersCount": 58917,
       "friendsCount": 357,
       "location": ""
     },
@@ -84,7 +104,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27420,
+      "followersCount": 27421,
       "friendsCount": 119,
       "location": "China"
     },
@@ -101,7 +121,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27420,
+      "followersCount": 27421,
       "friendsCount": 119,
       "location": "China"
     },
@@ -170,7 +190,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27420,
+      "followersCount": 27421,
       "friendsCount": 119,
       "location": "China"
     },
@@ -187,7 +207,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27420,
+      "followersCount": 27421,
       "friendsCount": 119,
       "location": "China"
     },
@@ -202,7 +222,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18871,
+      "followersCount": 18870,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -240,7 +260,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18871,
+      "followersCount": 18870,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -257,7 +277,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58913,
+      "followersCount": 58917,
       "friendsCount": 357,
       "location": ""
     },
@@ -275,8 +295,8 @@
       "name": "Going Public",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1913000339055476736/-Sr6HZiT_normal.jpg",
       "description": "Your backstage pass to the deals & insights defining tomorrow. 📩 Join for early access + episode alerts: https://t.co/appK5zh3hZ",
-      "followersCount": 12027,
-      "friendsCount": 868,
+      "followersCount": 12054,
+      "friendsCount": 869,
       "location": "Beverly Hills, CA"
     },
     "images": [],
@@ -292,7 +312,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149884,
+      "followersCount": 149886,
       "friendsCount": 475,
       "location": "中华人民共和国"
     },
@@ -325,7 +345,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58913,
+      "followersCount": 58917,
       "friendsCount": 357,
       "location": ""
     },
@@ -343,7 +363,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
-      "followersCount": 689,
+      "followersCount": 688,
       "friendsCount": 442,
       "location": ""
     },
@@ -362,7 +382,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18871,
+      "followersCount": 18870,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -394,7 +414,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5797,
+      "followersCount": 5799,
       "friendsCount": 1228,
       "location": ""
     },
@@ -426,7 +446,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18871,
+      "followersCount": 18870,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -441,7 +461,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18871,
+      "followersCount": 18870,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -458,7 +478,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30585,
+      "followersCount": 30587,
       "friendsCount": 580,
       "location": "Hong Kong"
     },
@@ -477,7 +497,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122644,
+      "followersCount": 122650,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -494,7 +514,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18871,
+      "followersCount": 18870,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -545,7 +565,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5797,
+      "followersCount": 5799,
       "friendsCount": 1228,
       "location": ""
     },
@@ -562,7 +582,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54268,
+      "followersCount": 54270,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -579,7 +599,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122644,
+      "followersCount": 122650,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -599,7 +619,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58913,
+      "followersCount": 58917,
       "friendsCount": 357,
       "location": ""
     },
@@ -631,7 +651,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58913,
+      "followersCount": 58917,
       "friendsCount": 357,
       "location": ""
     },
@@ -648,7 +668,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4121699,
+      "followersCount": 4121724,
       "friendsCount": 3,
       "location": ""
     },
@@ -726,5 +746,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/tuziapi/status/1919398933832294691",
     "fullText": "可灵API 也接入了，看上去AI做视频还是不便宜，毕竟我们还要抽卡。 https://t.co/5k6cSsF8sC"
+  },
+  {
+    "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915400309498593280/8EhjBbvu_normal.jpg",
+      "description": "dipping McCrispy Strips is my whole personality now",
+      "followersCount": 4738856,
+      "friendsCount": 13021,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1919285937894498553",
+    "fullText": "a perfect use of my free will"
   }
 ]
