@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 27424,
+      "friendsCount": 119,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqazUsAWYAAM7TG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1920419645582188714",
+    "fullText": "修复 Btrfs 文件系统的秘籍\n\nBtrfs炸了\n最近在测试 AI 知识库的功能，有一份代码没写好，直接把内存干满了，内存温度上到 135° 后随机死机。\n\n当时测试 AI 功能，没有特别关注，但是最近 Btrfs 增量备份的时候一直有问题，用 dmesg 查一下，错误信息类似 `kernel: BTRFS warning (device dm-0): csum https://t.co/wIG1SY8tdM"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54291,
+      "followersCount": 54293,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -20,7 +37,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18860,
+      "followersCount": 18856,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -55,7 +72,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9640,
+      "followersCount": 9639,
       "friendsCount": 3456,
       "location": ""
     },
@@ -72,7 +89,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54291,
+      "followersCount": 54293,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -104,7 +121,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18860,
+      "followersCount": 18856,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -121,7 +138,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9640,
+      "followersCount": 9639,
       "friendsCount": 3456,
       "location": ""
     },
@@ -138,7 +155,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6201,
+      "followersCount": 6202,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -155,7 +172,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9640,
+      "followersCount": 9639,
       "friendsCount": 3456,
       "location": ""
     },
@@ -172,7 +189,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4123849,
+      "followersCount": 4123800,
       "friendsCount": 3,
       "location": ""
     },
@@ -183,11 +200,26 @@
   },
   {
     "user": {
+      "screenName": "HoodiMitchell",
+      "name": "⁴⁵",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920004216392646656/-epY-8px_normal.jpg",
+      "description": "d1 drake defender",
+      "followersCount": 411,
+      "friendsCount": 502,
+      "location": "Rocket Arena"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HoodiMitchell/status/1920328845695025643",
+    "fullText": "I speak for all Cavs and Celtics fans we want the Tatum vs Mitchell ECF matchup. \n\nWe’re getting robbed beyond our eyes"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149967,
+      "followersCount": 149959,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -219,7 +251,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122836,
+      "followersCount": 122837,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -352,7 +384,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27426,
+      "followersCount": 27424,
       "friendsCount": 119,
       "location": "China"
     },
@@ -629,6 +661,23 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 242161,
+      "friendsCount": 5051,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1920200138871459840/vid/avc1/640x296/1TAKm0beAhimb46b.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1920200267615879634",
+    "fullText": "Rep. Elise Stefanik once again exposes the cowardice of higher ed leaders who refuse to condemn terrorism. A Haverford College president couldn’t say it was wrong to celebrate the Oct. 7 massacre—because it \"depends on the context\"?\n\n@EliseStefanik is doing what real leaders do: https://t.co/RVMOvKiB3q"
+  },
+  {
+    "user": {
       "screenName": "TheSixFiveMedia",
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
@@ -667,7 +716,7 @@
       "name": "CPAC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
       "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
-      "followersCount": 242169,
+      "followersCount": 242161,
       "friendsCount": 5051,
       "location": "Where Globalism Goes to Die"
     },
@@ -716,7 +765,7 @@
       "name": "Bo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/821482903540379650/9nFl4nLw_normal.jpg",
       "description": "Libertarian, individual rights, personal freedom, logical arguments emotionally articulated.",
-      "followersCount": 1341,
+      "followersCount": 1342,
       "friendsCount": 375,
       "location": ""
     },
@@ -799,7 +848,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5330,
+      "followersCount": 5331,
       "friendsCount": 330,
       "location": "杭州"
     },
@@ -814,7 +863,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5330,
+      "followersCount": 5331,
       "friendsCount": 330,
       "location": "杭州"
     },
@@ -849,7 +898,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58947,
+      "followersCount": 58945,
       "friendsCount": 358,
       "location": ""
     },
@@ -900,7 +949,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5330,
+      "followersCount": 5331,
       "friendsCount": 330,
       "location": "杭州"
     },
@@ -915,7 +964,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18860,
+      "followersCount": 18856,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -948,7 +997,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18860,
+      "followersCount": 18856,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1018,7 +1067,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18860,
+      "followersCount": 18856,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1052,7 +1101,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18860,
+      "followersCount": 18856,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1117,7 +1166,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149967,
+      "followersCount": 149959,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -1184,7 +1233,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5330,
+      "followersCount": 5331,
       "friendsCount": 330,
       "location": "杭州"
     },
@@ -1202,7 +1251,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9640,
+      "followersCount": 9639,
       "friendsCount": 3456,
       "location": ""
     },
@@ -1236,7 +1285,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22630,
+      "followersCount": 22633,
       "friendsCount": 338,
       "location": "HK"
     },
@@ -1349,7 +1398,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18860,
+      "followersCount": 18856,
       "friendsCount": 1736,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1638,7 +1687,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5330,
+      "followersCount": 5331,
       "friendsCount": 330,
       "location": "杭州"
     },
@@ -2200,7 +2249,7 @@
       "name": "Kinesis Money",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917894893940137984/3LFB_Kit_normal.png",
       "description": "Kinesis is a monetary system making physical gold and silver globally accessible for spending, saving and trading - with over 50% of revenue shared as yields.",
-      "followersCount": 20941,
+      "followersCount": 20940,
       "friendsCount": 113,
       "location": ""
     },
