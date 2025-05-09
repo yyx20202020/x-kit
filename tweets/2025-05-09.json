@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8264,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqeYNRxXQAAQ50k.jpg",
+      "https://pbs.twimg.com/media/GqeZEMpXsAAXd_8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1920672453581312015",
+    "fullText": "4 月底用 @DashHuang 的 Pingro 创建了一个比特币重回 10 万美元就发通知的监控，没想到这么快就收到邮件提醒了。就是发的通知有点多，今天已经收到了 11 封邮件了。 https://t.co/WLAKN18JtT"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 9667,
+      "friendsCount": 3456,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqeWLUTbcAMhrm9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1920669372038652360",
+    "fullText": "小规模验证了一个 A 股小技巧：尽可能建立信源领先大众舆论和情绪，然后冷静买入、在情绪高涨的时候不留恋果断卖出！\n（不构成投资建议！ https://t.co/B3XPwZ2q1h"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 9667,
+      "friendsCount": 3456,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqeRHn_XwAAw5oR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1920663363694014770",
+    "fullText": "ChatGPT 4o 是会搞笑的🤣 https://t.co/v6vrh3fzCf"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7014,
+      "followersCount": 7013,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -20,7 +72,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9665,
+      "followersCount": 9667,
       "friendsCount": 3456,
       "location": ""
     },
@@ -37,7 +89,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6219,
+      "followersCount": 6224,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -57,7 +109,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188025,
+      "followersCount": 188027,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -76,7 +128,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188025,
+      "followersCount": 188027,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -140,6 +192,21 @@
   },
   {
     "user": {
+      "screenName": "DanielDunn1222",
+      "name": "Daniel Lewis Dunn 🇺🇸",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896724225412493312/vlvPj11Z_normal.jpg",
+      "description": "🌩️⚡Sole provider bootstrapping a start-up against challenges. Future $T, help me now you'll be 💎 later. 17yo dog father. No time for 🚫https://t.co/z0RHEvOnG6",
+      "followersCount": 364,
+      "friendsCount": 1034,
+      "location": "USA, Earth"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DanielDunn1222/status/1920592981679083876",
+    "fullText": "I wish I didn't have to ask, though I would greatly appreciate it if anyone is able to aid me, my Body Zen and 17yo dog dodge some hurdles to then make literally millions in revenue. \n\nI have solid plans proving our potential for literally billions that I can share upon request."
+  },
+  {
+    "user": {
       "screenName": "JSennza",
       "name": "J.K. SNZA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1899763521061040131/lMftHJ_K_normal.jpg",
@@ -154,6 +221,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/JSennza/status/1920588714318676209",
     "fullText": "XRP / Ripple 💥SEC’s Illegal Retaliation 💥Freezes Bank Account By Weaponizing Fed. Court to Seize Blameless Whistleblower’s Funds\n\n– SEC freezes bank account of blameless whistleblower in possession of decisive evidence favoring Ripple and the crypto industry –\n\nMay 8, 2025 - https://t.co/Cd5A1JSs9q"
+  },
+  {
+    "user": {
+      "screenName": "America_Alone",
+      "name": "America Alone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919953891224899584/FxNXLjii_normal.jpg",
+      "description": "Prophet of the American Faith, Veteran, Father, TDS Survivor",
+      "followersCount": 112,
+      "friendsCount": 208,
+      "location": "Missouri, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqdNAsSXIAAQjPv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/America_Alone/status/1920588446218715606",
+    "fullText": "https://t.co/6SUwhhMMrs"
+  },
+  {
+    "user": {
+      "screenName": "davidpallmann",
+      "name": "David Pallmann",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780696124883378176/xbeUcdtr_normal.jpg",
+      "description": "✝Christian 👫husband 👪dad 📚writer ♭aritone 🍕foodie 🚀scifi\nAWS Prod Mgr - .NET GTM\nex SDM@Twitch GM@Neudesic MVP+PM@MSFT CTO@NQL Dev@ALMI\nopinions are my own",
+      "followersCount": 996,
+      "friendsCount": 655,
+      "location": "Frisco TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/davidpallmann/status/1920577442550292755",
+    "fullText": ".NET Developers - Do you plan to use .NET Aspire for your cloud-native apps? #dotnet"
   },
   {
     "user": {
@@ -225,11 +324,28 @@
   },
   {
     "user": {
+      "screenName": "NeuracoAI",
+      "name": "Neuraco",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920538848380985344/6dWOoEGX_normal.png",
+      "description": "Building the cloud platform for robot learning. We help robotics teams collect data, train AI models, and deploy intelligent behaviours at scale.",
+      "followersCount": 7,
+      "friendsCount": 0,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1920553033613590528/vid/avc1/1920x1080/RJGhX2NaVGmCnPc9.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NeuracoAI/status/1920553840283169260",
+    "fullText": "After months of building and fine-tuning Neuracore with select partners, we're excited to officially open our doors wider. \n\nTomorrow, get ready to meet the world's first robot learning cloud platform...\n\nFollow us on...\nhttps://t.co/2zORKfaZrH\nhttps://t.co/gWw50o30y6 https://t.co/N4VX2orHJF"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122883,
+      "followersCount": 122891,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -366,7 +482,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9665,
+      "followersCount": 9667,
       "friendsCount": 3456,
       "location": ""
     },
@@ -376,6 +492,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1920511992353464353",
     "fullText": "内容品牌和产品品牌一样，是“我要展现出我对你的价值，或者我们之间的连接”。 https://t.co/vPu9sQaHon"
+  },
+  {
+    "user": {
+      "screenName": "MaximumEntmt",
+      "name": "Maximum Entertainment",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1760035144201891840/XaNCxHbY_normal.jpg",
+      "description": "Global video game publisher dedicated to delivering magic to the gamer in everyone.",
+      "followersCount": 23400,
+      "friendsCount": 685,
+      "location": "Walnut Creek, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1920509057464496128/vid/avc1/1280x720/YQsmyVAdhBQfuPWq.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/MaximumEntmt/status/1920509163399975185",
+    "fullText": "Pixelshire is available now on PC! 🌳✨\n\nBegin your journey building the town of Pixelshire in this unique RPG sandbox that mixes life sim elements with town building, exploration, and combat!\n\n🌱 Carve the landscape with terraforming\n🏘️ Grow your community \n🗺️ Explore the https://t.co/AETN9TPz7Z"
   },
   {
     "user": {
@@ -400,7 +533,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18846,
+      "followersCount": 18847,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -451,7 +584,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30618,
+      "followersCount": 30619,
       "friendsCount": 582,
       "location": "Hong Kong"
     },
@@ -466,7 +599,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5803,
+      "followersCount": 5801,
       "friendsCount": 1228,
       "location": ""
     },
@@ -483,8 +616,8 @@
       "name": "Izadi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918012206811365376/UjL3psLC_normal.png",
       "description": "Crypto Is For Fun! & ANYTHING I POST ABOUT HERE SHOULD NOT BE TAKEN AS ADVICE. 🥂🕯️Founder: @GraffitiMansion 🎨 https://t.co/RXL42XEGrZ",
-      "followersCount": 40724,
-      "friendsCount": 9502,
+      "followersCount": 40721,
+      "friendsCount": 9503,
       "location": ""
     },
     "images": [
@@ -500,7 +633,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18846,
+      "followersCount": 18847,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -515,7 +648,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18846,
+      "followersCount": 18847,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -549,7 +682,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58955,
+      "followersCount": 58957,
       "friendsCount": 358,
       "location": ""
     },
@@ -585,7 +718,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18846,
+      "followersCount": 18847,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -602,7 +735,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122883,
+      "followersCount": 122891,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -614,6 +747,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1920468271687426212",
     "fullText": "如何轻松写出好用的提示词模板？\n\n最近我分享了很多 AI 提示词，大部分提示词都能收到用户的留言分享他们基于我的提示词创作的成果，之所以大家都能轻松的基于我的提示词进行二次创作，是因为我刻意把提示词写成了“提示词模板”，让其他人只要做少量修改就可以产生新的结果。 https://t.co/voDSyoCsvk"
+  },
+  {
+    "user": {
+      "screenName": "RelayProtocol",
+      "name": "Relay",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1753515078316355584/uT6CssGo_normal.jpg",
+      "description": "Instant, low-cost swapping, bridging and cross-chain execution.\n\n74+ chains & counting | Built by @reservoir0x | Support — https://t.co/vpxIEmFKoP",
+      "followersCount": 52379,
+      "friendsCount": 17,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RelayProtocol/status/1920459333294346328",
+    "fullText": "Relay is for everyone. \n\n⚡️ Instant\n♾️ Any-to-any\n🚀 80+ chains \n\nEVM — SVM — BTC &amp; more. \n\nWhat are you waiting for, anon?!\n\nLFR."
   },
   {
     "user": {
@@ -636,7 +784,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18846,
+      "followersCount": 18847,
       "friendsCount": 1737,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -835,7 +983,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6219,
+      "followersCount": 6224,
       "friendsCount": 242,
       "location": "NewYork"
     },
@@ -910,6 +1058,23 @@
   },
   {
     "user": {
+      "screenName": "Joshuammxm",
+      "name": "Joshua",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918448588419403777/FotTRksR_normal.jpg",
+      "description": "Student Athlete | Houston | $NQ Trader",
+      "followersCount": 1093,
+      "friendsCount": 296,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1920286606218440704/vid/avc1/1694x1080/ZSicZaXSeGLtxuOM.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Joshuammxm/status/1920287876257857928",
+    "fullText": "Trading Asian session with 1h fair value conformation, this is a breakout into external range liquidity\n\n$NQ 15m -&gt; 1m live replay \n7 May 2025 https://t.co/9Qkw1jVZfa"
+  },
+  {
+    "user": {
       "screenName": "CPAC",
       "name": "CPAC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
@@ -941,6 +1106,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/TheSixFiveMedia/status/1920224204579914019",
     "fullText": "📢 Big news! @DaveShull, President of HP Solutions (@ZbyHP) @HP, is set to open the Modern Work track at The Six Five Summit: AI Unleashed 2025 (streaming online June 16-19). Explore AI's real-world impact across 14+ tracks + new focus on Channel Ecosystems &amp; Marketing. Register https://t.co/qQGS9U2JRg"
+  },
+  {
+    "user": {
+      "screenName": "JuliaInga7",
+      "name": "Fed Up Alaskan Granny",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1856730480907001856/snmUAUuL_normal.jpg",
+      "description": "Sometimes you just have to come out of your comfort zone to do the right thing. ALASKA IS FOR ALASKANS! Alaska first 👊",
+      "followersCount": 835,
+      "friendsCount": 1251,
+      "location": "Alaska, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JuliaInga7/status/1920211871246004426",
+    "fullText": "This is whats happening in the Alaska legislature -bills and policies that threaten our livelihoods. We need to stand together and demand better! Th\n👉 SB 32: Stripping the Regulatory Commission of Alaska (RCA)  \nWhat It Does: This bill removes the RCA’s oversight for energy"
   },
   {
     "user": {
@@ -1012,7 +1192,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149972,
+      "followersCount": 149975,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
