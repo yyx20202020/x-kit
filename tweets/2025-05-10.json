@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
+      "followersCount": 5331,
+      "friendsCount": 336,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1921083272236315025",
+    "fullText": "感觉要放弃纯做 social media schedule tool 了，虽然市场不小，但是竞争者太多了，做不出来特色的话，都没有可宣传的东西，唯一能宣传的也许就是价格了。\n可能还是要找一个细分市场，或者是能做出来独特卖点、解决没有满足的痛点的产品，哪怕市场比较小、比较新。"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 7011,
+      "friendsCount": 729,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqkO3hHbcAUdCDe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1921083068791533622",
+    "fullText": "突然发现「四十米大砍刀」这梗挺合理，巨型 mecha 基本都是这个尺寸。 https://t.co/GSbp75Phxb"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18838,
+      "friendsCount": 1740,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqkL4sdXEAAjsGt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1921079800485007827",
+    "fullText": "凉拌卷粉，打包回去吃 https://t.co/XHCy6YMn1B"
+  },
+  {
+    "user": {
       "screenName": "BuySellBA",
       "name": "BuySell BA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1690523326832324609/yNgfkqQU_normal.jpg",
@@ -136,7 +185,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73668,
+      "followersCount": 73666,
       "friendsCount": 3390,
       "location": ""
     },
@@ -247,11 +296,28 @@
   },
   {
     "user": {
+      "screenName": "RFKracing",
+      "name": "RFK Racing",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742180955572350976/O6VmrDnX_normal.jpg",
+      "description": "2X NASCAR Cup Champions. The people who run this account still aren’t allowed to touch the cars. @Keselowski | @Chris_Buescher | @ryanpreece_",
+      "followersCount": 198542,
+      "friendsCount": 742,
+      "location": "Concord, NC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1920922593726496769/vid/avc1/1080x1920/MsWgjXsvteYK7yrA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/RFKracing/status/1920922792041537587",
+    "fullText": "Spend a day in Raleigh with @Chris_Buescher  🛣️ https://t.co/2qGcmXDmC9"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18839,
+      "followersCount": 18838,
       "friendsCount": 1740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -362,7 +428,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18839,
+      "followersCount": 18838,
       "friendsCount": 1740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -411,7 +477,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30662,
+      "followersCount": 30670,
       "friendsCount": 582,
       "location": "Hong Kong"
     },
@@ -426,7 +492,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30662,
+      "followersCount": 30670,
       "friendsCount": 582,
       "location": "Hong Kong"
     },
@@ -444,7 +510,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30662,
+      "followersCount": 30670,
       "friendsCount": 582,
       "location": "Hong Kong"
     },
@@ -474,11 +540,28 @@
   },
   {
     "user": {
+      "screenName": "helppersecuted",
+      "name": "Help The Persecuted",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798758588846051329/MgLxWoJd_normal.jpg",
+      "description": "Help The Persecuted is meeting the physical and spiritual needs of #persecuted Christians throughout the Middle East, North Africa, and Asia.",
+      "followersCount": 1086,
+      "friendsCount": 34,
+      "location": "US, UK, Australia, Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1920872406635118592/pu/vid/avc1/720x1280/Ci9ZvlUq26iTGpJA.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/helppersecuted/status/1920872441259171927",
+    "fullText": "\"We're talking about people who are fleeing certain death.\" \n\nIn this podcast with Nash, an Afghan Christian who lives in the United States but is facing potential forced return to Afghanistan, our CEO Joshua Youssef explains the situation. You can listen to the full episode by https://t.co/wlBK7MSsWo"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18839,
+      "followersCount": 18838,
       "friendsCount": 1740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -512,7 +595,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30662,
+      "followersCount": 30670,
       "friendsCount": 582,
       "location": "Hong Kong"
     },
@@ -610,7 +693,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18839,
+      "followersCount": 18838,
       "friendsCount": 1740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -659,7 +742,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18839,
+      "followersCount": 18838,
       "friendsCount": 1740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -708,7 +791,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5330,
+      "followersCount": 5331,
       "friendsCount": 336,
       "location": "杭州"
     },
@@ -723,7 +806,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54359,
+      "followersCount": 54366,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -740,7 +823,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5330,
+      "followersCount": 5331,
       "friendsCount": 336,
       "location": "杭州"
     },
@@ -755,7 +838,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18839,
+      "followersCount": 18838,
       "friendsCount": 1740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -772,7 +855,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22635,
+      "followersCount": 22645,
       "friendsCount": 338,
       "location": "HK"
     },
@@ -787,7 +870,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18839,
+      "followersCount": 18838,
       "friendsCount": 1740,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -871,7 +954,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149992,
+      "followersCount": 149991,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -1083,6 +1166,40 @@
     ],
     "tweetUrl": "https://x.com/AllInAbe_/status/1920632461781860496",
     "fullText": "Thank you @FDSportsbook for allowing me to buy my baby sister her dream car ♥️ https://t.co/8VDS8e8ITU"
+  },
+  {
+    "user": {
+      "screenName": "mercedesschlapp",
+      "name": "Mercedes Schlapp",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898101395829456896/mBludBRf_normal.jpg",
+      "description": "Faith, family, country, freedom. Ephesians 6:11. Host of @CPAC Now: America Uncanceled, Former WH Strategic Senior Advisor for President Trump",
+      "followersCount": 473681,
+      "friendsCount": 3717,
+      "location": "Alexandria, VA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1920554651075645442/vid/avc1/1280x720/Va4MWM2_GPFR2-co.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/mercedesschlapp/status/1920566373178024205",
+    "fullText": "The Fake News continues to live up to their name. \n\nWATCH as MSNBC's Morning Joe was forced to issue a correction for a false statement about FBI Director @kash_patel made during their Friday show https://t.co/nMDHRBwVZV"
+  },
+  {
+    "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 242158,
+      "friendsCount": 5050,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1920561897985720320/pu/vid/avc1/720x1280/ZpKEzg6sqdrXKicZ.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1920561941996601736",
+    "fullText": "Finding purpose through the pain of a lost loved one.\n\n@mercedesschlapp\n@AnneElizabethUS https://t.co/rGqT8Gj0TD"
   },
   {
     "user": {
@@ -1344,7 +1461,7 @@
       "name": "Denise K Shull",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1747043148994658304/hhk9Qvqx_normal.jpg",
       "description": "Risk Performance Coach. (+ Yes, BILLIONS did use me to create their psychiatrist Dr. Wendy Rhoades. If you think otherwise, you just need the facts.)",
-      "followersCount": 24193,
+      "followersCount": 24194,
       "friendsCount": 6507,
       "location": "Park City, Utah "
     },
@@ -1376,7 +1493,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122989,
+      "followersCount": 122996,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
