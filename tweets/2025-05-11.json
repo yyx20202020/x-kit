@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
+      "followersCount": 5333,
+      "friendsCount": 340,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1921558945807692037",
+    "fullText": "复盘了一波：我前两个产品能做出来还是因为找到了产品痛点，比如vision pro的ins app是 vp 平台没有办法原生访问ins；threadsdashboard 是当初 threads 没有 analytics，以及现在官方版本不够好用。\n最近失败的产品都没有直接的或者是急切的痛点，让人产生就缺这个产品了，take my money 的感觉。"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 54386,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gqq_h_jW4AAuiHV.mp4"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1921558810247975057",
+    "fullText": "https://t.co/7i1yQtCzmi \n\n这个 sPot 太强了，将第四代iPod Classic改装成了直接从Spotify流媒体播放音乐，基于 Raspberry Pi Zero W，而且滚轮是完全可以用的，有蓝牙和 Wifi 甚至还有搜索功能。\n\n保留了原装iPod的点击滚轮，通过连接到Raspberry Pi Zero W的GPIO引脚实现完整功能。 https://t.co/CawrH3GWNd"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -211,7 +243,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9721,
+      "followersCount": 9724,
       "friendsCount": 3464,
       "location": ""
     },
@@ -228,7 +260,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123109,
+      "followersCount": 123110,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -280,7 +312,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58971,
+      "followersCount": 58972,
       "friendsCount": 358,
       "location": ""
     },
@@ -314,7 +346,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73624,
+      "followersCount": 73626,
       "friendsCount": 3391,
       "location": ""
     },
@@ -466,7 +498,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "西天上，总还留有晚霞",
-      "followersCount": 7307,
+      "followersCount": 7308,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -562,7 +594,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123109,
+      "followersCount": 123110,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -626,7 +658,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5332,
+      "followersCount": 5333,
       "friendsCount": 340,
       "location": "杭州"
     },
@@ -724,7 +756,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58971,
+      "followersCount": 58972,
       "friendsCount": 358,
       "location": ""
     },
@@ -771,7 +803,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9721,
+      "followersCount": 9724,
       "friendsCount": 3464,
       "location": ""
     },
@@ -843,7 +875,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58971,
+      "followersCount": 58972,
       "friendsCount": 358,
       "location": ""
     },
@@ -878,7 +910,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73624,
+      "followersCount": 73626,
       "friendsCount": 3391,
       "location": ""
     },
@@ -944,7 +976,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123109,
+      "followersCount": 123110,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -974,7 +1006,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5332,
+      "followersCount": 5333,
       "friendsCount": 340,
       "location": "杭州"
     },
@@ -1016,6 +1048,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1921079800485007827",
     "fullText": "凉拌卷粉，打包回去吃 https://t.co/XHCy6YMn1B"
+  },
+  {
+    "user": {
+      "screenName": "FreePicksNoBS",
+      "name": "FREE PICKS NO BS",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1914208908538777600/txrSOItg_normal.jpg",
+      "description": "👀 Highlights Tab & JUDGE! 100% FREE Plays 📚 Learn to Bet Smarter! SHOW LOVE Venmo: freepicks CashApp: freepicksnobs PayPal: freepicksnobs 🤙GOOD KARMA! 🍀",
+      "followersCount": 1095,
+      "friendsCount": 6,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqkEEhsXgAASWll.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FreePicksNoBS/status/1921071194234564927",
+    "fullText": "📯 Fellas I’m not one to brag… BUT THIS WAS WILD\n+13525 SGP | Overtime Miracle\n(BTW my Discord is being build (no fees invite only), and the active ones, tipping, liking, sharing I see you)\n \nEven if I wanted to share this monster, there was no time — this was locked with 6 https://t.co/DSyW7RcrE9"
   },
   {
     "user": {
