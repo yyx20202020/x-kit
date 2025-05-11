@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22672,
+      "friendsCount": 295,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1921475595080458327",
+    "fullText": "我妹之前找了个男朋友，西北甘肃还是宁夏的的一个凤凰男，初见客客气气的，人也很热情，处了一年多以后发现问题了，太敏感，同我妹吵起架来，动不动就说看不起他，这还好，后面有一次我妹随他去老家，才发现完全不合拍，他一到家就跟个大爷一样，往椅子上一坐，不停的使唤他老家的亲妹妹，一会给他倒水"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5792,
+      "friendsCount": 1229,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqpsvYUbcAAE7ku.jpg",
+      "https://pbs.twimg.com/media/Gqps1wvbMAAE-HR.jpg",
+      "https://pbs.twimg.com/media/GqptGTsXkAEpiTp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1921469099017752646",
+    "fullText": "最近不知为什么，公司附近的共享电单车莫名其妙的集体消失了。又被可韭菜了，至少 5 个品牌里面都有预充值押金。预约了比亚迪夏试驾，对自己好点，去提个新车吧。难道真是：比亚迪赚钱比亚迪花，一分也别想带回家。😂 https://t.co/yUAQ7OKWCp"
+  },
+  {
+    "user": {
       "screenName": "lencx_",
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21175,
+      "followersCount": 21174,
       "friendsCount": 1022,
       "location": ""
     },
@@ -60,7 +94,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123098,
+      "followersCount": 123100,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -146,7 +180,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73629,
+      "followersCount": 73631,
       "friendsCount": 3391,
       "location": ""
     },
@@ -181,7 +215,7 @@
       "name": "NASCAR",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919171818000121856/A7IiQONu_normal.jpg",
       "description": "SUNDAY | 3 p.m. ET | FS1",
-      "followersCount": 3669525,
+      "followersCount": 3669148,
       "friendsCount": 350,
       "location": ""
     },
@@ -281,8 +315,8 @@
       "name": "Bagz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1831758297306632192/DcBZIRf3_normal.jpg",
       "description": "Building @kanpaipandas. Owner @dirtyboxing_. Host of the @overdogspodcast. Owner @raini_studios.",
-      "followersCount": 83426,
-      "friendsCount": 3789,
+      "followersCount": 83509,
+      "friendsCount": 3790,
       "location": ""
     },
     "images": [],
@@ -394,7 +428,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123098,
+      "followersCount": 123100,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -507,7 +541,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22671,
+      "followersCount": 22672,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -522,7 +556,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5793,
+      "followersCount": 5792,
       "friendsCount": 1229,
       "location": ""
     },
@@ -586,7 +620,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18846,
+      "followersCount": 18839,
       "friendsCount": 1739,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -623,7 +657,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22671,
+      "followersCount": 22672,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -676,7 +710,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30700,
+      "followersCount": 30704,
       "friendsCount": 583,
       "location": "Hong Kong"
     },
@@ -693,7 +727,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73629,
+      "followersCount": 73631,
       "friendsCount": 3391,
       "location": ""
     },
@@ -708,7 +742,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18846,
+      "followersCount": 18839,
       "friendsCount": 1739,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -725,7 +759,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27726,
+      "followersCount": 27728,
       "friendsCount": 120,
       "location": "China"
     },
@@ -742,7 +776,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123098,
+      "followersCount": 123100,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -804,7 +838,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18846,
+      "followersCount": 18839,
       "friendsCount": 1739,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -923,7 +957,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73629,
+      "followersCount": 73631,
       "friendsCount": 3391,
       "location": ""
     },
@@ -1106,7 +1140,7 @@
       "name": "Mercedes Schlapp",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898101395829456896/mBludBRf_normal.jpg",
       "description": "Faith, family, country, freedom. Ephesians 6:11. Host of @CPAC Now: America Uncanceled, Former WH Strategic Senior Advisor for President Trump",
-      "followersCount": 473574,
+      "followersCount": 473562,
       "friendsCount": 3717,
       "location": "Alexandria, VA"
     },
@@ -1123,7 +1157,7 @@
       "name": "Samuel Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2325307892/t8uad8msa70sti3fua2g_normal.jpeg",
       "description": "Longtime #prolife lobbyist @ MO State Capitol. Catholic deacon in St. Louis. Delighted being husband, dad & PawPaw. Love sharing what I read - news, blogs, etc.",
-      "followersCount": 3678,
+      "followersCount": 3680,
       "friendsCount": 6002,
       "location": "St. Louis, Mo."
     },
