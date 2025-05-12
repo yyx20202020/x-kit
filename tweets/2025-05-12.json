@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18830,
+      "friendsCount": 1738,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GquhD4DbgAAphvS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1921806772651651268",
+    "fullText": "嗦粉 https://t.co/kXfHsEea0y"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 149905,
+      "friendsCount": 474,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1921805402938736701",
+    "fullText": "想做一个「AI 反腐」开源应用「海瑞/Harry」，用大模型自动审查各单位、国企、高校的采购公示，初筛发现可能有猫腻的就标注风险，让志愿反腐员人工确认，确认有问题的公示。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -103,7 +135,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54392,
+      "followersCount": 54391,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -120,7 +152,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21175,
+      "followersCount": 21181,
       "friendsCount": 1021,
       "location": ""
     },
@@ -224,7 +256,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18830,
-      "friendsCount": 1737,
+      "friendsCount": 1738,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -304,7 +336,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18830,
-      "friendsCount": 1737,
+      "friendsCount": 1738,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -348,6 +380,23 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 243095,
+      "friendsCount": 5050,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1921588645279973376/pu/vid/avc1/720x1280/PvD2iJ-5HyeFjQnA.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1921588706340716791",
+    "fullText": "John Adams on liberty and the right to know 📜 - Tom Fitton https://t.co/kaKdeqwRnH"
+  },
+  {
+    "user": {
       "screenName": "MoLegacyCreator",
       "name": "Monumental Legacy Creators",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1920758603570376704/lVL047nB_normal.jpg",
@@ -369,7 +418,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7004,
+      "followersCount": 7005,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -384,7 +433,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5331,
+      "followersCount": 5330,
       "friendsCount": 340,
       "location": "杭州"
     },
@@ -399,7 +448,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54392,
+      "followersCount": 54391,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -433,7 +482,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22701,
+      "followersCount": 22702,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -449,7 +498,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18830,
-      "friendsCount": 1737,
+      "friendsCount": 1738,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -482,7 +531,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27751,
+      "followersCount": 27748,
       "friendsCount": 119,
       "location": "China"
     },
@@ -517,7 +566,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18830,
-      "friendsCount": 1737,
+      "friendsCount": 1738,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -533,7 +582,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5795,
+      "followersCount": 5796,
       "friendsCount": 1229,
       "location": ""
     },
@@ -551,7 +600,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18830,
-      "friendsCount": 1737,
+      "friendsCount": 1738,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -567,7 +616,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22701,
+      "followersCount": 22702,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -585,7 +634,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18830,
-      "friendsCount": 1737,
+      "friendsCount": 1738,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -599,7 +648,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22701,
+      "followersCount": 22702,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -650,7 +699,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21175,
+      "followersCount": 21181,
       "friendsCount": 1021,
       "location": ""
     },
@@ -705,7 +754,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123140,
+      "followersCount": 123142,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -893,7 +942,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123140,
+      "followersCount": 123142,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -910,7 +959,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7004,
+      "followersCount": 7005,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -940,7 +989,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5331,
+      "followersCount": 5330,
       "friendsCount": 340,
       "location": "杭州"
     },
@@ -1046,6 +1095,23 @@
     ],
     "tweetUrl": "https://x.com/snappinest/status/1921221014182392016",
     "fullText": "Cutest Crochet Flower Blanket😍 | From $39.99🎉\n🎁Hand-knitted Flower Blankets💐\n🥳2025 Hot Sale Gift for loved ones💕\nSHOP NOW &gt;&gt; https://t.co/wdqjtb75b1 https://t.co/4tafTT5W1f"
+  },
+  {
+    "user": {
+      "screenName": "MassAnalytic",
+      "name": "Mass Analytic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/488822419172229120/sGsWVTkI_normal.jpeg",
+      "description": "Forecast Metals & Stocks Price For FREE!!!  I give you the date, price and HIGH ACCURACY!",
+      "followersCount": 187,
+      "friendsCount": 11,
+      "location": "NYC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqmMQ8JXAAAolPv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MassAnalytic/status/1921220966752952503",
+    "fullText": "#TSLA Prediction: Here's the next 10 days prediction for #Tesla. Chatgpt giving the prediction with an accuracy of 96.81%.  No manipulation anomaly is found. Price looks stable. Hope there is no anomaly to side track the prediction.  If you have a futures or stock that you want https://t.co/0AfrATK9aI"
   },
   {
     "user": {
@@ -1258,7 +1324,7 @@
       "name": "Identity V",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1801565490650955776/eUsiedO0_normal.jpg",
       "description": "Welcome to Identity V official English Page.\nCustomer Service：gameidentityv@global.netease.com \nTopup Center: https://t.co/8v28neTdcL",
-      "followersCount": 316607,
+      "followersCount": 316610,
       "friendsCount": 4,
       "location": ""
     },
