@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5798,
+      "friendsCount": 1229,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gqwo_SoaIAARPxj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1921956600727720152",
+    "fullText": "#DataCollie DevLog\n今晚实现了数据库对象导航树中的 Databases 节点的右键菜单。#buildinpublic #indiedev https://t.co/Q3Y48PD5UY"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123142,
+      "followersCount": 123146,
+      "friendsCount": 1312,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqwmHFgWgAEmHR9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1921953371797283003",
+    "fullText": "Google 官方《Gemini for Google Workspace 提示词指南 101》的文字翻译版本，不包含图片，需要对照 PDF 阅读。这篇提示词入门手册主要面向企业内部应用场景，理论上结合 Google Gemini 最好，但是其提示词技巧也适用于其他模型。\n文字翻译版本 URL 见评论 https://t.co/OWtmdB9KsD"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 123146,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -15,6 +49,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1921951629189767490",
     "fullText": "曾豪言AI客服机器人能够取代 700 名人工客服的支付巨头 Klarna AI 如今却转头重新开始招聘人类客服员工了\n\nKlarna AI战略大反转，重新回归人工客服\n\n一年多前，支付巨头Klarna曾豪言，他们的AI客服机器人能够取代700名人工客服。如今，这家公司却转头重新开始招聘人类客服员工了。 https://t.co/ypcDLJo9Pi"
+  },
+  {
+    "user": {
+      "screenName": "msectors",
+      "name": "MicroSectors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1105945512660877314/YbxpE_Ex_normal.png",
+      "description": "Providing 3X/-3X exposure to the names you know in the sectors you follow. Brought to you by @rexshares | Important disclosure: https://t.co/zjZNDjpoRC",
+      "followersCount": 9376,
+      "friendsCount": 820,
+      "location": "Miami, FL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqwWqNMXEAAVSAC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/msectors/status/1921936112827666700",
+    "fullText": "Changes are occurring to the MicroSectors™ FANG+™ 3X Leveraged ETNs.  Why? \n\n$FNGA (formerly $FNGU) was launched in January 2018 with fees and charges that reflected the then-current market environment. BMO is redeeming the FNGA ETNs because the costs associated with supporting https://t.co/r3ix6yxqXB"
   },
   {
     "user": {
@@ -73,11 +124,28 @@
   },
   {
     "user": {
+      "screenName": "USGlobalETFs",
+      "name": "U.S. Global ETFs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1376517510724530179/5GXhzP4n_normal.jpg",
+      "description": "Innovative ETFs in specialized sectors\n \n$JETS, $GOAU & $SEA prospectuses: https://t.co/gyJp5TFkp6\n$WAR prospectus: https://t.co/6J6ze5iKB2",
+      "followersCount": 2849,
+      "friendsCount": 586,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqwK4dYXUAALBTz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USGlobalETFs/status/1921923173009732072",
+    "fullText": "Global defense spending rose to a record $2.7 trillion in 2024, marking the steepest year-to-year increase since 1988, according to @SIPRIorg. Expenditures rose in all five regions SIPRI tracks—the Americas, Europe, Asia and Oceania, the Middle East and Africa—as tensions https://t.co/l5TXyQ5VLd"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30711,
+      "followersCount": 30714,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -94,7 +162,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18830,
+      "followersCount": 18837,
       "friendsCount": 1743,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -109,7 +177,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18830,
+      "followersCount": 18837,
       "friendsCount": 1743,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -126,7 +194,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5796,
+      "followersCount": 5798,
       "friendsCount": 1229,
       "location": ""
     },
@@ -143,7 +211,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30711,
+      "followersCount": 30714,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -161,7 +229,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18830,
+      "followersCount": 18837,
       "friendsCount": 1743,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -178,7 +246,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149918,
+      "followersCount": 149906,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -195,7 +263,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18830,
+      "followersCount": 18837,
       "friendsCount": 1743,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -210,7 +278,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9724,
+      "followersCount": 9723,
       "friendsCount": 3466,
       "location": ""
     },
@@ -225,7 +293,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18830,
+      "followersCount": 18837,
       "friendsCount": 1743,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -374,7 +442,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9724,
+      "followersCount": 9723,
       "friendsCount": 3466,
       "location": ""
     },
@@ -391,7 +459,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105474,
+      "followersCount": 105477,
       "friendsCount": 236,
       "location": "Singapore"
     },
@@ -406,7 +474,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54401,
+      "followersCount": 54406,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -423,7 +491,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21225,
+      "followersCount": 21230,
       "friendsCount": 1021,
       "location": ""
     },
@@ -526,7 +594,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18830,
+      "followersCount": 18837,
       "friendsCount": 1743,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -541,7 +609,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58986,
+      "followersCount": 58980,
       "friendsCount": 358,
       "location": ""
     },
