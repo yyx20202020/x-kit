@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922505133822255104/VNJRIbfy_normal.jpg",
+      "description": "The #NBAPlayoffs presented by Google continue Tuesday on TNT! 🏀 7:00pm/et: @Pacers (3-1) @cavs 🏀 9:30pm/et: @nuggets (2-2) @okcthunder",
+      "followersCount": 48276045,
+      "friendsCount": 2010,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922503005741395968/vid/avc1/1920x1080/S5sAFsNZ3RV8nUmF.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1922503249501819052",
+    "fullText": "JOKER WITH A CRAZY 3 FOR 44!\n\nGET TO TNT FOR A WILD GAME 5 FINISH!!! https://t.co/RT0Nmrir7m"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7000,
+      "followersCount": 7002,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -50,6 +67,23 @@
   },
   {
     "user": {
+      "screenName": "CryptoDaddi",
+      "name": "Rambo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1849651144445894656/I2F2fyGc_normal.jpg",
+      "description": "We just let her eat.",
+      "followersCount": 13449,
+      "friendsCount": 1229,
+      "location": "trenches"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq3v8rFbAAEk9-S.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoDaddi/status/1922456603329982646",
+    "fullText": "Thicc Liz is prepping for a feast.\n\nWe just let her eat 🤤\n\n$LLM https://t.co/mGvC67ntlr"
+  },
+  {
+    "user": {
       "screenName": "NBA",
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922469415188099072/s5w37qDI_normal.png",
@@ -71,7 +105,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -91,7 +125,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123263,
+      "followersCount": 123276,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -123,7 +157,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -138,7 +172,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7000,
+      "followersCount": 7002,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -155,7 +189,7 @@
       "name": "Center Street",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1026550984921755648/Hx57NoYy_normal.jpg",
       "description": "Leading publisher of military & conservative politics. Imprint of Hachette Book Group.",
-      "followersCount": 4897,
+      "followersCount": 4898,
       "friendsCount": 233,
       "location": "Nashville, TN"
     },
@@ -163,6 +197,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/centerstreet/status/1922395838854103216",
     "fullText": "\"...a vital and inspiring read.” \n―Ben Shapiro"
+  },
+  {
+    "user": {
+      "screenName": "bdistel",
+      "name": "Brian Distelburger",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1587785012006502401/MbEehh4__normal.jpg",
+      "description": "founder @yext @trywindmill investor @roam @levitateai board member @technyc  NYC 💪",
+      "followersCount": 3670,
+      "friendsCount": 938,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bdistel/status/1922390514671730928",
+    "fullText": "Have a really interesting opportunity for someone who wants to join an early stage (sub 10 ppl) startup. This is special. Job is GTM/Growth heavy but needs some AI skills. In person in NYC. DM me for details."
   },
   {
     "user": {
@@ -385,7 +434,7 @@
       "name": "Agree.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894237600472240128/4mwrviNx_normal.jpg",
       "description": "An all-in-one agreements platform with better e-signature, smarter invoicing, and faster payment processing; powered by AI.",
-      "followersCount": 5454,
+      "followersCount": 5468,
       "friendsCount": 63,
       "location": "San Francisco"
     },
@@ -468,7 +517,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123263,
+      "followersCount": 123276,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -486,7 +535,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105523,
+      "followersCount": 105533,
       "friendsCount": 236,
       "location": "Singapore"
     },
@@ -535,7 +584,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -567,7 +616,7 @@
       "name": "maxAPY - DeFi on autopilot",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921219599489519616/RudBk-EI_normal.jpg",
       "description": "The Smart Way To Yield - Telegram https://t.co/7Kz5rGcUWs - Substack - https://t.co/yrwt1gMEnq - Discord https://t.co/2Z6nbHiReW",
-      "followersCount": 11897,
+      "followersCount": 11900,
       "friendsCount": 190,
       "location": "Yield Farm in 3 clicks →"
     },
@@ -584,7 +633,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7000,
+      "followersCount": 7002,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -601,7 +650,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123263,
+      "followersCount": 123276,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -667,7 +716,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -685,7 +734,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -703,7 +752,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -718,7 +767,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30750,
+      "followersCount": 30753,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -770,7 +819,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149924,
+      "followersCount": 149935,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -787,7 +836,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9738,
+      "followersCount": 9741,
       "friendsCount": 3467,
       "location": ""
     },
@@ -1020,11 +1069,28 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 243196,
+      "friendsCount": 5048,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gqxo95WWYAA2OHr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CPAC/status/1922026561596764310",
+    "fullText": "Texas Senate passes S.B. 1278, whcih provides protections and an affirmative defense for victims of human trafficking.\n\nCPAC is calling on this bill to be sent to the governor's desk. https://t.co/fejxviYvdc"
+  },
+  {
+    "user": {
       "screenName": "fluxpointstudio",
       "name": "Flux Point Studios",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836628164342353920/KmBOdS5e_normal.jpg",
       "description": "Competitive Gaming & AI Solutions. https://t.co/d8YqVja2mA Cardano $SHARDS $AGENT",
-      "followersCount": 17187,
+      "followersCount": 17179,
       "friendsCount": 2854,
       "location": "Delaware, USA"
     },
@@ -1034,6 +1100,23 @@
     ],
     "tweetUrl": "https://x.com/fluxpointstudio/status/1922005319754121640",
     "fullText": "ANNOUNCING @agentic_t + @farmroll_io 🥳🥂\n\nSoon, Farmroll will get access to upgrade any agents they have launched/will launch with exclusive tools Flux Point Studios have developed (and are developing) for T through their offer of the $AGENT subscription service. \n\nIn return, https://t.co/30FNa9dKzF"
+  },
+  {
+    "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 243196,
+      "friendsCount": 5048,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqxTakbXAAAtA-E.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CPAC/status/1922002928849563715",
+    "fullText": "Breaking News:\n\nPresident Trump secures release of American Hostage held by Hamas https://t.co/Z08hPF6mI9"
   },
   {
     "user": {
