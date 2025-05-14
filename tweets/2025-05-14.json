@@ -5,7 +5,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18813,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -25,7 +25,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123250,
+      "followersCount": 123251,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -42,7 +42,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18813,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -57,7 +57,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7000,
+      "followersCount": 7001,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -102,6 +102,23 @@
   },
   {
     "user": {
+      "screenName": "ImgCreatorAI",
+      "name": "Creati AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889051580202471425/8EUCM0HH_normal.jpg",
+      "description": "Create Videos using only elements\nWebsite: https://t.co/fTwFOUUMeQ\nApp: https://t.co/7YEjgGwdAY\nContact: imgcreator@zmo.ai",
+      "followersCount": 8999,
+      "friendsCount": 46,
+      "location": "San Jose, California"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922370199845474304/vid/avc1/2560x1440/MAkAcKfiRoVGMpD3.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ImgCreatorAI/status/1922376093891207591",
+    "fullText": "Meet Creati, the world's first AI Ambassador, who can write scripts, wear any clothes, and really hold your product to sell. \n\nSo far, so good: we went from \n0 to 10M users who loved us.\n\nWanna see Jimmy selling? Retweet &amp; comment \"Creati AI\", we will DM you the invitation code. https://t.co/SIJZfAqeCo"
+  },
+  {
+    "user": {
       "screenName": "LFATVUS",
       "name": "Live From America TV",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1816112138085146624/S6dUYUgt_normal.jpg",
@@ -136,6 +153,57 @@
   },
   {
     "user": {
+      "screenName": "WilderWorld",
+      "name": "Wilder World",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1917775528242647040/gSi4p6B0_normal.jpg",
+      "description": "The Metaverse",
+      "followersCount": 276255,
+      "friendsCount": 914,
+      "location": "Wiami"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq2QiJSbAAQvdvG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WilderWorld/status/1922351538636218642",
+    "fullText": "📡 DEV LOG 14: BEHIND THE SCENES SPACES 📡\n\nJoin us tomorrow as we take a deep dive with our game studio into the latest developments of DL14!\n\n🎙️ Hosted by: @cryptocaspa &amp; @pimms00  \n\n🎙️ Studio Team: @Aristotelis, @WilderGobey, @ekimroyrp, @InnerFreakJon, @WilderSonora https://t.co/6vSeTGx3S0"
+  },
+  {
+    "user": {
+      "screenName": "HeartlandSignal",
+      "name": "Heartland Signal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1823814723197939713/RpHzuHc__normal.jpg",
+      "description": "Covering politics and policy from the Midwest. Newsroom for @WCPT820.\n\nGot a tip? Email us: tips@wcpt820.com.",
+      "followersCount": 71268,
+      "friendsCount": 1176,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq2PKzvWgAA9aWQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/HeartlandSignal/status/1922351211614801982",
+    "fullText": "HOW MEDICAID CUTS WILL IMPACT HEARTLAND STATES\n\nMillions of people in Heartland States are projected to lose jobs, health care coverage, financial security and access to prescription drugs and treatment options when President Donald Trump is expected to sign Medicaid cuts into https://t.co/m5CicKCL2k"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16443,
+      "friendsCount": 1194,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq2IMZRXYAIXyXI.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1922342490117702139",
+    "fullText": "Nearly a quarter of U.S. adults now say gold is the best long-term investment—a sharp increase from last year, and well above the 16% who say stocks, according to @Gallup’s latest polling data. Only real estate ranked higher.\n\nFor the first time in over a decade, Americans say https://t.co/2JSqUUn2wy"
+  },
+  {
+    "user": {
       "screenName": "AgreeHQ",
       "name": "Agree.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894237600472240128/4mwrviNx_normal.jpg",
@@ -150,6 +218,23 @@
     ],
     "tweetUrl": "https://x.com/AgreeHQ/status/1922334880912048558",
     "fullText": "Money moves faster on Agree™ — introducing the fastest path from signature to revenue. Go directly from contract to cash with better e-signature, smarter invoicing, a faster payments ... all-in-one. https://t.co/BJ2bKI9wVh"
+  },
+  {
+    "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 243193,
+      "friendsCount": 5048,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922331972166135808/vid/avc1/1280x720/kCMwBpbesRfzCBoB.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1922332868140839123",
+    "fullText": "JUST NOW: President Trump and Crown Prince Mohammed bin Salman have signed a deal bringing over $600 billion in investments to the U.S. https://t.co/h8kDeTjMOx"
   },
   {
     "user": {
@@ -191,7 +276,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123250,
+      "followersCount": 123251,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -209,7 +294,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105508,
+      "followersCount": 105514,
       "friendsCount": 236,
       "location": "Singapore"
     },
@@ -220,11 +305,28 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2818,
+      "friendsCount": 977,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922042047759814656/vid/avc1/1920x1080/f8aANpJwDrEWqMlX.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1922305836392542289",
+    "fullText": "The tech landscape is shifting fast and orgs must adapt or fall behind ⚡ At #IBMThink 2025 @Tiffani_Bova &amp; Kareem Yusuf, Ph.D. discussed how @IBM is enabling partners to navigate the need for AI-driven transformation to scale and grow. $IBM https://t.co/P7YnuEwSkO"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18813,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -256,7 +358,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7000,
+      "followersCount": 7001,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -273,7 +375,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123250,
+      "followersCount": 123251,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -288,7 +390,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9729,
+      "followersCount": 9731,
       "friendsCount": 3466,
       "location": ""
     },
@@ -305,7 +407,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9729,
+      "followersCount": 9731,
       "friendsCount": 3466,
       "location": ""
     },
@@ -322,7 +424,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18813,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -340,7 +442,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18813,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -358,7 +460,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18813,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -373,7 +475,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30744,
+      "followersCount": 30746,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -391,7 +493,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9729,
+      "followersCount": 9731,
       "friendsCount": 3466,
       "location": ""
     },
@@ -408,7 +510,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9729,
+      "followersCount": 9731,
       "friendsCount": 3466,
       "location": ""
     },
@@ -425,7 +527,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149916,
+      "followersCount": 149925,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -442,7 +544,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9729,
+      "followersCount": 9731,
       "friendsCount": 3466,
       "location": ""
     },
@@ -459,7 +561,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9729,
+      "followersCount": 9731,
       "friendsCount": 3466,
       "location": ""
     },
@@ -476,7 +578,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9729,
+      "followersCount": 9731,
       "friendsCount": 3466,
       "location": ""
     },
@@ -493,7 +595,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54403,
+      "followersCount": 54408,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -510,7 +612,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18813,
+      "followersCount": 18812,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -525,7 +627,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9729,
+      "followersCount": 9731,
       "friendsCount": 3466,
       "location": ""
     },
@@ -542,7 +644,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149916,
+      "followersCount": 149925,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -557,7 +659,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9729,
+      "followersCount": 9731,
       "friendsCount": 3466,
       "location": ""
     },
@@ -618,5 +720,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/nicnacnaturals/status/1921983937808892095",
     "fullText": "“Omg you run a nicotine company?!”\n\n“Isn’t nicotine bad for you?”\n\n“You know nicotine causes cancer right?” https://t.co/Nuq84YWouJ"
+  },
+  {
+    "user": {
+      "screenName": "anthonyrandazzo",
+      "name": "Anthony Randazzo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1111340489230438401/WzuM4k1L_normal.png",
+      "description": "executive director of @equableinst's work to advance public retirement system resilience; YIMBY; Hayekian-technocracy; speramus meliora, resurget cineribus",
+      "followersCount": 1581,
+      "friendsCount": 533,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqwxlHvWoAA86Ic.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/anthonyrandazzo/status/1921966369756582246",
+    "fullText": "Bills were introduced during Florida's last legislative session to bring back COLAs for public employees. Its an expensive proposition, but would be a meaningful improvement to benefits. Policymakers should carefully consider some version of this in the next session. https://t.co/x99TKv8Jst"
   }
 ]
