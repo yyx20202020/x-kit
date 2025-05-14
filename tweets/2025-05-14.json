@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 7002,
+      "friendsCount": 728,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1922494623961780372",
+    "fullText": "旧的 Pro MAX 摔了。换成了小一点的 Pro。感受到了 Instagram 的不同。以后要多发 square aspect ratio 的图片了。Landscape 图片对非 MAX 用户太不友好。"
+  },
+  {
+    "user": {
+      "screenName": "SherPepe85",
+      "name": "SherPepe",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905112363864367104/HAb-yXeu_normal.jpg",
+      "description": "SherPepe is a dapper, crime-solving frog with a sharp mind and a keen eye for detail.  #XRPMemes Get on First Ledger https://t.co/PhLo3mGDHL",
+      "followersCount": 816,
+      "friendsCount": 502,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq4Qtq7XAAASQ_U.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SherPepe85/status/1922493281503531307",
+    "fullText": "🚀🐸 SherPepe &amp; the Galactic XRP Heist 🛸💰\n\nXRP didn’t just disappear—it got hacked by ALIENS 👽🔥 They say it’s their ancestral currency and they want it back for their economy on Xyprion! 💻💸\n\nBut SherPepe? Not on his watch. 🐸🔍 He’s tracking digital footprints across https://t.co/2AlKIxkMI4"
+  },
+  {
+    "user": {
+      "screenName": "realdowd",
+      "name": "Matthew Dowd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897532510113841153/-yAl9ZyP_normal.jpg",
+      "description": "Grassroots VR populist | @thatswilddotcom",
+      "followersCount": 2172,
+      "friendsCount": 3918,
+      "location": "SF"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq3_4P-XwAAqQQ_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/realdowd/status/1922475489945325744",
+    "fullText": "MΛGA https://t.co/rb7pHk78a9"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18813,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -25,7 +74,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123257,
+      "followersCount": 123259,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -57,7 +106,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18813,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -72,7 +121,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7000,
+      "followersCount": 7002,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -100,6 +149,21 @@
   },
   {
     "user": {
+      "screenName": "asTerry_Khan",
+      "name": "Mannie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918783950853722112/qcoxMsfI_normal.jpg",
+      "description": "Glorified idea collector.",
+      "followersCount": 2058,
+      "friendsCount": 48,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/asTerry_Khan/status/1922389809097592965",
+    "fullText": "My cat is acting strange. Maybe it’s sick."
+  },
+  {
+    "user": {
       "screenName": "ImgCreatorAI",
       "name": "Creati AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1889051580202471425/8EUCM0HH_normal.jpg",
@@ -114,6 +178,21 @@
     ],
     "tweetUrl": "https://x.com/ImgCreatorAI/status/1922382154194935892",
     "fullText": "Meet Jimmy 'Al'lon, the world's first AI Ambassador, who can write scripts, wear any clothes, and really hold your product to sell.     \n\nSo far, so good: we went from\n0 to 10M users\n \nWanna see Jimmy selling? Retweet &amp; comment \"Creati AI\", we will DM you the invitation code. https://t.co/99z8IUsxN0"
+  },
+  {
+    "user": {
+      "screenName": "makayla8quxewbx",
+      "name": "makayla",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919409326877478912/9CjwInTv_normal.jpg",
+      "description": "Exploring the absurd, one tweet at a time.",
+      "followersCount": 1936,
+      "friendsCount": 16,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/makayla8quxewbx/status/1922381270526435766",
+    "fullText": "She forgot her keys again. This happens every Monday."
   },
   {
     "user": {
@@ -355,7 +434,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123257,
+      "followersCount": 123259,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -373,7 +452,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105522,
+      "followersCount": 105518,
       "friendsCount": 236,
       "location": "Singapore"
     },
@@ -401,11 +480,28 @@
   },
   {
     "user": {
+      "screenName": "TheFacilityFS1",
+      "name": "The Facility",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1888991611671195648/Bt7a1E-F_normal.jpg",
+      "description": "From the athlete’s perspective. Hosted by @EmmanuelAcho, @cutondime25, @89JonesNTAF & @ChaseDaniel. Weekdays at 10 AM ET on @FS1",
+      "followersCount": 527618,
+      "friendsCount": 540,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922298053303906304/vid/avc1/1920x1080/96fnoHv9m32S9ybr.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/TheFacilityFS1/status/1922301556424376533",
+    "fullText": ".@Rachel__Nichols says Cooper Flagg would \"shorten the sting\" on Mavs fans from the Luka Doncic-trade: https://t.co/yM29AWiCgn"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18813,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -437,7 +533,7 @@
       "name": "maxAPY - DeFi on autopilot",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921219599489519616/RudBk-EI_normal.jpg",
       "description": "The Smart Way To Yield - Telegram https://t.co/7Kz5rGcUWs - Substack - https://t.co/yrwt1gMEnq - Discord https://t.co/2Z6nbHiReW",
-      "followersCount": 11897,
+      "followersCount": 11900,
       "friendsCount": 190,
       "location": "Yield Farm in 3 clicks →"
     },
@@ -454,7 +550,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7000,
+      "followersCount": 7002,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -471,7 +567,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123257,
+      "followersCount": 123259,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -486,7 +582,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9738,
+      "followersCount": 9739,
       "friendsCount": 3467,
       "location": ""
     },
@@ -503,7 +599,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9738,
+      "followersCount": 9739,
       "friendsCount": 3467,
       "location": ""
     },
@@ -516,11 +612,28 @@
   },
   {
     "user": {
+      "screenName": "GAM3Sgg_",
+      "name": "GAM3S.GG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699712182412365824/acUvjBqE_normal.jpg",
+      "description": "#1 Web3 Gaming Platform | Powered by $G3. Discover 500+ Games, Reviews, Guides, Quests, News & #GAM3Awards. https://t.co/x5WqgyEaSq",
+      "followersCount": 365273,
+      "friendsCount": 420,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq1CL_kWYAEsN9S.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GAM3Sgg_/status/1922265399426457970",
+    "fullText": "Millions of searches. But here are the top 5 this week:  \n\n1. MapleStory Universe 🍄\n2. Project O 🃏\n3. Gigaverse 🧃\n4. Treeverse 🌱\n5. Pixels 💎 \n\nWhich game are you searching for? https://t.co/0nMxVOfDF9"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18813,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -538,7 +651,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18813,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -556,7 +669,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18816,
+      "followersCount": 18813,
       "friendsCount": 1748,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -571,7 +684,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30748,
+      "followersCount": 30749,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -589,7 +702,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9738,
+      "followersCount": 9739,
       "friendsCount": 3467,
       "location": ""
     },
@@ -606,7 +719,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9738,
+      "followersCount": 9739,
       "friendsCount": 3467,
       "location": ""
     },
@@ -623,7 +736,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149923,
+      "followersCount": 149933,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -684,6 +797,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1922210204277690813",
     "fullText": "“如果他觉得这仅仅就是个生意的时候，他一上来就输了。把它当生意，所以他要算账。他可能今天不算账，明天也要算。” https://t.co/hcSNcR1aSe"
+  },
+  {
+    "user": {
+      "screenName": "IntoTheEther33",
+      "name": "4chan memes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921516777286021120/QJjDgNf3_normal.jpg",
+      "description": "https://t.co/0MwHgO2S2g\n\nhttps://t.co/p6sLLItSdr. coinbase\n\nhttps://t.co/5KvIqaNVVg",
+      "followersCount": 442,
+      "friendsCount": 300,
+      "location": "Switzerland "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq0O3xrWYAAix02.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/IntoTheEther33/status/1922208970908783074",
+    "fullText": "Stop selling undervalued #4chan memes. We're going to Billions! 🤑\n\n$PEPE $NPC $APU $WOJAK $RFC $BOOMER #BRAINLET $OKAYEG $CHAD $ZOOMER #GONDOLA $DOOMER #GROYPER $SOY https://t.co/k6yQS1ETNR"
   },
   {
     "user": {
@@ -802,6 +932,23 @@
   },
   {
     "user": {
+      "screenName": "mirbar69",
+      "name": "Miranda Barden",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921483817178505216/d9U_q0m6_normal.jpg",
+      "description": "Streamer on Twitch - caseoh_ and Tiktok caseohgames\nrhtyj",
+      "followersCount": 1,
+      "friendsCount": 4,
+      "location": "UK"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gqz-0X-awAAvj6h.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mirbar69/status/1922191350746763368",
+    "fullText": "https://t.co/Lf41sLRifI"
+  },
+  {
+    "user": {
       "screenName": "GameIdentityV",
       "name": "Identity V",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1801565490650955776/eUsiedO0_normal.jpg",
@@ -822,11 +969,28 @@
   },
   {
     "user": {
+      "screenName": "getbeluga",
+      "name": "Beluga",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922354856859410432/3T6RJH-9_normal.jpg",
+      "description": "Crypto investing made easy. 🐳 Whales backed by @borderless_cap @anagramxyz @Aptos & @BlockchainFF. Newsletter & top upcoming tokens: https://t.co/q0pavp7w1X",
+      "followersCount": 158152,
+      "friendsCount": 866,
+      "location": "Silicon Valley, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922036028560273408/vid/avc1/1920x1080/vtH2lABdJuwim90R.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/getbeluga/status/1922036096927727955",
+    "fullText": "Introducing the Hemi × Beluga Learn &amp; Earn Starter Pack!\n\nWe're celebrating the upcoming launch of Hemi.\n\nFinal chance to get some @hemi_xyz Points!\n\nReady, set, go.... \n👉 https://t.co/SrFNulxNKq https://t.co/ekWSngc4sP"
+  },
+  {
+    "user": {
       "screenName": "fluxpointstudio",
       "name": "Flux Point Studios",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836628164342353920/KmBOdS5e_normal.jpg",
       "description": "Competitive Gaming & AI Solutions. https://t.co/d8YqVja2mA Cardano $SHARDS $AGENT",
-      "followersCount": 17145,
+      "followersCount": 17174,
       "friendsCount": 2854,
       "location": "Delaware, USA"
     },
@@ -887,6 +1051,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/anthonyrandazzo/status/1921966369756582246",
     "fullText": "Bills were introduced during Florida's last legislative session to bring back COLAs for public employees. Its an expensive proposition, but would be a meaningful improvement to benefits. Policymakers should carefully consider some version of this in the next session. https://t.co/x99TKv8Jst"
+  },
+  {
+    "user": {
+      "screenName": "Complex",
+      "name": "Complex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1616533296770416655/AumWVpWu_normal.jpg",
+      "description": "Making Culture Pop.",
+      "followersCount": 2443460,
+      "friendsCount": 785,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1921944470028709888/vid/avc1/1080x1920/RNldF-1MqYYUNb35.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Complex/status/1921944532645560468",
+    "fullText": "Tom Brady joins JLP for the premiere of ‘CARD SHOPPING’ https://t.co/lwcORHOSBn"
   },
   {
     "user": {
