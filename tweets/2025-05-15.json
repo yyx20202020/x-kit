@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 9844,
+      "friendsCount": 3467,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq8-DkVX0AEXIUG.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1922824419510018423",
+    "fullText": "如果一个 AI 产品没有凝聚社区、共识和愿景，那它会很快被下一个能和他一样满足需求、但比他多一个小功能的产品代替掉。 https://t.co/LqERXKdrt3"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27788,
+      "followersCount": 27806,
       "friendsCount": 121,
       "location": "China"
     },
@@ -39,7 +56,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123303,
+      "followersCount": 123297,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -55,11 +72,26 @@
   },
   {
     "user": {
+      "screenName": "TiVo",
+      "name": "TiVo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876399610291499008/ZZCbdIM8_normal.jpg",
+      "description": "Stream With TiVo!",
+      "followersCount": 23928,
+      "friendsCount": 1241,
+      "location": "Silicon Valley, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TiVo/status/1922763724395335724",
+    "fullText": "HBO Max → Max → HBO Max again?\n\nEven our DVR is confused."
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27788,
+      "followersCount": 27806,
       "friendsCount": 121,
       "location": "China"
     },
@@ -90,6 +122,23 @@
   },
   {
     "user": {
+      "screenName": "VolSignals",
+      "name": "VolSignals",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880464607283752960/-WYPZhFx_normal.jpg",
+      "description": "Flows move markets. Learn how\nTHE Newsletter for SPX flows & volatility 👉 https://t.co/MjicKYuQQO \nCareer Index MM (15 years) | Education, not advice 🍻",
+      "followersCount": 19098,
+      "friendsCount": 1978,
+      "location": "Miami, FL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq7v_IZXMAA6Q7p.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/VolSignals/status/1922738020148449466",
+    "fullText": "Bulls yesterday: \"6400 in 3 months\"\n\nBulls today: https://t.co/Mc17FZEi8s"
+  },
+  {
+    "user": {
       "screenName": "TheSixFiveMedia",
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
@@ -111,7 +160,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6990,
+      "followersCount": 6991,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -128,7 +177,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4135476,
+      "followersCount": 4135535,
       "friendsCount": 3,
       "location": ""
     },
@@ -139,11 +188,45 @@
   },
   {
     "user": {
+      "screenName": "Seagate",
+      "name": "Seagate",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807848213032194049/zHGJEk94_normal.jpg",
+      "description": "A global leader for over 40 years, Seagate Technology crafts precision-engineered data storage and management solutions.",
+      "followersCount": 192379,
+      "friendsCount": 3510,
+      "location": "Cupertino, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq7OiifXMAEQGE0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Seagate/status/1922701188564242734",
+    "fullText": "📣 Don't miss our Storage Savings Sale! 📣\n\nUnlock over 20 exclusive deals on https://t.co/P06LoSt6c2! 💸\n\nFrom portable drives to high-performance storage, the savings are massive—and for today only❗️\n\nSave big while supplies last 👉 https://t.co/4TC33KsJJP https://t.co/Tzs5CL19P0"
+  },
+  {
+    "user": {
+      "screenName": "Dynadot",
+      "name": "Dynadot 🦾",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1775149518167982081/Ndbar4o8_normal.jpg",
+      "description": "Your trusty toolbox for domain management. Register domain names simply + affordably and buy + sell in our Aftermarket!",
+      "followersCount": 8361,
+      "friendsCount": 485,
+      "location": "San Mateo, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922696654911643648/vid/avc1/1280x720/H_BPmQPCXED6Tu0s.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Dynadot/status/1922700468863525168",
+    "fullText": "🌐 Final Days to Save! Over 20 domain extensions — like .surf, .miami, .horse &amp; more — on sale for as low as $1.99 until 5/18/25 23:59 UTC. https://t.co/2Xej3Ambl2\n\nLaunch your site fast with our free AI Sitebuilder, no coding needed.✨ https://t.co/3M2f4ZYIpS https://t.co/4nr0LyC5wV"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18794,
+      "followersCount": 18796,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -156,11 +239,28 @@
   },
   {
     "user": {
+      "screenName": "PristineAuction",
+      "name": "Pristine Auction",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864449161740812288/6RJPHmvP_normal.jpg",
+      "description": "🏆 Authentic wins, priced for fans. 🏆",
+      "followersCount": 34170,
+      "friendsCount": 1460,
+      "location": "Arizona"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922694886815563778/vid/avc1/1080x1582/q0LZF4ZUYC8qtQan.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/PristineAuction/status/1922695063022260635",
+    "fullText": "👑 PRISTINE LIVE! drops our biggest grail ever TODAY —\nBabe Ruth signed &amp; inscribed baseball.\nNot just memorabilia. It’s sports royalty.\n🕚 LIVE at 11:00 AM PST.\n#PristineLive #BabeRuth #SignedBaseball #SportsAuction #LiveAuction #CollectorGrail https://t.co/8FFTcLTF5q"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58961,
+      "followersCount": 58960,
       "friendsCount": 358,
       "location": ""
     },
@@ -195,7 +295,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27788,
+      "followersCount": 27806,
       "friendsCount": 121,
       "location": "China"
     },
@@ -212,7 +312,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4135476,
+      "followersCount": 4135535,
       "friendsCount": 3,
       "location": ""
     },
@@ -244,7 +344,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5791,
+      "followersCount": 5793,
       "friendsCount": 1227,
       "location": ""
     },
@@ -261,7 +361,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18794,
+      "followersCount": 18796,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -276,7 +376,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22746,
+      "followersCount": 22751,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -291,7 +391,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18206,
+      "followersCount": 18209,
       "friendsCount": 817,
       "location": "Mountain View, CA"
     },
@@ -306,7 +406,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27788,
+      "followersCount": 27806,
       "friendsCount": 121,
       "location": "China"
     },
@@ -323,7 +423,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18794,
+      "followersCount": 18796,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -336,11 +436,26 @@
   },
   {
     "user": {
+      "screenName": "TurkishAirlines",
+      "name": "Turkish Airlines",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1883771335567941632/7BUExsM4_normal.jpg",
+      "description": "We fly to more countries than any other airline in the world. The @TK_HelpDesk is at your disposal 24/7 to help you with any questions you have.",
+      "followersCount": 1867045,
+      "friendsCount": 17,
+      "location": "Istanbul"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TurkishAirlines/status/1922660570932678957",
+    "fullText": "Discover glorious beaches and striking nature in Türkiye with Turkish Airlines"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9841,
+      "followersCount": 9844,
       "friendsCount": 3467,
       "location": ""
     },
@@ -355,7 +470,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5791,
+      "followersCount": 5793,
       "friendsCount": 1227,
       "location": ""
     },
@@ -389,7 +504,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18794,
+      "followersCount": 18796,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -404,7 +519,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905615592964726784/zOWDGXc1_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22631,
+      "followersCount": 22632,
       "friendsCount": 338,
       "location": "HK"
     },
@@ -421,7 +536,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22746,
+      "followersCount": 22751,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -452,6 +567,23 @@
   },
   {
     "user": {
+      "screenName": "AkoyeMedia",
+      "name": "Akoye Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1040742929818505216/x234nN7L_normal.jpg",
+      "description": "NFL Film Breakdowns and sports talk.",
+      "followersCount": 5422,
+      "friendsCount": 518,
+      "location": "Philadelphia, PA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922554006636736513/vid/avc1/978x556/o6vc9e3tvncO9dXW.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/AkoyeMedia/status/1922554483910783199",
+    "fullText": "George Pickens &amp; Ceedee!! Sick DUO! #decisions #sinners The Cowboys front office went \"ALL IN\" a year late! \n@LawsNation @TheLandoShow @VochLombardi @VoiceOfTheStar @FootsDaKing @CowboysBeat @AttackOnCowboys @Cowboys_FanTalk https://t.co/c6OCPverDH"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
@@ -473,7 +605,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18794,
+      "followersCount": 18796,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -505,7 +637,7 @@
       "name": "iBUYPOWER",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880015100284715008/Y1G8TSEe_normal.jpg",
       "description": "The Official PC of #VCTAmericas #UnlockYourAce 🔶 Join our Discord Community! https://t.co/XCmx0NfNhB 🎮 NEED HELP? Contact Our Support Team! https://t.co/vOUaFLGvw5",
-      "followersCount": 218469,
+      "followersCount": 218466,
       "friendsCount": 978,
       "location": "Los Angeles, CA"
     },
@@ -568,6 +700,23 @@
   },
   {
     "user": {
+      "screenName": "ANSRSFB",
+      "name": "ANSRSFB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780075006770196480/aar0as5B_normal.jpg",
+      "description": "The Fastest, Most Accurate Data & Video Management System in Football. | GET YOUR FOOTBALL ANSRS FASTER ™️📍Austin, Texas",
+      "followersCount": 1116,
+      "friendsCount": 653,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq2MdFsbAAIMxKm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ANSRSFB/status/1922347054988460420",
+    "fullText": "The University of Tennessee in Knoxville, Tennessee will be getting their Football ANSRS FASTER™!\n\n👉 ANSRS helps automate breakdowns, accelerate game plans, &amp; helps with efficiency in the office by helping coaches repurpose 20+ hours!\n\nWELCOME @Vol_Football! 🔥🏈\n\n🔗: Request a https://t.co/tYFScV3o7L"
+  },
+  {
+    "user": {
       "screenName": "TheSixFiveMedia",
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
@@ -602,6 +751,23 @@
   },
   {
     "user": {
+      "screenName": "poe_platform",
+      "name": "Poe",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1779895040577585153/Zdq0M-gM_normal.jpg",
+      "description": "The best AI, all in one place. GPT-4.5, Claude 3.7, R1, Runway and more. At https://t.co/N5CdbrMF2C, or for iOS, Android, Mac, or Windows at https://t.co/YyFq8FRszJ",
+      "followersCount": 69060,
+      "friendsCount": 3,
+      "location": "the internet"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq2Bf8ybAAUHBzu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/poe_platform/status/1922337612720664842",
+    "fullText": "New report: How have 2025’s breakthrough model launches influenced AI usage patterns? \n\nOur latest ecosystem report examines demand and share-of-usage based on millions of interactions on Poe across text, image, video, audio, and reasoning models. Key highlights: 🧵 https://t.co/1T7YJs9S3X"
+  },
+  {
+    "user": {
       "screenName": "HolaPrimeGlobal",
       "name": "Hola Prime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905186785639956480/9zpPpMHB_normal.jpg",
@@ -614,6 +780,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/HolaPrimeGlobal/status/1922334700590244213",
     "fullText": "Hola Prime redefines payouts—processed in just 1 hour."
+  },
+  {
+    "user": {
+      "screenName": "HolaPrimeGlobal",
+      "name": "Hola Prime",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905186785639956480/9zpPpMHB_normal.jpg",
+      "description": "Trading with transparency! Providing Traders 175+ countries access to 50+ instruments across 4 platforms, daily price transparency reports!",
+      "followersCount": 5841,
+      "friendsCount": 2,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HolaPrimeGlobal/status/1922334700569333784",
+    "fullText": "Karl Towns doesn’t wait on the court. \n\nAnd with Hola Prime, you won’t wait for payouts either—get yours in 1 hour."
   },
   {
     "user": {
@@ -646,5 +827,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/USFunds/status/1922317955448143979",
     "fullText": "Resolute Mining continues its climb higher, breaking above its 50-day moving average TWICE since the start of March.\n\nThe company, which we own in our #gold royalty ETF, is quietly rewriting its story.\n\nAfter navigating political uncertainty in Mali and undergoing leadership https://t.co/eS2f3OZY4u"
+  },
+  {
+    "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2816,
+      "friendsCount": 977,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922042047759814656/vid/avc1/1920x1080/f8aANpJwDrEWqMlX.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1922305836392542289",
+    "fullText": "The tech landscape is shifting fast and orgs must adapt or fall behind ⚡ At #IBMThink 2025 @Tiffani_Bova &amp; Kareem Yusuf, Ph.D. discussed how @IBM is enabling partners to navigate the need for AI-driven transformation to scale and grow. $IBM https://t.co/P7YnuEwSkO"
   }
 ]
