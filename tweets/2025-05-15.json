@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 27788,
+      "friendsCount": 121,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq8uZB4aAAEVG-E.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1922806576181604518",
+    "fullText": "懒猫微服实战入门（五）：文件上传到懒猫网盘，电视盒子挂载SMB观影 https://t.co/SKa0rZQQNC"
+  },
+  {
+    "user": {
+      "screenName": "MonkofFinance",
+      "name": "Finance News Monk 📈",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1733552904571678720/J67QZxDY_normal.jpg",
+      "description": "Sharing #finance news & more 🔗. #NFA. Part of WallStWire distribution net. Disclaimers: https://t.co/sR38IVdvgt. Posts re subscribers marked #WallStWire",
+      "followersCount": 244,
+      "friendsCount": 38,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq8j3ytXEAAO3hY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MonkofFinance/status/1922795187509624938",
+    "fullText": "$PYPD is inching toward its SHIELD II Phase 3 readout—an inflection point for surgical-site infection prevention. #Surgery #ClinicalTrials\n\nD-PLEX100’s 30-day local doxycycline release targets the full infection-risk window, slashing SSIs by up to 59% in earlier studies. https://t.co/ZjK4FIqtDT"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123295,
+      "followersCount": 123303,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -25,7 +59,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27784,
+      "followersCount": 27788,
       "friendsCount": 121,
       "location": "China"
     },
@@ -39,11 +73,45 @@
   },
   {
     "user": {
+      "screenName": "dzhng",
+      "name": "David",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1816551258905620480/kGMg3Z6W_normal.jpg",
+      "description": "founder @aomniapp • prev: @socialpluscorp @nasajpl",
+      "followersCount": 11431,
+      "friendsCount": 594,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922748153440370690/vid/avc1/1920x1080/HzpzPAIzX6wxATgI.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dzhng/status/1922750467181814232",
+    "fullText": "Introducing the new @aomniapp - an AI agent that builds other agents for you.\n\nNow you can go from idea -&gt; fully working agent with 1 prompt. We provide all the tools and contact datasets to build agents that excel at revenue gen activities.\n\nHere are some cool use cases 🧵 https://t.co/01q56kIc9j"
+  },
+  {
+    "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2817,
+      "friendsCount": 977,
+      "location": "Austin, Texas"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq7DobSWAAAUuCs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1922728626039968044",
+    "fullText": "🚨 Cybersecurity Spotlight 🚨\nWe’re thrilled to welcome @NikeshArora, Chairman &amp; CEO of @PaloAltoNtwks, to the Six Five Summit: AI Unleashed 2025 as a Cybersecurity Spotlight Speaker!\nHear his insights on AI, enterprise security &amp; the future of cyber defense.\n📅 June 16–19 | 💻 https://t.co/T1IgBZxAQn"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6991,
+      "followersCount": 6990,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -60,7 +128,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4135448,
+      "followersCount": 4135476,
       "friendsCount": 3,
       "location": ""
     },
@@ -75,7 +143,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18795,
+      "followersCount": 18794,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -92,7 +160,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58958,
+      "followersCount": 58961,
       "friendsCount": 358,
       "location": ""
     },
@@ -106,11 +174,28 @@
   },
   {
     "user": {
+      "screenName": "PristineAuction",
+      "name": "Pristine Auction",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864449161740812288/6RJPHmvP_normal.jpg",
+      "description": "🏆 Authentic wins, priced for fans. 🏆",
+      "followersCount": 34169,
+      "friendsCount": 1460,
+      "location": "Arizona"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922689430437117952/vid/avc1/1080x1920/yAQQQGdEZ9cuBN-Y.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/PristineAuction/status/1922689707269390490",
+    "fullText": "Every card tells a story.\nOn PRISTINE LIVE!, it's more than an auction — it's a celebration of the players, the moments, the memories.\nFrom rare rookies to legendary autos, the grails are waiting.\n🕚 LIVE at 11:00 AM PST — will you be the one to write the next chapter? https://t.co/Y3Z17qnCjP"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27784,
+      "followersCount": 27788,
       "friendsCount": 121,
       "location": "China"
     },
@@ -127,7 +212,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4135448,
+      "followersCount": 4135476,
       "friendsCount": 3,
       "location": ""
     },
@@ -135,6 +220,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/OpenAI/status/1922684895496720490",
     "fullText": "Introducing the Safety Evaluations Hub—a resource to explore safety results for our models.\n\nWhile system cards share safety metrics at launch, the Hub will be updated periodically as part of our efforts to communicate proactively about safety.\nhttps://t.co/c8NgmXlC2Y"
+  },
+  {
+    "user": {
+      "screenName": "twestes",
+      "name": "Timothy Estes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790202815765254144/i6NDDCka_normal.jpg",
+      "description": "Called the \"Robocop\" of Wall Street by Forbes, prefers to be the Willy Wonka of AI.",
+      "followersCount": 690,
+      "friendsCount": 629,
+      "location": "Nashville, TN"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq65RP7X0AAH9_t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/twestes/status/1922679649999704381",
+    "fullText": "Big Tech built an internet that's destroying our kids' mental health, and I'm done watching from the sidelines. Let me reintroduce myself: I'm Tim Estes. \n\nAfter building AI that helped intelligence agencies hunt down terrorists, law enforcement hunt down human traffickers &amp; https://t.co/2KsDdNmoMi"
   },
   {
     "user": {
@@ -159,7 +261,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18795,
+      "followersCount": 18794,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -174,7 +276,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22745,
+      "followersCount": 22746,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -204,7 +306,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27784,
+      "followersCount": 27788,
       "friendsCount": 121,
       "location": "China"
     },
@@ -221,7 +323,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18795,
+      "followersCount": 18794,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -238,7 +340,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9837,
+      "followersCount": 9841,
       "friendsCount": 3467,
       "location": ""
     },
@@ -287,7 +389,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18795,
+      "followersCount": 18794,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -319,7 +421,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22745,
+      "followersCount": 22746,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -337,7 +439,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30761,
+      "followersCount": 30763,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -354,7 +456,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54425,
+      "followersCount": 54428,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -371,7 +473,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18795,
+      "followersCount": 18794,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -436,7 +538,24 @@
       "name": "Creati AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1889051580202471425/8EUCM0HH_normal.jpg",
       "description": "Create Videos using only elements\nWebsite: https://t.co/fTwFOUUMeQ\nApp: https://t.co/7YEjgGwdAY\nContact: imgcreator@zmo.ai",
-      "followersCount": 9101,
+      "followersCount": 9102,
+      "friendsCount": 46,
+      "location": "San Jose, California"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922380623400112128/vid/avc1/1920x1080/yMp8K868auYJBt05.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ImgCreatorAI/status/1922382154194935892",
+    "fullText": "Meet Jimmy 'Al'lon, the world's first AI Ambassador, who can write scripts, wear any clothes, and really hold your product to sell.     \n\nSo far, so good: we went from\n0 to 10M users\n \nWanna see Jimmy selling? Retweet &amp; comment \"Creati AI\", we will DM you the invitation code. https://t.co/99z8IUsxN0"
+  },
+  {
+    "user": {
+      "screenName": "ImgCreatorAI",
+      "name": "Creati AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889051580202471425/8EUCM0HH_normal.jpg",
+      "description": "Create Videos using only elements\nWebsite: https://t.co/fTwFOUUMeQ\nApp: https://t.co/7YEjgGwdAY\nContact: imgcreator@zmo.ai",
+      "followersCount": 9102,
       "friendsCount": 46,
       "location": "San Jose, California"
     },
@@ -463,6 +582,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/TheSixFiveMedia/status/1922343584574951484",
     "fullText": "⏰ The countdown is on for #DellTechWorld!\nWe’re thrilled to have expert analysts @DanielNewmanUV, @PatrickMoorhead, @Tiffani_Bova, and Six Five Connected host, @DianaBlass on the ground next week, May 19–22 in Las Vegas.\nThey’ll be talking with some of the brightest minds in https://t.co/daq5LGKEYl"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16439,
+      "friendsCount": 1194,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq2IMZRXYAIXyXI.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1922342490117702139",
+    "fullText": "Nearly a quarter of U.S. adults now say gold is the best long-term investment—a sharp increase from last year, and well above the 16% who say stocks, according to @Gallup’s latest polling data. Only real estate ranked higher.\n\nFor the first time in over a decade, Americans say https://t.co/2JSqUUn2wy"
   },
   {
     "user": {
@@ -493,5 +629,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/PsyProtocol/status/1922333214107984024",
     "fullText": "hello frens\n      ---\n 🧿  🧿\n     /-       |\n|_____|\n\nafter 3 years of building, it is time to begin to reveal our final form\n\nmeet the name behind QED: 𝛙"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16439,
+      "friendsCount": 1194,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq1x93AXcAAQwop.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1922317955448143979",
+    "fullText": "Resolute Mining continues its climb higher, breaking above its 50-day moving average TWICE since the start of March.\n\nThe company, which we own in our #gold royalty ETF, is quietly rewriting its story.\n\nAfter navigating political uncertainty in Mali and undergoing leadership https://t.co/eS2f3OZY4u"
   }
 ]
