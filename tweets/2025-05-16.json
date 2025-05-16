@@ -1,11 +1,31 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 123339,
+      "friendsCount": 1313,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrDOt2SX0AAxFHx.jpg",
+      "https://pbs.twimg.com/media/GrDOt2SWcAA0pLM.jpg",
+      "https://pbs.twimg.com/media/GrDOt2QWMAEvgXB.jpg",
+      "https://pbs.twimg.com/media/GrDOt2QX0AAMDSA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1923264349050675329",
+    "fullText": "AI 生成折叠式纸雕立体绘本\n注：\n- 请酌情修改中括号【】内的场景描述，也可以增加更多细节\n- 本图使用 sora 生成\n- 仅能作为创意参考，无法打印成立体纸雕绘本\n\n提示词： https://t.co/MWEHUaG8r7"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30769,
+      "followersCount": 30771,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -37,7 +57,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5322,
+      "followersCount": 5323,
       "friendsCount": 340,
       "location": "杭州"
     },
@@ -47,6 +67,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/1923235836805410928",
     "fullText": "做了一个 Gmail AI 对话助手（AI Agent？），因为我有时候记不得我要找的邮件叫啥 https://t.co/hXiC3Ruxeo"
+  },
+  {
+    "user": {
+      "screenName": "ac132",
+      "name": "Anthony Constantino",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1852227477935968256/-mJ94JFj_normal.jpg",
+      "description": "CEO, Sticker Mule | Frontrunner in all polls for the NY-21 special election.",
+      "followersCount": 26539,
+      "friendsCount": 720,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ac132/status/1923233621856358828",
+    "fullText": "The inventor of the DTG printer now works at Sticker Mule.\n\nPer @Forbes:\n\nA recent new hire for Sticker Mule is Matthew Rhome, director of quality and efficiency. His pedigree? He invented the direct-to-garment inkjet printer. His expertise will support the fast-growing"
   },
   {
     "user": {
@@ -71,7 +106,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27888,
+      "followersCount": 27894,
       "friendsCount": 121,
       "location": "China"
     },
@@ -91,7 +126,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150043,
+      "followersCount": 150059,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -121,7 +156,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18776,
+      "followersCount": 18777,
       "friendsCount": 1751,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -170,7 +205,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4136572,
+      "followersCount": 4136597,
       "friendsCount": 3,
       "location": ""
     },
@@ -187,7 +222,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187139,
+      "followersCount": 187140,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -236,7 +271,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123337,
+      "followersCount": 123339,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -253,7 +288,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18776,
+      "followersCount": 18777,
       "friendsCount": 1751,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -285,7 +320,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187139,
+      "followersCount": 187140,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -303,7 +338,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123337,
+      "followersCount": 123339,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -320,7 +355,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123337,
+      "followersCount": 123339,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -354,7 +389,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58938,
+      "followersCount": 58934,
       "friendsCount": 358,
       "location": ""
     },
@@ -369,7 +404,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27888,
+      "followersCount": 27894,
       "friendsCount": 121,
       "location": "China"
     },
@@ -418,7 +453,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18776,
+      "followersCount": 18777,
       "friendsCount": 1751,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -453,7 +488,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18776,
+      "followersCount": 18777,
       "friendsCount": 1751,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -562,7 +597,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123337,
+      "followersCount": 123339,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -579,7 +614,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123337,
+      "followersCount": 123339,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -694,7 +729,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18776,
+      "followersCount": 18777,
       "friendsCount": 1751,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -790,6 +825,23 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 242607,
+      "friendsCount": 5048,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1923037843464568833/pu/vid/avc1/720x900/EwkR1jDoLYszQi6V.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1923037857649725578",
+    "fullText": "One year ago today... this didn't age well. https://t.co/lcJPSVLTHr"
+  },
+  {
+    "user": {
       "screenName": "OVRtheReality",
       "name": "Over the Reality 🌐",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1724809748451913728/nH249nAz_normal.jpg",
@@ -828,7 +880,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5897,
+      "followersCount": 5899,
       "friendsCount": 1233,
       "location": ""
     },
@@ -877,7 +929,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5322,
+      "followersCount": 5323,
       "friendsCount": 340,
       "location": "杭州"
     },
@@ -956,7 +1008,7 @@
       "name": "Onchain Foundation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1745107488414867456/-ihIblgk_normal.jpg",
       "description": "Building the first Web3 research ecosystem on @Base. \nBuilt to guide founders. Powered by contributors. Rewarded onchain.",
-      "followersCount": 22118,
+      "followersCount": 22119,
       "friendsCount": 530,
       "location": "onchain.org"
     },
@@ -1143,6 +1195,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/lencx_/status/1922921200671408154",
     "fullText": "时间过得真快，一晃眼，皓叔已经离开我们两年了。在这期间，AI 大爆发、许多大厂核心开发者被无故裁员。如果他还在，应该会发表很多独到见解，可惜我们再也看不到了，CoolShell 的更新时间永恒静止在了两年前的今天...\n\nAI 浪潮下的开发者，又该何去何从？\nhttps://t.co/P0tZAWfg3D https://t.co/1vbKDacFvD"
+  },
+  {
+    "user": {
+      "screenName": "Nlauae",
+      "name": "الأرشيف والمكتبة الوطنية",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742081564861673473/h4o_9IiT_normal.jpg",
+      "description": "الأرشيف والمكتبة الوطنية National Library and Archives - Tel: +971 2 418 3333 #ذاكرة_الوطن",
+      "followersCount": 25210,
+      "friendsCount": 64,
+      "location": "Abu Dhabi, UAE"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq-LU7xXUAAabj_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Nlauae/status/1922909068844261688",
+    "fullText": "Join the DataCiteUAE Consortium and Help Build a Globally Connected Research Data Ecosystem\n\nLed by the NLA, the DataCiteUAE Consortium invites institutions to join a global community dedicated to advancing data governance and helping government entities manage and connect https://t.co/Kb3cHBLr8r"
   },
   {
     "user": {
