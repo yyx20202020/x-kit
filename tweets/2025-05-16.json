@@ -1,10 +1,27 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 9894,
+      "friendsCount": 3470,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrC2X9LaAAYYVVh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1923237857705017555",
+    "fullText": "给腾讯自来水一次，毕竟白嫖人家服务，最近准备把一些前端站迁移过去，毕竟不要钱！（不过程序员小哥加油啊，现在 Git 仓库导入还报错呢...\n\nEdgeOne Pages  基于 @TencentCloud 打造的前端平台。\n\n🎯 全球 CDN 内容加速\n⚙️ 零运维 Serverless\n🔁 GitHub 自动部署\n\n现在公测，免费畅用所有功能！⬇️ https://t.co/mW2efKX6tw"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
-      "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
+      "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
       "followersCount": 5322,
       "friendsCount": 340,
       "location": "杭州"
@@ -59,7 +76,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150024,
+      "followersCount": 150030,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -106,7 +123,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4165,
+      "followersCount": 4164,
       "friendsCount": 375,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -138,7 +155,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4136431,
+      "followersCount": 4136485,
       "friendsCount": 3,
       "location": ""
     },
@@ -155,7 +172,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187130,
+      "followersCount": 187133,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -167,6 +184,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/ruanyf/status/1923210144369737896",
     "fullText": "周五软件分享\n\n- Void（图一）：开源AI编辑器，Cursor替代品 https://t.co/TTrVyHGfwc\n\n- PairDrop（图二）：局域网互传文件的Web应用 https://t.co/1DLOpvMlUw\n\n- YAMLResume（图三）：使用YAML格式生成简历https://t.co/vLuLbicf5u\n\n更多软件 #科技爱好者周刊（第348期）https://t.co/s9uILTBwzp https://t.co/pr24BgCUEC"
+  },
+  {
+    "user": {
+      "screenName": "chewersjoy",
+      "name": "Chewer’s Joy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922798464586350592/A1tO1t-4_normal.jpg",
+      "description": "High Protein Complete and Balance Wet Food for Dogs and Cats",
+      "followersCount": 11,
+      "friendsCount": 19,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chewersjoy/status/1923208022903357714",
+    "fullText": "Not all Pet food is created equal!\nWe spent 2 years perfecting a formula with High Protein using real meats and all essential nutrients for Dogs and Cats to thrive and stay Joyful!\nNo byproducts, No mystery meats.\nTry Chewer's Joy! They'll taste the difference."
   },
   {
     "user": {
@@ -189,7 +221,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123330,
+      "followersCount": 123329,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -238,7 +270,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187130,
+      "followersCount": 187133,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -256,7 +288,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123330,
+      "followersCount": 123329,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -273,7 +305,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123330,
+      "followersCount": 123329,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -307,7 +339,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58936,
+      "followersCount": 58935,
       "friendsCount": 358,
       "location": ""
     },
@@ -423,7 +455,7 @@
       "name": "Complex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1616533296770416655/AumWVpWu_normal.jpg",
       "description": "Making Culture Pop.",
-      "followersCount": 2439899,
+      "followersCount": 2439901,
       "friendsCount": 785,
       "location": "New York"
     },
@@ -515,7 +547,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123330,
+      "followersCount": 123329,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -532,7 +564,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123330,
+      "followersCount": 123329,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -614,7 +646,7 @@
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
-      "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
+      "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
       "followersCount": 5322,
       "friendsCount": 340,
       "location": "杭州"
@@ -657,6 +689,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1923073285769535999",
     "fullText": "大家都在撸NXPC的猪脚饭呀🙂\n\n我就不参与了，改网络重新登录等等弄了20分钟还是进不去活动界面，我想明白了，原来是币安不要我了，我是捡来的孩子，币安只是我的后妈，我不应该奢求那么多的，时间不早啦，就让我生着闷气入睡吧😌\n\n@binance @binancezh @cz_binance @heyibinance https://t.co/SWBOfPzxFq"
+  },
+  {
+    "user": {
+      "screenName": "SuperRare",
+      "name": "SuperRare",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902005882776420352/4VPH_smx_normal.jpg",
+      "description": "The art market, onchain",
+      "followersCount": 333526,
+      "friendsCount": 3948,
+      "location": "Ethereum"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1923062687346421760/vid/avc1/1080x1080/V4uXK3gpCEj6Fiv7.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SuperRare/status/1923062774248198398",
+    "fullText": "SR x @RichardNadler1 \nArchiTextures\n1/1/128\nJune 5th, 2025 https://t.co/u8MyubqmOp"
   },
   {
     "user": {
@@ -747,7 +796,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6987,
+      "followersCount": 6990,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -764,7 +813,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5889,
+      "followersCount": 5892,
       "friendsCount": 1233,
       "location": ""
     },
@@ -798,7 +847,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30756,
+      "followersCount": 30769,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -812,7 +861,7 @@
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
-      "description": "Social Media Scheduling Tool: https://t.co/u2mlx3PiVG Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
+      "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
       "followersCount": 5322,
       "friendsCount": 340,
       "location": "杭州"
@@ -877,7 +926,7 @@
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4165,
+      "followersCount": 4164,
       "friendsCount": 375,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -892,7 +941,7 @@
       "name": "Onchain Foundation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1745107488414867456/-ihIblgk_normal.jpg",
       "description": "Building the first Web3 research ecosystem on @Base. \nBuilt to guide founders. Powered by contributors. Rewarded onchain.",
-      "followersCount": 22749,
+      "followersCount": 22497,
       "friendsCount": 530,
       "location": "onchain.org"
     },
@@ -1263,6 +1312,40 @@
   },
   {
     "user": {
+      "screenName": "mschlapp",
+      "name": "Matt Schlapp",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1788219886692347907/UlIMA2GX_normal.jpg",
+      "description": "Dad to 5 angels, husband to @mercedesschlapp as seen on Newsmax, Kansas, Chair of @cpac, Co-Author The Desecrators, Go Irish, life is better on Victory Farm",
+      "followersCount": 495604,
+      "friendsCount": 1187,
+      "location": "Alexandria VA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922794917778100224/vid/avc1/1280x720/GOKYoBNF7TxmB0zt.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/mschlapp/status/1922795504498278413",
+    "fullText": "President Trump’s policies have increased tariff revenue in the short run but the biggest budget impact is the first ever large drop in federal employment. It’s revolutionary to have the federal swamp shrink. https://t.co/Ss8KqCDaM3"
+  },
+  {
+    "user": {
+      "screenName": "mercedesschlapp",
+      "name": "Mercedes Schlapp",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898101395829456896/mBludBRf_normal.jpg",
+      "description": "Faith, family, country, freedom. Ephesians 6:11. Host of @CPAC Now: America Uncanceled, Former WH Strategic Senior Advisor for President Trump",
+      "followersCount": 477022,
+      "friendsCount": 3719,
+      "location": "Alexandria, VA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922792548348620800/vid/avc1/1280x720/GExyKuQK8H2sYXlV.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/mercedesschlapp/status/1922793263284490725",
+    "fullText": "Yesterday, President Trump made a historic return to Saudi Arabia yesterday to strengthen our ties with the Middle East https://t.co/WosAcUxwg8"
+  },
+  {
+    "user": {
       "screenName": "Hooked0nBrooke",
       "name": "Brooklyn🌶",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1920752616314744832/DAmCIeB5_normal.jpg",
@@ -1284,7 +1367,7 @@
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1816551258905620480/kGMg3Z6W_normal.jpg",
       "description": "founder @aomniapp • prev: @socialpluscorp @nasajpl",
-      "followersCount": 11445,
+      "followersCount": 11449,
       "friendsCount": 594,
       "location": "San Francisco, CA"
     },
@@ -1550,7 +1633,7 @@
       "name": "Turkish Airlines",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1883771335567941632/7BUExsM4_normal.jpg",
       "description": "We fly to more countries than any other airline in the world. The @TK_HelpDesk is at your disposal 24/7 to help you with any questions you have.",
-      "followersCount": 1866968,
+      "followersCount": 1866949,
       "friendsCount": 17,
       "location": "Istanbul"
     },
