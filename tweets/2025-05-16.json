@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 123298,
+      "friendsCount": 1313,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrCNJ_eXkAADk6K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1923192253255675949",
+    "fullText": "彭博社：Meta因推迟旗舰AI模型发布，股价下跌\n作者：Nick Turner\n2025年5月15日 UTC时间晚上7:30\n\n据报道，社交巨头Meta推迟了其旗舰人工智能模型的发布，引发了市场对该公司AI战略进展的担忧，导致其股价出现下跌。 https://t.co/ucjssa4gWZ"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18774,
+      "friendsCount": 1750,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrCLKd5aAAEj5M8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1923190065242468737",
+    "fullText": "杭州欢迎我 https://t.co/b0gxuXnqDS"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187117,
+      "followersCount": 187115,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -23,7 +57,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123297,
+      "followersCount": 123298,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -40,7 +74,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123297,
+      "followersCount": 123298,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -57,7 +91,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6247,
+      "followersCount": 6252,
       "friendsCount": 247,
       "location": "NewYork"
     },
@@ -74,7 +108,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58909,
+      "followersCount": 58924,
       "friendsCount": 358,
       "location": ""
     },
@@ -89,7 +123,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27860,
+      "followersCount": 27875,
       "friendsCount": 121,
       "location": "China"
     },
@@ -121,7 +155,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18766,
+      "followersCount": 18774,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -136,7 +170,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18766,
+      "followersCount": 18774,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -213,7 +247,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123297,
+      "followersCount": 123298,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -230,7 +264,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123297,
+      "followersCount": 123298,
       "friendsCount": 1313,
       "location": "Chicago, IL"
     },
@@ -257,6 +291,21 @@
     ],
     "tweetUrl": "https://x.com/mercedesschlapp/status/1923091880167776669",
     "fullText": "Jake Tapper and Alex Thompson are desperate in their attempts to show they were tough on Biden’s decline. But we have receipts of them denying his decline time after time for years. Why did they cover it up? https://t.co/WWIZM2ijCq"
+  },
+  {
+    "user": {
+      "screenName": "InvestigativeV",
+      "name": "Stephen Janis, Reporter",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1092153618743152640/hebwt64L_normal.jpg",
+      "description": "Director of  \"Tax Broke\" and\"The Friendliest Town\" docs, co-host The Police Accountability Report on The Real News Network.  Host: Land of the Unsolved",
+      "followersCount": 2693,
+      "friendsCount": 2969,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/InvestigativeV/status/1923091257066389672",
+    "fullText": "An MD audit just found at 36 cases of police custody deaths should have been ruled homicides. In 2019 we investigated three cases covered by the audit.  We consulted an independent medical examiner who told us the cases of Anton Black, Tyrone West, and Tawon Boyd should have been"
   },
   {
     "user": {
@@ -292,11 +341,28 @@
   },
   {
     "user": {
+      "screenName": "montoyamc73",
+      "name": "Montoya",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920680986297143296/d40OgRjh_normal.jpg",
+      "description": "I'm just looking for real friends and posting. I'm in a relationship. not looking for anything, especially fake A$$ profiles.",
+      "followersCount": 143,
+      "friendsCount": 25,
+      "location": "everywhere "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrAhnSZaAAAvBYX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/montoyamc73/status/1923074004505542781",
+    "fullText": "That's beautiful https://t.co/GhcgW1BAWU"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18766,
+      "followersCount": 18774,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -343,6 +409,23 @@
   },
   {
     "user": {
+      "screenName": "OVRtheReality",
+      "name": "Over the Reality 🌐",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1724809748451913728/nH249nAz_normal.jpg",
+      "description": "The largest Geospatial DePIN platform. Get paid to map the world. Step outside, take a picture, and receive $OVR. All you need is a smartphone 📱",
+      "followersCount": 103489,
+      "friendsCount": 6936,
+      "location": "DePIN"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1923031201343778816/vid/avc1/1920x1080/7n6vAOjfEdDp0IPu.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OVRtheReality/status/1923033995161309450",
+    "fullText": "🎉 April Map2Earn program rewards are here!\n\nThe community showed up strong during the first month of our new mapping program and we’ve officially distributed 8,750 $OVR tokens in bonuses.\n\n🏆 1000+ maps → $250\n🥇 500 maps → $100\n🥈 250 maps → $50\n🥉 150 maps → $25\n\nThese https://t.co/7ypWQY0Jsg"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -364,7 +447,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5855,
+      "followersCount": 5869,
       "friendsCount": 1232,
       "location": ""
     },
@@ -398,7 +481,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30747,
+      "followersCount": 30748,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -430,7 +513,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18766,
+      "followersCount": 18774,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -441,11 +524,26 @@
   },
   {
     "user": {
+      "screenName": "Tassas22",
+      "name": "Terry Agar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889199144016678912/B2medCEc_normal.jpg",
+      "description": "USMC Veteran Vietnam War 1969-1970. Singer/songwriter. Retired Building Official City of Ocean Springs.",
+      "followersCount": 201,
+      "friendsCount": 42,
+      "location": "Ocean Springs, MS"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Tassas22/status/1923014387645780194",
+    "fullText": "I asked Grok about the Supreme Court case on birthright citizenship and the nationwide injunctions that begins today, and Grok offered to keep me updated on the progress of the case. Here's the conversation: \n\nI told Grok to Focus narrowly on the birthright case that starts today"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4158,
+      "followersCount": 4160,
       "friendsCount": 375,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -453,6 +551,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/s1ntone/status/1923001493701202186",
     "fullText": "刚刚似乎想通了一件事。我不确定我先说说。\n\n我每天急着写代码、急着发布新版本，每天把压力给到自己和家人，（除了是对付费的老板们的需求负责）主要是为了在版本发布后开始宣传。毕竟在产品能自宣传之前，自己的主动接触更重要。\n\n这里抛掉老板们不谈（大胆！）"
+  },
+  {
+    "user": {
+      "screenName": "OnchainHQ",
+      "name": "Onchain Foundation",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1745107488414867456/-ihIblgk_normal.jpg",
+      "description": "Building the first Web3 research ecosystem on @Base. \nBuilt to guide founders. Powered by contributors. Rewarded onchain.",
+      "followersCount": 22749,
+      "friendsCount": 530,
+      "location": "onchain.org"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq_ZN7BXgAESt3W.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OnchainHQ/status/1922994402814763465",
+    "fullText": "🚨 5,300+ tokens launch every day.\n\nMost crash or fade into irrelevance.\n\nSo how to win? 🏆\n\nOur new 70+ page report analyses\n🔸 600+ founders &amp; investors\n🔸 7 major token launches\n🔸 5 pillars of success\n\nIn partnership w/ @base &amp; @zora.\n\nHere are key insights (+ giveaway) 🧵 https://t.co/FOj8vR5vbV"
   },
   {
     "user": {
@@ -494,7 +609,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149986,
+      "followersCount": 150008,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -509,7 +624,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18766,
+      "followersCount": 18774,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -558,7 +673,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54412,
+      "followersCount": 54411,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -575,8 +690,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9882,
-      "friendsCount": 3469,
+      "followersCount": 9888,
+      "friendsCount": 3470,
       "location": ""
     },
     "images": [],
@@ -590,7 +705,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 149986,
+      "followersCount": 150008,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -605,7 +720,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21311,
+      "followersCount": 21312,
       "friendsCount": 1022,
       "location": ""
     },
@@ -801,6 +916,23 @@
   },
   {
     "user": {
+      "screenName": "Seagate",
+      "name": "Seagate",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807848213032194049/zHGJEk94_normal.jpg",
+      "description": "A global leader for over 40 years, Seagate Technology crafts precision-engineered data storage and management solutions.",
+      "followersCount": 192856,
+      "friendsCount": 3509,
+      "location": "Cupertino, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq7OiifXMAEQGE0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Seagate/status/1922701188564242734",
+    "fullText": "📣 Don't miss our Storage Savings Sale! 📣\n\nUnlock over 20 exclusive deals on https://t.co/P06LoSt6c2! 💸\n\nFrom portable drives to high-performance storage, the savings are massive—and for today only❗️\n\nSave big while supplies last 👉 https://t.co/4TC33KsJJP https://t.co/Tzs5CL19P0"
+  },
+  {
+    "user": {
       "screenName": "tryoharaAI",
       "name": "Ohara",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902457858232287232/lLiKq_s__normal.jpg",
@@ -881,5 +1013,54 @@
     "videos": [],
     "tweetUrl": "https://x.com/ScottCummi26403/status/1922663515162103934",
     "fullText": "American Liberation Day will come when we stop allowing Israel and the Neocons from lying us into funding and fighting wars in the Middle East costing us 10 trillion dollars and 10s of thousand of American lives."
+  },
+  {
+    "user": {
+      "screenName": "TurkishAirlines",
+      "name": "Turkish Airlines",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1883771335567941632/7BUExsM4_normal.jpg",
+      "description": "We fly to more countries than any other airline in the world. The @TK_HelpDesk is at your disposal 24/7 to help you with any questions you have.",
+      "followersCount": 1866986,
+      "friendsCount": 17,
+      "location": "Istanbul"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TurkishAirlines/status/1922660570932678957",
+    "fullText": "Discover glorious beaches and striking nature in Türkiye with Turkish Airlines"
+  },
+  {
+    "user": {
+      "screenName": "vradvntrs2000",
+      "name": "Entertainmt",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891537582866980864/toUU-7yS_normal.jpg",
+      "description": "Common sense patriot. Anti-corruption fanatic. Loving D.O.G.E., weeding out corruption and waste. Waiting for the term Claw Back to become popular.",
+      "followersCount": 858,
+      "friendsCount": 816,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq5r6rwWQAARV3f.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vradvntrs2000/status/1922596498660786556",
+    "fullText": "Call to action! For the sake of humanity give this post the attention it deserves. Please give special thanks to these save the children warriors. Please help these warriors in any way you can. @RyanMattaMedia, @RedpillDrifter, @ShawnRyan762, @TimTebow https://t.co/2xwAi8nNjH"
+  },
+  {
+    "user": {
+      "screenName": "ASTRODOGSOLANA",
+      "name": "ASTRODOG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885802456791060480/jcVQhqNc_normal.jpg",
+      "description": "Shiba Inu astronaut pup exploring the cosmos in search of the next “moonshot” .CA :CGKReD3WF21vBXMJQ3s6cZvjC6oejyUeJKaRcBqzvEzc",
+      "followersCount": 5193,
+      "friendsCount": 132,
+      "location": "United Arab Emirates"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq5WIfDWUAA-JTh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ASTRODOGSOLANA/status/1922568838610096576",
+    "fullText": "🚀 $ASTRODOG launched recently… and it’s ALREADY orbiting.\n🔥 Liquidity locked\n📈 Chart heating up fast\n🪐 Solana-powered, community-fueled\n🇦🇪 Devs based in Dubai\nYou’re STILL early. Don’t fade this rocket.\n📜 CA: CGKReD3WF21vBXMJQ3s6cZvjC6oejyUeJKaRcBqzvEzc\n🌐 Website: https://t.co/VfeLOYHFWd"
   }
 ]
