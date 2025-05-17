@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 27902,
+      "friendsCount": 121,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrIK6sWXgAErNYY.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1923612120643743760",
+    "fullText": "20年那些至暗时，成就了今天打不死的小强\n\n很多年轻的程序员朋友或者想入行编程生涯的朋友，可以读一下我20年的心路历程，不渲染悲情，也不是为了励志。希望你们在坚持理想的路上，遇到困难，读一下我的文字，能给你们一些力量。\n\n为了便于大家阅读，尽量简写，更多的细节大家可以订阅我的博客 https://t.co/jPht90MpRW"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30799,
+      "followersCount": 30803,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -332,6 +349,23 @@
   },
   {
     "user": {
+      "screenName": "barstoolsports",
+      "name": "Barstool Sports",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1222128514624892935/zC0ABl3m_normal.jpg",
+      "description": "Viva La Stool",
+      "followersCount": 6462145,
+      "friendsCount": 629,
+      "location": "America"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1923463153825828865/vid/avc1/720x1280/yYspgNRw9hvE-uW3.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/barstoolsports/status/1923463230132773204",
+    "fullText": "Some things are bigger than sports... like ordering scratch off tickets on your phone with @Jackpocket\n\nUse code PRES for $5 off your first scratchers ticket.\n\nDownload the app: https://t.co/pcLO2AKR4m #JackpocketPartner https://t.co/Xy7lW510hw"
+  },
+  {
+    "user": {
       "screenName": "3xOptionShow",
       "name": "The Triple Option",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1823771986180370432/RnM-iiVQ_normal.jpg",
@@ -452,7 +486,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105578,
+      "followersCount": 105582,
       "friendsCount": 236,
       "location": "Singapore"
     },
@@ -499,7 +533,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4139124,
+      "followersCount": 4139116,
       "friendsCount": 3,
       "location": ""
     },
@@ -548,7 +582,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6935,
+      "followersCount": 7008,
       "friendsCount": 248,
       "location": "NewYork"
     },
@@ -617,7 +651,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22793,
+      "followersCount": 22797,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -634,7 +668,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4139124,
+      "followersCount": 4139116,
       "friendsCount": 3,
       "location": ""
     },
@@ -681,7 +715,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 6935,
+      "followersCount": 7008,
       "friendsCount": 248,
       "location": "NewYork"
     },
@@ -699,7 +733,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4139124,
+      "followersCount": 4139116,
       "friendsCount": 3,
       "location": ""
     },
@@ -797,7 +831,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18786,
+      "followersCount": 18787,
       "friendsCount": 1749,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -814,7 +848,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30799,
+      "followersCount": 30803,
       "friendsCount": 584,
       "location": "Hong Kong"
     },
@@ -831,7 +865,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22793,
+      "followersCount": 22797,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -919,7 +953,7 @@
       "name": "Complex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1616533296770416655/AumWVpWu_normal.jpg",
       "description": "Making Culture Pop.",
-      "followersCount": 2439848,
+      "followersCount": 2439850,
       "friendsCount": 785,
       "location": "New York"
     },
