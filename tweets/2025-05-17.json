@@ -1,6 +1,85 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6987,
+      "friendsCount": 729,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1923628091022377195",
+    "fullText": "看到有人关切地说自己家猫「偷偷出去玩了」受伤了。真关心还是不要放出去。我几个美国朋友的 outdoor 猫都在种种教训下强转为 indoor。"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150104,
+      "friendsCount": 474,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1923626419869057337",
+    "fullText": "本来打算先去某一个国家考个国际驾照，后来发现很多国家承认国内驾照的国际翻译件，虽然不能作为长期的合法驾照，但是用旅游签入境的前一两个月是可以临时驾车的。"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22795,
+      "friendsCount": 295,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1923615622883311880",
+    "fullText": "Windows 10 目前还能正常运行各种二十多年前的软件，但是有的操作系统，常常两年前的东西都会没法跑。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 27907,
+      "friendsCount": 121,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrINOFOWkAAIxlA.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1923614538408038734",
+    "fullText": "20年那些至暗时，成就了今天打不死的小强\n\n很多年轻的程序员朋友或者想入行编程生涯的朋友，可以读一下我20年的心路历程，不渲染悲情，也不是为了励志。希望你们在坚持理想的路上，遇到困难，读一下我的文字，能给你们一些力量。\n\n为了便于大家阅读，尽量简写，更多的细节大家可以订阅我的博客 https://t.co/A3EQC5ii89"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18785,
+      "friendsCount": 1749,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrIM0pDXgAAahcb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1923614108945088994",
+    "fullText": "胡辣汤+水煎包 https://t.co/OzJdggcCEi"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -22,8 +101,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30803,
-      "friendsCount": 584,
+      "followersCount": 30799,
+      "friendsCount": 585,
       "location": "Hong Kong"
     },
     "images": [],
@@ -69,7 +148,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27902,
+      "followersCount": 27907,
       "friendsCount": 121,
       "location": "China"
     },
@@ -86,7 +165,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8281,
+      "followersCount": 8279,
       "friendsCount": 290,
       "location": ""
     },
@@ -133,7 +212,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58949,
+      "followersCount": 58950,
       "friendsCount": 358,
       "location": ""
     },
@@ -202,7 +281,7 @@
       "name": "Contra",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1915149499095228416/tH3-YJjz_normal.jpg",
       "description": "The commission-free creative network, connecting you with the talent and tools to get work underway.",
-      "followersCount": 23293,
+      "followersCount": 23297,
       "friendsCount": 2807,
       "location": "San Francisco"
     },
@@ -456,7 +535,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8281,
+      "followersCount": 8279,
       "friendsCount": 290,
       "location": ""
     },
@@ -486,7 +565,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105582,
+      "followersCount": 105585,
       "friendsCount": 236,
       "location": "Singapore"
     },
@@ -533,7 +612,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4139116,
+      "followersCount": 4139158,
       "friendsCount": 3,
       "location": ""
     },
@@ -582,7 +661,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7008,
+      "followersCount": 7182,
       "friendsCount": 248,
       "location": "NewYork"
     },
@@ -599,7 +678,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27902,
+      "followersCount": 27907,
       "friendsCount": 121,
       "location": "China"
     },
@@ -651,7 +730,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22797,
+      "followersCount": 22795,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -668,7 +747,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4139116,
+      "followersCount": 4139158,
       "friendsCount": 3,
       "location": ""
     },
@@ -683,7 +762,7 @@
       "name": "分形香蕉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1910581166639636484/KTQyso3t_normal.jpg",
       "description": "开源爱好者，@kanaries_data 创始人，@ob12er 的中文号；副业https://t.co/IRbF0jr4HO",
-      "followersCount": 644,
+      "followersCount": 643,
       "friendsCount": 507,
       "location": "你身后"
     },
@@ -715,7 +794,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7008,
+      "followersCount": 7182,
       "friendsCount": 248,
       "location": "NewYork"
     },
@@ -733,7 +812,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4139116,
+      "followersCount": 4139158,
       "friendsCount": 3,
       "location": ""
     },
@@ -797,7 +876,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 27902,
+      "followersCount": 27907,
       "friendsCount": 121,
       "location": "China"
     },
@@ -831,7 +910,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18787,
+      "followersCount": 18785,
       "friendsCount": 1749,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1034,7 +1113,7 @@
       "name": "SuperRare",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902005882776420352/4VPH_smx_normal.jpg",
       "description": "The art market, onchain",
-      "followersCount": 333530,
+      "followersCount": 333558,
       "friendsCount": 3951,
       "location": "Ethereum"
     },
@@ -1083,7 +1162,7 @@
       "name": "Onchain Foundation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1745107488414867456/-ihIblgk_normal.jpg",
       "description": "Building the first Web3 research ecosystem on @Base. \nBuilt to guide founders. Powered by contributors. Rewarded onchain.",
-      "followersCount": 22445,
+      "followersCount": 22430,
       "friendsCount": 530,
       "location": "onchain.org"
     },
