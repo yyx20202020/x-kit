@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 123523,
+      "friendsCount": 1314,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrRcr1BWoAA2be_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1924264852517736470",
+    "fullText": "现在明白为啥上周OpenAI要抢着发Codex了吧 https://t.co/AIuHu9NAP0"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 28158,
+      "friendsCount": 121,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrRZuONXIAAICr8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1924261594495938748",
+    "fullText": "懒猫微服炫技篇（一）：使用懒猫微服的穿透服务，车机使用DS music 远程听歌，黑群晖不用再洗白。\n\nhttps://t.co/PtKesq3z4U https://t.co/ejcGeAbIZ9"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -22,7 +56,7 @@
       "name": "Busch Beer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917306360967933952/X4c353Tl_normal.jpg",
       "description": "Content/sharing for 21+. Enjoy Responsibly. © 2025 Anheuser-Busch, Busch Light® Beer, St. Louis, MO. Comm. Guidelines https://t.co/VSBTehSfhm",
-      "followersCount": 217047,
+      "followersCount": 217285,
       "friendsCount": 151,
       "location": "St Louis, MO"
     },
@@ -39,7 +73,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7954,
+      "followersCount": 7955,
       "friendsCount": 250,
       "location": "NewYork"
     },
@@ -57,7 +91,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58942,
+      "followersCount": 58947,
       "friendsCount": 357,
       "location": ""
     },
@@ -106,7 +140,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28153,
+      "followersCount": 28158,
       "friendsCount": 121,
       "location": "China"
     },
@@ -126,7 +160,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28153,
+      "followersCount": 28158,
       "friendsCount": 121,
       "location": "China"
     },
@@ -141,7 +175,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18773,
+      "followersCount": 18780,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -174,7 +208,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54483,
+      "followersCount": 54484,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -191,7 +225,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18773,
+      "followersCount": 18780,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -208,7 +242,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28153,
+      "followersCount": 28158,
       "friendsCount": 121,
       "location": "China"
     },
@@ -225,7 +259,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28153,
+      "followersCount": 28158,
       "friendsCount": 121,
       "location": "China"
     },
@@ -242,7 +276,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30822,
+      "followersCount": 30825,
       "friendsCount": 587,
       "location": "Hong Kong"
     },
@@ -261,7 +295,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58942,
+      "followersCount": 58947,
       "friendsCount": 357,
       "location": ""
     },
@@ -328,7 +362,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58942,
+      "followersCount": 58947,
       "friendsCount": 357,
       "location": ""
     },
@@ -345,7 +379,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30822,
+      "followersCount": 30825,
       "friendsCount": 587,
       "location": "Hong Kong"
     },
@@ -362,7 +396,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18773,
+      "followersCount": 18780,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -413,7 +447,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28153,
+      "followersCount": 28158,
       "friendsCount": 121,
       "location": "China"
     },
@@ -430,7 +464,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28153,
+      "followersCount": 28158,
       "friendsCount": 121,
       "location": "China"
     },
@@ -464,7 +498,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58942,
+      "followersCount": 58947,
       "friendsCount": 357,
       "location": ""
     },
@@ -479,7 +513,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58942,
+      "followersCount": 58947,
       "friendsCount": 357,
       "location": ""
     },
@@ -496,7 +530,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18773,
+      "followersCount": 18780,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -513,7 +547,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58942,
+      "followersCount": 58947,
       "friendsCount": 357,
       "location": ""
     },
@@ -531,7 +565,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18773,
+      "followersCount": 18780,
       "friendsCount": 1750,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -544,11 +578,26 @@
   },
   {
     "user": {
+      "screenName": "aonefischer",
+      "name": "Aaron Fischer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1772395805149671424/nqaZbqoc_normal.jpg",
+      "description": "Entrepreneur, Idea Guy, CEO of Battle Company. I m a born again believer. Jesus is life! Businesses I started: Battle Company - Flash Pads - Hiwater - Slice",
+      "followersCount": 201,
+      "friendsCount": 129,
+      "location": "Franklin, WI"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aonefischer/status/1923718872068133193",
+    "fullText": "I made Slice to solve a real problem! It was taking way too much time to slice short clips from my longer videos to make a reel on my phone. Have you ever thought that? If so, let me share why Slice is faster!"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28153,
+      "followersCount": 28158,
       "friendsCount": 121,
       "location": "China"
     },
