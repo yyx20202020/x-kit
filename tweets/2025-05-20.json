@@ -5,7 +5,39 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28202,
+      "followersCount": 28200,
+      "friendsCount": 121,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrXK3mSagAA540N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1924667482641727824",
+    "fullText": "懒猫微服底层架构设计\n\n懒猫微服以单一Docker客户端，借助shell脚本封装与DOCKER_HOST，驱动三套引擎（系统、pg-docker、lzc-docker），通过containerd namespace隔离系统组件、playground测试与商店应用。\n\ndaemon.json精细配置data-root与sock路径，复用内核实现高效共存。开发者快来一探究竟！ https://t.co/Y7rfjT9MeD"
+  },
+  {
+    "user": {
+      "screenName": "nextify2024",
+      "name": "Nextify",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1924314148650811392/wIRdLxXp_normal.jpg",
+      "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
+      "followersCount": 22615,
+      "friendsCount": 338,
+      "location": "HK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nextify2024/status/1924663261485744405",
+    "fullText": "追求最佳实践的过程本身就已偏离了最佳实践的本质"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 28200,
       "friendsCount": 121,
       "location": "China"
     },
@@ -22,7 +54,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22837,
+      "followersCount": 22840,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -37,7 +69,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4196,
+      "followersCount": 4198,
       "friendsCount": 390,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -65,6 +97,40 @@
   },
   {
     "user": {
+      "screenName": "Special_Venue",
+      "name": "Special Venue Music Awards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1756036745349742592/EkMyXyWS_normal.jpg",
+      "description": "\"Special Venue Music Award\" International Competition is open to all ages and instruments . The Winners Concerts at Carnegie Hall and Harvard University.",
+      "followersCount": 46,
+      "friendsCount": 120,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrWE1AubAAEVXaC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Special_Venue/status/1924590862643953729",
+    "fullText": "🎵【Video Auditions Now Open】April 1 – June 30\n🎹【Winners Recitals】September 27 – October 4\n🎤 San Francisco Opera House\n🎻 Carnegie Hall (New York)\n🎺 Harvard University (Boston)\n✅ Open to all instruments, ages, and nationalities.\n✅One free-choice piece only.\n🌏 For more https://t.co/nN7uN8lWne"
+  },
+  {
+    "user": {
+      "screenName": "Special_Venue",
+      "name": "Special Venue Music Awards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1756036745349742592/EkMyXyWS_normal.jpg",
+      "description": "\"Special Venue Music Award\" International Competition is open to all ages and instruments . The Winners Concerts at Carnegie Hall and Harvard University.",
+      "followersCount": 46,
+      "friendsCount": 120,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrWEAdfbAAIRNiS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Special_Venue/status/1924590363173667304",
+    "fullText": "🎵【Video Auditions Now Open】Deadline: June 30\n🎹【Winners Recitals】September 27 – October 4\n🎤San Francisco Opera House\n🎻 Carnegie Hall (New York)\n🎺 Harvard University (Boston)\n✅ Open to all instruments, ages, and nationalities.\n✅One free-choice piece only.\n🌏 For more https://t.co/kEQIUFbK59"
+  },
+  {
+    "user": {
       "screenName": "arbiterstudio",
       "name": "Arbiter Studio",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1877484226100211713/vUavWyYr_normal.jpg",
@@ -79,6 +145,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/arbiterstudio/status/1924585323956474128",
     "fullText": "No flex. Full intent. https://t.co/1tt3IQzHGi"
+  },
+  {
+    "user": {
+      "screenName": "Ananda_aulia1",
+      "name": "Ananda",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2665168165/1a544f83a9e2fe662bcc2003f34ad560_normal.jpeg",
+      "description": "I am Ananda|I am SONE|I am ELF|Single|91JHS|18ES| no kenal , no folback",
+      "followersCount": 113,
+      "friendsCount": 122,
+      "location": "Germany"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrV_bvEbAAA6gh-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Ananda_aulia1/status/1924584616590983213",
+    "fullText": "Create your cozy outdoor escape ☀️🍃\nStylish wicker patio set — perfect for morning coffee or evening chats. Durable, elegant, and made for comfort!\n\n#PatioGoals #OutdoorLiving #HomeVibes #WickerStyle https://t.co/hIaLFIFo9s"
   },
   {
     "user": {
@@ -116,6 +199,23 @@
   },
   {
     "user": {
+      "screenName": "TheLostDrake",
+      "name": "TheLostDrake",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1818914339539312640/PN55VOW3_normal.jpg",
+      "description": "Veteran. Family Man. Kick Partner.\nProudly partnered with @AMDGaming @CapcomUSA_ @BungieLove\nAlso repping: @Advancedgg @aVerMedia @lostcitybrew @MobiuzGaming",
+      "followersCount": 16955,
+      "friendsCount": 7967,
+      "location": "Arizona, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrVvO2mbAAMpNno.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheLostDrake/status/1924569622596223383",
+    "fullText": "Alright listen up, chaos enthusiasts…\n\nI’m heading to @DreamHack  Dallas! What is my main goal?\n\nTry not to break anything.\n\nSecondary goal? Survive without the staff throwing me out (love y’all, please don’t)!\n\nThis weekend will be 7-spot-schedule-level wild, with everything https://t.co/2yz7sKCQ0q"
+  },
+  {
+    "user": {
       "screenName": "Xfinity",
       "name": "Xfinity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1623800580048146436/SJ-WSjuR_normal.jpg",
@@ -150,7 +250,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7970,
+      "followersCount": 7972,
       "friendsCount": 251,
       "location": "NewYork"
     },
@@ -269,7 +369,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28202,
+      "followersCount": 28200,
       "friendsCount": 121,
       "location": "China"
     },
@@ -283,11 +383,28 @@
   },
   {
     "user": {
+      "screenName": "ByteDogToken",
+      "name": "Byte Token",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1862665713057714176/yjRPkpdh_normal.jpg",
+      "description": "Official $Byte Memecoin on ETH | Inspired by Byte, The AI Dog 🐕 | Community-Owned | No affiliation with Elon, X, XAI | TG: https://t.co/4PahXJJ9hS",
+      "followersCount": 4029,
+      "friendsCount": 49,
+      "location": "X"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrQKNyqWcAAqtcA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ByteDogToken/status/1924449973459960062",
+    "fullText": "Woof! $BYTE just teamed up with @CryptotwitsHQ to celebrate the launch of their new premier crypto platform 🥳 🐾 \n\nAdd Byte.x to your watchlist now for a chance to boost Byte with $10k in Ad spend on the new platform and qualify for a chance to win Official Byte Merch. \n\nHere's https://t.co/vuJTHVx0fY"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22837,
+      "followersCount": 22840,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -321,7 +438,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150177,
+      "followersCount": 150179,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -371,7 +488,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "西天上，总还留有晚霞",
-      "followersCount": 7484,
+      "followersCount": 7483,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -437,7 +554,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54533,
+      "followersCount": 54535,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -454,7 +571,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28202,
+      "followersCount": 28200,
       "friendsCount": 121,
       "location": "China"
     },
@@ -484,7 +601,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28202,
+      "followersCount": 28200,
       "friendsCount": 121,
       "location": "China"
     },
@@ -658,6 +775,23 @@
   },
   {
     "user": {
+      "screenName": "Schmoldty",
+      "name": "creNERD | Kevin Schmoldt",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742316014463840256/HnFdwSlL_normal.jpg",
+      "description": "A real estate novelist from Wisconsin, who operates and invests in strip malls and industrial assets and invests in MF, self-storage and mobile home parks",
+      "followersCount": 1251,
+      "friendsCount": 597,
+      "location": "Wisconsin, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrQ_V2nWAAIwCr-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Schmoldty/status/1924232644411470255",
+    "fullText": "I'd like to invite @Bethazor1, @CREgir1 and @jchal to join me in a rousing game of #ICSC Jeopardy where we'll navigate challenging categories featuring age-old small talk from the retail conference - hosted by none other than, @realEstateTrent https://t.co/jAOKdI8DGM"
+  },
+  {
+    "user": {
       "screenName": "NICKMERCS",
       "name": "Nickmercs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1810826749758033920/bM2IRN5t_normal.jpg",
@@ -696,6 +830,23 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1924224787418681344/wVb-YdHG_normal.jpg",
       "description": "The #NBAPlayoffs presented by Google continue Tuesday with Timberwolves-Thunder GAME 1 at 8:30pm/et on ESPN!",
+      "followersCount": 48242771,
+      "friendsCount": 2011,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1924203475488874496/vid/avc1/1920x1080/B0paOsA4QG-oPwwd.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1924204189271363605",
+    "fullText": "SCORING, STEALS, AND ENERGY! \n\nINCREDIBLE SEQUENCE BY OKC TO CLOSE THE HALF 🤯 https://t.co/FrfBv5I3QD"
+  },
+  {
+    "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1924224787418681344/wVb-YdHG_normal.jpg",
+      "description": "The #NBAPlayoffs presented by Google continue Tuesday with Timberwolves-Thunder GAME 1 at 8:30pm/et on ESPN!",
       "followersCount": 48242572,
       "friendsCount": 2011,
       "location": ""
@@ -713,7 +864,7 @@
       "name": "NBA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1924224787418681344/wVb-YdHG_normal.jpg",
       "description": "The #NBAPlayoffs presented by Google continue Tuesday with Timberwolves-Thunder GAME 1 at 8:30pm/et on ESPN!",
-      "followersCount": 48242250,
+      "followersCount": 48242771,
       "friendsCount": 2011,
       "location": ""
     },
@@ -740,6 +891,24 @@
     ],
     "tweetUrl": "https://x.com/GolfonCBS/status/1924188012843278804",
     "fullText": "\"Whoa -- on the fly!\" \nDavis Riley dunks it for birdie. https://t.co/tRBEMYxqZD"
+  },
+  {
+    "user": {
+      "screenName": "krEenday_soL",
+      "name": "krEendAy_soL 🐾🇯🇵",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885729572131352576/PmLrLJ0g_normal.jpg",
+      "description": "cRypTo fOol , DegEn, Memecoin Enthusiast ,                  $San chan 🐾🇯🇵🐶👨‍🦲",
+      "followersCount": 258,
+      "friendsCount": 288,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrP4e7PWUAAaekq.jpg",
+      "https://pbs.twimg.com/media/GrP4e2xWEAEzsln.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/krEenday_soL/status/1924154679430131946",
+    "fullText": "Truly believing in santhing is so powerful... not even time can kill the spirit.. im in $San for the journey and the cause, everything else is just distraction to me 🙌🫶🐕🐾🇯🇵 https://t.co/jYMgbNms5l"
   },
   {
     "user": {
