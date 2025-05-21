@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 4203,
+      "friendsCount": 391,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1924985242164891648/vid/avc1/774x720/DullwGRaNMqIn_Pb.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/s1ntone/status/1924985293385695508",
+    "fullText": "💡你喜欢 #ScreenSage 即将支持的这个 3D 运镜效果吗？\n\n没错，就是专业制作 3D 预览视频的那个 Rotato 的效果，即将在 ScreenSage 中被逐步支持。\n💪届时，你只需要录制视频，简单点几下，就可以得到这样的非常专业的预览视频。真的很强！\n👀 下面视频是 ScreenSage 效果直出。 https://t.co/jUqKQjRHN9"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 123654,
+      "friendsCount": 1315,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1924931020895174656/vid/avc1/2160x3840/qjFuF5mKNN92KKql.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1924983651810324862",
+    "fullText": "https://t.co/oLVlHISGmY 在线购物时，很多人都会有这样的困扰：在看图片选购衣服时，很难想象穿在自己身上的效果，特别是在尝试新潮风格时，这种问题尤其明显。"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 123654,
+      "friendsCount": 1315,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1924924586908356608/vid/avc1/1280x720/Ubv4nLr8gX5flSYB.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1924982548876152986",
+    "fullText": "让 Google 的 Veo 3 生成脱口秀视频\n\n提示词：\n\n&gt; 一名男子正在一家小型场地里表演脱口秀，他讲了个笑话（对话中需要包含这个笑话）。\n\nhttps://t.co/rtSlolwlH2"
+  },
+  {
+    "user": {
+      "screenName": "pika_labs",
+      "name": "Pika",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921703583000498176/-7B4z4fz_normal.jpg",
+      "description": "Reality is what you make it. Create unreal AI videos with Pika.\n Try it at pika dot art",
+      "followersCount": 141883,
+      "friendsCount": 80,
+      "location": "Palo Alto, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1924945332418576387/vid/avc1/1920x1440/HkcVrv0U5s4enG5L.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/pika_labs/status/1924946181441876424",
+    "fullText": "Reality as you know it is over…because now, it’s yours to create. It’s the Pikapocalypse. Try new Pikaffects at Pika dot art, or on the iOS app. https://t.co/hf8GTXqcXe"
+  },
+  {
+    "user": {
       "screenName": "yuxiyou",
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105715,
+      "followersCount": 105718,
       "friendsCount": 236,
       "location": "Singapore"
     },
@@ -20,7 +88,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22856,
+      "followersCount": 22858,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -30,6 +98,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/1924894997318623524",
     "fullText": "民营企业家平均寿命是 53 岁，比老百姓短命 20 年，创业需谨慎： https://t.co/SSUw0mdjkQ"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16432,
+      "friendsCount": 1194,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GraT0WUXcAALe1j.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1924888496503665025",
+    "fullText": "Burberry reported stronger-than-expected results last week, with group retail sales declining 6%, better than the anticipated 7.8% drop. Sales in all regions except the Americas outperformed expectations, reflecting early signs of recovery for the British luxury brand amid https://t.co/pClJFuUHIE"
   },
   {
     "user": {
@@ -65,11 +150,28 @@
   },
   {
     "user": {
+      "screenName": "thomasmrp",
+      "name": "Thomas Phillips",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1767571269472468992/QVNvFK2__normal.png",
+      "description": "CEO & Founder of a portfolio of brands scaling via SEO. 🚀 We also help DTC brands scale profitably with SEO to 8-figs and beyond. Apply to become a Client 👇🏽",
+      "followersCount": 32,
+      "friendsCount": 113,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrZrZYJWAAAXhyg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/thomasmrp/status/1924847040200048705",
+    "fullText": "You know SEO is driving sales. \n\nBut can you prove it?\n\nUntil now, organic search has been a black box.\n\nNo accurate attribution. No revenue clarity. No performance metrics.\n\nThat changes today.\n🧵👇 https://t.co/F5fYr9sGvv"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5318,
+      "followersCount": 5317,
       "friendsCount": 336,
       "location": "杭州"
     },
@@ -84,7 +186,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58948,
+      "followersCount": 58947,
       "friendsCount": 358,
       "location": ""
     },
@@ -101,7 +203,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58948,
+      "followersCount": 58947,
       "friendsCount": 358,
       "location": ""
     },
@@ -135,7 +237,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18753,
+      "followersCount": 18754,
       "friendsCount": 1759,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -152,7 +254,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150199,
+      "followersCount": 150201,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -167,7 +269,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18753,
+      "followersCount": 18754,
       "friendsCount": 1759,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -184,7 +286,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22856,
+      "followersCount": 22858,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -199,7 +301,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18753,
+      "followersCount": 18754,
       "friendsCount": 1759,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -216,7 +318,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150199,
+      "followersCount": 150201,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -231,7 +333,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9916,
+      "followersCount": 9915,
       "friendsCount": 3485,
       "location": ""
     },
@@ -248,7 +350,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18753,
+      "followersCount": 18754,
       "friendsCount": 1759,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -283,7 +385,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54552,
+      "followersCount": 54555,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -298,7 +400,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21332,
+      "followersCount": 21333,
       "friendsCount": 1022,
       "location": ""
     },
@@ -315,7 +417,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9916,
+      "followersCount": 9915,
       "friendsCount": 3485,
       "location": ""
     },
@@ -332,7 +434,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9916,
+      "followersCount": 9915,
       "friendsCount": 3485,
       "location": ""
     },
@@ -349,7 +451,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9916,
+      "followersCount": 9915,
       "friendsCount": 3485,
       "location": ""
     },
@@ -366,7 +468,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9916,
+      "followersCount": 9915,
       "friendsCount": 3485,
       "location": ""
     },
@@ -400,7 +502,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150199,
+      "followersCount": 150201,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -415,7 +517,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9916,
+      "followersCount": 9915,
       "friendsCount": 3485,
       "location": ""
     },
@@ -432,7 +534,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5318,
+      "followersCount": 5317,
       "friendsCount": 336,
       "location": "杭州"
     },
@@ -447,7 +549,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18753,
+      "followersCount": 18754,
       "friendsCount": 1759,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -484,7 +586,7 @@
       "name": "Creati AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1889051580202471425/8EUCM0HH_normal.jpg",
       "description": "Create Videos using only elements\nWebsite: https://t.co/fTwFOUUMeQ\nApp: https://t.co/7YEjgGwdAY\nContact: imgcreator@zmo.ai",
-      "followersCount": 9278,
+      "followersCount": 9282,
       "friendsCount": 46,
       "location": "San Jose, California"
     },
@@ -494,6 +596,40 @@
     ],
     "tweetUrl": "https://x.com/ImgCreatorAI/status/1924596653690126435",
     "fullText": "Wanna find out the secret to 10x your influencer marketing in 2025?\n\nAI influencers are now filming, speaking, and selling better than real people.  \n\nHere’s how smart brands are using them: 👇 https://t.co/l9W9eF3Sv6"
+  },
+  {
+    "user": {
+      "screenName": "arbiterstudio",
+      "name": "Arbiter Studio",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1877484226100211713/vUavWyYr_normal.jpg",
+      "description": "Gaming Hardware Studio. 🧲Polar 65&75 ⌨️ Premium Hall Effect Gaming Keyboard 🖱️Akitsu - Carbon Fiber Mice ▫️Glass Pad | Z Platform PCBA | Polar 65+| @kanami_gg",
+      "followersCount": 41555,
+      "friendsCount": 187,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrV-MZbbMAAkIVd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arbiterstudio/status/1924585323956474128",
+    "fullText": "No flex. Full intent. https://t.co/1tt3IQzHGi"
+  },
+  {
+    "user": {
+      "screenName": "TalkinBaseball_",
+      "name": "Talkin’ Baseball",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1431227413598453761/Tu4qggZp_normal.jpg",
+      "description": "Baseball podcast brought to you by @JomboyMedia | Hosted by @TalkinJake & @trevorplouffe",
+      "followersCount": 443262,
+      "friendsCount": 656,
+      "location": "Jomboy Media"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1924548875882254336/vid/avc1/1080x1920/TkTZQroF2MI-grpf.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TalkinBaseball_/status/1924549050734461003",
+    "fullText": "Jomboy predicts there will be no rainouts or extra innings this week\n\nPresented by @TMobile https://t.co/7hon9fl9qD"
   },
   {
     "user": {
@@ -518,7 +654,7 @@
       "name": "Off The Grid",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1910358485906157568/UEF16GF7_normal.jpg",
       "description": "Next-Gen Cyberpunk F2P Extraction Royale. Early Access now on PC, PS5 & Xbox Series X|S. 🦖 Developed by @GunzillaGames",
-      "followersCount": 335206,
+      "followersCount": 335278,
       "friendsCount": 7,
       "location": "Teardrop Island"
     },
