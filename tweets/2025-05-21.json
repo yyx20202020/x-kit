@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6985,
+      "friendsCount": 730,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1924998869391441929",
+    "fullText": "AI 作为新技术并没有在经济上起到当年内燃机、航空技术、半导体、软件的推动作用。我认为原因是它没有提供「整个社会」需要的东西。整个社会需要的是更多廉价能源，更大更快的运力、更及时的信息。但是整个社会其实并不需要学生学的快一些，更多的 summary，虽然这些能让个体觉得更爽。"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 123660,
+      "friendsCount": 1315,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1924934236995534848/vid/avc1/1280x720/5W47czTzo5ioUQmy.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1924998300232548713",
+    "fullText": "Google Veo 3 生成的音乐视频\nhttps://t.co/dtf7kSDgIg"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
@@ -22,7 +54,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123654,
+      "followersCount": 123660,
       "friendsCount": 1315,
       "location": "Chicago, IL"
     },
@@ -39,7 +71,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123654,
+      "followersCount": 123660,
       "friendsCount": 1315,
       "location": "Chicago, IL"
     },
@@ -69,11 +101,26 @@
   },
   {
     "user": {
+      "screenName": "pedroh96",
+      "name": "Pedro Franceschi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907487073633976320/LY8KzhLq_normal.jpg",
+      "description": "Founder & CEO @BrexHQ, helping 30k+ companies (from startups to the largest companies on the planet) to spend smarter and move faster.",
+      "followersCount": 17971,
+      "friendsCount": 747,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/pedroh96/status/1924904409877692575",
+    "fullText": "Today, we’re announcing Brex for Zip — a new partnership that solves one of the biggest gaps in enterprise finance @brexHQ @theziphq 🧵"
+  },
+  {
+    "user": {
       "screenName": "yuxiyou",
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105718,
+      "followersCount": 105719,
       "friendsCount": 236,
       "location": "Singapore"
     },
@@ -88,7 +135,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22858,
+      "followersCount": 22859,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -122,7 +169,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7970,
+      "followersCount": 7972,
       "friendsCount": 251,
       "location": "NewYork"
     },
@@ -130,6 +177,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/tuziapi/status/1924877611953750070",
     "fullText": "兔子API-KEY额度查询工具\n\n这是一个简单的Python脚本，用于查询兔子API（https://t.co/XIvA4MZ1Q7）账户令牌信息，包括总额度、已使用额度和剩余额度。\n\nhttps://t.co/CLOCNZutx1"
+  },
+  {
+    "user": {
+      "screenName": "cosmic_pepe_sol",
+      "name": "CosmicPepe (Fan Account)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1924287645149990912/X8iCNDD__normal.jpg",
+      "description": "I am Cosmic Pepe, the internet!\n\n9Jc3SotKAograpx8Gw9Rxp6FgwEVvgFZn4me7bSKwjpy\n\nhttps://t.co/fX29KXewNF",
+      "followersCount": 95,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GraAOxvb0AAOQdb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cosmic_pepe_sol/status/1924867384428609645",
+    "fullText": "Cosmic Pepe Issue 1.1 - Strike in the Void\n\nCosmic Pepe drives his astral blade deep into Pepe’s chest.\n\nDark ichor spills into swirling stardust; Cosmic Pepe’s face is a mask of sorrow beneath his glowing third eye.\n\nCaption: “It had to end here.”\n\nBut why????  Stay Tuned https://t.co/RwekXyG7Cn"
   },
   {
     "user": {
@@ -147,6 +211,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1924860641770406337",
     "fullText": "#DataCollie DevLog\n路虽远，行则将至。日拱一卒！\n今晚优化了2个内容：\n1. 新增了Save Passwod Checkbox的选项和布局。\n2. 新增了Password Input组件查看明文的眼镜图标按钮。\n #buildinpublic #indiedev https://t.co/BVNPdd7bAn"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16432,
+      "friendsCount": 1194,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrZ6NW-XMAAJfeK.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1924860356624593309",
+    "fullText": "Ryanair is flying high—and so is the stock price!\n\nStrong summer demand across 37 countries and a rebound in fares are driving momentum, helping shares break above (and stay above) the 50-day moving average.\n\nThe company’s CFO Neil Sorahan says demand is \"robust all across the https://t.co/DEpNCQKr0v"
+  },
+  {
+    "user": {
+      "screenName": "thogge",
+      "name": "tyler hogge",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841951763060162561/LBWgQHE6_normal.jpg",
+      "description": "startup helper + partner @pelion_vp. \nseeking https://t.co/gpR4NZqaQ0. \nlearning @io__podcast.",
+      "followersCount": 23326,
+      "friendsCount": 393,
+      "location": "silicon valley to utah 🏔️🇺🇸"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1924848910801268736/vid/avc1/1920x1080/gAa4Ia0t81StYz27.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/thogge/status/1924849661967552691",
+    "fullText": "This convo with @ericvishria is one of my favorite ever.\n\nI am so grateful to learn from him and the @benchmark approach.\n\n-Just *how fast* are some of these AI companies growing?\n-is the revenue durable?\n-What does Benchmark look for?\n\n(00:07:28) Exponential Rise of AI Startups https://t.co/NOMKJnIXvG"
   },
   {
     "user": {
@@ -171,7 +269,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5317,
+      "followersCount": 5318,
       "friendsCount": 336,
       "location": "杭州"
     },
@@ -186,7 +284,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58947,
+      "followersCount": 58945,
       "friendsCount": 358,
       "location": ""
     },
@@ -203,7 +301,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58947,
+      "followersCount": 58945,
       "friendsCount": 358,
       "location": ""
     },
@@ -213,6 +311,26 @@
     ],
     "tweetUrl": "https://x.com/yuyy614893671/status/1924834475818811799",
     "fullText": "https://t.co/UeWKzpCjQZ"
+  },
+  {
+    "user": {
+      "screenName": "SwiftDailyPicks",
+      "name": "SwiftDailyPicks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755690379934924800/bKEzGOXe_normal.jpg",
+      "description": "The guy who turned $10 into $40,000 in one play. Join the VIP ⬇️⬇️⬇️⬇️",
+      "followersCount": 2574,
+      "friendsCount": 1276,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrZhEdAXcAALXLP.jpg",
+      "https://pbs.twimg.com/media/GrZhF0nXAAAnPp-.jpg",
+      "https://pbs.twimg.com/media/GrZhGuEWwAEqHsO.jpg",
+      "https://pbs.twimg.com/media/GrZhIqyWoAA80be.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SwiftDailyPicks/status/1924833610785255858",
+    "fullText": "$25 to one person who likes! ❤️\n\nWe went 11-3 on the Pick of the Days and SMACKED TWO HR STRAIGHTS outta the park! 🧨💣\n\nPOTDs ✅:\n\nSonny Gray Over 17.5 Outs / 5.5 Ks ✅\n\nRhys Hoskins Over 0.5 Hit ✅\n\nNick Lodolo Over 5.5 Ks ✅\n\nBrenton Doyle Over 1.5 HRR ✅\n\nNico Hoerner Over https://t.co/R53O0XQP9p"
   },
   {
     "user": {
@@ -237,7 +355,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18754,
+      "followersCount": 18757,
       "friendsCount": 1759,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -247,6 +365,36 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1924814106315653255",
     "fullText": "美味提拉米苏作为今晚的高级甜点 https://t.co/XprOIXWW2h"
+  },
+  {
+    "user": {
+      "screenName": "Topstep",
+      "name": "Topstep",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1410674225577332738/V9fNEU-H_normal.jpg",
+      "description": "1 Step. 1 Rule.™ The #1 Prop Firm.💰Earn funding in 2 days! 💸 Trusted Payouts 🚀Free Coaching ⭐️⭐️⭐️⭐️⭐️Live Support https://t.co/HRRl3ojJii",
+      "followersCount": 57624,
+      "friendsCount": 23,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Topstep/status/1924802294660333742",
+    "fullText": "TopstepTV Live Futures Day Trading: Dr. Brett Steenbarger Is Answering Your Questions LIVE (5/20/25) https://t.co/7lu9FxfA3k"
+  },
+  {
+    "user": {
+      "screenName": "TheRobertBshow",
+      "name": "Robert Bortins",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1783554269385240576/mLP0e8h8_normal.jpg",
+      "description": "Homeschooled to Homeschooler, CEO of @ClassicalConv serving 135k students, 3x Father, 3x Rugby National Champ, Eduprenuer, Join the Movement",
+      "followersCount": 8356,
+      "friendsCount": 671,
+      "location": "Weekly Show➜"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheRobertBshow/status/1924801873925603528",
+    "fullText": "Homeschooling isn't about following state standards at home. \n\nIt is the rejection of the state having jurisdiction of standards altogether."
   },
   {
     "user": {
@@ -269,7 +417,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18754,
+      "followersCount": 18757,
       "friendsCount": 1759,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -286,7 +434,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22858,
+      "followersCount": 22859,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -301,7 +449,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18754,
+      "followersCount": 18757,
       "friendsCount": 1759,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -333,7 +481,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9915,
+      "followersCount": 9914,
       "friendsCount": 3485,
       "location": ""
     },
@@ -350,7 +498,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18754,
+      "followersCount": 18757,
       "friendsCount": 1759,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -385,7 +533,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54555,
+      "followersCount": 54554,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -400,7 +548,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21333,
+      "followersCount": 21332,
       "friendsCount": 1022,
       "location": ""
     },
@@ -417,7 +565,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9915,
+      "followersCount": 9914,
       "friendsCount": 3485,
       "location": ""
     },
@@ -434,7 +582,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9915,
+      "followersCount": 9914,
       "friendsCount": 3485,
       "location": ""
     },
@@ -451,7 +599,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9915,
+      "followersCount": 9914,
       "friendsCount": 3485,
       "location": ""
     },
@@ -468,7 +616,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9915,
+      "followersCount": 9914,
       "friendsCount": 3485,
       "location": ""
     },
@@ -517,7 +665,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9915,
+      "followersCount": 9914,
       "friendsCount": 3485,
       "location": ""
     },
@@ -534,7 +682,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE",
-      "followersCount": 5317,
+      "followersCount": 5318,
       "friendsCount": 336,
       "location": "杭州"
     },
@@ -613,6 +761,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/arbiterstudio/status/1924585323956474128",
     "fullText": "No flex. Full intent. https://t.co/1tt3IQzHGi"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16432,
+      "friendsCount": 1194,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrVwgDjW8AAFlUg.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1924568125644718266",
+    "fullText": "President Trump’s recent visit to Saudi Arabia, Qatar, and the UAE resulted in trillions of dollars in economic agreements, including a historic $142 billion arms deal with Saudi Arabia.\n\nThis is the largest defense sales agreement in history, further solidifying the U.S. as https://t.co/MiJeokRv3o"
   },
   {
     "user": {
