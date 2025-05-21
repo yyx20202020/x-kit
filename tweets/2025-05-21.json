@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18765,
+      "friendsCount": 1759,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrcqckcbAAEmqKP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1925054049952661954",
+    "fullText": "红烧牛又面 https://t.co/ulnD8XNazD"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 28191,
+      "friendsCount": 121,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grcl2ZXa4AAc6Bl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1925049228864454934",
+    "fullText": "昨天卖货卖到凌晨3点，早上起来review开源社区的补丁。\n\n这个补丁的性能不行，应该在for循环外面做分支判断，在for循环里面做判断，补全项多了，白白浪费性能。\n\nhttps://t.co/JDJdJBgRex https://t.co/RPSGQOL071"
+  },
+  {
+    "user": {
       "screenName": "Stevefunded",
       "name": "Steve Funded",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894177620750639104/3-mVs9_O_normal.jpg",
@@ -67,7 +101,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73492,
+      "followersCount": 73497,
       "friendsCount": 3392,
       "location": ""
     },
@@ -114,7 +148,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123684,
+      "followersCount": 123688,
       "friendsCount": 1315,
       "location": "Chicago, IL"
     },
@@ -148,7 +182,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123684,
+      "followersCount": 123688,
       "friendsCount": 1315,
       "location": "Chicago, IL"
     },
@@ -165,7 +199,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123684,
+      "followersCount": 123688,
       "friendsCount": 1315,
       "location": "Chicago, IL"
     },
@@ -246,7 +280,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 105741,
+      "followersCount": 105750,
       "friendsCount": 236,
       "location": "Singapore"
     },
@@ -327,7 +361,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7975,
+      "followersCount": 7973,
       "friendsCount": 251,
       "location": "NewYork"
     },
@@ -459,7 +493,7 @@
       "name": "stacks.btc",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1764968185399267328/lrmnHOuN_normal.jpg",
       "description": "A Bitcoin L2 enabling smart contracts & apps with Bitcoin as secure base layer 🟧\n\nRegular Stacks Updates: https://t.co/w8goj3MlPU\n\n 🟧 TG+ https://t.co/MNXiV0kOyR",
-      "followersCount": 234822,
+      "followersCount": 234819,
       "friendsCount": 227,
       "location": "Bitcoin"
     },
@@ -821,7 +855,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21331,
+      "followersCount": 21330,
       "friendsCount": 1022,
       "location": ""
     },
@@ -1105,6 +1139,23 @@
   },
   {
     "user": {
+      "screenName": "siamakfr",
+      "name": "Siamak Freydoonnejad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879606060790759424/piz3QmlE_normal.jpg",
+      "description": "I make https://t.co/0O857BqCae (YC) : build AI apps, as easy as using Canva!\n\nserial founder. 🇨🇦 / SF",
+      "followersCount": 521,
+      "friendsCount": 724,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrVOzAqbAAMHtwD.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/siamakfr/status/1924537486044496011",
+    "fullText": "I’m launching the 24 Hour AI Accelerator. \n@ycombinator condensed into 1 day.\n\n→ $20k prize\n→ For non-devs &amp; vibe coders\n→ May 24th\n→ We'll teach you to build with AI\n→ Founder and investor mentors\n\nDon't miss your chance to start an AI business and get funded.\n\nLink👇 https://t.co/9qShP6A5Kh"
+  },
+  {
+    "user": {
       "screenName": "OddsShopper",
       "name": "OddsShopper +EV Betting",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1890820241115971584/GT2Johs5_normal.jpg",
@@ -1158,7 +1209,7 @@
       "name": "Whoah Labs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1906660064779206656/7Mno1Rvr_normal.jpg",
       "description": "We find & create things that make you go WHOAH! | Techno-Optimist Brand",
-      "followersCount": 281,
+      "followersCount": 280,
       "friendsCount": 110,
       "location": ""
     },
@@ -1192,7 +1243,7 @@
       "name": "SEDA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908135040715837440/u9I6XvnF_normal.jpg",
       "description": "Connecting the Internet Onchain. \n\nBacked by @coinbase @recvcx @coinfund_io and more.",
-      "followersCount": 42784,
+      "followersCount": 42777,
       "friendsCount": 137,
       "location": "All Networks"
     },
