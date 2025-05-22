@@ -1,6 +1,24 @@
 [
   {
     "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 7991,
+      "friendsCount": 252,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grkw6vcW4AAiSgK.png",
+      "https://pbs.twimg.com/media/GrkxzvxW0AAe9_F.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1925625235107140021",
+    "fullText": "惊艳！\n\nclaude-sonnet-4-20250514单次提示词下的完整小游戏，点开即玩（https://t.co/VFZTb7zHpg）\n\n提示词：使用JavaScript创建一个1对1的宝可梦战斗游戏，并使用这个网站上的精灵作为宝可梦 https://t.co/qh7wM0ZzXE https://t.co/SZGwXwRLV9"
+  },
+  {
+    "user": {
       "screenName": "UpRockCom",
       "name": "UpRock",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1784834575807500288/7-Xyd0bX_normal.jpg",
@@ -30,6 +48,26 @@
     "videos": [],
     "tweetUrl": "https://x.com/nateleex/status/1925597624465596779",
     "fullText": "等到了，好久没用claude了，前几个月我都想退订了 https://t.co/Wqi55ryBU8"
+  },
+  {
+    "user": {
+      "screenName": "OndaStudiosHQ",
+      "name": "Onda",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921631221840277504/N2Me99T4_normal.jpg",
+      "description": "highs and lows of the american dream",
+      "followersCount": 730,
+      "friendsCount": 16,
+      "location": "Miami, FL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrkT5bjXAAAF6Tg.jpg",
+      "https://pbs.twimg.com/media/GrkT5c9WEAAZ72f.jpg",
+      "https://pbs.twimg.com/media/GrkT5c-WsAAMsFy.jpg",
+      "https://pbs.twimg.com/media/GrkT5bgXAAAINDV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OndaStudiosHQ/status/1925592197014929883",
+    "fullText": "bail bonds cropped tee. available now. \n\nmodel is 6’0 wearing a size large. \n\ngarment details: \n\n1. screenprinted in-house at onda studios with a distressed type effect inspired by perfectly faded vintage tees.  \n\n2. heavy stonewash for a soft, vintage feel.\n\n3. hand-distressed https://t.co/D87eV0MNy2"
   },
   {
     "user": {
@@ -361,7 +399,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30882,
+      "followersCount": 30883,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -550,7 +588,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30882,
+      "followersCount": 30883,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -996,7 +1034,7 @@
       "name": "Kerberus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919816596895498242/gHzTNf2l_normal.png",
       "description": "We protect you from drainers on all EVM and SOL\n\n- 0 user losses since 01/2023\n- $30,000 Coverage On Your Txns\n\nYou make the profits, we keep them yours 👇",
-      "followersCount": 36095,
+      "followersCount": 36369,
       "friendsCount": 23,
       "location": "Get the extension here ➤"
     },
