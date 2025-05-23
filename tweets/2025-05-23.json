@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 30892,
+      "friendsCount": 589,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grm4u1DW8AAYuOk.jpg",
+      "https://pbs.twimg.com/media/Grm4xYLXAAAYdMv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1925774392673358228",
+    "fullText": "被一个学员感动了，我知道课程399元的单价对于一个大学生来说还是有压力的。所以我告诉它其实也不用一定买我的课程，课程视频有一部分我会发到B站上，所以即使不买课程，看B站视频也能学习到不少东西。但是他看了我的试看部分的内容后还是入了，那一句「您这个是良心课程」真的有被感动到。 https://t.co/FJOJVcU3wu"
+  },
+  {
+    "user": {
       "screenName": "tuziapi",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7993,
+      "followersCount": 7992,
       "friendsCount": 253,
       "location": "NewYork"
     },
@@ -25,7 +43,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18762,
+      "followersCount": 18763,
       "friendsCount": 1758,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -42,7 +60,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE. ByteDance",
-      "followersCount": 5318,
+      "followersCount": 5319,
       "friendsCount": 342,
       "location": "杭州"
     },
@@ -57,7 +75,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18762,
+      "followersCount": 18763,
       "friendsCount": 1758,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -74,7 +92,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18762,
+      "followersCount": 18763,
       "friendsCount": 1758,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -108,7 +126,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30895,
+      "followersCount": 30892,
       "friendsCount": 589,
       "location": "Hong Kong"
     },
@@ -128,7 +146,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18762,
+      "followersCount": 18763,
       "friendsCount": 1758,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -265,7 +283,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187447,
+      "followersCount": 187449,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -284,7 +302,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187447,
+      "followersCount": 187449,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -348,7 +366,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28193,
+      "followersCount": 28194,
       "friendsCount": 121,
       "location": "China"
     },
@@ -365,7 +383,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123843,
+      "followersCount": 123849,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -383,7 +401,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123843,
+      "followersCount": 123849,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -400,7 +418,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123843,
+      "followersCount": 123849,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -418,7 +436,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7993,
+      "followersCount": 7992,
       "friendsCount": 253,
       "location": "NewYork"
     },
@@ -435,7 +453,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7993,
+      "followersCount": 7992,
       "friendsCount": 253,
       "location": "NewYork"
     },
@@ -468,7 +486,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "西天上，总还留有晚霞",
-      "followersCount": 7481,
+      "followersCount": 7482,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -485,7 +503,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18762,
+      "followersCount": 18763,
       "friendsCount": 1758,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -635,7 +653,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE. ByteDance",
-      "followersCount": 5318,
+      "followersCount": 5319,
       "friendsCount": 342,
       "location": "杭州"
     },
@@ -650,7 +668,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18762,
+      "followersCount": 18763,
       "friendsCount": 1758,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -684,7 +702,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Vision Pro developer, Just-for-Instagram app Threads Analytics: https://t.co/t0XT54LQwE. ByteDance",
-      "followersCount": 5318,
+      "followersCount": 5319,
       "friendsCount": 342,
       "location": "杭州"
     },
