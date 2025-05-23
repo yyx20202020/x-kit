@@ -1,6 +1,36 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 22880,
+      "friendsCount": 296,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1925712772471324760",
+    "fullText": "最近一群从来没当过爹的人急不可耐的要去教另外一群真正当爹的人如何更好的当爹，究竟谁才是 “爹味重” ？想想就好笑。"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6987,
+      "friendsCount": 730,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1925706911355208045",
+    "fullText": "所有好的技术会经历三个阶段。第一是萌芽期，这个时候它不需要超大量资金。应用前景比较清晰但是短期内收益也不大。这个时候会给小企业成长机会。第二是优化期，不成功的小企业会退出，会进行适当程度的并购，资金充裕的企业会胜出。第三是平台期，并购加剧，只有最大的一家才能赚钱。"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -22,7 +52,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28178,
+      "followersCount": 28182,
       "friendsCount": 121,
       "location": "China"
     },
@@ -39,7 +69,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123810,
+      "followersCount": 123813,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -57,7 +87,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123810,
+      "followersCount": 123813,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -74,7 +104,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123810,
+      "followersCount": 123813,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -92,7 +122,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7990,
+      "followersCount": 7991,
       "friendsCount": 252,
       "location": "NewYork"
     },
@@ -109,7 +139,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7990,
+      "followersCount": 7991,
       "friendsCount": 252,
       "location": "NewYork"
     },
@@ -120,6 +150,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/tuziapi/status/1925625235107140021",
     "fullText": "惊艳！\n\nclaude-sonnet-4-20250514单次提示词下的完整小游戏，点开即玩（https://t.co/VFZTb7zHpg）\n\n提示词：使用JavaScript创建一个1对1的宝可梦战斗游戏，并使用这个网站上的精灵作为宝可梦 https://t.co/qh7wM0ZzXE https://t.co/SZGwXwRLV9"
+  },
+  {
+    "user": {
+      "screenName": "UpRockCom",
+      "name": "UpRock",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784834575807500288/7-Xyd0bX_normal.jpg",
+      "description": "The premier DePIN network fueling AI || Available on iOS, Android & Mac || Download to earn $UPT in less than 2 mins! || Support: https://t.co/5Hstswkf1I",
+      "followersCount": 361873,
+      "friendsCount": 1299,
+      "location": "Web3"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/UpRockCom/status/1925605636353524168",
+    "fullText": "UpRock Weekly Calls #54: #USAPowered https://t.co/lT14XWb0VQ"
   },
   {
     "user": {
@@ -337,6 +382,21 @@
   },
   {
     "user": {
+      "screenName": "tAnaSci",
+      "name": "The Analytical Scientist",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1621152291654086657/LurrVTjd_normal.png",
+      "description": "Reporting on the people, technology and innovations shaping #AnalyticalScience  🔬\n\n📝Editor: @J_Strachan_Edit \n#massspec",
+      "followersCount": 6194,
+      "friendsCount": 1206,
+      "location": "UK / NYC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tAnaSci/status/1925558795004256740",
+    "fullText": "Bruker is thrilled to unveil its latest innovations in mass spectrometry at the upcoming ASMS conference. These groundbreaking advancements will redefine the boundaries of scientific discovery!\n\nClick below to find out how you can Discover MORE at ASMS as we explore the future!"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
@@ -364,6 +424,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/middlefeng/status/1925542683944394765",
     "fullText": "又为了看答案吵起来了。还是几何题好，答案就是「证毕」。"
+  },
+  {
+    "user": {
+      "screenName": "m0foundation",
+      "name": "M0",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912499168616071168/YwutsRBu_normal.jpg",
+      "description": "M0 is the universal platform powering builders of application-specific stablecoins.",
+      "followersCount": 11371,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrjgBPPWgAADCEx.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/m0foundation/status/1925537268724359281",
+    "fullText": "Distribution is where the value is in stablecoins.\n\nExplore where stablecoins are actually used in \"The Future of Stablecoins\" — a comprehensive report by M0 &amp; @artemis. \n\nLink at the end of the thread 🧵 https://t.co/yVQT8kZ2ca"
   },
   {
     "user": {
@@ -405,7 +482,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150238,
+      "followersCount": 150253,
       "friendsCount": 475,
       "location": "中华人民共和国"
     },
@@ -413,6 +490,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/waylybaye/status/1925488603540725885",
     "fullText": "高级的自由需要高效的自律。但时间管理或者说注意力管理真的很难啊，想把每天的工作时间压缩在连续的 6 个小时内，但注意力这东西不听大脑指挥，不会到了工作时间就集中在工作上，下了班就沉浸在生活中。"
+  },
+  {
+    "user": {
+      "screenName": "MarkDelcastill2",
+      "name": "Marz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1089593937252282370/8soefEhz_normal.jpg",
+      "description": "Westmoore high school #Dream Winners",
+      "followersCount": 291,
+      "friendsCount": 0,
+      "location": "Oklahoma City, OK"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gri1JH_boAApqdK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MarkDelcastill2/status/1925488025150398958",
+    "fullText": "Young female teacher explains a lesson https://t.co/qHcZVvOTc3"
   },
   {
     "user": {
@@ -435,7 +529,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30885,
+      "followersCount": 30886,
       "friendsCount": 589,
       "location": "Hong Kong"
     },
@@ -515,7 +609,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73494,
+      "followersCount": 73498,
       "friendsCount": 3393,
       "location": ""
     },
