@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6986,
+      "friendsCount": 730,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1926314865859146077",
+    "fullText": "和人讨论 AI 是不是有 social benefit（vs. selfish benefit）的好技术，有人说 AI 能提高人类社会组织的效率。我觉得这就搞笑了。市场经济能击败计划经济，就是因为人类社会需要在一定程度上用 chaotic 方式运作。我们不需要全知全能的大组织来掌控我们的生活。AI 是有利于统治者的 selfish 技术。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 28154,
+      "friendsCount": 121,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrugssoWMAACzgM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1926310442525179969",
+    "fullText": "懒猫微服追美剧真方便\n\n家里PC看的美剧进度可以自动记忆，晚上出去遛狗手机可以远程5G穿透继续看， 手机看的进度也可以记忆，简直是多端同步看电影神器呀。 https://t.co/GY5q46YuuH"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -55,7 +87,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18787,
-      "friendsCount": 1767,
+      "friendsCount": 1768,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -107,7 +139,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18787,
-      "friendsCount": 1767,
+      "friendsCount": 1768,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -124,7 +156,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18787,
-      "friendsCount": 1767,
+      "friendsCount": 1768,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -224,7 +256,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18787,
-      "friendsCount": 1767,
+      "friendsCount": 1768,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -260,7 +292,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18787,
-      "friendsCount": 1767,
+      "friendsCount": 1768,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -329,7 +361,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18787,
-      "friendsCount": 1767,
+      "friendsCount": 1768,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -392,7 +424,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4218,
+      "followersCount": 4220,
       "friendsCount": 401,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -409,7 +441,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123950,
+      "followersCount": 123959,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -460,7 +492,7 @@
       "name": "METAWIN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1544085925583417344/d3yXSzPL_normal.jpg",
       "description": "BEST ONLINE CASINO 2025 // HUGE CRYPTO PRIZES // NFT: https://t.co/kTxxquMIPB Discord: https://t.co/6rJbdRZxrR",
-      "followersCount": 213277,
+      "followersCount": 213355,
       "friendsCount": 1071,
       "location": ""
     },
@@ -507,7 +539,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4147933,
+      "followersCount": 4148039,
       "friendsCount": 3,
       "location": ""
     },
@@ -549,6 +581,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1925950922779185539",
     "fullText": "这张图一看很抽象，二看好心酸，哈哈哈哈 https://t.co/k5pBPBOzJq"
+  },
+  {
+    "user": {
+      "screenName": "Minds_Aloft",
+      "name": "Minds Aloft • Kathryn Alesandrini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1911187039711576064/usxU7U6O_normal.jpg",
+      "description": "Your mindset is your edge in the AI era. \nDa Vinci-inspired & science-backed. \nThink sharper. Create boldly. Embrace your humanity.",
+      "followersCount": 4381,
+      "friendsCount": 226,
+      "location": "Southern California, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GrgTlRKboAAmF0C.mp4"
+    ],
+    "tweetUrl": "https://x.com/Minds_Aloft/status/1925944687627477261",
+    "fullText": "Eye candy or brain fuel?\n\nDon’t just generate images.\nUse AI to THINK with them.\nThat’s your EDGE.\n(Link in reply) https://t.co/5PpQCp3c8P"
   },
   {
     "user": {
