@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18769,
+      "friendsCount": 1758,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1926106889131020362",
+    "fullText": "参加工作后第一份工资，你们都是怎么花的？"
+  },
+  {
+    "user": {
+      "screenName": "Beyond_Bitz",
+      "name": "Beyond_Bitz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907101556534808576/nyh3lgDZ_normal.jpg",
+      "description": "Christian, Husband, Father, Streaming Hobbyist. I love classic games and great stories. \nFormerly Known As: The Reformed Jedi\n\nAll Links in the expanded bio.",
+      "followersCount": 161,
+      "friendsCount": 161,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1926069006521237505/vid/avc1/1920x1080/kkvFXeFGAZzneYgd.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Beyond_Bitz/status/1926094293812285716",
+    "fullText": "A small sample of the Chrono Trigger Audio Drama project. \nAuditions are OPEN! Click to join the Discord. https://t.co/saUH2NT1CA"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5987,
+      "followersCount": 5984,
       "friendsCount": 1238,
       "location": ""
     },
@@ -39,7 +71,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 123847,
+      "followersCount": 123857,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -75,7 +107,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5316,
+      "followersCount": 5317,
       "friendsCount": 345,
       "location": "杭州"
     },
@@ -90,7 +122,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4146924,
+      "followersCount": 4146994,
       "friendsCount": 3,
       "location": ""
     },
@@ -122,7 +154,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28178,
+      "followersCount": 28177,
       "friendsCount": 121,
       "location": "China"
     },
@@ -132,6 +164,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1925950922779185539",
     "fullText": "这张图一看很抽象，二看好心酸，哈哈哈哈 https://t.co/k5pBPBOzJq"
+  },
+  {
+    "user": {
+      "screenName": "multisynq",
+      "name": "Multisynq",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1801808935286095873/CWDq9WfZ_normal.jpg",
+      "description": "Multiplayer infra for games, apps and AI agents. Build everything together.",
+      "followersCount": 15889,
+      "friendsCount": 164,
+      "location": "Monad"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/multisynq/status/1925939083446042840",
+    "fullText": "I think link marines are next"
   },
   {
     "user": {
@@ -154,7 +201,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5316,
+      "followersCount": 5317,
       "friendsCount": 345,
       "location": "杭州"
     },
@@ -165,11 +212,28 @@
   },
   {
     "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16440,
+      "friendsCount": 1194,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GroskUSWsAA6LCM.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1925900829099262180",
+    "fullText": "2025 is expected to mark the third consecutive year of record cruise passenger volume!\n\nAAA says 19 million Americans will be setting sail this year, a 4.5% jump from last year and the 3rd record-breaking year in a row.\n\nPost-pandemic, cruise demand has soared past hotels, with https://t.co/2P0vMjiErR"
+  },
+  {
+    "user": {
       "screenName": "xushiwei",
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/g8JYfPGdFH) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7274,
+      "followersCount": 7275,
       "friendsCount": 481,
       "location": ""
     },
@@ -221,7 +285,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150235,
+      "followersCount": 150237,
       "friendsCount": 474,
       "location": "中华人民共和国"
     },
@@ -268,7 +332,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9931,
+      "followersCount": 9932,
       "friendsCount": 3490,
       "location": ""
     },
@@ -285,7 +349,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/g8JYfPGdFH) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7274,
+      "followersCount": 7275,
       "friendsCount": 481,
       "location": ""
     },
@@ -302,7 +366,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9931,
+      "followersCount": 9932,
       "friendsCount": 3490,
       "location": ""
     },
@@ -319,7 +383,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9931,
+      "followersCount": 9932,
       "friendsCount": 3490,
       "location": ""
     },
@@ -384,7 +448,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7991,
+      "followersCount": 7987,
       "friendsCount": 254,
       "location": "NewYork"
     },
@@ -560,7 +624,7 @@
       "name": "Hisense Sports",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1389992537088266243/Cly8b4l2_normal.jpg",
       "description": "Official Partner of: @FIFACWC, @PSG_Inside @realmadrid (Spain, MEA) @NBA (NAM)",
-      "followersCount": 42021,
+      "followersCount": 42023,
       "friendsCount": 258,
       "location": "Europe"
     },
