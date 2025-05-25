@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5968,
+      "friendsCount": 1239,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1926650200732397569/vid/avc1/1152x720/0jMP1oKG74G2aP7N.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/xiongchun007/status/1926651807838638080",
+    "fullText": "#DataCollie DevLog\n今晚终于把 MySQL 数据源的 新建连接 功能模块前后端都串通了。路虽远但又被我修通了一段。🚴‍♂️\n#buildinpublic #indiedev https://t.co/DnHFYGwi3a"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -18,11 +35,26 @@
   },
   {
     "user": {
+      "screenName": "ikingdawk",
+      "name": "Ivan Dawkins",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1441966934426144771/XC7Z73vt_normal.jpg",
+      "description": "COO, @BS3Network\n- BS3 Network Correspondent: NFL, Dallas Stars, NCAA Womens Final Four, Entertainment\n- Co-Host of: @queen3andking & The Fourcast podcasts.",
+      "followersCount": 188,
+      "friendsCount": 627,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ikingdawk/status/1926640063493869677",
+    "fullText": "Who will score first tonight in Game 3 of the Western Conference Final of the 2025 Stanley Cup playoffs?\n#TexasHockey #bs3network #ikingdawk #love #instagood #photooftheday #dallasstars #edmontonoilers #nhlplayoffs #canada #usa"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28178,
+      "followersCount": 28182,
       "friendsCount": 121,
       "location": "China"
     },
@@ -39,7 +71,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22877,
+      "followersCount": 22880,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -54,7 +86,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58940,
+      "followersCount": 58938,
       "friendsCount": 359,
       "location": ""
     },
@@ -69,7 +101,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 9933,
+      "followersCount": 9934,
       "friendsCount": 3492,
       "location": ""
     },
@@ -152,7 +184,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54634,
+      "followersCount": 54635,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -169,7 +201,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22878,
+      "followersCount": 22880,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -236,7 +268,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5971,
+      "followersCount": 5968,
       "friendsCount": 1239,
       "location": ""
     },
@@ -283,7 +315,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73457,
+      "followersCount": 73462,
       "friendsCount": 3392,
       "location": ""
     },
@@ -337,7 +369,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28178,
+      "followersCount": 28182,
       "friendsCount": 121,
       "location": "China"
     },
@@ -382,7 +414,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5969,
+      "followersCount": 5968,
       "friendsCount": 1239,
       "location": ""
     },
@@ -414,7 +446,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124101,
+      "followersCount": 124112,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -431,7 +463,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5969,
+      "followersCount": 5968,
       "friendsCount": 1239,
       "location": ""
     },
@@ -587,6 +619,23 @@
   },
   {
     "user": {
+      "screenName": "markrosenbergfl",
+      "name": "Rabbi Mark Rosenberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1175171159546941440/Vk8S2mgA_normal.jpg",
+      "description": "Director @CSE Florida, Chief Chaplain @FHPMiami, @FDLEPIO, @MiamiDade_SO, SA @Sheriff_Rosie, Chaplain @MiamiDadefire, @MyNMBpolice, Chair @InterfaithMDC",
+      "followersCount": 552,
+      "friendsCount": 288,
+      "location": "Miami, FL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrwbqBLWAAAFdMY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/markrosenbergfl/status/1926445156233781707",
+    "fullText": "I am deeply saddened by the horrific and cold-blooded murder of two Israeli Embassy staff members in Washington, D.C. earlier this week. This senseless act of hate is a painful reminder of the threats our community continues to face, and we must remain vigilant, united, and https://t.co/zQPV1ZYBXr"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
@@ -639,11 +688,28 @@
   },
   {
     "user": {
+      "screenName": "NikulasWraith",
+      "name": "Nikulas Wraith | 🇺🇸 | Virtual Phantom VTuber 🖥️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1903287371296280576/C4-POyD3_normal.jpg",
+      "description": "💾 **On Hiatus Until 12/31/25**\n\n📁 Phantom VTuber Goober and VTS Troubleshooter!\n\n🖥️ https://t.co/oo9aT63VKH\n🖥️ https://t.co/gup8TrY3av",
+      "followersCount": 481,
+      "friendsCount": 392,
+      "location": "Somewhere In Cyber Space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrvdVXwW0AA_Zxq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NikulasWraith/status/1926396647501676670",
+    "fullText": "🌐〉〉》Initiating Phantom Protocol《〈〈🌐\n\n█████████████████████████▓▓▓\n⏳𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗜𝗡𝗚. . . 𝗣𝗟𝗘𝗔𝗦𝗘 𝗪𝗔𝗜𝗧\n\n💻 Hello Spirits! I'm your friendly Virtual Phantom Assistant Nikulas! I'm a Software Program created to assist you with https://t.co/cfB2RCBVhY"
+  },
+  {
+    "user": {
       "screenName": "tuziapi",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 7994,
+      "followersCount": 7992,
       "friendsCount": 254,
       "location": "NewYork"
     },
@@ -707,6 +773,23 @@
   },
   {
     "user": {
+      "screenName": "TheCarolErskine",
+      "name": "Carol Erskine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898501685892218880/GrqbYb3O_normal.jpg",
+      "description": "Retired judge. Author. Child Advocate.",
+      "followersCount": 4565,
+      "friendsCount": 187,
+      "location": "Massachusetts"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gru4cnrXEAAsy4M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheCarolErskine/status/1926339463812100141",
+    "fullText": "RUBBISH! The New Hampshire Attorney General released this disingenuous statement about the monetary settlement in Harmony Montgomery's case: \n\n\"The state agreed to these settlements to avoid prolonged litigation and support closure for the families. We recognize their profound https://t.co/KynLnW8CHU"
+  },
+  {
+    "user": {
       "screenName": "Futjedrez",
       "name": "FootyChess™",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922763109426417664/jJiG0s_y_normal.jpg",
@@ -758,7 +841,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6986,
+      "followersCount": 6985,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -773,7 +856,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28178,
+      "followersCount": 28182,
       "friendsCount": 121,
       "location": "China"
     },
@@ -1062,6 +1145,23 @@
   },
   {
     "user": {
+      "screenName": "Fulcrum_Forum",
+      "name": "Unrestricted Subsidiary",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1906133960091893760/0VUEjCeL_normal.jpg",
+      "description": "Who is John Galt?",
+      "followersCount": 38,
+      "friendsCount": 119,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grs1tOXXMAAA1QG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Fulcrum_Forum/status/1926192476416541073",
+    "fullText": "Two-phase immersion cooling is the SOTA heat dissipation method. Single-phase cold plates or D2C lack reliable heat transfer capability. And the synthetic poly alpha olefins used in single-phase immersion cooling pose significant fire risks... see the recent @X data center fire: https://t.co/1YfpY6XZvl"
+  },
+  {
+    "user": {
       "screenName": "1776Smug",
       "name": "TeslaMARS",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1707851187511263232/Rov5rAyu_normal.jpg",
@@ -1333,7 +1433,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124099,
+      "followersCount": 124112,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -1379,6 +1479,21 @@
     ],
     "tweetUrl": "https://x.com/MayoMonkeyredux/status/1926018718288552301",
     "fullText": "https://t.co/xVBYSvnjRQ"
+  },
+  {
+    "user": {
+      "screenName": "blkboxeconomics",
+      "name": "Edward Lear",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1849825058476392452/Nwe8aUBJ_normal.jpg",
+      "description": "Non award-winning Commodity Pool Operator - Economic research and modeling.",
+      "followersCount": 54,
+      "friendsCount": 0,
+      "location": "Missoula. MT"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/blkboxeconomics/status/1926009306090017240",
+    "fullText": "With dip buyers all but dismissing,\na bond bubble pricked and now hissing,\nseems too few have learned,\nbulls hindmost get burned -\ntheir backsides goodbye they’ll be kissing."
   },
   {
     "user": {
