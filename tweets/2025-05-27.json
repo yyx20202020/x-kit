@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
+      "followersCount": 5322,
+      "friendsCount": 348,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1927173921507332128",
+    "fullText": "推上英文几个独立开发的英文大佬，都是刚学的编程，然后做出来月入十万的产品，所以说编程对独立开发来说真的只是一个随用的工具。"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 30894,
+      "friendsCount": 589,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gr4tuKAXgAAJJ1J.jpg",
+      "https://pbs.twimg.com/media/Gr4uXvUXQAEzY4w.jpg",
+      "https://pbs.twimg.com/media/Gr4urEeWkAQw4XY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1927167873660969168",
+    "fullText": "基于ShipAny的课程研发完了，明天进入录制。我们来尝试不用写一行代码，开发一个针对海外游客来中国旅游的网站。核心功能如下：\n1. 用户付费$29的版本后，可以获取支付宝攻略和旅游攻略的PDF\n2. 用户付费$49的版本后，不仅可以获取所有PDF，还能使用AI旅游对话功能~ https://t.co/cVphtMTZvL"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18778,
+      "friendsCount": 1774,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1927167123006124321",
+    "fullText": "今天要去医院做体检，和小时候的区别就是看到抽血针我可以哄自己不要乱动"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28226,
+      "followersCount": 28227,
       "friendsCount": 122,
       "location": "China"
     },
@@ -15,6 +64,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1927162687252766908",
     "fullText": "日常学习中，看到好的章节就分享一下。 https://t.co/zb6adqCCDc"
+  },
+  {
+    "user": {
+      "screenName": "thejacksonholt",
+      "name": "Jackson Holt",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1903467743476871170/dJQ5KUjy_normal.jpg",
+      "description": "Writer, Traveler. She/Her",
+      "followersCount": 52,
+      "friendsCount": 2,
+      "location": "Mallorca Spain"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/thejacksonholt/status/1927149752241590550",
+    "fullText": "DOD Contractor enters RECEIVERSHIP.\n\nA #DoD contractor got $78 million in #taxpayer money. $cybl @cyberluxc @BillMaadar60848 #MercedesBenz @WeAreHII @TrellisWare @AGPamBondi @realDonaldTrump @SpeakerJohnson @MDSAdvisor @ohtonm_wenmar @TheARGGroup @WTF_OS @brennansmith11"
   },
   {
     "user": {
@@ -32,6 +96,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/DrRogerBillings/status/1927136981768716328",
     "fullText": "A Memorial Day Message from Acellus Academy\nTo Honor, To Inspire, To Unite\nOn this Memorial Day, we stand in awe of the brave souls who have laid down their lives to hold our world together. To our military—past, present, and future—we say with overflowing hearts: Thank you. Your https://t.co/cOaaJGvqkh"
+  },
+  {
+    "user": {
+      "screenName": "akaMisterKelley",
+      "name": "MisterKelley",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1883227126666555392/lCGgk2SZ_normal.jpg",
+      "description": "\"From insane tomahawk kills to kidnapping enemies for slow dance parties, this isn't your average Call of Duty!\"\nBlack Ops 6 combat axe specialist.",
+      "followersCount": 6,
+      "friendsCount": 19,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1927112014637273088/vid/avc1/1920x1080/Mfrxzb7KSxi54iKj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/akaMisterKelley/status/1927112964072518114",
+    "fullText": "🪓 New BO6 Season 3 combat axe highlights are up! \n\nRecent multiplayer tomahawk kills set to @linkinpark's \"Casualty\" - the perfect vibe for axe gameplay 🎵\n\nYoutube: https://t.co/jU1pEOzooN\nRumble: https://t.co/IuDnYViIU9\n\n#BlackOps6 #Season3 #CombatAxe #LinkinPark https://t.co/vDNMm9ltK5"
   },
   {
     "user": {
@@ -90,7 +171,7 @@
       "name": "tinyBuild 🔴tb Connect 2025 | May 27",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1702273340491120640/yfTowwN4_normal.jpg",
       "description": "Video Game Chefs Since 2011 🎮 @DeadsideGame Out Now On Consoles!\n\nCooking @streetsofrogue @playDUCKSIDE @VOINtheGame @Kingmakers_Game @SandTheGAME & many more",
-      "followersCount": 186082,
+      "followersCount": 186086,
       "friendsCount": 4694,
       "location": "Youtube.com/tinyBuildGAMES"
     },
@@ -120,12 +201,27 @@
   },
   {
     "user": {
+      "screenName": "StayRichBensen",
+      "name": "Ryan Bensen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925556149757059072/KSCi6hoo_normal.jpg",
+      "description": "Author of How The Rich Divorce and Stay Rich\nLitigation Consultant and Forensic Accountant\nI Value Peoples Lives",
+      "followersCount": 374,
+      "friendsCount": 341,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StayRichBensen/status/1927023802212327807",
+    "fullText": "The Modern Day Discussion on Marriage is Broken. \n\nEveryone wants to blame Women, but here's the Truth:\n\nMarriage is Broken is Due to Men. \n\nHere's Why..."
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18778,
-      "friendsCount": 1773,
+      "friendsCount": 1774,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -141,7 +237,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30893,
+      "followersCount": 30894,
       "friendsCount": 589,
       "location": "Hong Kong"
     },
@@ -176,7 +272,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18778,
-      "friendsCount": 1773,
+      "friendsCount": 1774,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -192,7 +288,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30893,
+      "followersCount": 30894,
       "friendsCount": 589,
       "location": "Hong Kong"
     },
@@ -209,7 +305,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73448,
+      "followersCount": 73457,
       "friendsCount": 3393,
       "location": ""
     },
@@ -229,7 +325,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18778,
-      "friendsCount": 1773,
+      "friendsCount": 1774,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -245,7 +341,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28226,
+      "followersCount": 28227,
       "friendsCount": 122,
       "location": "China"
     },
@@ -263,7 +359,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18778,
-      "friendsCount": 1773,
+      "friendsCount": 1774,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -277,7 +373,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73448,
+      "followersCount": 73457,
       "friendsCount": 3393,
       "location": ""
     },
@@ -292,7 +388,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4253,
+      "followersCount": 4254,
       "friendsCount": 410,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -309,7 +405,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54648,
+      "followersCount": 54649,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -328,7 +424,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28226,
+      "followersCount": 28227,
       "friendsCount": 122,
       "location": "China"
     },
@@ -363,7 +459,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18778,
-      "friendsCount": 1773,
+      "friendsCount": 1774,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -399,7 +495,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18778,
-      "friendsCount": 1773,
+      "friendsCount": 1774,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -413,7 +509,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28226,
+      "followersCount": 28227,
       "friendsCount": 122,
       "location": "China"
     },
@@ -431,7 +527,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73448,
+      "followersCount": 73457,
       "friendsCount": 3393,
       "location": ""
     },
@@ -446,7 +542,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4253,
+      "followersCount": 4254,
       "friendsCount": 410,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -480,7 +576,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73448,
+      "followersCount": 73457,
       "friendsCount": 3393,
       "location": ""
     },
@@ -495,7 +591,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124189,
+      "followersCount": 124190,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -512,7 +608,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124189,
+      "followersCount": 124190,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -545,7 +641,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18778,
-      "friendsCount": 1773,
+      "friendsCount": 1774,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -560,13 +656,67 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18778,
-      "friendsCount": 1773,
+      "friendsCount": 1774,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1926816980213829743",
     "fullText": "不愿意尝试新的金融产品，不一定是“古板”“求稳”，也可能是在注册阶段就被模糊不清的审核规则恶心到了。各种问题事无巨细，过与不过全看审核员心情。\n\n是用户求着项目方要用是吗？项目方发空投了是吗？能保证本金安全的情况下带来大于年化4%的收益吗？"
+  },
+  {
+    "user": {
+      "screenName": "_DAC99",
+      "name": "DAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921975343092531200/GOEWGcFN_normal.jpg",
+      "description": "WE WERE NEVER APES.  Stop thinking it.\n1. We are Individuals Unique as a fingerprint\n2. We use our Imagination which yields \n      See Hear Smell Taste Touch",
+      "followersCount": 71,
+      "friendsCount": 136,
+      "location": "Earth"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gr05mseWwAA2yJV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_DAC99/status/1926759555700048025",
+    "fullText": "@tpvsean There are few people as driven to this as William Gates the III.  His Grandfather was an early madman and his mother was given instructions by him to push little Billy the right way. \n\nTo be clear Bill Gates couldn't write a batch file any more than Steve Jobs could.  Steve's https://t.co/jWjVGuxX1E"
+  },
+  {
+    "user": {
+      "screenName": "EliteEsports",
+      "name": "Elite Esports ⚔️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1900697164872822784/MTvoL3bx_normal.jpg",
+      "description": "Professional Esports Organization | #EliteWin⚔️ | Email: info@eliteesports.gg",
+      "followersCount": 58659,
+      "friendsCount": 175,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gr04qIFWQAAOIgX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EliteEsports/status/1926758700967940606",
+    "fullText": "Which Fortnite Pro has IMPRESSED you the most so far in 2025? 🤔 https://t.co/o75x7xtgOT"
+  },
+  {
+    "user": {
+      "screenName": "NanikSinghC",
+      "name": "Nanik Singh Castillero☀️🌬🔋🚗🔌⚡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1709802051926884354/gLRgTOrQ_normal.jpg",
+      "description": "+24Y Engineer Committed to reduce Electricity cost💡. Since 2006 Passionate about Renewables ☀️🌬 Electric Mobility⚡️🚙Electric Markets . @potenciaverde_",
+      "followersCount": 3090,
+      "friendsCount": 1980,
+      "location": "Panamá"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gr0jh3QWMAA5PYy.jpg",
+      "https://pbs.twimg.com/media/Gr0jh3YXQAA0GBQ.jpg",
+      "https://pbs.twimg.com/media/Gr0jh3YWgAECtdU.jpg",
+      "https://pbs.twimg.com/media/Gr0oQADXYAAlx3n.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NanikSinghC/status/1926741024258265329",
+    "fullText": "🇵🇦Nuevamente aparece Sombra del IMPUESTO SOLAR\n⛔️🫠⛔️ \nConsultor de la ASEP insiste con cambios al esquema para Energía Solar en Panamá. Pasar de Medición Neta (Net Metering) a Facturación Neta (Net Billing). \nQuitándole la oportunidad a más panameños de contar con energía limpia https://t.co/babhkanOGJ"
   },
   {
     "user": {
