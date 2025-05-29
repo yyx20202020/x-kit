@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6987,
+      "friendsCount": 730,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsFULSdaUAQAk2t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1927914990494708168",
+    "fullText": "今天听广播讲 nostalgia 是一种 bitter sweet emotion。Bitter 是因为再也回不到过去。Sweet 是因为过去的回忆没有了生活中最可怕的元素：对未来的无知。 https://t.co/lOwNHBm6m6"
+  },
+  {
+    "user": {
+      "screenName": "emoAimers",
+      "name": "emoAim",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904011568561442816/VkZ0pT1O_normal.jpg",
+      "description": "\"eA\" | \"emoAim\" © 2025\n⮞ founded by @rxkittyaim\n⮞ Making rollers screAm",
+      "followersCount": 1104,
+      "friendsCount": 117,
+      "location": "somewhere in between."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1927910729237102592/vid/avc1/1920x1080/SfjatMN8VtuQPP8l.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/emoAimers/status/1927912456552067470",
+    "fullText": "We are happy to announce our collab with @MizuWorksLLC !\n\nTo bring you... Akuma\n\nA limited drop mouse grip tape, with 3 performance styles that has a clean design like nothing you've seen before!\n\n( video made by @kennyxsi ) https://t.co/goV4tyjuhT"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -37,7 +71,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8307,
+      "followersCount": 8308,
       "friendsCount": 290,
       "location": ""
     },
@@ -54,7 +88,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124311,
+      "followersCount": 124309,
       "friendsCount": 1316,
       "location": "Chicago, IL"
     },
@@ -67,11 +101,30 @@
   },
   {
     "user": {
+      "screenName": "StarstoneTales",
+      "name": "Starstone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1926739064813674496/9m_p2r_k_normal.jpg",
+      "description": "Welcome to Starstone 🌟 | Collect and unlock 🗝️ 151 unique NFTs in this one of a kind crypto quest 🌌\nMake your way to the top, and get ready for battle ⚔️",
+      "followersCount": 833,
+      "friendsCount": 122,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsFPFiLWMAIY1Ar.jpg",
+      "https://pbs.twimg.com/media/GsFPFiVXQAE4SJc.jpg",
+      "https://pbs.twimg.com/media/GsFPFj7WUAAKpXi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StarstoneTales/status/1927909074881941823",
+    "fullText": "A sneak peak at some concept art 🌌 This evolutionary line needs names! What should we name them? There's a free booster pack up for grabs if we pick yours 🫴✨ https://t.co/AlYFGCyDa5"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8307,
+      "followersCount": 8308,
       "friendsCount": 290,
       "location": ""
     },
@@ -108,7 +161,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73469,
+      "followersCount": 73468,
       "friendsCount": 3392,
       "location": ""
     },
@@ -136,11 +189,82 @@
   },
   {
     "user": {
+      "screenName": "arelysie",
+      "name": "Chloe Espada ⟡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1861374697679548416/zZwQHSyj_normal.jpg",
+      "description": "⟡ • 23 • Digital Design Student • Aspiring Illustrator & Concept Artist • Painter • Procreate + Photoshop • ⟡",
+      "followersCount": 43,
+      "friendsCount": 475,
+      "location": "she/her"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsDqzLLWMAADDgu.jpg",
+      "https://pbs.twimg.com/media/GsDqzLRWMAAScy4.jpg",
+      "https://pbs.twimg.com/media/GsDqzLGW0AEjmn4.jpg",
+      "https://pbs.twimg.com/media/GsDqzLFXgAAO8UW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arelysie/status/1927798829983625531",
+    "fullText": "It’s my birthday!!! All I’d selfishly like is for people to enjoy my art (maybe some likes and retweets? Lol) Enjoy my oil paintings while I enjoy some cake! 🍰 #Oilpainting #art #ocart #oc #painting https://t.co/ky0cSzBSew"
+  },
+  {
+    "user": {
+      "screenName": "m0foundation",
+      "name": "M0",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912499168616071168/YwutsRBu_normal.jpg",
+      "description": "M0 is the universal platform powering builders of application-specific stablecoins.",
+      "followersCount": 11467,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1927739723126083584/vid/avc1/800x450/DVlUxI0iMTrajuJJ.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/m0foundation/status/1927760909000200468",
+    "fullText": "EVERYTHING IS A BANK. https://t.co/HrU0IcboH3"
+  },
+  {
+    "user": {
+      "screenName": "SarantuyaSimone",
+      "name": "SimoneSarantuya Ⓥ 🇺🇸 🇩🇪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898441691750633472/DRcEyLE6_normal.jpg",
+      "description": "Midjourney Ai Artist. Higgsfield_AI, Sunoai, https://t.co/mP1lLh5eL1, Runway Gen4, KlingAI, Collector. Posts are my own. Fantasy. 🐦‍🔥 Avantgarde.",
+      "followersCount": 5018,
+      "friendsCount": 2776,
+      "location": "Germany / USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1927125515757826048/vid/avc1/960x960/6CJialEsggkkD4CW.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SarantuyaSimone/status/1927756762800865387",
+    "fullText": "🟢 GAIA 🟢 EARTH MOTHER 🟢\n🏛️ Greek Mythology 🏛️ https://t.co/iDDHfBYAMA"
+  },
+  {
+    "user": {
+      "screenName": "SteveGutzler",
+      "name": "Steve Gutzler",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798099510931140608/QRdae9fd_normal.jpg",
+      "description": "Inspiring Keynote Speaker on Emotional Intelligence and Human-Centered Leadership: Transforming Teams and Organizations One Leader at a time.",
+      "followersCount": 143677,
+      "friendsCount": 115360,
+      "location": "Scottsdale AZ  Seattle WA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1927480140969213952/vid/avc1/1920x1080/TgbEhJuvhIY3tmWT.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SteveGutzler/status/1927741662450921971",
+    "fullText": "Steve's 2025 Speaker Reel: Where Emotional Intelligence Meets Leadership Transformation💡 \n\nHarvard Business Review’s latest research confirms what 25 years of keynotes have shown me: emotional intelligence isn’t just valuable—it’s the #1 predictor of leadership success, https://t.co/JFdduPPppR"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18801,
+      "followersCount": 18787,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -157,7 +281,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10048,
+      "followersCount": 10051,
       "friendsCount": 3504,
       "location": ""
     },
@@ -174,7 +298,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58969,
+      "followersCount": 58972,
       "friendsCount": 359,
       "location": ""
     },
@@ -206,7 +330,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8014,
+      "followersCount": 8013,
       "friendsCount": 258,
       "location": "NewYork"
     },
@@ -226,7 +350,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73469,
+      "followersCount": 73468,
       "friendsCount": 3392,
       "location": ""
     },
@@ -260,7 +384,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18801,
+      "followersCount": 18787,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -275,7 +399,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73469,
+      "followersCount": 73468,
       "friendsCount": 3392,
       "location": ""
     },
@@ -290,7 +414,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18801,
+      "followersCount": 18787,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -301,6 +425,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1927696943729287385",
     "fullText": "老照片 https://t.co/AlSivFGDoO"
+  },
+  {
+    "user": {
+      "screenName": "UNIFYDRIVE",
+      "name": "UNIFYDRIVE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1815701581712789504/a02KmNT1_normal.jpg",
+      "description": "UnifyDrive is a global NAS brand with the philosophy of “Expand your Data Universe.”",
+      "followersCount": 17,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsBSnkhXYAAW9E-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/UNIFYDRIVE/status/1927696365112680654",
+    "fullText": "𝐑𝐞𝐥𝐢𝐚𝐛𝐥𝐞 𝐏𝐨𝐰𝐞𝐫 𝐁𝐚𝐜𝐤𝐮𝐩\n𝐓𝐡𝐞 𝐛𝐮𝐢𝐥𝐭-𝐢𝐧 𝐔𝐏𝐒 𝐛𝐚𝐭𝐭𝐞𝐫𝐲 guarantees uninterrupted power, offering a compact, safe, and long-lasting solution for your data management needs.\n\n🎒 With power-saving design, even a small portable battery goes a long way. https://t.co/NsYuxNZBcP"
   },
   {
     "user": {
@@ -325,7 +466,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18801,
+      "followersCount": 18787,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -335,6 +476,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1927686623317070332",
     "fullText": "凑合一下 https://t.co/53rGw7J5jv"
+  },
+  {
+    "user": {
+      "screenName": "Quartr_App",
+      "name": "Quartr",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1776545312112259072/Gt9onU5v_normal.jpg",
+      "description": "Increasing efficiency and precision in qualitative public market research.",
+      "followersCount": 103221,
+      "friendsCount": 581,
+      "location": "Internet, Everywhere"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1927678939201191936/vid/avc1/1920x1080/F1uQ8qxeSO6VhRqO.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Quartr_App/status/1927682541194023411",
+    "fullText": "What does Upchart do? https://t.co/5TnxWi0AgA"
   },
   {
     "user": {
@@ -408,7 +566,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18801,
+      "followersCount": 18787,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -425,7 +583,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 22971,
+      "followersCount": 22973,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -513,6 +671,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1927577557928456245",
     "fullText": "https://t.co/TOmWyuOT2X"
+  },
+  {
+    "user": {
+      "screenName": "PaoloMBTiramani",
+      "name": "Paolo Tiramani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1711766850164633600/NJJuYhHi_normal.jpg",
+      "description": "American 🇺🇸 industrial designer, futurist, and billionaire. Co-CEO with Gali and majority shareholder at @BOXABL Read offering circular before investing.",
+      "followersCount": 12037,
+      "friendsCount": 162,
+      "location": "Las Vegas"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PaoloMBTiramani/status/1927568125232332892",
+    "fullText": "How much damage has SCOTT PETERSON at AZDOH caused @BOXABL abusing his authority. And his co-conspirator at NVDOH. And at his previous  job with his bizarre fetish. Filing suit against Peterson directly. Lawyer up it’s a big $ number. Remember lying in a deposition is a felony."
   },
   {
     "user": {
@@ -676,11 +849,28 @@
   },
   {
     "user": {
+      "screenName": "AAGresearch",
+      "name": "Alberto Alvarez",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1762680700484964352/KaN3Y47i_normal.jpg",
+      "description": "Full time investor. My purpose and passion is to find the truth by hunting for investing opportunities. I also write about economics & history. Investing blog⬇️",
+      "followersCount": 4457,
+      "friendsCount": 203,
+      "location": "Madrid, Spain "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gr-QBupXgAALk66.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AAGresearch/status/1927420051415515623",
+    "fullText": "New report on my investing blog:\n\nPlatinum Group Metals: \nA Comprehensive Supply and Demand Forecast to 2050\n\nA solution is needed. But miners, employees, bondholders, &amp; shareholders are in conflict\n\nLink in my bio to the report https://t.co/u8dVxwKqIs"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18801,
+      "followersCount": 18787,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
