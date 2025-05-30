@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 8048,
+      "friendsCount": 259,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsK2WYMaUAAValk.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1928330349295325189/vid/avc1/1280x720/RFgazRY8cbGUpNiN.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/tuziapi/status/1928330537049149464",
+    "fullText": "截止2025年6月15日：参与评论转发互动的兔友都私信赠送Deepseek模型体验美金\n\nDeepseek-r1-0528 模型兔子家上线了!\n\n输出token价格为4.6人民币/1Mtoken，相当于您任何时间段都在跑官方闲时的价格🥳。\n\n视频案例为一次性生成的“宝可梦战斗竞技场”，提示词见评论区⬇️ https://t.co/3QoYMRHGR2"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 124320,
+      "friendsCount": 1317,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsLM3hCXwAAs1ri.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1928328854453579877",
+    "fullText": "AI芯片巨头英伟达营收猛增69%，达441亿美元\n尽管美国对华芯片出口实施新限制，英伟达（Nvidia）的最新财报依然保持高速增长。\n\n最近一段时间，美国政府的政策变化让英伟达经历了一番“大起大落”：上个月，美国政府刚禁止了向中国出售人工智能芯片；几周后，又批准向中东地区出口类似的产品。 https://t.co/aI5fqL0z5n"
+  },
+  {
+    "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 8048,
+      "friendsCount": 259,
+      "location": "NewYork"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1928325093064855556/vid/avc1/640x360/O1EJG97w_TDj_lbQ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/tuziapi/status/1928327701162574223",
+    "fullText": "硬货的投资科普，介绍股市真正运作的原理；\n\n而关于其中最后的建议“长持”，对于兔子来说是不会做的---因为兔子根本不可能做到“长持”\n\n兔子这样的未财富自由的人，每一分钱都说不准哪一天就会被现实强迫使用；而如果我选择“长持”就意味着有要面对“强迫使用”时正好是股价低迷的风险。 https://t.co/ygFBGSPJMv"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 28295,
+      "friendsCount": 124,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1928324631427174759",
+    "fullText": "https://t.co/XJhf0BCKKJ"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30909,
+      "followersCount": 30910,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -22,7 +90,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30909,
+      "followersCount": 30910,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -204,7 +272,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187612,
+      "followersCount": 187613,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -255,7 +323,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187612,
+      "followersCount": 187613,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -306,7 +374,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124319,
+      "followersCount": 124320,
       "friendsCount": 1317,
       "location": "Chicago, IL"
     },
@@ -321,7 +389,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30909,
+      "followersCount": 30910,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -404,7 +472,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30909,
+      "followersCount": 30910,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -454,7 +522,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 106030,
+      "followersCount": 106032,
       "friendsCount": 237,
       "location": "Singapore"
     },
@@ -484,7 +552,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30909,
+      "followersCount": 30910,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -557,7 +625,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54707,
+      "followersCount": 54704,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -676,7 +744,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54707,
+      "followersCount": 54704,
       "friendsCount": 279,
       "location": "Shanghai"
     },
