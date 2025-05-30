@@ -10,6 +10,23 @@
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
     "images": [
+      "https://pbs.twimg.com/media/GsKYeyEaUAU7Ftf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/1928271248443986020",
+    "fullText": "大家早上好呀\n\n从昨天起，我计划花几天时间解决录屏时的崩溃问题和其他边界问题。\n\n因为本以为 ScreenCaptureKit 应该能解决很多问题，但还是出现了许多意料之外的情况。\n例如首帧问题、空白帧问题，以及多源录制时需要处理的同步问题。在情况简单时还好，但业务一旦复杂，就有点难以应对了。 https://t.co/TC9NlmKgmT"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 4271,
+      "friendsCount": 417,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [
       "https://pbs.twimg.com/media/GsKNLe5aUAIpW9L.jpg"
     ],
     "videos": [],
@@ -22,7 +39,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187591,
+      "followersCount": 187592,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -41,7 +58,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7311,
+      "followersCount": 7314,
       "friendsCount": 481,
       "location": ""
     },
@@ -58,7 +75,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28279,
+      "followersCount": 28283,
       "friendsCount": 123,
       "location": "China"
     },
@@ -73,7 +90,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187591,
+      "followersCount": 187592,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -107,7 +124,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28279,
+      "followersCount": 28283,
       "friendsCount": 123,
       "location": "China"
     },
@@ -124,7 +141,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124313,
+      "followersCount": 124318,
       "friendsCount": 1317,
       "location": "Chicago, IL"
     },
@@ -139,7 +156,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30906,
+      "followersCount": 30907,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -156,7 +173,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8044,
+      "followersCount": 8047,
       "friendsCount": 259,
       "location": "NewYork"
     },
@@ -173,7 +190,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18763,
+      "followersCount": 18766,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -190,7 +207,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18763,
+      "followersCount": 18766,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -205,7 +222,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30906,
+      "followersCount": 30907,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -223,7 +240,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5975,
+      "followersCount": 5974,
       "friendsCount": 1239,
       "location": ""
     },
@@ -240,7 +257,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18763,
+      "followersCount": 18766,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -255,7 +272,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 106018,
+      "followersCount": 106021,
       "friendsCount": 237,
       "location": "Singapore"
     },
@@ -270,7 +287,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5975,
+      "followersCount": 5974,
       "friendsCount": 1239,
       "location": ""
     },
@@ -285,7 +302,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30906,
+      "followersCount": 30907,
       "friendsCount": 588,
       "location": "Hong Kong"
     },
@@ -305,7 +322,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5975,
+      "followersCount": 5974,
       "friendsCount": 1239,
       "location": ""
     },
@@ -322,7 +339,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7311,
+      "followersCount": 7314,
       "friendsCount": 481,
       "location": ""
     },
@@ -341,7 +358,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18763,
+      "followersCount": 18766,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -392,7 +409,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18763,
+      "followersCount": 18766,
       "friendsCount": 1775,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -410,7 +427,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
       "followersCount": 708,
-      "friendsCount": 466,
+      "friendsCount": 468,
       "location": ""
     },
     "images": [
@@ -443,7 +460,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28279,
+      "followersCount": 28283,
       "friendsCount": 123,
       "location": "China"
     },
@@ -460,7 +477,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28279,
+      "followersCount": 28283,
       "friendsCount": 123,
       "location": "China"
     },
