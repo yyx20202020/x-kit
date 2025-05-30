@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 30909,
+      "friendsCount": 588,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1928318850921287682/vid/avc1/1920x1080/AKkjb9jdgnrd0tS5.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1928320428688478664",
+    "fullText": "一起Vibe Coding！不写一行代码代码，1小时基于ShipAny，如何开发出一个给海外游客的中国旅游攻略SaaS网站？\n\n这个网站提供两个价格档位的服务：\n1. 29美金：用户可以下载2份PDF（支付宝/微信支付教程 + 中国旅游攻略）\n2. 49美金：除了基础的PDF下载外，还支持AI旅游助手对话功能 https://t.co/TFhTCvRb5e"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 30909,
+      "friendsCount": 588,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsLBseMaUAYXVCS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1928317003875406164",
+    "fullText": "即将迎来一个特别的日子，那就是自由职业一周年✌️预定了我最爱的餐厅——煮海。\n这家餐厅推荐给每个去汕头的朋友，它永远不会让你失望，我心中超越国内一众米其林星级的餐厅Top1！ https://t.co/RdEBDeMyEA"
+  },
+  {
+    "user": {
       "screenName": "tuziapi",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
@@ -56,7 +90,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28292,
+      "followersCount": 28295,
       "friendsCount": 124,
       "location": "China"
     },
@@ -86,7 +120,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28292,
+      "followersCount": 28295,
       "friendsCount": 124,
       "location": "China"
     },
@@ -170,7 +204,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187601,
+      "followersCount": 187612,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -206,7 +240,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28292,
+      "followersCount": 28295,
       "friendsCount": 124,
       "location": "China"
     },
@@ -221,7 +255,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187601,
+      "followersCount": 187612,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -255,7 +289,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28292,
+      "followersCount": 28295,
       "friendsCount": 124,
       "location": "China"
     },
@@ -272,7 +306,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124322,
+      "followersCount": 124319,
       "friendsCount": 1317,
       "location": "Chicago, IL"
     },
@@ -297,6 +331,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1928148837505315020",
     "fullText": "今晚一直处于新工作室兴奋期。在小红书看了很多视频，还是 Ali 的这个视频对我帮助最大。像我这类有自媒体➕直播需求的来说，最起手的是先把机位架好😂再考虑后面的事情 .. https://t.co/e3YVk7vpi5"
+  },
+  {
+    "user": {
+      "screenName": "TommyA826",
+      "name": "Ashley Thomason",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/3321861410/4f85e9ab0a325479f88dc4ea99e717a3_normal.jpeg",
+      "description": "",
+      "followersCount": 224,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsIfkk4XEAAFJTp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TommyA826/status/1928138338495561951",
+    "fullText": "It's amazing! https://t.co/i2EAbNdvN3"
   },
   {
     "user": {
@@ -403,7 +454,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 106029,
+      "followersCount": 106030,
       "friendsCount": 237,
       "location": "Singapore"
     },
@@ -506,7 +557,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54706,
+      "followersCount": 54707,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -625,7 +676,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54706,
+      "followersCount": 54707,
       "friendsCount": 279,
       "location": "Shanghai"
     },
