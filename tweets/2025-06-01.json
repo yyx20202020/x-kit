@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 54731,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsVv3nsaMAEo-n_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1929071037205065892",
+    "fullText": "如果大家熟悉 Next.js ,使用这个开源的 Fumadocs 做文档站点是个非常好的选择，颜值我认为是目前来看最高的\n\nhttps://t.co/WVVKlGcVs3\n\n周末简单上手玩了一下，上手简单，功能强大，自定义功能挺强的，提供各种自定义组件，Showcase 中发现很多出名的工具都在用。\n\n还可以集成 OpenAPI 以及 Blog https://t.co/GPj8EBrDTc"
+  },
+  {
+    "user": {
       "screenName": "yuxiyou",
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
@@ -39,7 +56,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7370,
+      "followersCount": 7369,
       "friendsCount": 482,
       "location": ""
     },
@@ -56,7 +73,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7370,
+      "followersCount": 7369,
       "friendsCount": 482,
       "location": ""
     },
@@ -73,7 +90,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18732,
+      "followersCount": 18729,
       "friendsCount": 1779,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -105,7 +122,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6984,
+      "followersCount": 6982,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -138,7 +155,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8078,
+      "followersCount": 8080,
       "friendsCount": 260,
       "location": "NewYork"
     },
@@ -155,7 +172,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30940,
+      "followersCount": 30944,
       "friendsCount": 590,
       "location": "Hong Kong"
     },
@@ -202,7 +219,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7370,
+      "followersCount": 7369,
       "friendsCount": 482,
       "location": ""
     },
@@ -217,7 +234,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28311,
+      "followersCount": 28313,
       "friendsCount": 125,
       "location": "China"
     },
@@ -252,7 +269,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28311,
+      "followersCount": 28313,
       "friendsCount": 125,
       "location": "China"
     },
@@ -286,7 +303,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6984,
+      "followersCount": 6982,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -365,7 +382,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30940,
+      "followersCount": 30944,
       "friendsCount": 590,
       "location": "Hong Kong"
     },
@@ -380,7 +397,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18732,
+      "followersCount": 18729,
       "friendsCount": 1779,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -397,7 +414,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18732,
+      "followersCount": 18729,
       "friendsCount": 1779,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -412,7 +429,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18732,
+      "followersCount": 18729,
       "friendsCount": 1779,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -429,7 +446,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18732,
+      "followersCount": 18729,
       "friendsCount": 1779,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -498,7 +515,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18732,
+      "followersCount": 18729,
       "friendsCount": 1779,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -515,7 +532,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8310,
+      "followersCount": 8312,
       "friendsCount": 290,
       "location": ""
     },
@@ -567,7 +584,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150306,
+      "followersCount": 150301,
       "friendsCount": 475,
       "location": "中华人民共和国"
     },
@@ -764,6 +781,23 @@
   },
   {
     "user": {
+      "screenName": "Thom_izi",
+      "name": "Rabbitcoin Thom",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2383365072/michael_rabbit_normal.jpg",
+      "description": "Crypto Rabbit 🐇 | Hunting for the Best Eggs in the Bull Run-\nI analyze major crypto trends and never sleep when it comes to finding the best hidden gems-",
+      "followersCount": 3906,
+      "friendsCount": 96,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsPE3P4XwAARRXl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Thom_izi/status/1928607799971348620",
+    "fullText": "In 2025, the meme market is a warzone. 2000+ coins every week. Pump &amp; dump. Bots. Chaos. But one has a real setup. A real story. And no one's watching yet. 👇 #memecoin #crypto $DOGE $DOSU https://t.co/qtZEk5XKM4"
+  },
+  {
+    "user": {
       "screenName": "Sion_Smith",
       "name": "Sion",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/590556761863680002/rv9vM1_a_normal.jpg",
@@ -902,7 +936,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58952,
+      "followersCount": 58948,
       "friendsCount": 360,
       "location": ""
     },
@@ -1017,6 +1051,23 @@
   },
   {
     "user": {
+      "screenName": "storemjrug",
+      "name": "storemjrug",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1928438099031556097/Vu0SXAFW_normal.jpg",
+      "description": "",
+      "followersCount": 396,
+      "friendsCount": 8,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsMv-gOaIAEMnB4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/storemjrug/status/1928438027954553040",
+    "fullText": "I sit with the wine and a lovely mate.\nWhy can’t the beggar play the king’s role?\nThe sky is the dome, the earth is my state.\nThe green grass feels like Paradise;\nWhy would I trade this for the garden gate? https://t.co/9ttH9BBaN2"
+  },
+  {
+    "user": {
       "screenName": "HunterLockPicks",
       "name": "Hunter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887976249588342784/8FYUFLDP_normal.jpg",
@@ -1031,6 +1082,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/HunterLockPicks/status/1928402399351177696",
     "fullText": "GREAT DAY IN THE CORD! 📊\n\nKarl-Anthony Towns over 32.5 Pts + Rebs (1.86x) — ✅ \nCourtney Vandersloot over 5.5 Asts (1.86x) — ✅\nJosh Hart under 4.5 Assists (1.77x) — ✅\nNY Knicks -4.0 Point Spread (1.86x) — ✅\nMacKenzie Gore over 16.5 Pitcher Outs (1.75x) — ✅\nAthletics @ Blue https://t.co/IfpQ0D1ac3"
+  },
+  {
+    "user": {
+      "screenName": "Cristian95BC",
+      "name": "Mr.BetaGamer95",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/667122942665433088/aqtz1c3V_normal.jpg",
+      "description": "Me gusta el mundo de los videojuegos, seriéfilo, cinéfilo y gamer. Aficionado al Clash of Clans: CristianGamer95.",
+      "followersCount": 94,
+      "friendsCount": 46,
+      "location": "Madrid"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Cristian95BC/status/1928398314304934048",
+    "fullText": "Me gusta el mundo de los videojuegos, seriéfilo, cinéfilo y gamer. Aficionado al Clash of Clans: CristianGamer95"
   },
   {
     "user": {
