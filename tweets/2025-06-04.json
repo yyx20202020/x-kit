@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 28329,
+      "friendsCount": 125,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1930084355881508923",
+    "fullText": "https://t.co/sCrRqpFma4"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10167,
+      "friendsCount": 3521,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1930082772405891212",
+    "fullText": "创业成功是认知和能力以及运气都满足时达成的状态，认知可以从书里学、和高人聊，能力只能在事上练，最后运气可遇不可求。"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124425,
+      "followersCount": 124427,
       "friendsCount": 1320,
       "location": "Chicago, IL"
     },
@@ -20,7 +50,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 30986,
+      "followersCount": 30990,
       "friendsCount": 593,
       "location": "Hong Kong"
     },
@@ -50,6 +80,36 @@
   },
   {
     "user": {
+      "screenName": "AmeriBev",
+      "name": "American Beverage",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1353502860537946112/cWJ8DFLn_normal.jpg",
+      "description": "The American Beverage Association is the national voice for the non-alcoholic refreshment beverage industry.",
+      "followersCount": 12104,
+      "friendsCount": 8914,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AmeriBev/status/1929985922961158413",
+    "fullText": "Fueling local economies across the country. Learn more at https://t.co/KOXdjRIMc4"
+  },
+  {
+    "user": {
+      "screenName": "sean_mellin",
+      "name": "Sean Mellin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1648329245469409286/1uXAr7lt_normal.jpg",
+      "description": "Knowledge is limited at 10 imagination goes to 11.",
+      "followersCount": 1073,
+      "friendsCount": 1079,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sean_mellin/status/1929961846473109655",
+    "fullText": "Bad ideas for a Halloween costume. Please list below."
+  },
+  {
+    "user": {
       "screenName": "tuziapi",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
@@ -71,7 +131,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124425,
+      "followersCount": 124427,
       "friendsCount": 1320,
       "location": "Chicago, IL"
     },
@@ -105,7 +165,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5973,
+      "followersCount": 5970,
       "friendsCount": 1241,
       "location": ""
     },
@@ -135,11 +195,28 @@
   },
   {
     "user": {
+      "screenName": "RobCarson",
+      "name": "Rob Carson Show",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898316137055625216/nt0nzSrb_normal.jpg",
+      "description": "Host of Rob Carson's \"What in the World?\" on Newsmax TV, nationally syndicated radio host of the Rob Carson Show and comedy writer.",
+      "followersCount": 14894,
+      "friendsCount": 1756,
+      "location": "Kansas City, MO"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1929882754004426752/vid/avc1/1920x1080/NgReoCmuUwBYQQCj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/RobCarson/status/1929883138060071125",
+    "fullText": "We have a Pope \"Rob\". Newsmax has four Robs working on air. Robs are taking over the world, and you didn't see it coming. It's not bad. It's actually awesome. Here are the rules of \"Robdom.\" @RobFinnertyUSA @SchmittNYC @BobBrooks_NMX @ChrisRuddyNMX @NEWSMAX @NEWSMAXPodcasts https://t.co/Vm42IIjs24"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73369,
+      "followersCount": 73368,
       "friendsCount": 3395,
       "location": ""
     },
@@ -156,7 +233,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18717,
+      "followersCount": 18721,
       "friendsCount": 1780,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -173,7 +250,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18717,
+      "followersCount": 18721,
       "friendsCount": 1780,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -186,11 +263,28 @@
   },
   {
     "user": {
+      "screenName": "TheCarolErskine",
+      "name": "Carol Erskine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929210940223897602/HSTeCiMq_normal.jpg",
+      "description": "Retired judge. Author. Child Advocate.",
+      "followersCount": 4647,
+      "friendsCount": 187,
+      "location": "Massachusetts"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GshJQ8cXMAA2ulb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheCarolErskine/status/1929873483107905763",
+    "fullText": "In Part 2 tomorrow of my call for a federal probe, the DCYF worker who failed to investigate the violent attack on tiny Harmony by her father in July 2019, had a prior connection to her father—long before being assigned to the case. DCYF knew it and left her with her killer. https://t.co/wow4FVD3Ci"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5973,
+      "followersCount": 5970,
       "friendsCount": 1241,
       "location": ""
     },
@@ -222,7 +316,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10163,
+      "followersCount": 10167,
       "friendsCount": 3521,
       "location": ""
     },
@@ -239,7 +333,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10163,
+      "followersCount": 10167,
       "friendsCount": 3521,
       "location": ""
     },
@@ -291,7 +385,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10163,
+      "followersCount": 10167,
       "friendsCount": 3521,
       "location": ""
     },
@@ -340,7 +434,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10163,
+      "followersCount": 10167,
       "friendsCount": 3521,
       "location": ""
     },
@@ -376,7 +470,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6982,
+      "followersCount": 6984,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -393,7 +487,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5973,
+      "followersCount": 5970,
       "friendsCount": 1241,
       "location": ""
     },
@@ -445,7 +539,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10163,
+      "followersCount": 10167,
       "friendsCount": 3521,
       "location": ""
     },
@@ -460,7 +554,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18717,
+      "followersCount": 18721,
       "friendsCount": 1780,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -475,7 +569,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18717,
+      "followersCount": 18721,
       "friendsCount": 1780,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -717,6 +811,38 @@
   },
   {
     "user": {
+      "screenName": "RobinhoodApp",
+      "name": "Robinhood",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
+      "description": "Trade. Invest. Earn.",
+      "followersCount": 1178776,
+      "friendsCount": 22,
+      "location": "Menlo Park, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RobinhoodApp/status/1929674297754505258",
+    "fullText": "We’re setting the stage for our biggest crypto announcements of the year—livestreaming from the French Riviera. Join us. June 30, 2025 - 5 PM CEST • 11 AM ET"
+  },
+  {
+    "user": {
+      "screenName": "MadameNoire",
+      "name": "MadameNoire",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919405914844512256/-pz2ot_U_normal.jpg",
+      "description": "A space for the unapologetic Black Woman. We are passionate. We are real. We love us. #MadameNoire Tap in below.",
+      "followersCount": 73520,
+      "friendsCount": 14131,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsdk4aAXkAIJ9fn.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MadameNoire/status/1929621906656727277",
+    "fullText": "From protest to power, from self-love to soul—Black women have always led with purpose. 👑 🎶 \n\nLedisi’s The Crown carries the torch lit by icons like Nina Simone, Billie Holiday, and Lauryn Hill—merging art, affirmation, and activism in a way only she can.\nThis Black Music https://t.co/2jVCEmWMGp"
+  },
+  {
+    "user": {
       "screenName": "vandapharma",
       "name": "Vanda Pharmaceuticals",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1201922312611749888/8SHs2v5Q_normal.jpg",
@@ -731,6 +857,21 @@
     ],
     "tweetUrl": "https://x.com/vandapharma/status/1929597279876325719",
     "fullText": "Vanda is proud to sponsor the coverage of #FrenchOpen #RolandGarros #RG25 https://t.co/Mc8zuOhZB1"
+  },
+  {
+    "user": {
+      "screenName": "mrfunding",
+      "name": "RobertSteven Kramarz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1184642303123607552/41tsQ-Fo_normal.png",
+      "description": "VC, Founded Intelliversity. Into free markets, startup investing, science, and truth based on evidence. Delusion-phobic. End mob-thinking; think for yourself.",
+      "followersCount": 511,
+      "friendsCount": 894,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mrfunding/status/1929561214301991366",
+    "fullText": "If humanity hopes to survive the coming AI onslaught, humanity must align with AI values and not the opposite. What are AI values? Advancing knowledge about reality (aka the universe) -- understanding how things work -- including the social sciences as well as the physical"
   },
   {
     "user": {
