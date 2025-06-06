@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 124502,
+      "friendsCount": 1321,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1930831364271529984/vid/avc1/1920x1252/cVrIUC25p4QFjTNo.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1930831696267477336",
+    "fullText": "#哪些中国AI走出了国门 可灵可太懂我们创作者的心了，他们搞了一个全球作品大赛，然后从60多个国家的2000部作品中选择了获奖作品混剪，最后投放到巴黎、香港、上海、多伦多、东京五大地标上，直接给创作者排面拉满。可惜没有在美国，要不我也想去看看。 https://t.co/kgyZm9n7pk"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28325,
+      "followersCount": 28329,
       "friendsCount": 125,
       "location": "China"
     },
@@ -57,7 +74,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28325,
+      "followersCount": 28329,
       "friendsCount": 125,
       "location": "China"
     },
@@ -91,7 +108,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7403,
+      "followersCount": 7415,
       "friendsCount": 484,
       "location": ""
     },
@@ -106,7 +123,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7403,
+      "followersCount": 7415,
       "friendsCount": 484,
       "location": ""
     },
@@ -123,7 +140,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28325,
+      "followersCount": 28329,
       "friendsCount": 125,
       "location": "China"
     },
@@ -170,7 +187,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28325,
+      "followersCount": 28329,
       "friendsCount": 125,
       "location": "China"
     },
@@ -205,7 +222,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187708,
+      "followersCount": 187709,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -224,7 +241,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 187708,
+      "followersCount": 187709,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -273,7 +290,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28325,
+      "followersCount": 28329,
       "friendsCount": 125,
       "location": "China"
     },
@@ -290,7 +307,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4165537,
+      "followersCount": 4165575,
       "friendsCount": 3,
       "location": ""
     },
@@ -322,7 +339,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58934,
+      "followersCount": 58933,
       "friendsCount": 361,
       "location": ""
     },
@@ -416,6 +433,21 @@
   },
   {
     "user": {
+      "screenName": "BoomerHitsDiff",
+      "name": "ThisBoomerHitsDifferent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916492673805963264/Znn3QIKU_normal.jpg",
+      "description": "#Boomer who #HitsDifferent. #Democracy #TruthOverLies #Resist #Progressive #SocialJustice #RuleOfLaw #BLM #Roe #DCStatehood #LifelongEntrepreneur",
+      "followersCount": 32352,
+      "friendsCount": 26977,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BoomerHitsDiff/status/1930668016699609196",
+    "fullText": "Matt Gaetz adopted a teenage son before he was married. So did Mike Johnson. \nNow, Pete Hegseth has appointed a male, 22 year old former gardener to a top level position at DOD. \nJust sayin. 🤨"
+  },
+  {
+    "user": {
       "screenName": "tuziapi",
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
@@ -455,7 +487,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58934,
+      "followersCount": 58933,
       "friendsCount": 361,
       "location": ""
     },
@@ -473,7 +505,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28325,
+      "followersCount": 28329,
       "friendsCount": 125,
       "location": "China"
     },
@@ -505,7 +537,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7403,
+      "followersCount": 7415,
       "friendsCount": 484,
       "location": ""
     },
@@ -567,6 +599,23 @@
   },
   {
     "user": {
+      "screenName": "BungaMonicaZ",
+      "name": "Devil!",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/583491647515668480/Yk1HW9CF_normal.jpg",
+      "description": "Follback? Mention~ | Taekwondo Cita Club♥ | SmpN 1 batujajar☇♣",
+      "followersCount": 117,
+      "friendsCount": 96,
+      "location": "Dublin, London"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsreSUYWMAAzrkh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BungaMonicaZ/status/1930599824648220701",
+    "fullText": "My first photo https://t.co/wauV0X5020"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -586,7 +635,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7403,
+      "followersCount": 7415,
       "friendsCount": 484,
       "location": ""
     },
@@ -620,7 +669,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 7403,
+      "followersCount": 7415,
       "friendsCount": 484,
       "location": ""
     },
@@ -671,7 +720,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28325,
+      "followersCount": 28329,
       "friendsCount": 125,
       "location": "China"
     },
@@ -1023,6 +1072,23 @@
   },
   {
     "user": {
+      "screenName": "mdwihardhianto",
+      "name": "MOCH DWI HARDHIANTO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1801871841155551232/6qEswx9X_normal.jpg",
+      "description": "🐋 MdHax- @CRACKadabra 🐳",
+      "followersCount": 248,
+      "friendsCount": 141,
+      "location": "surabaya"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsqH1eAW8AAn7Da.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mdwihardhianto/status/1930504846286692445",
+    "fullText": "My first beach drawing. https://t.co/JrTRH212mB"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -1073,6 +1139,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1930484237968519405",
     "fullText": "我们的茶水间有光\n\n工程师长时间看眼睛电脑累（不是，看电脑眼睛累）了，小姐姐给大家准备的护眼神器，你们猜是啥？ https://t.co/9kxhV4ONHu"
+  },
+  {
+    "user": {
+      "screenName": "narrmh",
+      "name": "rural & remote mh",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2867271761/384c9e2ed6492e603c6d740f01de7802_normal.jpeg",
+      "description": "The National Alliance for Rural & Remote Mental Health is the peak body of mh public services, NGO's, carers, consumers & academics from each state/territory",
+      "followersCount": 423,
+      "friendsCount": 426,
+      "location": "www.narrmh.com.au"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gspu94OXEAA8eQf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narrmh/status/1930477417669308672",
+    "fullText": "Mediterranean aesthetics bag still life https://t.co/ajRw7MP9h1"
   },
   {
     "user": {
