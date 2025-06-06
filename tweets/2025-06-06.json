@@ -1,6 +1,36 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
+      "followersCount": 5422,
+      "friendsCount": 352,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1931037332381298825",
+    "fullText": "Switch 2 升级的太值了，特别是掌机模式，塞尔达传说和宝可梦朱紫的加强效果绝了，再也不好说 Switch 画质拉垮了。就这我还没试 2077和如龙之类的。\n震撼，无脑入 Switch 2 吧。"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 124516,
+      "friendsCount": 1321,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1931036909448397037",
+    "fullText": "开个 Thread 来整理一些我使用 CluadeCode 的经验和心得，也欢迎留言分享。去年起我是 Cursor 的重度用户，最近一个月，我用 Cursor 越来越少了，开发方式也发生了变化，现在大部分时候都是：ClaudeCode 先做，做完了我去 IDE 去审查修改，所以不再需要 Cursor 的绝大部分功能，反而由于 Cursor"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
@@ -69,7 +99,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58932,
+      "followersCount": 58931,
       "friendsCount": 361,
       "location": ""
     },
@@ -135,7 +165,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28326,
+      "followersCount": 28325,
       "friendsCount": 125,
       "location": "China"
     },
@@ -201,7 +231,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8218,
+      "followersCount": 8219,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -314,7 +344,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28326,
+      "followersCount": 28325,
       "friendsCount": 125,
       "location": "China"
     },
@@ -331,7 +361,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28326,
+      "followersCount": 28325,
       "friendsCount": 125,
       "location": "China"
     },
@@ -433,7 +463,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28326,
+      "followersCount": 28325,
       "friendsCount": 125,
       "location": "China"
     },
@@ -465,7 +495,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73376,
+      "followersCount": 73370,
       "friendsCount": 3402,
       "location": ""
     },
@@ -500,7 +530,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28326,
+      "followersCount": 28325,
       "friendsCount": 125,
       "location": "China"
     },
@@ -534,7 +564,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8578,
+      "followersCount": 8595,
       "friendsCount": 501,
       "location": ""
     },
@@ -792,6 +822,23 @@
     ],
     "tweetUrl": "https://x.com/ReggieAndDro/status/1930711483190542698",
     "fullText": "Greg Abbott, MAJORITY of Texans &amp; Americans want to Celebrate You, and it all comes down to this… #VetoSB3 #SaveTexasHemp https://t.co/KY5wSTsx4b"
+  },
+  {
+    "user": {
+      "screenName": "fuseenergy",
+      "name": "Fuse Energy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1676348145167474688/ZCTIlptw_normal.jpg",
+      "description": "Building energy superabundance - from utility scale renewables powering your home, to building The Energy Network on @Solana.",
+      "followersCount": 13266,
+      "friendsCount": 13,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1930705556416917504/vid/avc1/3840x2160/nEl7ar_Lbd0xSo_D.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/fuseenergy/status/1930709794647871498",
+    "fullText": "Our solar farms power most of the electricity Fuse generates:\n✓ Green\n✓ Safe\n✓ Simple\n\nBuilt on land that often serves its original purpose.\n\nThat’s how you scale energy.⚡️ https://t.co/e1iujVpMrH"
   },
   {
     "user": {
