@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6984,
+      "friendsCount": 730,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsznKJSaUAAW9oQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1931172826524078451",
+    "fullText": "WAVE 这个麦克瑞一号也比较难评。打着接近原著的标志，结果把整个倒三角的胸甲给变成了正梯形。 https://t.co/1eVmt4zVhN"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
+      "followersCount": 721,
+      "friendsCount": 473,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GszmXx5bEAA45gZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1931171884747596183",
+    "fullText": "lobechat win 桌面端，双击标题栏之后背景变成灰色，这个问题已经存在很久了，不知道为什么一直不修复这个问题，虽然不影响功能，但是就是很膈应。 https://t.co/dPTsBU4cfS"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28328,
+      "followersCount": 28345,
       "friendsCount": 125,
       "location": "China"
     },
@@ -22,7 +56,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124520,
+      "followersCount": 124526,
       "friendsCount": 1321,
       "location": "Chicago, IL"
     },
@@ -39,7 +73,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6983,
+      "followersCount": 6984,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -72,7 +106,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124520,
+      "followersCount": 124526,
       "friendsCount": 1321,
       "location": "Chicago, IL"
     },
@@ -104,7 +138,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
-      "followersCount": 720,
+      "followersCount": 721,
       "friendsCount": 473,
       "location": ""
     },
@@ -114,6 +148,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/alanblogsooo/status/1931010973701460237",
     "fullText": "啊，这个月亏了，快速请求都没用完，不知道干啥了，明天就过期了。 https://t.co/1WeHq2Nx3I"
+  },
+  {
+    "user": {
+      "screenName": "cypherpunkd_",
+      "name": "Cypherpunk'd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841194355362570242/3eiQSUIP_normal.jpg",
+      "description": "We explore money’s history, crypto’s future, & Web 3’s role in advancing human rights, freedom, and digital liberty. Down the rabbit hole!",
+      "followersCount": 515,
+      "friendsCount": 87,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1930823593585254400/vid/avc1/1920x1080/11bu6qmGivPKpDRY.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cypherpunkd_/status/1931010697024123242",
+    "fullText": "Federal Reserve Chairman Jerome Powell printed $5 trillion in 18 months during COVID.\n\nYou got $1,200.\n\nCorporations got the other $19,000 per person through \"forgivable\" PPP loans.\n\nThis wasn't pandemic relief—it was the largest upward wealth transfer in history.\n\nWhile you paid https://t.co/cU0oh10Bxx"
+  },
+  {
+    "user": {
+      "screenName": "daytonaio",
+      "name": "Daytona.io",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1764766523770494977/NwdtuoVp_normal.jpg",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.",
+      "followersCount": 3071,
+      "friendsCount": 46,
+      "location": "New York"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsxMd3-aoAAgacG.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/daytonaio/status/1931003952591765916",
+    "fullText": "Founders, don’t burn your runway on infra.\n\nWe just launched Daytona Startup Grid: up to $50,000 in compute credit for startups. https://t.co/fPgmQWNZYH"
   },
   {
     "user": {
@@ -136,7 +204,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nAxure 无代码建站：https://t.co/1z0LqlTyHq\n小报童导航：https://t.co/MOsxH3Ktns\n独立开发者导航：https://t.co/b0jrjyLGa4\nFlux 免费图像生成：https://t.co/Rf7lU4VUFe",
-      "followersCount": 720,
+      "followersCount": 721,
       "friendsCount": 473,
       "location": ""
     },
@@ -151,7 +219,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 58934,
+      "followersCount": 58936,
       "friendsCount": 361,
       "location": ""
     },
@@ -168,7 +236,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18712,
+      "followersCount": 18708,
       "friendsCount": 1801,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -183,7 +251,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21339,
+      "followersCount": 21340,
       "friendsCount": 1029,
       "location": ""
     },
@@ -200,7 +268,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10346,
+      "followersCount": 10348,
       "friendsCount": 3531,
       "location": ""
     },
@@ -217,7 +285,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28328,
+      "followersCount": 28345,
       "friendsCount": 125,
       "location": "China"
     },
@@ -228,11 +296,79 @@
   },
   {
     "user": {
+      "screenName": "GameIdentityV",
+      "name": "Identity V",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930957699279458304/CTcvyrAf_normal.jpg",
+      "description": "Welcome to Identity V official English Page.\nCustomer Service：gameidentityv@global.netease.com \nTopup Center: https://t.co/8v28neTdcL",
+      "followersCount": 319017,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GswhTYvbwAAz9B0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GameIdentityV/status/1930954978769936845",
+    "fullText": "Dear Visitors,\nIdentity V x anime Frieren: Beyond Journey's End Crossover Main Visual Released～\nEmbark on an adventure with Frieren, Fern, and Stark to defeat Aura!\nOn August 7, a new journey begins.\n#IdentityV #IDVFrieren #Frieren #Fern #Stark #Aura https://t.co/rcd2Th1IfJ"
+  },
+  {
+    "user": {
+      "screenName": "GameIdentityV",
+      "name": "Identity V",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930957699279458304/CTcvyrAf_normal.jpg",
+      "description": "Welcome to Identity V official English Page.\nCustomer Service：gameidentityv@global.netease.com \nTopup Center: https://t.co/8v28neTdcL",
+      "followersCount": 319017,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GswhIyHasAAqSNg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GameIdentityV/status/1930954786574422270",
+    "fullText": "Dear visitors,\nIdentity V x Shanghai Astronomy Museum Crossover will be available on July 17.\nPraticipate in the event to claim [A Costume] Gardener - Born of the Stars, [A Furniture] Window to the Cosmos, Portrait, Portrait Frame and more.\n#IdentityV #ShanghaiAstronomyMuseum https://t.co/8yEpIxf1ie"
+  },
+  {
+    "user": {
+      "screenName": "GameIdentityV",
+      "name": "Identity V",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930957699279458304/CTcvyrAf_normal.jpg",
+      "description": "Welcome to Identity V official English Page.\nCustomer Service：gameidentityv@global.netease.com \nTopup Center: https://t.co/8v28neTdcL",
+      "followersCount": 319017,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gswg7wuaMAA8ied.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GameIdentityV/status/1930954565731631538",
+    "fullText": "Dear Visitors,\nIdentity V × Paper Bride Crossover Event officially begins on July 3!\n[S Costume] Perfumer – Nie Moli and [S Accessory] Perfumer –Paper Shrine will be available in the store.\nDuring the event, complete tasks to claim one of the following A Costumes as a reward: https://t.co/hgEtfAJAGV"
+  },
+  {
+    "user": {
+      "screenName": "GameIdentityV",
+      "name": "Identity V",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930957699279458304/CTcvyrAf_normal.jpg",
+      "description": "Welcome to Identity V official English Page.\nCustomer Service：gameidentityv@global.netease.com \nTopup Center: https://t.co/8v28neTdcL",
+      "followersCount": 319017,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GswgcSZaEAENY18.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GameIdentityV/status/1930954097337028648",
+    "fullText": "Dear Visitors,\nIdentity V × The Promised Neverland Crossover Return coming soon!\nParticipate in the event to claim one of the rewards from [A Costume] Forward - Don, and [A Costume] the Mind's Eye - Gilda, Crossover Essence × 10.\nDon't miss out on June 19\nShare the post and we https://t.co/vcf6UECI1V"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18712,
+      "followersCount": 18708,
       "friendsCount": 1801,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -249,7 +385,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8215,
+      "followersCount": 8217,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -266,7 +402,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18712,
+      "followersCount": 18708,
       "friendsCount": 1801,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -298,7 +434,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150335,
+      "followersCount": 150339,
       "friendsCount": 476,
       "location": "中华人民共和国"
     },
@@ -309,11 +445,28 @@
   },
   {
     "user": {
+      "screenName": "theApeVariant",
+      "name": "Michael Kidd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1900511389505957888/M3RIx5U4_normal.jpg",
+      "description": "His name, meaning \"Who is like unto God?\" reflects his battle cry against pride and rebellion.",
+      "followersCount": 627,
+      "friendsCount": 244,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GswD5weXUAAt5cB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/theApeVariant/status/1930922718032973964",
+    "fullText": "Every Wokie this morning... https://t.co/MPTUj8TpKI"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54807,
+      "followersCount": 54813,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -345,7 +498,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28328,
+      "followersCount": 28345,
       "friendsCount": 125,
       "location": "China"
     },
@@ -362,7 +515,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 28328,
+      "followersCount": 28345,
       "friendsCount": 125,
       "location": "China"
     },
@@ -516,7 +669,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8718,
+      "followersCount": 8736,
       "friendsCount": 541,
       "location": ""
     },
@@ -524,6 +677,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/xushiwei/status/1930810880260001914",
     "fullText": "刚刚有人向我要个人简介。于是第一次给出了我未来十年想做到的：七牛云创始人兼 CEO，XGo 语言和 LLGo 编译器的创建者。我们的愿景是让每个人都能成为现实世界的构建者，缩短从想法到作品的距离，让 7 岁的小孩就有机会赚到现实世界中的金币。"
+  },
+  {
+    "user": {
+      "screenName": "know_u_self",
+      "name": "Nils",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885232362486665216/wWCftb0M_normal.jpg",
+      "description": "PhD dropout\n\nBuilding the golden bridge to impact @dosidequests",
+      "followersCount": 268,
+      "friendsCount": 241,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gssr22vWQAEvxDC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/know_u_self/status/1930686930909331928",
+    "fullText": "🚨 The easiest way for vibecoders to make $400k that NOBODY is talking about 🚨\n\nThe OpenAI challenge is half over and there are only 34 submissions 🤯 \n\nWhy? You have to use OpenAI API to analyze geo images and Kaggle snobs say that's not real ML.\n\n⬇️Tutorial Thread ⬇️ https://t.co/d9jYwhQ3Yr"
   },
   {
     "user": {
@@ -548,7 +718,7 @@
       "name": "100 Thieves",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922370273728151552/w6uxq7EK_normal.jpg",
       "description": "The cultural center of gaming. | @LAThieves | @100T_VAL | @100T_LoL | @100T_Esports | @higround | #100T",
-      "followersCount": 1250746,
+      "followersCount": 1250753,
       "friendsCount": 148,
       "location": "Los Angeles, CA"
     },
