@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 8227,
+      "friendsCount": 263,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs8cU7_aoAAxngB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1931794678904725720",
+    "fullText": "有些模型看着调用多，实际可能电费都交不起\n\n兔子站调用次数最多的gpt-4o-mini模型，每1万次大约2美金合计费用，实际支付1.4人民币，利润🙃\n\n所以像什么“沉浸式翻译”，接入4o-mini模型后常开在那里了，畅游互联网没几个字费用的。 https://t.co/PmRNWAjPRS"
+  },
+  {
+    "user": {
       "screenName": "alanblogsooo",
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
@@ -20,7 +37,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150362,
+      "followersCount": 150358,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -35,7 +52,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8228,
+      "followersCount": 8227,
       "friendsCount": 263,
       "location": "NewYork"
     },
@@ -87,7 +104,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150362,
+      "followersCount": 150358,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -102,7 +119,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23042,
+      "followersCount": 23040,
       "friendsCount": 290,
       "location": "Guangdong"
     },
@@ -117,7 +134,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18706,
+      "followersCount": 18702,
       "friendsCount": 1808,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -135,7 +152,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18706,
+      "followersCount": 18702,
       "friendsCount": 1808,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -169,7 +186,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18706,
+      "followersCount": 18702,
       "friendsCount": 1808,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -184,7 +201,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150362,
+      "followersCount": 150358,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -253,7 +270,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18706,
+      "followersCount": 18702,
       "friendsCount": 1808,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -319,7 +336,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18706,
+      "followersCount": 18702,
       "friendsCount": 1808,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -353,7 +370,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18706,
+      "followersCount": 18702,
       "friendsCount": 1808,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
