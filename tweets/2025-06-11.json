@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 8370,
+      "friendsCount": 263,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtJ-0MdbMAUYkOq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1932747088372380147",
+    "fullText": "兔友让O3数石子\n\n这货数了13分钟50秒都没搞定，然后瞎蒙了个30. https://t.co/UvoquSPTUl"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5421,
+      "followersCount": 5424,
+      "friendsCount": 353,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1932744104175087963",
+    "fullText": "最近想清楚的三个阶段的人生目标：\n1. 做一个成功的科技公司和足够赚钱的产品。\n2. 做一个任天堂式的游戏公司，孵化一批类似的游戏人才。\n3. 研究计算机底层技术，贡献开源，如内核等。"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150438,
+      "friendsCount": 477,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1932743609142706594",
+    "fullText": "我的 iPhone 测试机升级到 iOS 26 后充不进电了，永远是 1% ……"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
+      "followersCount": 5424,
       "friendsCount": 353,
       "location": "杭州"
     },
@@ -37,7 +84,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5421,
+      "followersCount": 5424,
       "friendsCount": 353,
       "location": "杭州"
     },
@@ -67,7 +114,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124775,
+      "followersCount": 124772,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -133,7 +180,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18704,
+      "followersCount": 18703,
       "friendsCount": 1832,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -165,7 +212,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31280,
+      "followersCount": 31279,
       "friendsCount": 595,
       "location": "Hong Kong"
     },
@@ -182,7 +229,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5421,
+      "followersCount": 5424,
       "friendsCount": 353,
       "location": "杭州"
     },
@@ -283,7 +330,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4179494,
+      "followersCount": 4179586,
       "friendsCount": 3,
       "location": ""
     },
@@ -366,7 +413,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124775,
+      "followersCount": 124772,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -464,7 +511,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124775,
+      "followersCount": 124772,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -580,7 +627,7 @@
       "name": "Walmart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1910005875303219200/OPtLTrDL_normal.jpg",
       "description": "Who knew 🎶 Who knew 🎶",
-      "followersCount": 1397914,
+      "followersCount": 1397931,
       "friendsCount": 350,
       "location": ""
     },
