@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 124743,
+      "friendsCount": 1322,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtJTh8BXUAArmx3.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1932699097179566191",
+    "fullText": "转：AI博主是比汽车博主、数码博主、军事博主更下一层的博主， 因为它不需要展示任何实物， 甚至连素材都不讲究， 只需要转发一下关联文字就可以如同公鸡打鸣一般照例惊呼未来已来。 他们的核心竞争力是人们对自己被时代甩开的焦虑，  恐吓，毫无科技可言 https://t.co/iOSoRd54VK"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54856,
+      "followersCount": 54858,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1932698317953380500",
+    "fullText": "现在好多国内外推上的“独立开发者”的套路，上来都是一张晒 MRR 的截图，收入好几万，然后做的啥产品永远是个迷，然后写一堆和产品没关系的有的没的，疯狂吸粉。\n\n一定不要看了这种帖子脑子一热就开始全情投入。有工作的先好好上班吧，业余时间可以做自己感兴趣的 side projects。"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 54858,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -39,7 +71,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18699,
+      "followersCount": 18697,
       "friendsCount": 1832,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -71,7 +103,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31265,
+      "followersCount": 31266,
       "friendsCount": 595,
       "location": "Hong Kong"
     },
@@ -120,7 +152,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8358,
+      "followersCount": 8360,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -152,7 +184,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8358,
+      "followersCount": 8360,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -189,7 +221,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4179099,
+      "followersCount": 4179177,
       "friendsCount": 3,
       "location": ""
     },
@@ -221,7 +253,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8358,
+      "followersCount": 8360,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -272,7 +304,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124734,
+      "followersCount": 124743,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -304,7 +336,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8358,
+      "followersCount": 8360,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -321,7 +353,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8358,
+      "followersCount": 8360,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -355,7 +387,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4179099,
+      "followersCount": 4179177,
       "friendsCount": 3,
       "location": ""
     },
@@ -370,7 +402,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124734,
+      "followersCount": 124743,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -418,7 +450,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8358,
+      "followersCount": 8360,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -486,7 +518,7 @@
       "name": "Walmart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1910005875303219200/OPtLTrDL_normal.jpg",
       "description": "Who knew 🎶 Who knew 🎶",
-      "followersCount": 1397894,
+      "followersCount": 1397921,
       "friendsCount": 350,
       "location": ""
     },
@@ -702,8 +734,8 @@
       "name": "GraniteShares ETFs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1144296395014365184/4Ku8bdvY_normal.png",
       "description": "GraniteShares is an independent ETF issuer that offers high conviction ETFs for high conviction investors.\nImportant Info: https://t.co/dJ2p1cOxZe",
-      "followersCount": 6474,
-      "friendsCount": 2112,
+      "followersCount": 6473,
+      "friendsCount": 2106,
       "location": "Manhattan, NY"
     },
     "images": [
@@ -871,5 +903,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/ZorpZK/status/1932097867650359378",
     "fullText": "The closest comparables to Nockchain are Bittensor and Kaspa.\n\nBittensor’s subnet model is the closest comparable to useful proof of work, and Kaspa is a high-throughput Proof of Work chain.\n\nNockchain is a no-premine, fast PoW chain with modern programmability features."
+  },
+  {
+    "user": {
+      "screenName": "adamgoldstein13",
+      "name": "Adam Goldstein",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864416801582665729/0pLww17O_normal.jpg",
+      "description": "Founder & CEO of @ArcherAviation",
+      "followersCount": 49857,
+      "friendsCount": 390,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtAnJojaQAAfTW2.jpg",
+      "https://pbs.twimg.com/media/GtAnLZHbYAAkCXU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/adamgoldstein13/status/1932087517488332822",
+    "fullText": "The U.S. has led the world in aerospace innovation over the last century, and we’re going to keep it that way. Thank you to President @realDonaldTrump and White House CTO @mkratsios47 for paving the way for our country to maintain our global leadership in this next era of flight https://t.co/JBCbIbXatk"
   }
 ]
