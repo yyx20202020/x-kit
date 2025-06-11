@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 54855,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1932688686703128583/vid/avc1/2936x1836/VOAk5NCEIpxOEkxL.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1932688958460473602",
+    "fullText": "一个非常有趣的全新的开源脚手架项目 create-better-t-stack 可以关注一下\n\nhttps://t.co/q2cwUD7Wi2\n\n它的创新之处就可以让你自由的选择你想用的前后端框架，数据库，orm，runtime， addon 等等，然后可以根据你的选择创建出一个独一无二的有最佳实践的 Typescript 项目。 https://t.co/er1bkYihBv"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10551,
+      "friendsCount": 3542,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtJDW7jWoAAYgo8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1932681267839180838",
+    "fullText": "哈哈哈哈 https://t.co/wSXb55jtwT"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18703,
+      "followersCount": 18699,
       "friendsCount": 1832,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -22,7 +56,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10549,
+      "followersCount": 10551,
       "friendsCount": 3542,
       "location": ""
     },
@@ -54,7 +88,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5422,
+      "followersCount": 5421,
       "friendsCount": 352,
       "location": "杭州"
     },
@@ -69,7 +103,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10549,
+      "followersCount": 10551,
       "friendsCount": 3542,
       "location": ""
     },
@@ -86,7 +120,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8354,
+      "followersCount": 8358,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -118,7 +152,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8354,
+      "followersCount": 8358,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -155,7 +189,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4178977,
+      "followersCount": 4179087,
       "friendsCount": 3,
       "location": ""
     },
@@ -187,7 +221,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8354,
+      "followersCount": 8358,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -238,7 +272,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124721,
+      "followersCount": 124726,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -270,7 +304,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8354,
+      "followersCount": 8358,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -287,7 +321,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8354,
+      "followersCount": 8358,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -321,7 +355,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4178977,
+      "followersCount": 4179087,
       "friendsCount": 3,
       "location": ""
     },
@@ -336,7 +370,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124721,
+      "followersCount": 124726,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -354,7 +388,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5422,
+      "followersCount": 5421,
       "friendsCount": 352,
       "location": "杭州"
     },
@@ -369,7 +403,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150443,
+      "followersCount": 150444,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -384,7 +418,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8354,
+      "followersCount": 8358,
       "friendsCount": 262,
       "location": "NewYork"
     },
@@ -403,7 +437,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23069,
+      "followersCount": 23067,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -420,7 +454,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21343,
+      "followersCount": 21342,
       "friendsCount": 1031,
       "location": ""
     },
@@ -501,7 +535,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124721,
+      "followersCount": 124726,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -518,7 +552,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4178977,
+      "followersCount": 4179087,
       "friendsCount": 3,
       "location": ""
     },
@@ -669,7 +703,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1144296395014365184/4Ku8bdvY_normal.png",
       "description": "GraniteShares is an independent ETF issuer that offers high conviction ETFs for high conviction investors.\nImportant Info: https://t.co/dJ2p1cOxZe",
       "followersCount": 6474,
-      "friendsCount": 2123,
+      "friendsCount": 2117,
       "location": "Manhattan, NY"
     },
     "images": [
@@ -760,6 +794,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/1932353432876126338",
     "fullText": "我现在转型数码博主还来得及明年被苹果邀请吗"
+  },
+  {
+    "user": {
+      "screenName": "Perena__",
+      "name": "Perena",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1873746095765135360/utMTqiFJ_normal.jpg",
+      "description": "Decentralized stablecoin infrastructure",
+      "followersCount": 36671,
+      "friendsCount": 94,
+      "location": "Solana"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtCVSlnbUAEOO_j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Perena__/status/1932208389746242003",
+    "fullText": "StableBank, Explained. https://t.co/OgXlYejqX2"
+  },
+  {
+    "user": {
+      "screenName": "DustinOlson",
+      "name": "Dustin Olson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971829020424679425/wTUuGBgy_normal.jpg",
+      "description": "Father. Husband. Pollster. Strategist.",
+      "followersCount": 6236,
+      "friendsCount": 2596,
+      "location": "Alexandria, Virginia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DustinOlson/status/1932175999665615123",
+    "fullText": "🚨 I thought the Left had lost their minds…\n\nThey said the U.S. Army's 250th Anniversary parade—on June 14—was part of a secret Trump conspiracy.\n\nA conspiracy tied to his birthday… Flag Day… and the founding of the Army.\n\nCrazy, right?\n\nThen I looked into it.\n\nAnd found"
   },
   {
     "user": {
