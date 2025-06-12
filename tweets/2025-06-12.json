@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 31317,
+      "friendsCount": 595,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtNri8tagAAZz-V.jpg",
+      "https://pbs.twimg.com/media/GtNrnRYbMAEIpGx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1933008204109427063",
+    "fullText": "本期的AI编程实战课是做一个语音记账iOS应用（基于SwiftUI）。刚测试了一圈多模态的模型，发现最好用的还是通义千问-Omni-Turbo，准确性和响应速度无与伦比~ https://t.co/i9hIFicprW"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10671,
+      "followersCount": 10673,
       "friendsCount": 3544,
       "location": ""
     },
@@ -20,7 +38,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10671,
+      "followersCount": 10673,
       "friendsCount": 3544,
       "location": ""
     },
@@ -69,7 +87,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10671,
+      "followersCount": 10673,
       "friendsCount": 3544,
       "location": ""
     },
@@ -86,7 +104,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10671,
+      "followersCount": 10673,
       "friendsCount": 3544,
       "location": ""
     },
@@ -120,7 +138,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18691,
+      "followersCount": 18692,
       "friendsCount": 1824,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -140,7 +158,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18691,
+      "followersCount": 18692,
       "friendsCount": 1824,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -157,7 +175,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124866,
+      "followersCount": 124871,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -174,7 +192,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124866,
+      "followersCount": 124871,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -191,7 +209,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124866,
+      "followersCount": 124871,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -208,7 +226,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124866,
+      "followersCount": 124871,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -225,7 +243,7 @@
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
       "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
-      "followersCount": 2871,
+      "followersCount": 2872,
       "friendsCount": 980,
       "location": "Austin, Texas"
     },
@@ -287,6 +305,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/tuziapi/status/1932892535778898399",
     "fullText": "o3-pro又开始出现了\n\n兔子在https://t.co/5rDx3vAiUX中尝试了两个领域的工作，1编程、2数据收集。\n\n先说缺点，12~18分钟交付工作 且 过程中像盲盒一样\n再说优点，没感觉到😭\n\n我还是明天起床看看大佬们玩出了哪些花🌸；PS：https://t.co/5rDx3vAiUX 站内o3次数也已✖️2 https://t.co/jN7y1jLz9g"
+  },
+  {
+    "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2872,
+      "friendsCount": 980,
+      "location": "Austin, Texas"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtL___hWgAAPap4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1932892417834860871",
+    "fullText": "🔒 AI is transforming cybersecurity—and raising the stakes.\n\nAt The Six Five Summit: AI Unleashed, the Cybersecurity track will explore how AI is increasing cybersecurity requirements and reshaping threat detection, response, and resilience in a world of constant risk.\n\nJeetu https://t.co/GRfyFgF7ap"
   },
   {
     "user": {
@@ -397,7 +432,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29562,
+      "followersCount": 29564,
       "friendsCount": 129,
       "location": "China"
     },
@@ -417,7 +452,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124866,
+      "followersCount": 124871,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -455,7 +490,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29562,
+      "followersCount": 29564,
       "friendsCount": 129,
       "location": "China"
     },
@@ -505,7 +540,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18691,
+      "followersCount": 18692,
       "friendsCount": 1824,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -572,7 +607,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29562,
+      "followersCount": 29564,
       "friendsCount": 129,
       "location": "China"
     },
@@ -592,7 +627,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18691,
+      "followersCount": 18692,
       "friendsCount": 1824,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -641,7 +676,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5499,
+      "followersCount": 5503,
       "friendsCount": 354,
       "location": "杭州"
     },
@@ -671,7 +706,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5499,
+      "followersCount": 5503,
       "friendsCount": 354,
       "location": "杭州"
     },
@@ -703,7 +738,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5499,
+      "followersCount": 5503,
       "friendsCount": 354,
       "location": "杭州"
     },
@@ -767,7 +802,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124866,
+      "followersCount": 124871,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -865,7 +900,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5499,
+      "followersCount": 5503,
       "friendsCount": 354,
       "location": "杭州"
     },
@@ -895,7 +930,7 @@
       "name": "100 Thieves",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922370273728151552/w6uxq7EK_normal.jpg",
       "description": "The cultural center of gaming. | @LAThieves | @100T_VAL | @100T_LoL | @100T_Esports | @higround | #100T",
-      "followersCount": 1250369,
+      "followersCount": 1250339,
       "friendsCount": 150,
       "location": "Los Angeles, CA"
     },
@@ -979,7 +1014,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 124866,
+      "followersCount": 124871,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
