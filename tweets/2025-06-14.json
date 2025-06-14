@@ -1,11 +1,44 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 31694,
+      "friendsCount": 601,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gta1ZMmbQAA0Pma.jpg",
+      "https://pbs.twimg.com/media/Gta1ZMiagAAnP-R.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1933932544460022070",
+    "fullText": "多模态大模型在生活中，对大部分人很实用的场景是解决了一些术语问题。比如我想买秋芝视频后面的灯，我在淘宝搜索了半天没找到，后来问了下 AI 才知道这个叫霓虹灯。发现这个灯其实还挺贵的... https://t.co/2LhsFS8tMV"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5984,
+      "friendsCount": 1257,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1933930181602980314",
+    "fullText": "#DataCollie 基于MySQL的第一版发布指日可待，但我对后续数据源接入类型的优先顺序做了一些规划调整，我将优先接入当前一些新兴数据库，比如：#Milvus 、#TDengine、#StarRocks 等，最后再接入更多传统类型的数据库。#buildinpublic #indiedev"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18708,
+      "followersCount": 18702,
       "friendsCount": 1831,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -20,7 +53,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150569,
+      "followersCount": 150567,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -35,7 +68,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10839,
+      "followersCount": 10840,
       "friendsCount": 3554,
       "location": ""
     },
@@ -67,7 +100,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18708,
+      "followersCount": 18702,
       "friendsCount": 1831,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -82,7 +115,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31689,
+      "followersCount": 31694,
       "friendsCount": 601,
       "location": "Hong Kong"
     },
@@ -99,7 +132,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23084,
+      "followersCount": 23086,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -136,7 +169,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23084,
+      "followersCount": 23086,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -153,7 +186,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18708,
+      "followersCount": 18702,
       "friendsCount": 1831,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -189,7 +222,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29602,
+      "followersCount": 29601,
       "friendsCount": 129,
       "location": "China"
     },
@@ -281,7 +314,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21347,
+      "followersCount": 21350,
       "friendsCount": 1032,
       "location": ""
     },
@@ -298,7 +331,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18708,
+      "followersCount": 18702,
       "friendsCount": 1831,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -315,7 +348,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29602,
+      "followersCount": 29601,
       "friendsCount": 129,
       "location": "China"
     },
@@ -332,7 +365,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150569,
+      "followersCount": 150567,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -364,7 +397,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31689,
+      "followersCount": 31694,
       "friendsCount": 601,
       "location": "Hong Kong"
     },
@@ -1006,7 +1039,7 @@
       "name": "100 Thieves",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1933316859102945280/kKZJVdE2_normal.jpg",
       "description": "The cultural center of gaming. | @LAThieves | @100T_VAL | @100T_LoL | @100T_Esports | @higround | #100T",
-      "followersCount": 1250156,
+      "followersCount": 1250155,
       "friendsCount": 150,
       "location": "Los Angeles, CA"
     },
