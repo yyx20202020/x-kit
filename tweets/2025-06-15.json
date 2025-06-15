@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8354,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1934047724493807983",
+    "fullText": "骑自行车摔伤了，在京东自营买两件合适的衣服穿去上班，在搜索结果和详情页显示都是今天送达，刚刚点开订单一看变周二送达了，仔细一看，原来是选择别的商品规格后，发货仓变更，送达时间就变了，我没注意到就下单了。都是可以优化体验的产品细节。"
+  },
+  {
+    "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
+      "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
+      "followersCount": 8967,
+      "friendsCount": 546,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtcZQvBbMAA35H2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1934042450815029729",
+    "fullText": "一个人的能力应该怎么定义？几年前我分享了这个图。AI时代对人的要求发生了巨大变化，越来越要求每个人三者兼具，这就是超级个体。 https://t.co/SEW6cntLGX"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31697,
+      "followersCount": 31699,
       "friendsCount": 601,
       "location": "Hong Kong"
     },
@@ -38,7 +70,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150558,
+      "followersCount": 150557,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -70,7 +102,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5986,
+      "followersCount": 5983,
       "friendsCount": 1257,
       "location": ""
     },
@@ -100,7 +132,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31697,
+      "followersCount": 31699,
       "friendsCount": 601,
       "location": "Hong Kong"
     },
@@ -170,7 +202,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73421,
+      "followersCount": 73422,
       "friendsCount": 3404,
       "location": ""
     },
@@ -187,7 +219,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29608,
+      "followersCount": 29607,
       "friendsCount": 129,
       "location": "China"
     },
@@ -204,7 +236,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 5986,
+      "followersCount": 5983,
       "friendsCount": 1257,
       "location": ""
     },
@@ -212,6 +244,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1933816164804919610",
     "fullText": "从入职到现在，半年以来，除了和我同一天入职第二天离职的大兄弟之外，居然没一个我认识的人主动或被动离职。程序员稳定性居然如此之高，大家是真的很满意还是只是苟着而已？想必都有吧！"
+  },
+  {
+    "user": {
+      "screenName": "Lowes",
+      "name": "Lowe's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1427348517165703170/jCmq6N7r_normal.jpg",
+      "description": "Lowe’s knows no matter what you’re doing, it’s easier to get it done when you’ve got the right people, the right products, all at the right price. 🔨",
+      "followersCount": 288813,
+      "friendsCount": 10912,
+      "location": "Corporate HQ, Mooresville, NC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Lowes/status/1933782582463750434",
+    "fullText": "Every Messi you find is 1 entry for a chance to win a trip to the Leagues Cup Final and MORE! Find all 10 to multiply your chances. Only until July 16. #LowesXMessi"
   },
   {
     "user": {
@@ -253,7 +300,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29608,
+      "followersCount": 29607,
       "friendsCount": 129,
       "location": "China"
     },
@@ -270,7 +317,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150558,
+      "followersCount": 150557,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -287,7 +334,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31697,
+      "followersCount": 31699,
       "friendsCount": 601,
       "location": "Hong Kong"
     },
