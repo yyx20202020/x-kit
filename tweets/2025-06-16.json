@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1797186447491170304/fLqq1huE_normal.jpg",
+      "description": "💻 AI构建者，前B轮初创CXO\n📸 自启动构建@pixels_ai\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 78,
+      "friendsCount": 92,
+      "location": "免费AI工具 →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/1934449712943509745",
+    "fullText": "Cloudflare Turnstile支持隐式渲染，仅仅只是一行代码。\n\n在看到代码中冗长的useEffect代码块，我陷入了沉思。为什么Claude Sonnet选择了更复杂的显式渲染？AI军备竞争的一个后果，就是对复杂性的不可控的增长。\n\nVibe coding最大的天花板是不受限编码能力带来的指数复杂性。"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 31716,
+      "friendsCount": 601,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtiJycIaUAAPQi-.jpg",
+      "https://pbs.twimg.com/media/GtiJycJaUAA_PWH.jpg",
+      "https://pbs.twimg.com/media/GtiJycPaEAAEw8i.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1934447550314184837",
+    "fullText": "终于有一款可以和对象的Herman Miller 掰掰手腕的人体工学椅，昨天去线下店试用立即就入了，真的无比舒服😌自动追腰/加热/通风什么都有！我要焊死在椅子上给大家做内容🤩（不是广告） https://t.co/1VzxeXu3Wt"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125133,
+      "followersCount": 125124,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -38,7 +72,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
       "followersCount": 10858,
-      "friendsCount": 3556,
+      "friendsCount": 3557,
       "location": ""
     },
     "images": [
@@ -55,7 +89,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
       "followersCount": 73457,
-      "friendsCount": 3403,
+      "friendsCount": 3404,
       "location": ""
     },
     "images": [],
@@ -69,7 +103,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29677,
+      "followersCount": 29680,
       "friendsCount": 129,
       "location": "China"
     },
@@ -86,7 +120,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125133,
+      "followersCount": 125124,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -104,7 +138,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
       "followersCount": 73457,
-      "friendsCount": 3403,
+      "friendsCount": 3404,
       "location": ""
     },
     "images": [
@@ -137,7 +171,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125133,
+      "followersCount": 125124,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -154,7 +188,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125133,
+      "followersCount": 125124,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -189,7 +223,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8485,
+      "followersCount": 8486,
       "friendsCount": 263,
       "location": "NewYork"
     },
@@ -259,7 +293,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
       "followersCount": 73457,
-      "friendsCount": 3403,
+      "friendsCount": 3404,
       "location": ""
     },
     "images": [
@@ -278,7 +312,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54964,
+      "followersCount": 54961,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -385,7 +419,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125133,
+      "followersCount": 125124,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -401,7 +435,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
       "followersCount": 10858,
-      "friendsCount": 3556,
+      "friendsCount": 3557,
       "location": ""
     },
     "images": [
@@ -418,7 +452,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
       "followersCount": 10858,
-      "friendsCount": 3556,
+      "friendsCount": 3557,
       "location": ""
     },
     "images": [
@@ -435,7 +469,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
       "followersCount": 10858,
-      "friendsCount": 3556,
+      "friendsCount": 3557,
       "location": ""
     },
     "images": [
@@ -452,7 +486,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
       "followersCount": 10858,
-      "friendsCount": 3556,
+      "friendsCount": 3557,
       "location": ""
     },
     "images": [
@@ -468,7 +502,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8485,
+      "followersCount": 8486,
       "friendsCount": 263,
       "location": "NewYork"
     },
@@ -500,7 +534,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8360,
+      "followersCount": 8359,
       "friendsCount": 290,
       "location": ""
     },
@@ -654,6 +688,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Lowes/status/1933781953704018304",
     "fullText": "When you’re a fan of something, you want more of it. That's why MyLowe's Rewards members get MORE rewards. #LowesXMessi"
+  },
+  {
+    "user": {
+      "screenName": "Danqing_Z",
+      "name": "Danqing Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905135570319470592/zlxnf7xt_normal.jpg",
+      "description": "building in public @pathonai, community building @PathOnAIOrg, previously @AmazonScience, @southpkcommons, phd engineering @UCBerkeley",
+      "followersCount": 534,
+      "friendsCount": 429,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1933764046857330688/vid/avc1/1080x1920/XpcaNIE1zDy1259X.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Danqing_Z/status/1933764192210989536",
+    "fullText": "🤖 Excited to share my latest open-source project: a voice-controlled agentic robot, right before @huggingface @LeRobotHF Hackathon!\nI've released the complete codebase for a system that seamlessly bridges natural language and robotic action:\n🎙️ Deepgram ASR converts voice https://t.co/Px9PMDJGnh"
   },
   {
     "user": {
