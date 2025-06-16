@@ -1,11 +1,75 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 125133,
+      "friendsCount": 1322,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtiE1_eXMAAXell.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1934442182112391651",
+    "fullText": "快速行动，创造未来：AI时代的职业新法则\n——LinkedIn、Inflection AI和Manas AI的联合创始人Reid Hoffman给即将踏入AI时代职场的毕业生一些忠告。\n\n作者：Reid Hoffman https://t.co/GfAL0GwYKP"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 23151,
+      "friendsCount": 291,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1934441448017195198",
+    "fullText": "QA发现一个bug，系统里提个单子，群里说一声就完事了；但我们老大要发现个bug，那动作可就大了，甭管是大是小，先再群里喷，说自己昨晚两点钟还在测试产品，才发现了该问题，为何我们发现不了？要靠他发现？然后召开大会，一堆个人被他拖进会议室，先各个岗位负责人紧急会诊，说完问题说流程，说完流程"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10858,
+      "friendsCount": 3556,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtiDdw-bsAAqnnW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1934440919690011102",
+    "fullText": "断舍离！周六把 巢级个体 社区运营一年踩的坑和经验开源了，接下来，准备聚焦在 小火炉 FM 。 https://t.co/M83cfWN1CA"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 73457,
+      "friendsCount": 3403,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1934438154007896574",
+    "fullText": "这个人真的太有趣了，读到这样的博客，自然而然的开心一天。\nhttps://t.co/8vjrZUvGcn"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29678,
+      "followersCount": 29677,
       "friendsCount": 129,
       "location": "China"
     },
@@ -22,7 +86,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125135,
+      "followersCount": 125133,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -39,7 +103,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73453,
+      "followersCount": 73457,
       "friendsCount": 3403,
       "location": ""
     },
@@ -73,7 +137,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125135,
+      "followersCount": 125133,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -90,7 +154,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125135,
+      "followersCount": 125133,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -143,7 +207,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31711,
+      "followersCount": 31716,
       "friendsCount": 601,
       "location": "Hong Kong"
     },
@@ -158,7 +222,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18680,
+      "followersCount": 18670,
       "friendsCount": 1838,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -177,7 +241,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "西天上，总还留有晚霞",
-      "followersCount": 7502,
+      "followersCount": 7501,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -194,7 +258,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73453,
+      "followersCount": 73457,
       "friendsCount": 3403,
       "location": ""
     },
@@ -214,7 +278,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54965,
+      "followersCount": 54964,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -231,7 +295,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18680,
+      "followersCount": 18670,
       "friendsCount": 1838,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -285,7 +349,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23143,
+      "followersCount": 23151,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -302,7 +366,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18680,
+      "followersCount": 18670,
       "friendsCount": 1838,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -321,7 +385,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125135,
+      "followersCount": 125133,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -336,7 +400,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10860,
+      "followersCount": 10858,
       "friendsCount": 3556,
       "location": ""
     },
@@ -353,7 +417,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10860,
+      "followersCount": 10858,
       "friendsCount": 3556,
       "location": ""
     },
@@ -370,7 +434,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10860,
+      "followersCount": 10858,
       "friendsCount": 3556,
       "location": ""
     },
@@ -387,7 +451,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10860,
+      "followersCount": 10858,
       "friendsCount": 3556,
       "location": ""
     },
@@ -421,7 +485,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59049,
+      "followersCount": 59048,
       "friendsCount": 361,
       "location": ""
     },
@@ -436,7 +500,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8359,
+      "followersCount": 8360,
       "friendsCount": 290,
       "location": ""
     },
@@ -451,7 +515,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8970,
+      "followersCount": 8971,
       "friendsCount": 546,
       "location": ""
     },
@@ -468,7 +532,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31711,
+      "followersCount": 31716,
       "friendsCount": 601,
       "location": "Hong Kong"
     },
@@ -590,5 +654,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/Lowes/status/1933781953704018304",
     "fullText": "When you’re a fan of something, you want more of it. That's why MyLowe's Rewards members get MORE rewards. #LowesXMessi"
+  },
+  {
+    "user": {
+      "screenName": "supreme1000",
+      "name": "LUVLIVREV",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1933026100608733184/GP1ILB77_normal.jpg",
+      "description": "LUV LIV R3V Listen now⬇️ “What Happened to Chicago” by L E E https://t.co/V4ToTNO9Xj",
+      "followersCount": 141,
+      "friendsCount": 31,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1933738656474226689/vid/avc1/888x1920/jNOpPsArwB0syUIW.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/supreme1000/status/1933738794395599128",
+    "fullText": "L E E- Love ya Girl Coming Soon❤️🖤♾️ https://t.co/IxuJSnuv6y"
   }
 ]
