@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
+      "followersCount": 5573,
+      "friendsCount": 356,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1934850050334839263",
+    "fullText": "抛一个话题：独立开发要不要全职"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10873,
+      "friendsCount": 3561,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gtn3T-9a0AAtc7F.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1934849635488518464",
+    "fullText": "感觉 画思维导图 比 画 BP 更容易说清楚要做啥 https://t.co/cbFYmbxZRb"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73485,
+      "followersCount": 73486,
       "friendsCount": 3405,
       "location": ""
     },
@@ -54,7 +86,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125204,
+      "followersCount": 125205,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -106,7 +138,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125204,
+      "followersCount": 125205,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -304,7 +336,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31808,
+      "followersCount": 31815,
       "friendsCount": 603,
       "location": "Hong Kong"
     },
@@ -314,6 +346,21 @@
     ],
     "tweetUrl": "https://x.com/yihui_indie/status/1934775359603658824",
     "fullText": "👏iOS课程已发布！全长接近2个小时。这是我们的第一个iOS开发教程，基于Cursor开发一款AI语音记账软件（AI能力基于Qwen Omni）。通过这个教程，你将会学习到：\n1. 使用Cursor生成产品的原型图\n2. 使用Cursor自动编写SwiftUI的代码，开发iOS应用\n3. 使用Python框架Flask + https://t.co/Nx6lbL7WnV"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 407537,
+      "friendsCount": 1225,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1934749480361799831",
+    "fullText": "Founders and CFOs:\n\nYou’re wasting $$$ on vendor contracts that auto-renew, overlap, and have too many licenses. \n\nDr. Contract can now send in an expert to identify and execute on those savings for you.\n\nI personally guarantee the savings will pay for the service or it’s free."
   },
   {
     "user": {
@@ -411,7 +458,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4187291,
+      "followersCount": 4187340,
       "friendsCount": 3,
       "location": ""
     },
@@ -485,6 +532,26 @@
     "videos": [],
     "tweetUrl": "https://x.com/DablClub/status/1934687367895629866",
     "fullText": "This summer in San Francisco, people are going to change the world. \n\nJune 20 - Aug 4. San Francisco.\n\nIn 10 years, you’ll tell people you were in the room when this new, evolved, society was being shaped. This isn’t a conference. It’s a 6-week vertical village for pioneers in https://t.co/al4QqJscxY"
+  },
+  {
+    "user": {
+      "screenName": "LiquidWeb",
+      "name": "Liquid Web",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1805823692628164608/peACJu8F_normal.png",
+      "description": "Delivering results-focused, expert-driven hosting solutions since day one. Your partner in powering performance and achieving success online.",
+      "followersCount": 24980,
+      "friendsCount": 10365,
+      "location": "Lansing, MI"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtlRvQDXoAAISoG.jpg",
+      "https://pbs.twimg.com/media/GtlRvP8W4AAUdbC.jpg",
+      "https://pbs.twimg.com/media/GtlRvQba0AA8K1Z.jpg",
+      "https://pbs.twimg.com/media/GtlRvP8W8AEFnw5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LiquidWeb/status/1934668191713935718",
+    "fullText": "What do top achievers have in common? 💡   \n\nIt’s not just ambition, focus, or discipline. It’s the smart use of technology to optimize every part of their day.  \n\nIn our latest research at Liquid Web, we studied over 1,000 professionals and found that high performers are https://t.co/kqCyUcG5zf"
   },
   {
     "user": {
@@ -576,7 +643,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125204,
+      "followersCount": 125205,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -591,7 +658,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 6113,
+      "followersCount": 6118,
       "friendsCount": 1258,
       "location": ""
     },
@@ -655,7 +722,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 6113,
+      "followersCount": 6118,
       "friendsCount": 1258,
       "location": ""
     },
@@ -670,7 +737,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31808,
+      "followersCount": 31815,
       "friendsCount": 603,
       "location": "Hong Kong"
     },
