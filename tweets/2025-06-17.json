@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 23219,
+      "friendsCount": 291,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gtm1DyEbsAAWybW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1934776755698708602",
+    "fullText": "如龙里这警长感觉有点像半泽直树里的行长 https://t.co/j0aOSESw9N"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 31744,
+      "friendsCount": 603,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1934773109032353792/vid/avc1/2560x1440/k9W_W63eSoppYdLo.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1934775359603658824",
+    "fullText": "👏iOS课程已发布！全长接近2个小时。这是我们的第一个iOS开发教程，基于Cursor开发一款AI语音记账软件（AI能力基于Qwen Omni）。通过这个教程，你将会学习到：\n1. 使用Cursor生成产品的原型图\n2. 使用Cursor自动编写SwiftUI的代码，开发iOS应用\n3. 使用Python框架Flask + https://t.co/Nx6lbL7WnV"
+  },
+  {
+    "user": {
+      "screenName": "Zoom",
+      "name": "Zoom",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1772205124372336640/tHyk4TL1_normal.jpg",
+      "description": "AI-First Work Platform for Human Connection ✨",
+      "followersCount": 1055341,
+      "friendsCount": 1827,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Zoom/status/1934736870124212381",
+    "fullText": "Follow up calls, deadlines, and next steps -- all outlined in easy-to-digest tasks, straight from your voicemail."
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4186880,
+      "followersCount": 4186953,
       "friendsCount": 3,
       "location": ""
     },
@@ -70,7 +119,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125174,
+      "followersCount": 125173,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -85,7 +134,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 6035,
+      "followersCount": 6043,
       "friendsCount": 1258,
       "location": ""
     },
@@ -117,7 +166,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150610,
+      "followersCount": 150615,
       "friendsCount": 476,
       "location": "中华人民共和国"
     },
@@ -132,7 +181,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 6035,
+      "followersCount": 6043,
       "friendsCount": 1258,
       "location": ""
     },
@@ -147,7 +196,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31736,
+      "followersCount": 31744,
       "friendsCount": 603,
       "location": "Hong Kong"
     },
@@ -165,7 +214,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18678,
+      "followersCount": 18674,
       "friendsCount": 1840,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -182,7 +231,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18678,
+      "followersCount": 18674,
       "friendsCount": 1840,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -214,7 +263,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18678,
+      "followersCount": 18674,
       "friendsCount": 1840,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -229,7 +278,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18678,
+      "followersCount": 18674,
       "friendsCount": 1840,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -246,7 +295,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150610,
+      "followersCount": 150615,
       "friendsCount": 476,
       "location": "中华人民共和国"
     },
@@ -296,7 +345,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31736,
+      "followersCount": 31744,
       "friendsCount": 603,
       "location": "Hong Kong"
     },
@@ -313,7 +362,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18678,
+      "followersCount": 18674,
       "friendsCount": 1840,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -347,7 +396,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18678,
+      "followersCount": 18674,
       "friendsCount": 1840,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -377,7 +426,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31736,
+      "followersCount": 31744,
       "friendsCount": 603,
       "location": "Hong Kong"
     },
@@ -396,7 +445,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125174,
+      "followersCount": 125173,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -413,7 +462,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23215,
+      "followersCount": 23219,
       "friendsCount": 291,
       "location": "Guangdong"
     },
