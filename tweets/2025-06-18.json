@@ -1,6 +1,42 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21342,
+      "friendsCount": 1034,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gtudo0SX0AEA2DR.jpg",
+      "https://pbs.twimg.com/media/GtueKu0bUAAVroY.jpg",
+      "https://pbs.twimg.com/media/GtueUV6XAAAE751.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1935313662996090880/vid/avc1/1092x720/2wXRbIxqlrx1bF2U.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/1935315560079962309",
+    "fullText": "#Noi 这次按照常规浏览器 Tab 在实现功能了，连 Close Other Tabs 都做了。一个侧栏链接被我搞了 20 来个配置项，支持 4 种模式下的 UserAgent 自定义、 Cookie 隔离（多账号登录）等等。\n\n从图标模式侧栏到极简边框，可玩性也更强了。 https://t.co/rwnibd2JdG"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 29660,
+      "friendsCount": 129,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1935311233076576439",
+    "fullText": "https://t.co/dvzB2b3qQ0"
+  },
+  {
+    "user": {
       "screenName": "xushiwei",
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
@@ -22,7 +58,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54991,
+      "followersCount": 54992,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -39,7 +75,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31991,
+      "followersCount": 31995,
       "friendsCount": 604,
       "location": "Hong Kong"
     },
@@ -74,7 +110,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54991,
+      "followersCount": 54992,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -106,7 +142,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5685,
+      "followersCount": 5686,
       "friendsCount": 359,
       "location": "杭州"
     },
@@ -121,7 +157,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150578,
+      "followersCount": 150579,
       "friendsCount": 476,
       "location": "中华人民共和国"
     },
@@ -185,7 +221,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31991,
+      "followersCount": 31995,
       "friendsCount": 604,
       "location": "Hong Kong"
     },
@@ -339,7 +375,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8365,
+      "followersCount": 8360,
       "friendsCount": 290,
       "location": ""
     },
@@ -356,7 +392,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59171,
+      "followersCount": 59169,
       "friendsCount": 364,
       "location": ""
     },
@@ -373,7 +409,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59171,
+      "followersCount": 59169,
       "friendsCount": 364,
       "location": ""
     },
@@ -391,7 +427,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125239,
+      "followersCount": 125237,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -457,7 +493,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125239,
+      "followersCount": 125237,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -489,7 +525,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150578,
+      "followersCount": 150579,
       "friendsCount": 476,
       "location": "中华人民共和国"
     },
@@ -1125,7 +1161,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31991,
+      "followersCount": 31995,
       "friendsCount": 604,
       "location": "Hong Kong"
     },
@@ -1142,7 +1178,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 407629,
+      "followersCount": 407634,
       "friendsCount": 1229,
       "location": "Austin, TX"
     },
