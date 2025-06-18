@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 8518,
+      "friendsCount": 266,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtslXTDaQAAb84o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1935182048194609214",
+    "fullText": "6.18 又买了一个阿里云的RDS数据库，感觉价格还可以\n\n574一年，2核4G，美国（硅谷）的\n\n已经习惯数据库放云上了，这样服务器换起来方便😄 https://t.co/5Xaw7lU0IX"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 73471,
+      "friendsCount": 3405,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1935180228743020644",
+    "fullText": "一行代码没写，全是 LLM 写的。\n这样的项目与其说开源代码，是不是更应该开源对话过程啊。"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31977,
+      "followersCount": 31979,
       "friendsCount": 603,
       "location": "Hong Kong"
     },
@@ -54,7 +86,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8516,
+      "followersCount": 8518,
       "friendsCount": 266,
       "location": "NewYork"
     },
@@ -157,7 +189,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59090,
+      "followersCount": 59093,
       "friendsCount": 364,
       "location": ""
     },
@@ -174,7 +206,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59090,
+      "followersCount": 59093,
       "friendsCount": 364,
       "location": ""
     },
@@ -192,7 +224,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125226,
+      "followersCount": 125225,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -258,7 +290,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125226,
+      "followersCount": 125225,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -266,6 +298,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1935014022635454510",
     "fullText": "转译：为什么生成式 AI 编程工具和智能体对我没用\n作者：Miguel Grinberg\n\n人们总是问我，我是否使用生成式 AI 工具来编程，以及我对它们有何看法。因此，我决定将我的想法写下来，这样以后再有人问起，我就可以直接把这篇文章甩给他们，而不必每次都重复自己的观点。"
+  },
+  {
+    "user": {
+      "screenName": "SquaddaB",
+      "name": "S Q U A D D A B",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1928153144099491843/wJHTjTfI_normal.jpg",
+      "description": "",
+      "followersCount": 2841,
+      "friendsCount": 1739,
+      "location": "2025"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1935011413623488512/vid/avc1/3840x2160/QgldEkbzBfyDo6lX.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SquaddaB/status/1935012406671159399",
+    "fullText": "NO.1 LOVE https://t.co/K44lT0hQJe"
   },
   {
     "user": {
@@ -302,11 +351,26 @@
   },
   {
     "user": {
+      "screenName": "JavierCav",
+      "name": "Javier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/858420996/n1066932903_622528_838_normal.jpg",
+      "description": "geek, Animador y diseñador 3D, nadador de aguas abiertas y aguas frías,aficionado a la fotografia, ciencia .",
+      "followersCount": 134,
+      "friendsCount": 457,
+      "location": "Mar del Plata"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JavierCav/status/1934991148033901039",
+    "fullText": "I’m all about strategy games and streaming the action live — planning, outsmarting, and having fun with the community. If you're into brainy games and good company, join my stream."
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31977,
+      "followersCount": 31979,
       "friendsCount": 603,
       "location": "Hong Kong"
     },
@@ -336,7 +400,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 6243,
+      "followersCount": 6244,
       "friendsCount": 1265,
       "location": ""
     },
@@ -353,7 +417,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5670,
+      "followersCount": 5671,
       "friendsCount": 359,
       "location": "杭州"
     },
@@ -368,7 +432,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59090,
+      "followersCount": 59093,
       "friendsCount": 364,
       "location": ""
     },
@@ -385,7 +449,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59090,
+      "followersCount": 59093,
       "friendsCount": 364,
       "location": ""
     },
@@ -400,7 +464,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8516,
+      "followersCount": 8518,
       "friendsCount": 266,
       "location": "NewYork"
     },
@@ -415,7 +479,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5670,
+      "followersCount": 5671,
       "friendsCount": 359,
       "location": "杭州"
     },
@@ -520,7 +584,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5670,
+      "followersCount": 5671,
       "friendsCount": 359,
       "location": "杭州"
     },
@@ -535,7 +599,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10874,
+      "followersCount": 10875,
       "friendsCount": 3562,
       "location": ""
     },
@@ -552,7 +616,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73469,
+      "followersCount": 73471,
       "friendsCount": 3405,
       "location": ""
     },
@@ -755,7 +819,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 31977,
+      "followersCount": 31979,
       "friendsCount": 603,
       "location": "Hong Kong"
     },
@@ -797,6 +861,23 @@
     ],
     "tweetUrl": "https://x.com/QRLedger/status/1934695105706819869",
     "fullText": "While the race to build quantum computers heats up, only a few are seriously addressing what comes next: the quantum threat to blockchain.\n\nAmong the handful claiming quantum resistance, ask yourself:\n\n• Are they still built on ERC-20?\n• Are they truly open-source?\n• Have they https://t.co/NBZ4pzYlrg"
+  },
+  {
+    "user": {
+      "screenName": "DablClub",
+      "name": "Dabl Club",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934687996416303104/DLAIzUcS_normal.jpg",
+      "description": "give your idea a shot. learn the latest dev tools. build with friends. last year over 30,000 people came to our meetups, workshops, bootcamps, and demo days",
+      "followersCount": 44213,
+      "friendsCount": 206,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtljzP9a0AA15aQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DablClub/status/1934687367895629866",
+    "fullText": "This summer in San Francisco, people are going to change the world. \n\nJune 20 - Aug 4. San Francisco.\n\nIn 10 years, you’ll tell people you were in the room when this new, evolved, society was being shaped. This isn’t a conference. It’s a 6-week vertical village for pioneers in https://t.co/al4QqJscxY"
   },
   {
     "user": {
