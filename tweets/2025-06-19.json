@@ -1,6 +1,39 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
+      "followersCount": 5710,
+      "friendsCount": 361,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1935556600292675992",
+    "fullText": "我现在对有些独立开发原则又有不一样的看法。比如\n- 是否用 waitlist 或者 fake 的方式去先测算用户是否感兴趣、调研用户需求。\n- 是否调研社区大家有提到痛点等。\n\n只能说有人感兴趣、有痛点代表产品有需求，但是没有人发声，不代表产品需求不存在，只是还没人说。"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150629,
+      "friendsCount": 477,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gtx2qI1XYAArMow.jpg",
+      "https://pbs.twimg.com/media/Gtx2qIAa8AAFOtV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1935552767323685118",
+    "fullText": "很奇怪，为什么墨尔本的酒店价格并不高？几乎和东南亚国家（不包括新加坡）一个价格。在东南亚旅居和澳大利亚旅居成本几乎一样啊。 https://t.co/0OtHGWSvOT"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -20,7 +53,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32030,
+      "followersCount": 32037,
       "friendsCount": 604,
       "location": "Hong Kong"
     },
@@ -38,7 +71,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8973,
+      "followersCount": 8972,
       "friendsCount": 548,
       "location": ""
     },
@@ -70,7 +103,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125265,
+      "followersCount": 125264,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -87,7 +120,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125265,
+      "followersCount": 125264,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
@@ -119,7 +152,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59317,
+      "followersCount": 59318,
       "friendsCount": 364,
       "location": ""
     },
@@ -145,11 +178,28 @@
   },
   {
     "user": {
+      "screenName": "WaymoCommunity",
+      "name": "Waymo Community",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1719152717782732800/DehcdBGz_normal.jpg",
+      "description": "",
+      "followersCount": 24704,
+      "friendsCount": 509,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1935390367693561856/vid/avc1/1920x1080/5B6qsUrwjX00k0Pe.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/WaymoCommunity/status/1935391318005465364",
+    "fullText": "At @Waymo, safety is at the core of everything we do. In partnership with @BikeLeague, we’re building a future where the roads are safer for everyone, including cyclists, pedestrians, and other vulnerable road users. https://t.co/plJEY39poY"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4190570,
+      "followersCount": 4190617,
       "friendsCount": 3,
       "location": ""
     },
@@ -218,8 +268,8 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150630,
-      "friendsCount": 476,
+      "followersCount": 150629,
+      "friendsCount": 477,
       "location": "中华人民共和国"
     },
     "images": [],
@@ -233,7 +283,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4190570,
+      "followersCount": 4190617,
       "friendsCount": 3,
       "location": ""
     },
@@ -282,8 +332,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 6276,
-      "friendsCount": 1268,
+      "followersCount": 6277,
+      "friendsCount": 1269,
       "location": ""
     },
     "images": [],
@@ -297,7 +347,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29647218,
+      "followersCount": 29647159,
       "friendsCount": 228,
       "location": ""
     },
@@ -335,7 +385,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29663,
+      "followersCount": 29662,
       "friendsCount": 129,
       "location": "China"
     },
@@ -350,7 +400,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8973,
+      "followersCount": 8972,
       "friendsCount": 548,
       "location": ""
     },
@@ -384,7 +434,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32030,
+      "followersCount": 32037,
       "friendsCount": 604,
       "location": "Hong Kong"
     },
@@ -515,7 +565,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59317,
+      "followersCount": 59318,
       "friendsCount": 364,
       "location": ""
     },
@@ -567,7 +617,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125265,
+      "followersCount": 125264,
       "friendsCount": 1322,
       "location": "Chicago, IL"
     },
