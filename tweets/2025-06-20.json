@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 4398,
+      "friendsCount": 443,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1935905174729404416/vid/avc1/2560x1550/ZPUuZElMKJn5IxA4.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/s1ntone/status/1935906446711112044",
+    "fullText": "制作软件教程时，你是否也遇到过这些问题：\n\n❌ 观众看不懂你在点哪里\n❌ 后期添加文字说明太麻烦\n❌ 静态标注跟不上操作节奏\n\n✨ ScreenSage 支持「跟随鼠标位置的文本标注」！\n🖱️ 文字自动跟随鼠标移动\n⚡ 实时显示操作说明\n🎯 每一步操作都清晰\n\n不再是\"你猜我在干什么\"，而是\"看，这里该这样操作\" https://t.co/kIgr1Zwx7y"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5713,
+      "followersCount": 5712,
       "friendsCount": 362,
       "location": "杭州"
     },
@@ -56,7 +73,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18652,
+      "followersCount": 18653,
       "friendsCount": 1873,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -93,7 +110,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150632,
+      "followersCount": 150633,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -125,7 +142,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 106591,
+      "followersCount": 106592,
       "friendsCount": 238,
       "location": "Singapore"
     },
@@ -305,7 +322,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18652,
+      "followersCount": 18653,
       "friendsCount": 1873,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -320,7 +337,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8371,
+      "followersCount": 8369,
       "friendsCount": 290,
       "location": ""
     },
@@ -337,7 +354,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150632,
+      "followersCount": 150633,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -367,7 +384,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18652,
+      "followersCount": 18653,
       "friendsCount": 1873,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -384,7 +401,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
-      "followersCount": 5713,
+      "followersCount": 5712,
       "friendsCount": 362,
       "location": "杭州"
     },
@@ -399,7 +416,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150632,
+      "followersCount": 150633,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -514,7 +531,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29645404,
+      "followersCount": 29645405,
       "friendsCount": 228,
       "location": ""
     },
