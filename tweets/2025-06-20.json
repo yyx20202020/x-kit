@@ -1,11 +1,64 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10902,
+      "friendsCount": 3565,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gt370mrbwAIf_sg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1935980325924225399",
+    "fullText": "一直以为 即刻 生下来就是 社交软件，没想到还有这故事 🤣 https://t.co/9JxDVRuNkW"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 54994,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gt3zxrrW0AAzGVF.jpg",
+      "https://pbs.twimg.com/media/Gt31EpQagAAdAmw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1935973106851709401",
+    "fullText": "Cloudflare 推出了两个很棒的开源库：\nhttps://t.co/uwlD3Jf1NQ\n\n一个是 use-mcp：\nhttps://t.co/c2gP5HfGIe\n一个 React Hook 可以快速链接各种 MCP 服务器， API 设计的很简约。假如有类似需求的，可以试试这个方案。\n\n一个是 AI Playground：\nhttps://t.co/BQOzSUf27G\n快速搭建一个 AI 聊天界面： https://t.co/xxduc4Qpvz"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150616,
+      "friendsCount": 477,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gt30Fb9bwAMjWPm.jpg",
+      "https://pbs.twimg.com/media/Gt30HfbXoAA5A58.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1935971953447403966",
+    "fullText": "麻了，iOS 26 默认所有未知联系人（不在通讯录里面的号码）发的短信都不提示了！\n\n已知联系人发的短信都是少数啊，通知短信一般都是随机的 1068 号码，谁会把它们都加到通讯录里面啊！Apple 在后面的 beta 里一定一定要改回来啊！ https://t.co/vpN9mBp2eI"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188064,
+      "followersCount": 188074,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -23,7 +76,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8551,
+      "followersCount": 8555,
       "friendsCount": 267,
       "location": "NewYork"
     },
@@ -41,7 +94,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150607,
+      "followersCount": 150616,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -74,7 +127,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23241,
+      "followersCount": 23242,
       "friendsCount": 291,
       "location": "Guangdong"
     },
@@ -249,7 +302,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188064,
+      "followersCount": 188074,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -268,7 +321,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188064,
+      "followersCount": 188074,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -384,7 +437,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150607,
+      "followersCount": 150616,
       "friendsCount": 477,
       "location": "中华人民共和国"
     },
@@ -433,7 +486,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 106585,
+      "followersCount": 106587,
       "friendsCount": 238,
       "location": "Singapore"
     },
@@ -482,7 +535,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73558,
+      "followersCount": 73559,
       "friendsCount": 3407,
       "location": ""
     },
@@ -514,7 +567,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 54987,
+      "followersCount": 54994,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -883,6 +936,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/AniTrendz/status/1935499032966873299",
     "fullText": "✨ THIS WEEKEND AT OFFKAI ✨\n\nhololive OFFICIAL CARD GAME &amp; official merchandise presented by Tokyo Japanese Lifestyle will be at OffKai!\n\n📍 Booth 21 (@ViteRamen &amp; Anime Trending) at the Artist &amp; Vendor Hall \n\n📅 June 20-22 at San Jose Convention Center https://t.co/hqXi5E4NCV"
+  },
+  {
+    "user": {
+      "screenName": "GDIT",
+      "name": "General Dynamics Information Technology",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807782146901168128/40L3snBg_normal.jpg",
+      "description": "Serving the mission for over 50 years, by ensuring today is secure and tomorrow is smarter. #WeAreGDIT",
+      "followersCount": 21065,
+      "friendsCount": 1797,
+      "location": "Falls Church, VA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GDIT/status/1935442402476704222",
+    "fullText": "GDIT brings hands on expertise and forward leaning solutions to give America's warfighters and agencies the upper hand, no matter the threat."
   },
   {
     "user": {
