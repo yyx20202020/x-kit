@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32036,
+      "friendsCount": 607,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1935982814572232704/vid/avc1/2560x1440/KfwM6Gpuf0QqP0MM.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1935993787123478812",
+    "fullText": "【0基础教程】不写一行代码, 如何开发出你的第一个AI + iOS应用？ https://t.co/n4u5CJ1o1T"
+  },
+  {
+    "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1797186447491170304/fLqq1huE_normal.jpg",
+      "description": "💻 AI构建者，前B轮初创CXO\n📸 自启动构建@pixels_ai\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 78,
+      "friendsCount": 91,
+      "location": "免费AI工具 →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GXvnbBhWYAAxvTg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/1935991649177591886",
+    "fullText": "https://t.co/jRIwGfm1N5"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -40,7 +74,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150616,
+      "followersCount": 150620,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -58,7 +92,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188076,
+      "followersCount": 188078,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -76,7 +110,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8557,
+      "followersCount": 8559,
       "friendsCount": 267,
       "location": "NewYork"
     },
@@ -94,7 +128,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150616,
+      "followersCount": 150620,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -144,7 +178,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32037,
+      "followersCount": 32036,
       "friendsCount": 607,
       "location": "Hong Kong"
     },
@@ -298,11 +332,28 @@
   },
   {
     "user": {
+      "screenName": "donwinslow",
+      "name": "Don Winslow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1647525880430993409/60HaCvHF_normal.jpg",
+      "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\n#WinslowDigitalArmy  \n\nFind great books by following: @WinslowBookClub",
+      "followersCount": 894937,
+      "friendsCount": 36563,
+      "location": "Tweets are just my opinion"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gt2ky_bWMAANQIM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/donwinslow/status/1935884620798845416",
+    "fullText": "My new book, THE FINAL SCORE, is out SEPT 16  But you can make an old writer happy by ordering it today at the links below:  \n\nAmazon: https://t.co/JphYQm5wd9\nB&amp;N: https://t.co/p5f6m0JIZs https://t.co/t1uoA3Y3IL"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188076,
+      "followersCount": 188078,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -321,7 +372,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188076,
+      "followersCount": 188078,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -470,7 +521,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18553,
+      "followersCount": 18554,
       "friendsCount": 827,
       "location": "Mountain View, CA"
     },
@@ -488,7 +539,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150616,
+      "followersCount": 150620,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -520,7 +571,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32037,
+      "followersCount": 32036,
       "friendsCount": 607,
       "location": "Hong Kong"
     },
@@ -586,7 +637,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73558,
+      "followersCount": 73560,
       "friendsCount": 3407,
       "location": ""
     },
@@ -635,7 +686,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32037,
+      "followersCount": 32036,
       "friendsCount": 607,
       "location": "Hong Kong"
     },
@@ -700,7 +751,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10902,
+      "followersCount": 10904,
       "friendsCount": 3565,
       "location": ""
     },
@@ -1149,7 +1200,7 @@
       "name": "Midjourney",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
       "description": "A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.",
-      "followersCount": 388994,
+      "followersCount": 389052,
       "friendsCount": 0,
       "location": ""
     },
@@ -1248,7 +1299,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29643637,
+      "followersCount": 29643641,
       "friendsCount": 228,
       "location": ""
     },
