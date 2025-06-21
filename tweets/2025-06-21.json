@@ -1,6 +1,68 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18645,
+      "friendsCount": 1872,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1936446056319123957",
+    "fullText": "目前的就业形势来看，毕业典礼属于丧事喜办了"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 6286,
+      "friendsCount": 1279,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1936445877276852695",
+    "fullText": "程序员的悲哀是什么?\n996嫌累，摸鱼觉得没意思，使用开源库觉得没技术含量，自己造轮子又太累，写代码又羡慕领导写 PPT，写PPT 又害怕自己没有硬实力。进体制觉得太平庸，在私企又担心不稳定，想转行嫌工资低，留下来又不喜欢，终其一生，眼高手低、满是遗憾。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 29749,
+      "friendsCount": 129,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1936442091363827914",
+    "fullText": "世界上最强大的代码template补全系统是啥？\n\nEmacs最强的yasnippet，虽然强大，但是太慢了。\n\n真想找时间像lsp-bridge那样，重写一个速度最快的模板补全系统。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 29749,
+      "friendsCount": 129,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gt-eMmQbYAAj9So.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1936440521775616402",
+    "fullText": "如果有一天人工智能能像《Her》那样有趣的话，那真的是暖心的人工智能啊，不带有任何评价和物质看法，纯粹精神交流。 https://t.co/vihy4A7Vu1"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
@@ -23,7 +85,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 6291,
+      "followersCount": 6286,
       "friendsCount": 1279,
       "location": ""
     },
@@ -40,7 +102,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 6291,
+      "followersCount": 6286,
       "friendsCount": 1279,
       "location": ""
     },
@@ -55,7 +117,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55049,
+      "followersCount": 55054,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -70,7 +132,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 5861,
+      "followersCount": 5871,
       "friendsCount": 366,
       "location": "杭州"
     },
@@ -85,7 +147,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32117,
+      "followersCount": 32122,
       "friendsCount": 608,
       "location": "Hong Kong"
     },
@@ -119,7 +181,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 5861,
+      "followersCount": 5871,
       "friendsCount": 366,
       "location": "杭州"
     },
@@ -149,7 +211,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
-      "followersCount": 8655,
+      "followersCount": 8657,
       "friendsCount": 267,
       "location": "NewYork"
     },
@@ -164,7 +226,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23253,
+      "followersCount": 23254,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -179,7 +241,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32117,
+      "followersCount": 32122,
       "friendsCount": 608,
       "location": "Hong Kong"
     },
@@ -196,7 +258,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 5861,
+      "followersCount": 5871,
       "friendsCount": 366,
       "location": "杭州"
     },
@@ -228,7 +290,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 5861,
+      "followersCount": 5871,
       "friendsCount": 366,
       "location": "杭州"
     },
@@ -443,7 +505,7 @@
       "name": "Fanatics",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1911762982876438528/oKcNagxI_normal.jpg",
       "description": "Fanatics Fest NYC is THIS weekend. Last chance to get your tix ⬇️",
-      "followersCount": 116995,
+      "followersCount": 117011,
       "friendsCount": 1676,
       "location": "Everywhere"
     },
@@ -603,7 +665,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59482,
+      "followersCount": 59491,
       "friendsCount": 364,
       "location": ""
     },
@@ -650,7 +712,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59482,
+      "followersCount": 59491,
       "friendsCount": 364,
       "location": ""
     },
@@ -731,7 +793,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32117,
+      "followersCount": 32122,
       "friendsCount": 608,
       "location": "Hong Kong"
     },
@@ -900,7 +962,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1924314148650811392/wIRdLxXp_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx",
-      "followersCount": 22531,
+      "followersCount": 22530,
       "friendsCount": 337,
       "location": "HK"
     },
@@ -932,7 +994,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18639,
+      "followersCount": 18645,
       "friendsCount": 1872,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -947,7 +1009,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 5861,
+      "followersCount": 5871,
       "friendsCount": 366,
       "location": "杭州"
     },
@@ -964,7 +1026,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 5861,
+      "followersCount": 5871,
       "friendsCount": 366,
       "location": "杭州"
     },
@@ -996,7 +1058,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 5861,
+      "followersCount": 5871,
       "friendsCount": 366,
       "location": "杭州"
     },
@@ -1045,7 +1107,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150677,
+      "followersCount": 150679,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -1079,7 +1141,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8374,
+      "followersCount": 8375,
       "friendsCount": 290,
       "location": ""
     },
@@ -1111,7 +1173,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18639,
+      "followersCount": 18645,
       "friendsCount": 1872,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1141,11 +1203,28 @@
   },
   {
     "user": {
+      "screenName": "TheRippaverse",
+      "name": "Rippaverse Comics",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1626669901220831233/8XdvC2ZM_normal.jpg",
+      "description": "A comic book company...for comic book readers.\nFounder/Owner: @EricDJuly. Our Creator-Owned Service Wing: @RippaSend",
+      "followersCount": 34843,
+      "friendsCount": 2,
+      "location": "Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1936016845695287296/vid/avc1/1920x1080/ZvcgaMEz1QCQ1i5N.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheRippaverse/status/1936017600858714553",
+    "fullText": "The Norfrica: Glorious Death #1 launch trailer is here—featuring the official in-universe single “Glorious Death.”\n\nPre-order the book and purchase the single on all major digital platforms! https://t.co/k9zi0IqurE"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18639,
+      "followersCount": 18645,
       "friendsCount": 1872,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
