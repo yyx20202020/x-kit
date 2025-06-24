@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
+      "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
+      "followersCount": 8891,
+      "friendsCount": 273,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuOt6HEa4AAJZhV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1937583783882219663",
+    "fullText": "感受到人文关怀了\n\n兔友为了让他老爸感受到真正强大的AI，从兔子这里接入了o3-all模型（官网页面版）到微信上；还精心的对返回数据进行了排版，生成一个网页展示\n\n以下为本次回答的链接\nhttps://t.co/bA0IiauFG2 https://t.co/2RE1sc2Skn"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32208,
+      "friendsCount": 615,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1937581462330789946",
+    "fullText": "人类对更强的AI模型、更好的AI工具、更快的响应速度的追求是没有终点的。 \n\n—— 来自一个半夜3点还在Vibe的人"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -52,6 +84,23 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 244643,
+      "friendsCount": 5068,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1937550044632068099/pu/vid/avc1/720x1280/B9QRxhwzmy922mzM.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1937550074365489629",
+    "fullText": "Me Too Movement: Examining the Hypocrisy &amp; Truths\n\n@RelatablewABS @conservmillen https://t.co/UhU0eRwsIk"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -86,7 +135,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 759,
+      "followersCount": 760,
       "friendsCount": 479,
       "location": ""
     },
@@ -152,7 +201,7 @@
       "name": "Kalshi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1841549922694262784/1qzNBZII_normal.jpg",
       "description": "Trade on anything in all 50 states: politics, sports, entertainment, crypto, weather, and so much more. For sports: @KalshiSports For support: @KalshiSupport",
-      "followersCount": 127496,
+      "followersCount": 127497,
       "friendsCount": 1360,
       "location": "New York"
     },
@@ -162,6 +211,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/Kalshi/status/1937510717856374785",
     "fullText": "BREAKING: Mamdani's odds lead reaches a new high of 16% against Cuomo https://t.co/p3UownMeis"
+  },
+  {
+    "user": {
+      "screenName": "MattEbertCC",
+      "name": "Matt Ebert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1775912608203165697/ruglB5a8_normal.jpg",
+      "description": "Founder and CEO of @CrashChampions | Champion of Blue-Collar & Trades",
+      "followersCount": 215,
+      "friendsCount": 16,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MattEbertCC/status/1937506244698206663",
+    "fullText": "We need to keep shop class in high schools. It’s a gateway to an incredible career for students who may not be headed to college."
   },
   {
     "user": {
@@ -220,7 +284,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150707,
+      "followersCount": 150703,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -254,7 +318,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8890,
+      "followersCount": 8891,
       "friendsCount": 273,
       "location": "NewYork"
     },
@@ -305,7 +369,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150707,
+      "followersCount": 150703,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -340,7 +404,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55114,
+      "followersCount": 55115,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -374,7 +438,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125619,
+      "followersCount": 125614,
       "friendsCount": 1323,
       "location": "Chicago, IL"
     },
@@ -456,7 +520,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150707,
+      "followersCount": 150703,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -558,6 +622,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/WhisperEclipse/status/1937321971941015818",
     "fullText": "Peace in our time?"
+  },
+  {
+    "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2920,
+      "friendsCount": 983,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937318391548903424/vid/avc1/1920x1080/krWNp3IYQ6V-FItz.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1937318638362722501",
+    "fullText": "How is AI reshaping channel ecosystems?\n\nCatch @IngramMicroInc's Sanjib Sahoo (@SahooSanj) at The Six Five Summit, where he shared how Xvantage was built from the ground up to be an AI-native platform — powered by 40+ years of data, a real-time data mesh, and an AI factory.\n\n💡 https://t.co/s3XiUD8mOF"
   },
   {
     "user": {
@@ -750,7 +831,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8890,
+      "followersCount": 8891,
       "friendsCount": 273,
       "location": "NewYork"
     },
@@ -787,7 +868,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8890,
+      "followersCount": 8891,
       "friendsCount": 273,
       "location": "NewYork"
     },
@@ -806,7 +887,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7001,
+      "followersCount": 6998,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
