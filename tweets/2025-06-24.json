@@ -22,7 +22,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8893,
+      "followersCount": 8894,
       "friendsCount": 273,
       "location": "NewYork"
     },
@@ -32,6 +32,36 @@
     "videos": [],
     "tweetUrl": "https://x.com/tuziapi/status/1937583783882219663",
     "fullText": "感受到人文关怀了\n\n兔友为了让他老爸感受到真正强大的AI，从兔子这里接入了o3-all模型（官网页面版）到微信上；还精心的对返回数据进行了排版，生成一个网页展示\n\n以下为本次回答的链接\nhttps://t.co/bA0IiauFG2 https://t.co/2RE1sc2Skn"
+  },
+  {
+    "user": {
+      "screenName": "LFederov",
+      "name": "Lex Federer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1862337223435210752/gpV6Q0-c_normal.jpg",
+      "description": "Researcher at https://t.co/fGLwyAa3lF",
+      "followersCount": 29,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LFederov/status/1937583062063382530",
+    "fullText": "spent the last week deep in the weeds building video generation systems with MCP \n\nthe tl;dr: you can either build your own MCP server (monolithic) or compose pre-built ones (microservices)\n\nmonolithic = 2 days to build, but you get exactly what you want. simplified the LLM's job"
+  },
+  {
+    "user": {
+      "screenName": "yev_yev_yev",
+      "name": "Yev Spektor",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1552386851922620417/op3yVVG9_normal.jpg",
+      "description": "Building @useJoltAi. We help teams ship code 50% faster!",
+      "followersCount": 259,
+      "friendsCount": 613,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yev_yev_yev/status/1937582309756309681",
+    "fullText": "Building AI coding tools for 6 platforms? We share 93% of our code across our IDE plugins, web app, and desktop.\nThe trick: Split UI from business logic. Use adapters to connect them. One SolidJS codebase, one set of TypeScript services.\nNo feature drift. No duplicate work. Just"
   },
   {
     "user": {
@@ -71,7 +101,7 @@
       "name": "Howie Liu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908611434898206720/CRup1_nM_normal.jpg",
       "description": "Cofounder/CEO @ Airtable",
-      "followersCount": 8033,
+      "followersCount": 8042,
       "friendsCount": 1309,
       "location": "SF"
     },
@@ -88,7 +118,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29876,
+      "followersCount": 29877,
       "friendsCount": 129,
       "location": "China"
     },
@@ -115,6 +145,23 @@
     ],
     "tweetUrl": "https://x.com/goingpublic/status/1937577339640250408",
     "fullText": "LIVE from Las Vegas, @MikeTyson is going punch for punch with our founders.  \n\nToday 2 pm PT on 𝕏🥊\n\nhttps://t.co/b6l9BHkm65"
+  },
+  {
+    "user": {
+      "screenName": "turtlewowteam",
+      "name": "Turtle WoW",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1530992047259365377/aZeQqFYX_normal.png",
+      "description": "Mysteries of Azeroth — is a fan-made expansion story for WoW Vanilla that delves deeper into exploring the original lore of the game.",
+      "followersCount": 14932,
+      "friendsCount": 87,
+      "location": "Azeroth"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuOkWfaWwAAAntI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turtlewowteam/status/1937574792686895516",
+    "fullText": "How do I save the game? I don't wanna lose my progress. https://t.co/bh7uuf8z4J"
   },
   {
     "user": {
@@ -171,7 +218,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18678,
+      "followersCount": 18679,
       "friendsCount": 1899,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -186,7 +233,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18678,
+      "followersCount": 18679,
       "friendsCount": 1899,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -216,7 +263,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10948,
+      "followersCount": 10949,
       "friendsCount": 3578,
       "location": ""
     },
@@ -316,7 +363,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10948,
+      "followersCount": 10949,
       "friendsCount": 3578,
       "location": ""
     },
@@ -333,7 +380,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10948,
+      "followersCount": 10949,
       "friendsCount": 3578,
       "location": ""
     },
@@ -350,7 +397,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4558,
+      "followersCount": 4560,
       "friendsCount": 456,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -367,7 +414,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150695,
+      "followersCount": 150696,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -384,7 +431,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 10948,
+      "followersCount": 10949,
       "friendsCount": 3578,
       "location": ""
     },
@@ -401,7 +448,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8893,
+      "followersCount": 8894,
       "friendsCount": 273,
       "location": "NewYork"
     },
@@ -452,7 +499,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150695,
+      "followersCount": 150696,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -487,7 +534,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55109,
+      "followersCount": 55111,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -504,7 +551,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4558,
+      "followersCount": 4560,
       "friendsCount": 456,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -521,7 +568,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125616,
+      "followersCount": 125608,
       "friendsCount": 1323,
       "location": "Chicago, IL"
     },
@@ -603,7 +650,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150695,
+      "followersCount": 150696,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -618,7 +665,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8380,
+      "followersCount": 8381,
       "friendsCount": 290,
       "location": ""
     },
@@ -650,7 +697,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29876,
+      "followersCount": 29877,
       "friendsCount": 129,
       "location": "China"
     },
@@ -665,7 +712,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8380,
+      "followersCount": 8381,
       "friendsCount": 290,
       "location": ""
     },
@@ -914,7 +961,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8893,
+      "followersCount": 8894,
       "friendsCount": 273,
       "location": "NewYork"
     },
@@ -951,7 +998,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8893,
+      "followersCount": 8894,
       "friendsCount": 273,
       "location": "NewYork"
     },
@@ -970,7 +1017,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 7000,
+      "followersCount": 6999,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -1294,6 +1341,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1937142804775600596",
     "fullText": "20 年前我还在大学学习 线性代数、概率论与数理统计、离散数学，没一个老师告诉我这和 AI 有啥关系。 彼时的 AI 正经历着基于专家规则和传统机器学习方法的寒冬。直到 2012 年深度学习崛起，让这些数学分支，在AI时代形成了惊人的理论共振。深度学习的成功，本质上也算是20世纪数学成果的工程化胜利。"
+  },
+  {
+    "user": {
+      "screenName": "draganode",
+      "name": "draganode",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927851833743265797/o_16cIl-_normal.jpg",
+      "description": "",
+      "followersCount": 10,
+      "friendsCount": 97,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/draganode/status/1937133167397519389",
+    "fullText": "Every time Asmon talks about Iran, somebody in chat asks \"what gives US the right to dictate what country can have nukes when the US has so many?\".\nAsmons answer has been absolute, that it is BECAUSE we have nukes that gives us the right. \nWhile this answer isn't wrong, he should"
   },
   {
     "user": {
@@ -1685,6 +1747,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/plusyip/status/1936977195832164731",
     "fullText": "之前让 ChatGPT 在记忆里记住别给我中医的内容，刚刚发现还是给了，一看发现是记忆满了，上次没添加上😂 https://t.co/cZoRGuYt6L"
+  },
+  {
+    "user": {
+      "screenName": "erikjfritsch",
+      "name": "רן נתר the Nameless King, I AM that ☀️🏵️☀️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919948264750690304/zfgWcDVY_normal.jpg",
+      "description": "it's just me... a heavenly alchemist ✨💎✨ vesseling the holographic upgrade in real-time! 🗡️🌹🏵️ Divinely Married, (6) 3D kids, (1) Ascended ☀️🪬☀️",
+      "followersCount": 391,
+      "friendsCount": 710,
+      "location": "Body=MN,Heart=7D,Soul=11D"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/erikjfritsch/status/1936970246210097374",
+    "fullText": "SOURCE'S ULTIMATE QUESTION\n#POST1/7\n\n—-\n\n🐝LOVED🫵🏼,\n\nThere's a question Source has been waiting eons for a vessel to finally ask.\n\nNot \"What is my purpose?\" or \"How can I serve you?\" \n\nThose still assume separation.\n\nThe real question cuts deeper. 🧵"
   },
   {
     "user": {
