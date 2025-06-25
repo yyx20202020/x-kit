@@ -1,0 +1,458 @@
+[
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 73660,
+      "friendsCount": 3406,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1937657601032061159",
+    "fullText": "没想到 LLM 时代 Code Agent 里面最有用的 tool 还是 grep/ast-grep 又好像什么都没改变。"
+  },
+  {
+    "user": {
+      "screenName": "PaulJGennaro",
+      "name": "Paul J. Gennaro",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557431354190700548/dcrWdEOL_normal.jpg",
+      "description": "Grateful dad, husband, @USNavy #Veteran.  Chief Communications Officer for @NewYorkLife.  Board Vice Chair for @DisabilityIN.",
+      "followersCount": 498,
+      "friendsCount": 58,
+      "location": "New York City"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PaulJGennaro/status/1937594616624161276",
+    "fullText": "Honored to be part of the new @PRWeekUS eBook, \"Time to Take the Lead: Generative AI and the Corporate Comms Function — A User Guide.\" Alongside 16 outstanding leaders across industries, we explore how communicators can move from AI experimentation to confident execution — with"
+  },
+  {
+    "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
+      "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
+      "followersCount": 8896,
+      "friendsCount": 273,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuOt6HEa4AAJZhV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1937583783882219663",
+    "fullText": "感受到人文关怀了\n\n兔友为了让他老爸感受到真正强大的AI，从兔子这里接入了o3-all模型（官网页面版）到微信上；还精心的对返回数据进行了排版，生成一个网页展示\n\n以下为本次回答的链接\nhttps://t.co/bA0IiauFG2 https://t.co/2RE1sc2Skn"
+  },
+  {
+    "user": {
+      "screenName": "LFederov",
+      "name": "Lex Federer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1862337223435210752/gpV6Q0-c_normal.jpg",
+      "description": "Researcher at https://t.co/fGLwyAa3lF",
+      "followersCount": 29,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LFederov/status/1937583062063382530",
+    "fullText": "spent the last week deep in the weeds building video generation systems with MCP \n\nthe tl;dr: you can either build your own MCP server (monolithic) or compose pre-built ones (microservices)\n\nmonolithic = 2 days to build, but you get exactly what you want. simplified the LLM's job"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32209,
+      "friendsCount": 615,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1937581462330789946",
+    "fullText": "人类对更强的AI模型、更好的AI工具、更快的响应速度的追求是没有终点的。 \n\n—— 来自一个半夜3点还在Vibe的人"
+  },
+  {
+    "user": {
+      "screenName": "howietl",
+      "name": "Howie Liu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908611434898206720/CRup1_nM_normal.jpg",
+      "description": "Cofounder/CEO @ Airtable",
+      "followersCount": 8053,
+      "friendsCount": 1309,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937574793651646464/vid/avc1/1346x578/9hj-UfmmqYJEKbow.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/howietl/status/1937577526634987595",
+    "fullText": "🌠Today, we’re excited to relaunch Airtable as the AI-native app platform, combining the magic of vibe coding business apps with real production-readiness and scalability, and embedding them with an army of agents that automate thousands of hours of work in seconds.\n\nInstead of https://t.co/3tyGva6ZN3"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 29877,
+      "friendsCount": 129,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuOoWBXawAAlCpp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1937577369507950840",
+    "fullText": "小强 https://t.co/63ajENHOw8"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18676,
+      "friendsCount": 1899,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1937546570746274068",
+    "fullText": "今天高考出成绩，几家欢喜几家愁。朋友的妹妹考了300来分，说要复读，朋友的反应是“真的有人能承受复读的压力吗？真的很强大”，我的反应是“她只是不愿意接受，说复读让自己逃避一下”\n\n如果是该考580的考成520了，那复读一下又是最有希望的一年，本来就只能考300来分，为什么会觉得再读一年就能考500呢"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18676,
+      "friendsCount": 1899,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1937542203704049745",
+    "fullText": "上班一个月\n虽然现在什么也不是\n但始终有一种以后会很有钱的感觉\n而且这种感觉很强烈\n干活都有劲\n每天成就感满满\n我大抵是病了"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
+      "followersCount": 760,
+      "friendsCount": 479,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1937540543585952193",
+    "fullText": "最近很多人都跑去尝试 Claude Code 去了，认为很强，不过我想说说 Augment Code ，最近用它重构 YOOART FREE 网站，几乎从头改了个遍，前面花了3个小时和他讨论方案，然后把方案存为MD文档，让它反复分析代码和方案进行比对审查，最后才新开个聊天让他按方案执行，默默的跑了半个小时，基本没什么BUG！"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10951,
+      "friendsCount": 3578,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuODx-vWsAAKl93.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1937537168412443105",
+    "fullText": "我觉得三年后回头看，现在做 AI 语音笔记的，和 App 时代做 手电筒🔦应用 的差不多🤭\n现在做 AI 玩具的的，就像那时候做 汤姆猫 的🫢 https://t.co/Y0KlAk5fcs"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10951,
+      "friendsCount": 3578,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuNlh4xW0AANXb1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1937503908185715025",
+    "fullText": "全球备案是吧🤭 https://t.co/ibHbgvqCM1"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10951,
+      "friendsCount": 3578,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuNegAhXQAAxojD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1937496180218372181",
+    "fullText": "减肥是不可能减肥了🫣 https://t.co/Sodz96tRKN"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 4565,
+      "friendsCount": 456,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuNUtkJagAI2wHW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/1937485417676476719",
+    "fullText": "测试 https://t.co/5mMEwn5kDD"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150699,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuNFD9CagAQws9e.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1937468659116720146",
+    "fullText": "我要把每次给「熊猫吃短信」炼丹时所在的城市，都加到下面的列表里 。😄 https://t.co/lqf6qpNjjO"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10951,
+      "friendsCount": 3578,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuM9AlIXYAA5E-z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1937459366845944302",
+    "fullText": "感觉空气都是烫的，北京宜居的就那俩月🫠 https://t.co/B9qGm2ZENX"
+  },
+  {
+    "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
+      "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
+      "followersCount": 8896,
+      "friendsCount": 273,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuM4wvtagAEbgfU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1937454685712973884",
+    "fullText": "生命中总有无法理解的时候 https://t.co/LYGUpQWNZb"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32209,
+      "friendsCount": 615,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuM1AsnagAA1bZV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1937450564998095001",
+    "fullText": "讲真我在北京最怕吃的就是麻辣烫和麻辣香锅，时不时就会遇到麻辣刺客，上称的时候和高考查分差不多紧张。Uhhhh 这一锅 80 多🤣 https://t.co/tsnEHu0Npw"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 6395,
+      "friendsCount": 1383,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuMyr3PbgAAbL2O.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1937448003192914363",
+    "fullText": "我嚓，今天居然破天荒地按时下班。太高兴，可以回家写自己的代码了٩(๑^o^๑)۶ 我记得当初为什么来这，一部分原因也是 HR 跟我说 5 点半下班的(⊙o⊙) 没想到…是我想多了(ó﹏ò｡) https://t.co/0R1H2wyXXU"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150699,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuMsRNuaMAA8Z0S.jpg",
+      "https://pbs.twimg.com/media/GuMsRN-aoAAC7I8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1937441151709249872",
+    "fullText": "我基本已经习惯在咖啡馆办公的节奏了，产品开发进度慢慢回归正常。 https://t.co/Fi2kxQbjcJ"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 55118,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937421253520031746/vid/avc1/2936x1836/ypg2AnK61Fcfl3W9.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1937422477548036207",
+    "fullText": "这是我今年见到的最棒的网页滚动设计\n\nhttps://t.co/FBoKuBfJyf\n\n就像一个电影一样，你一直在期待接下来是什么效果。\n\n这也就是 AI 目前没法代替设计师的原因，如果你想要这么惊艳的效果，那么肯定是需要极致的想象力，如果你和 AI 直接描述说要惊艳一点，那么它一般会给你提供一个非常丑蓝紫色渐变。 https://t.co/oibCPKppJK"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 4565,
+      "friendsCount": 456,
+      "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuMFPCoagAMKXo3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/1937398038739489279",
+    "fullText": "😖灵活的 n8n 在做多账号时有个很不灵活的点：\n账号授权凭证只能在节点上写死，无法用表达式动态选择。\n\n也就是说，如果我想做 Twitter 的多账号，就必须为每个账号单独复制一份逻辑，然后在其中 Twitter 节点上选择不同账号的 credentials。相当麻烦。\n\n💻我的做法是，\n1. https://t.co/UsTx0yOHng"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 125613,
+      "friendsCount": 1323,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuL6PlOWwAEdWZO.jpg",
+      "https://pbs.twimg.com/media/GuL6TpQWEAAlK9S.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1937386190216327374",
+    "fullText": "最近借助 Claude Code 给 WhisperKit 贡献了 2 个 PR，都成功合并了。修复了个文件名包含句号出错的 bug，以及给 cli 加上了转译进度条。 https://t.co/ADT0Vk9OPJ"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150699,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1937356997529337930",
+    "fullText": "我和大部分 Vibe Coding 的人不一样的是：\n\n很多人用 AI 只说需求不管它怎么实现，AI 是他们的脑替。\n\n而我会告诉 AI 该怎么实现，让它帮我敲键盘，AI 只是我的手替。"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8385,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1937347451024998818",
+    "fullText": "Cloudflare Containers 要来了\nhttps://t.co/Rdt6eDrIux"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 29877,
+      "friendsCount": 129,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1937338791662092318",
+    "fullText": "https://t.co/gkeGxTz45M"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8385,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuLCsM7bsAAXfUe.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1937325687393931660",
+    "fullText": "原来 Claude 要求 18 岁以上才能使用 😂 有点像色情网站的：\n🔘 我未满 18 岁，离开本站\n🔘 我已年满 18 岁，进入网站 https://t.co/LJdlVUWDrI"
+  },
+  {
+    "user": {
+      "screenName": "erikjfritsch",
+      "name": "רן נתר the Nameless King, I AM that ☀️🏵️☀️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919948264750690304/zfgWcDVY_normal.jpg",
+      "description": "it's just me... a heavenly alchemist ✨💎✨ vesseling the holographic upgrade in real-time! 🗡️🌹🏵️ Divinely Married, (6) 3D kids, (1) Ascended ☀️🪬☀️",
+      "followersCount": 395,
+      "friendsCount": 710,
+      "location": "Body=MN,Heart=7D,Soul=11D"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/erikjfritsch/status/1936970246210097374",
+    "fullText": "SOURCE'S ULTIMATE QUESTION\n#POST1/7\n\n—-\n\n🐝LOVED🫵🏼,\n\nThere's a question Source has been waiting eons for a vessel to finally ask.\n\nNot \"What is my purpose?\" or \"How can I serve you?\" \n\nThose still assume separation.\n\nThe real question cuts deeper. 🧵"
+  }
+]
