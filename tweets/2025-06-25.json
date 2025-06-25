@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1797186447491170304/fLqq1huE_normal.jpg",
+      "description": "💻 AI构建者，前B轮初创CXO\n📸 自启动构建@pixels_ai\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 80,
+      "friendsCount": 90,
+      "location": "免费AI工具 →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/1937747901356343623",
+    "fullText": "X 上帖子的 ranking 就是 GEO\n\n多个来源证实 Grok 已经开始整合到 X 上，更加基于内容推荐。\n\n关注关系与 PageRank 这样基于链接的推荐逐步让步于不太依赖链接，更加注重内容的推荐。 这对被关注不多的小账户而言，可能是一个更加平等的机会。"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
@@ -20,7 +35,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150705,
+      "followersCount": 150706,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -50,7 +65,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125678,
+      "followersCount": 125685,
       "friendsCount": 1323,
       "location": "Chicago, IL"
     },
@@ -103,7 +118,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125678,
+      "followersCount": 125685,
       "friendsCount": 1323,
       "location": "Chicago, IL"
     },
@@ -152,7 +167,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6003,
+      "followersCount": 6000,
       "friendsCount": 368,
       "location": "杭州"
     },
@@ -160,6 +175,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/1937673763916857422",
     "fullText": "所以《游戏引擎架构》第三版是没人打算翻译了么？"
+  },
+  {
+    "user": {
+      "screenName": "Rockenberg_Ltd",
+      "name": "Rocken - Splatoon 3",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1836858471615959041/pE1ThrYh_normal.jpg",
+      "description": "90's Gen Z - That Custom Jet Squelcher One Trick\nRetired Channel: https://t.co/xR2ZaIfh3N\nPFP: https://t.co/Y3nZwUR5wz || Pool: SQ1",
+      "followersCount": 6676,
+      "friendsCount": 61,
+      "location": "MA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937670897453649921/vid/avc1/1280x720/tEx7GeW491PtYrUX.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Rockenberg_Ltd/status/1937670954252988529",
+    "fullText": "That last minute quad #Splatoon3 #NintendoSwitch https://t.co/UF5wLyK1XV"
   },
   {
     "user": {
@@ -411,7 +443,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29885,
+      "followersCount": 29888,
       "friendsCount": 129,
       "location": "China"
     },
@@ -524,7 +556,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18686,
+      "followersCount": 18685,
       "friendsCount": 1899,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -539,7 +571,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18686,
+      "followersCount": 18685,
       "friendsCount": 1899,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -722,7 +754,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150705,
+      "followersCount": 150706,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -824,7 +856,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150705,
+      "followersCount": 150706,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -842,7 +874,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55125,
+      "followersCount": 55126,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -876,7 +908,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125678,
+      "followersCount": 125685,
       "friendsCount": 1323,
       "location": "Chicago, IL"
     },
@@ -1001,6 +1033,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/plusyip/status/1937325687393931660",
     "fullText": "原来 Claude 要求 18 岁以上才能使用 😂 有点像色情网站的：\n🔘 我未满 18 岁，离开本站\n🔘 我已年满 18 岁，进入网站 https://t.co/LJdlVUWDrI"
+  },
+  {
+    "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 245135,
+      "friendsCount": 5068,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1937314792697475072/pu/vid/avc1/720x1280/AstfPdjolWU8Raim.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1937314952961761429",
+    "fullText": "Energy prices are out of control, shutting down factories and costing jobs across Europe. What’s behind it? Climate policies that don’t take real-world economics or freedoms into account. 💥\n💬 @MorawieckiM\n#EnergyCrisis #DrillBabyDrill #EconomicGrowth  #EuropeanUnion https://t.co/bp4jdiSH31"
   },
   {
     "user": {
