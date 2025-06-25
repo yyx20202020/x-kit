@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6000,
+      "friendsCount": 368,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1937673763916857422",
+    "fullText": "所以《游戏引擎架构》第三版是没人打算翻译了么？"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73665,
+      "followersCount": 73664,
       "friendsCount": 3406,
       "location": ""
     },
@@ -33,6 +48,40 @@
   },
   {
     "user": {
+      "screenName": "Box",
+      "name": "Box",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895242965435486208/Wfw2p9DY_normal.png",
+      "description": "Secure your content and power collaboration on one platform with Box. Questions about your account or need product support? Tweet @BoxSupport.",
+      "followersCount": 76804,
+      "friendsCount": 3164,
+      "location": "Content + AI "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GuPguNFa8AEqMZc.mp4"
+    ],
+    "tweetUrl": "https://x.com/Box/status/1937639552115704009",
+    "fullText": "60% of companies expect to be transformed by AI within two years.\n\nBut here's the reality: most are still bolting AI onto legacy workflows instead of reimagining how work gets done. That's not transformation—that's just expensive automation.\n\nOur latest research reveals what https://t.co/2ZuVLN4EHO"
+  },
+  {
+    "user": {
+      "screenName": "Nanakyei02",
+      "name": "Master Kyei𓃵🇬🇭",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777329655013347328/YNoywMet_normal.jpg",
+      "description": "DON’T TAKE MY TWEETS TOO SERIOUS,GOD-MUM❤️.I LIVE IN THE SUNSHINE WHERE I BELONG,THE ONLY THING THAT GOES INTO MY MOUTH IS FOOD,27th of January 🕊💔",
+      "followersCount": 705,
+      "friendsCount": 897,
+      "location": "Just know i’m here"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuPbWpLWUAAiH4e.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Nanakyei02/status/1937633968695767359",
+    "fullText": "Alejandro Garnacho acting Nonchalant after saying he prefers a pl move \n\nBurnley waiting for a deadline day: https://t.co/e9hcgZMmNw"
+  },
+  {
+    "user": {
       "screenName": "PaulJGennaro",
       "name": "Paul J. Gennaro",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1557431354190700548/dcrWdEOL_normal.jpg",
@@ -52,7 +101,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8899,
+      "followersCount": 8902,
       "friendsCount": 273,
       "location": "NewYork"
     },
@@ -84,7 +133,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32212,
+      "followersCount": 32214,
       "friendsCount": 615,
       "location": "Hong Kong"
     },
@@ -99,7 +148,7 @@
       "name": "Howie Liu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908611434898206720/CRup1_nM_normal.jpg",
       "description": "Cofounder/CEO @ Airtable",
-      "followersCount": 8054,
+      "followersCount": 8056,
       "friendsCount": 1309,
       "location": "SF"
     },
@@ -116,7 +165,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29880,
+      "followersCount": 29882,
       "friendsCount": 129,
       "location": "China"
     },
@@ -126,6 +175,55 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1937577369507950840",
     "fullText": "小强 https://t.co/63ajENHOw8"
+  },
+  {
+    "user": {
+      "screenName": "Oden1234598",
+      "name": "prophet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1735052996000481280/5xBjiKqj_normal.jpg",
+      "description": "I love God, Country, and my wife.  I grew up in small Midwest town.  I established Pruden Solutions in 2023 after thirty years as a carpenter.",
+      "followersCount": 608,
+      "friendsCount": 164,
+      "location": "Tennessee "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Oden1234598/status/1937565002904285363",
+    "fullText": "🧵 POST 1 — THE COLLAPSE OF TRUST IS THE GREATEST RISK OF THE 21st CENTURY\n\nFor decades, global systems have relied on one fragile assumption: that information can be trusted.\n\nThat assumption is collapsing.\n\nMisinformation, disinformation, and systemic deception now cost the"
+  },
+  {
+    "user": {
+      "screenName": "azc4l",
+      "name": "Arizona Campaign for Liberty",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1603588711983087616/6vKYW8Qn_normal.jpg",
+      "description": "Reclaim the Republic | Restore the Constitution || #ArizonaFirst || #StopTheInvasion || #MedicalFreedom || Ban the #SCAMeras || Donate - https://t.co/tKTC1b4j5H",
+      "followersCount": 587,
+      "friendsCount": 456,
+      "location": "Arizona, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuOWIspasAA9gG4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azc4l/status/1937557495180066917",
+    "fullText": "AZ House Speaker Steve Montenegro is BLOCKING the ban on unconstitutional scam cams.\n\nCall his office TODAY to tell Steve he needs to schedule SCR1002 for a floor vote IMMEDIATELY. (602) 926-3635\n\nTime is running out. https://t.co/dZiZuMiK7t"
+  },
+  {
+    "user": {
+      "screenName": "FinNewsNow",
+      "name": "Financial News Now",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/978425394616442886/EZD48H1i_normal.jpg",
+      "description": "Financial-News-Now is a leading source for what matters most within the hottest #investment sectors in North America. #stocks #investors #stockmarket",
+      "followersCount": 12536,
+      "friendsCount": 2997,
+      "location": "Long Beach, CA "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuOTXAybUAAgrHx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FinNewsNow/status/1937554310390513993",
+    "fullText": "Gold vs Bitcoin in 2025: How Smart Investors Are Hedging Against Chaos\n\n“If I had to pick one word to describe 2025, it would be instability.\n\nPresident Trump’s second term and first year in office has been marked by extreme volatility at home and abroad, and the markets reflect https://t.co/BN3iXGSSfJ"
   },
   {
     "user": {
@@ -280,7 +378,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8899,
+      "followersCount": 8902,
       "friendsCount": 273,
       "location": "NewYork"
     },
@@ -297,7 +395,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32212,
+      "followersCount": 32214,
       "friendsCount": 615,
       "location": "Hong Kong"
     },
@@ -349,7 +447,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55117,
+      "followersCount": 55118,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -431,7 +529,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 29880,
+      "followersCount": 29882,
       "friendsCount": 129,
       "location": "China"
     },
@@ -473,6 +571,23 @@
     ],
     "tweetUrl": "https://x.com/CPAC/status/1937246834260377917",
     "fullText": "Why the left hates Justice Clarence Thomas - @TomFitton https://t.co/juiXcaJHwp"
+  },
+  {
+    "user": {
+      "screenName": "TroopsHomeUS",
+      "name": "Bring Our Troops Home",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1637867324907610140/zKe335uG_normal.jpg",
+      "description": "An ever-growing group of veterans and civilians on a mission to end the Forever Wars & restore the U.S. Constitution | #BringOurTroopsHome🇺🇸 #DefendTheGuard",
+      "followersCount": 6237,
+      "friendsCount": 286,
+      "location": "Idaho, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937160628709261312/vid/avc1/1920x1080/miPnjv8vksQ62BlO.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TroopsHomeUS/status/1937160783156445414",
+    "fullText": "The @DefendTheGuard Act would keep the Arizona National Guard out of undeclared wars.\n\nBut S.B. 1495 is being stonewalled by House Speaker @SteveMontenegro.\n\nCall his office (602-926-3635) and tell him to bring S.B. 1495 to a floor vote so we can send it to Governor Hobbs' desk! https://t.co/8Gmhls5nE6"
   },
   {
     "user": {
