@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 6400,
+      "friendsCount": 1404,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1938581621755777221",
+    "fullText": "#DataCollie 日拱一卒\n我取消了在表设计器上支持在字段上设置 Charset 和Collation 的计划。这 2 个选项仅支持 Schema 级别和Table 级别做设置，这样可以简化UI和降低用户认知负担。字段上定义 Charset 和 Collation 太低频了，这种需求自己 SQL 窗口上执行变更脚本就好。\n#buildinpublic"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
@@ -22,7 +37,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32226,
+      "followersCount": 32227,
       "friendsCount": 615,
       "location": "Hong Kong"
     },
@@ -157,7 +172,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73718,
+      "followersCount": 73720,
       "friendsCount": 3409,
       "location": ""
     },
@@ -206,7 +221,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73718,
+      "followersCount": 73720,
       "friendsCount": 3409,
       "location": ""
     },
@@ -223,7 +238,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18599,
+      "followersCount": 18598,
       "friendsCount": 829,
       "location": "San Jose, CA"
     },
@@ -257,7 +272,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32226,
+      "followersCount": 32227,
       "friendsCount": 615,
       "location": "Hong Kong"
     },
@@ -289,7 +304,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8395,
+      "followersCount": 8393,
       "friendsCount": 290,
       "location": ""
     },
@@ -321,7 +336,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188397,
+      "followersCount": 188399,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -340,7 +355,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6001,
+      "followersCount": 6002,
       "friendsCount": 368,
       "location": "杭州"
     },
@@ -355,7 +370,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188397,
+      "followersCount": 188399,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -547,7 +562,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126038,
+      "followersCount": 126041,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -963,7 +978,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1144296395014365184/4Ku8bdvY_normal.png",
       "description": "GraniteShares is an independent ETF issuer that offers high conviction ETFs for high conviction investors.\nImportant Info: https://t.co/dJ2p1cOxZe",
       "followersCount": 6718,
-      "friendsCount": 2277,
+      "friendsCount": 2208,
       "location": "Manhattan, NY"
     },
     "images": [
@@ -1420,6 +1435,26 @@
     "videos": [],
     "tweetUrl": "https://x.com/withdelphi/status/1937949099049029845",
     "fullText": "You’ve seen the muscles.\nYou’ve heard the quotes.\nNow you can have the conversation.\n\nTalk discipline with @Schwarzenegger , anywhere.\n\nHis Digital Mind is now live 👇🧠 https://t.co/0xcClHgibS"
+  },
+  {
+    "user": {
+      "screenName": "symbiotestudios",
+      "name": "Symbiote Studios",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1796291338394288130/Q1SldUZs_normal.jpg",
+      "description": "Global leader in original and licensed plush toys, creating exciting designs that connect with fans and are fun to display or hug.",
+      "followersCount": 10974,
+      "friendsCount": 1087,
+      "location": "Tucson, AZ"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuTcPQRbEAABY6V.jpg",
+      "https://pbs.twimg.com/media/GuTcTgRaEAADpWu.jpg",
+      "https://pbs.twimg.com/media/GuTcXvnbEAEA_bq.jpg",
+      "https://pbs.twimg.com/media/GuTcZn0bEAMT7_1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/symbiotestudios/status/1937918782946824464",
+    "fullText": "Here's your very first look at the exclusive items we're bringing to San Diego Comic-Con this year! We'll have limited quantities of new Transformers G2 Snarl and magnetic Laserbeak plushes as well as our Catnip Bravo x Grimlock crossover t-shirt. See you in San Diego! https://t.co/WhS3FvbA5h"
   },
   {
     "user": {
