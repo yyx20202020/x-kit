@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6001,
+      "friendsCount": 368,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1938406627155316854",
+    "fullText": "期待小米进军房地产，把价格打下来！"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188384,
+      "followersCount": 188379,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -36,11 +51,28 @@
   },
   {
     "user": {
+      "screenName": "bria_ai_",
+      "name": "BRIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1493525021469421570/6169JGEb_normal.jpg",
+      "description": "Visual Generative AI Done Right",
+      "followersCount": 1181,
+      "friendsCount": 55,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuY6UQcXsAABbai.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bria_ai_/status/1938300813039784417",
+    "fullText": "🚀 Just open-sourced another T2I model trained EXCLUSIVELY on licensed data. \n\"But was it trained on licensed data?\" YES. Every. Single. Image.\nOur new 4B param T2I model proves you don't need scraped data to compete:\n\n🔥  Outpaces Adobe Firefly 4.0\n🔥  Matches Flux.1 Dev https://t.co/I3fbbJMNOk"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23297,
+      "followersCount": 23299,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -57,7 +89,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126001,
+      "followersCount": 126006,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -65,6 +97,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1938295414110994457",
     "fullText": "网友说很多用 Cursor、Claude Code 的新手都不会用 Git，所以改错了都不知道怎么回滚。但是教他们使用 Git 又很难。这让我想起以前也遇到过这样的新手，不过我没有教他怎么用 git，我就教他切换到 Agent 模式，然后提示词里面去指挥 AI 操作 GIT。\n\n比如先写：“帮我为当前初始化 git，如果没有安装 git"
+  },
+  {
+    "user": {
+      "screenName": "Clickteam",
+      "name": "Clickteam",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1767699507456684032/QLg5RauM_normal.jpg",
+      "description": "Creative tools for a creative age! https://t.co/y5T0mpr4es  - https://t.co/ZNufrQawrO - https://t.co/voYeyFy85E",
+      "followersCount": 36813,
+      "friendsCount": 935,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1938285400100843520/vid/avc1/1280x720/GXNjdUxEx4xUFlTX.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Clickteam/status/1938286498215760236",
+    "fullText": "Time to grab some great deals on #CF25, DLC and #madewithfusion games! 50% off of Fusion and DLCs  or try a excellent fusion game for up to 75% Off!  \n#indiegame #indiedev \n\nSteam: https://t.co/m5Tm3p61U3\nCT Webstore: https://t.co/uc5YV5j3nl\nItchio: https://t.co/RTM65CivGP https://t.co/bKK1OWz6i9"
   },
   {
     "user": {
@@ -89,7 +138,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4198130,
+      "followersCount": 4198210,
       "friendsCount": 3,
       "location": ""
     },
@@ -202,7 +251,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150730,
+      "followersCount": 150729,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -235,8 +284,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18683,
-      "friendsCount": 1952,
+      "followersCount": 18686,
+      "friendsCount": 1953,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -252,7 +301,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73716,
+      "followersCount": 73718,
       "friendsCount": 3408,
       "location": ""
     },
@@ -269,8 +318,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18683,
-      "friendsCount": 1952,
+      "followersCount": 18686,
+      "friendsCount": 1953,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -321,7 +370,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30232,
+      "followersCount": 30241,
       "friendsCount": 129,
       "location": "China"
     },
@@ -338,7 +387,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32224,
+      "followersCount": 32226,
       "friendsCount": 614,
       "location": "Hong Kong"
     },
@@ -355,7 +404,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 106749,
+      "followersCount": 106748,
       "friendsCount": 239,
       "location": "Singapore"
     },
@@ -370,7 +419,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30232,
+      "followersCount": 30241,
       "friendsCount": 129,
       "location": "China"
     },
@@ -387,7 +436,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32224,
+      "followersCount": 32226,
       "friendsCount": 614,
       "location": "Hong Kong"
     },
@@ -405,7 +454,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55159,
+      "followersCount": 55160,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -420,7 +469,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30232,
+      "followersCount": 30241,
       "friendsCount": 129,
       "location": "China"
     },
@@ -438,7 +487,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23297,
+      "followersCount": 23299,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -453,7 +502,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55159,
+      "followersCount": 55160,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -473,7 +522,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55159,
+      "followersCount": 55160,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -490,7 +539,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73716,
+      "followersCount": 73718,
       "friendsCount": 3408,
       "location": ""
     },
@@ -505,7 +554,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32224,
+      "followersCount": 32226,
       "friendsCount": 614,
       "location": "Hong Kong"
     },
@@ -513,6 +562,25 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1938130654111441396",
     "fullText": "接了一个商单，想从吐槽某些AI自媒体的角度去写。大家能不能给我推荐一下有哪些AI博主是这样的。我发现好像他们都被我拉黑了，我时间线上都刷不到🤣\n\n就是开头类似这种：\n1. 一觉起来AI又改变世界了\n2. 程序员这个职业要被AI彻底干没了\n3. 我一个人用AI赚了xxx万，AI太强了"
+  },
+  {
+    "user": {
+      "screenName": "zhifeiluofree",
+      "name": "罗志飞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1926058991957721088/C3zUn4YP_normal.jpg",
+      "description": "体制逃亡者，揭露政府的黑幕和中共的伪装 ，反共期刊《在野党》的投稿联系人。投稿邮箱zaiyedang1998@gmail.com",
+      "followersCount": 98,
+      "friendsCount": 109,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuWely_aMAAEvX0.jpg",
+      "https://pbs.twimg.com/media/GuWelzAbEAEBnpC.jpg",
+      "https://pbs.twimg.com/media/GuWely-bEAEYX_z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/zhifeiluofree/status/1938129593271202106",
+    "fullText": "今天是中国民主党27岁的生日，祝民主党生日快乐！也是反共期刊《在野党》复活的日子。我会继续用手中的笔，来揭露中共的真相。\n我是投稿联系人，投稿邮箱zaiyedang1998@gmail.com 可以是文章、图片、诗歌、视频，文体不限。\n发声，你并不孤单。在这片充满自由的土地上，活出点精彩吧。 https://t.co/0dtcBdfVhY"
   },
   {
     "user": {
@@ -569,7 +637,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126001,
+      "followersCount": 126006,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -597,11 +665,45 @@
   },
   {
     "user": {
+      "screenName": "adarshforai",
+      "name": "Adarsh Sairam Ambati",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936885010260271104/PKk_uAsl_normal.jpg",
+      "description": "CEO of stealth | Launching July | yc w25",
+      "followersCount": 138,
+      "friendsCount": 398,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937959084025913344/vid/avc1/1204x2160/uVTj0oDXAtHgLzsA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/adarshforai/status/1937960358171578777",
+    "fullText": "Love the team in action!\n\n@AIyengar76873 @anshlikescode @SBhujangari @aryansawhney17 https://t.co/V6yxFcmoPO"
+  },
+  {
+    "user": {
+      "screenName": "niuralHQ",
+      "name": "Niural",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1506412365264433154/DUvtg2XD_normal.jpg",
+      "description": "Niural is your AI Co-Pilot for PEO, benefits & compliance, in the US & beyond. /ˈno͝or(ə)l/, like neural networks.",
+      "followersCount": 2338,
+      "friendsCount": 94,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuS2tO7a8AAr86A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/niuralHQ/status/1937874749516116451",
+    "fullText": "🚀 Thrilled to announce Niural’s $31M Series A led by Marathon Management Partners! We’re redefining global CFO &amp; People Ops with the first AI-native PEO platform.  #Niural #AI #Fintech\n\n⚡Niural’s end-to-end global PEO and payments platform is powered by proprietary tax engines https://t.co/y9Je76kXJ8"
+  },
+  {
+    "user": {
       "screenName": "khloekardashian",
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29640212,
+      "followersCount": 29640152,
       "friendsCount": 228,
       "location": ""
     },
@@ -611,5 +713,39 @@
     ],
     "tweetUrl": "https://x.com/khloekardashian/status/1937858318023741924",
     "fullText": "It’s my birthday so naturally I’m reflecting on everything this past year taught me. Then some very special guests crashed the episode with questions I definitely wasn’t ready for 🤍 Watch now on @X https://t.co/gqQSV8G7hW"
+  },
+  {
+    "user": {
+      "screenName": "SleezusSlime",
+      "name": "Sleezus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918788390222188545/9MUfNmYA_normal.jpg",
+      "description": "$MAYBE we’re all just trying to get rich💰🤷🏽‍♂️ ➡️ | MaxLeverageBoyz | Crypto degen | Trading | Memecoins | Let’s link and build",
+      "followersCount": 1738,
+      "friendsCount": 624,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937846000363700224/vid/avc1/886x886/BtQm-1sAbdqJZs1O.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SleezusSlime/status/1937846053212225869",
+    "fullText": "Me when the homeless guy holding a sign doesn’t even say anything to me https://t.co/79lRgQJxgC"
+  },
+  {
+    "user": {
+      "screenName": "OfficialHismith",
+      "name": "Hismith Global",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1911691147572879360/csFsSVRI_normal.png",
+      "description": "Proud manufacturer of a great selection of sex machines, dildos, and many other sex toys. Get yours at https://t.co/Rs5UUtIgPd,💌 official@hismith.com",
+      "followersCount": 3598,
+      "friendsCount": 10,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937812711381016576/vid/avc1/1440x2560/cfq4nWfX648DhL3g.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OfficialHismith/status/1937813481446842410",
+    "fullText": "Sometimes your machine can actually serve another purpose😏#hismith #ww3 #sundayfunday https://t.co/JjUTImAMsH"
   }
 ]
