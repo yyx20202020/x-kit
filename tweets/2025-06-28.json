@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6995,
+      "friendsCount": 729,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1938981488680476729",
+    "fullText": "我在 HLJ 这家买了几个玩具。这家的特点是每次开放 order 的时间很短，让你不得不很快下决心买。产品的品质还可以。我感觉这就是国内带货提供的价值。不过话说回来，既然 HLJ 凭个 X 账号就能运营，国内为啥要一个直播嘚吧嘚的呢？"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150753,
+      "followersCount": 150754,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -122,7 +137,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30262,
+      "followersCount": 30264,
       "friendsCount": 129,
       "location": "China"
     },
@@ -152,7 +167,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30262,
+      "followersCount": 30264,
       "friendsCount": 129,
       "location": "China"
     },
@@ -184,7 +199,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126058,
+      "followersCount": 126064,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -233,7 +248,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30262,
+      "followersCount": 30264,
       "friendsCount": 129,
       "location": "China"
     },
@@ -329,7 +344,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18596,
+      "followersCount": 18597,
       "friendsCount": 829,
       "location": "San Jose, CA"
     },
@@ -580,7 +595,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6400,
+      "followersCount": 6399,
       "friendsCount": 1406,
       "location": ""
     },
@@ -789,7 +804,7 @@
       "name": "FC Augsburg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1757230670022090752/z9Rm6OqZ_normal.jpg",
       "description": "Welcome to the official FC Augsburg Twitter page in English! #FCA // Deutsch: @FCAugsburg",
-      "followersCount": 44429,
+      "followersCount": 44428,
       "friendsCount": 382,
       "location": "Augsburg, Bayern"
     },
@@ -1348,6 +1363,23 @@
     ],
     "tweetUrl": "https://x.com/CPAC/status/1938289769085014509",
     "fullText": "CPAC is tracking. Christian persecution has been ignored for too long.  Too many innocent lives are being kidnapped or murdered. \n- Mercedes Schlapp https://t.co/fwpqGrK8rn"
+  },
+  {
+    "user": {
+      "screenName": "sj_cloobeck",
+      "name": "Stephen J. Cloobeck",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897787220838268928/qm3uPCzr_normal.jpg",
+      "description": "Devoted Father | Job Creator | Entrepreneur | Philanthropist | Activist | Team Builder | Candidate for CA Governor 2026 #CAGetACloo @cloobeckforca",
+      "followersCount": 997,
+      "friendsCount": 82,
+      "location": "California"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1928596530988007425/vid/avc1/720x1280/tMkWsjvdbDieitfC.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/sj_cloobeck/status/1938277619444945235",
+    "fullText": "I’m running to be your next Governor of California, because it’s time to make our great state more affordable, livable, and workable. \n\nFollow me to get Cloo’d in. https://t.co/kDQ1QImvVR"
   },
   {
     "user": {
