@@ -1,6 +1,56 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150751,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1938968041628270592/vid/avc1/3840x2160/Wqd5SHQVb_09LRKW.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/waylybaye/status/1938968373595119705",
+    "fullText": "Rainbow 🌈 https://t.co/tN6T92SxnF"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18687,
+      "friendsCount": 1967,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuiW5x0WQAAwXzB.jpg",
+      "https://pbs.twimg.com/media/GuiW5xRakAATWuP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1938965585653834123",
+    "fullText": "刷到图一说上海机场没3C的充电宝不给带了，担心自己的酷态科有来无回，专门爬起来看了眼\n\n嗯，暖暖的很贴心，明明今天在换蛋但是一点也不焦虑😴 https://t.co/XAxZCX40Em"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6001,
+      "friendsCount": 368,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1938964338351710367",
+    "fullText": "有一个疑问🤔，都说游戏行业要加班，加班严重。那任天堂加班吗"
+  },
+  {
+    "user": {
       "screenName": "alanblogsooo",
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
@@ -39,7 +89,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
       "followersCount": 32241,
-      "friendsCount": 616,
+      "friendsCount": 617,
       "location": "Hong Kong"
     },
     "images": [],
@@ -72,7 +122,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30259,
+      "followersCount": 30261,
       "friendsCount": 129,
       "location": "China"
     },
@@ -102,7 +152,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30259,
+      "followersCount": 30261,
       "friendsCount": 129,
       "location": "China"
     },
@@ -134,7 +184,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126049,
+      "followersCount": 126060,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -183,7 +233,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30259,
+      "followersCount": 30261,
       "friendsCount": 129,
       "location": "China"
     },
@@ -232,7 +282,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4635,
+      "followersCount": 4636,
       "friendsCount": 483,
       "location": "🟧⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ $100k Rev"
     },
@@ -279,7 +329,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18596,
+      "followersCount": 18597,
       "friendsCount": 829,
       "location": "San Jose, CA"
     },
@@ -345,7 +395,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 8984,
+      "followersCount": 8985,
       "friendsCount": 274,
       "location": "NewYork"
     },
@@ -675,7 +725,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126049,
+      "followersCount": 126060,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -685,6 +735,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1938609688611868790",
     "fullText": "大语言模型高考数学拿高分靠强化学习，那文科考高分得靠什么？\n\n上次分析了大语言模型在高考数学考试中拿高分靠的是强化学习，也就是在后训练阶段，自己训练自己做有标准答案的数学题或者编程题，反复的自己刷题，做完题目对答案，答案做对了就有奖励，做错了就有惩罚，最终自己训练自己越练越牛。 https://t.co/FMVsCMHJP8"
+  },
+  {
+    "user": {
+      "screenName": "WaymoCommunity",
+      "name": "Waymo Community",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1719152717782732800/DehcdBGz_normal.jpg",
+      "description": "",
+      "followersCount": 24715,
+      "friendsCount": 509,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WaymoCommunity/status/1938605397201613063",
+    "fullText": "Many people on the Autism spectrum cannot drive. Learn how Waymo’s fully autonomous driving technology is improving independence for people with I/DD."
   },
   {
     "user": {
@@ -707,7 +772,7 @@
       "name": "Aleksandr Gampel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1614622343048953859/OktmM157_normal.jpg",
       "description": "Hi. Cuby is setting the stage to commercialize a network of hundreds of Mobile Micro-Factories (MMFs) erected on or near construction sites.",
-      "followersCount": 753,
+      "followersCount": 757,
       "friendsCount": 682,
       "location": "New York, USA"
     },
@@ -1290,7 +1355,7 @@
       "name": "Dan Siroker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1185328505241735168/x2Me5WS2_normal.jpg",
       "description": "Co-Founder & CEO of @LimitlessAI: a personalized AI powered by what you’ve seen, said, or heard. Formerly @RewindAI. Co-Founder of @Optimizely (sold for $300M).",
-      "followersCount": 37298,
+      "followersCount": 37295,
       "friendsCount": 3539,
       "location": ""
     },
