@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 55193,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GukrAXfWAAAz7L5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1939128639024701660",
+    "fullText": "一个 Electron 非常实用的小技巧：\n\n怎样让圆角更贴近 MacOS 原生的风格？可以使用 `-electron-corner-smoothing`\n\nhttps://t.co/k1z3IlINis\n\n该属性可以使元素的圆角（通过 border-radius 设置）从标准的圆形过渡到更平滑的 squircle 形状，类似于 macOS 设计语言中的“连续圆角”或 Figma https://t.co/o5gxoM61RL"
+  },
+  {
+    "user": {
+      "screenName": "mutantmatty",
+      "name": "Matty👁️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919925100159152128/P3WJg_CF_normal.jpg",
+      "description": "President of Eye Labs-@eyeversed-Leading Strategic Partnerships&Business Development. Founder of @BraceGamingLabs.The Blood of Ape dropping on ApeChain in June",
+      "followersCount": 3225,
+      "friendsCount": 965,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GukhIBbWUAAFItu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mutantmatty/status/1939117887433626058",
+    "fullText": "Some new real estate added to the portfolio \n\n@OthersideMeta https://t.co/wvuIj17fdH"
+  },
+  {
+    "user": {
+      "screenName": "Moms4Liberty",
+      "name": "Moms for Liberty",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1338931301223718915/BZ46xN1N_normal.jpg",
+      "description": "Started by 2 Moms, now 300 chapters/48 states/130k members & growing. We are fighting for the survival of America, uniting & empowering parents. Join us 👇 🇺🇸",
+      "followersCount": 204522,
+      "friendsCount": 3262,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1939116274161696768/vid/avc1/1438x802/gsB1WA12Km7Z91Ye.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Moms4Liberty/status/1939116508438778347",
+    "fullText": "Mahmoud v Taylor is a de facto parents’ bill of rights.\nCommon sense demands a recognition of the primacy of parental rights, as does the Constitution. Americans cannot be considered free citizens if their government dictates what their children can be exposed to at a young age. https://t.co/6bm0Nl9yGW"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126056,
+      "followersCount": 126069,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -18,11 +69,45 @@
   },
   {
     "user": {
+      "screenName": "donwinslow",
+      "name": "Don Winslow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1647525880430993409/60HaCvHF_normal.jpg",
+      "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\n#WinslowDigitalArmy  \n\nFind great books by following: @WinslowBookClub",
+      "followersCount": 897604,
+      "friendsCount": 36635,
+      "location": "Tweets are just my opinion"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1939051466833944576/vid/avc1/1080x1080/yGdypxfEEIYvXWIM.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/donwinslow/status/1939051525906792558",
+    "fullText": "*SOUND UP*\n\nFrom JAMES CAMERON, the three-time Oscar winning director of TITANIC\n\nFrom MARTIN SHEEN, the three-time Emmy winning actor of THE WEST WING\n\nAnd the author of the New York Times bestselling HER NAME, TITANIC comes GHOST OF HIROSHIMA \n\nOrder:\n\nAMAZON: https://t.co/PZolYCYe2h"
+  },
+  {
+    "user": {
+      "screenName": "penitent_games",
+      "name": "Penitent Games",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1847091525131358208/D0qSnTUo_normal.png",
+      "description": "Solo game dev working on Cybordz: a Tony Hawk Pro Skater inspired roguelike where you have to score big to earn more time.",
+      "followersCount": 84,
+      "friendsCount": 389,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1939048561431199744/pu/vid/avc1/1280x720/CKz0CITwNsktJjK1.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/penitent_games/status/1939048658193780740",
+    "fullText": "What do you think of my Tony Hawk inspired Roguelike where you have to reach increasingly higher scores to add time to the clock? https://t.co/meu3DwzgwU"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126056,
+      "followersCount": 126069,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -39,7 +124,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32232,
+      "followersCount": 32230,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -69,7 +154,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150743,
+      "followersCount": 150751,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -134,7 +219,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32232,
+      "followersCount": 32230,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -151,7 +236,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11018,
+      "followersCount": 11015,
       "friendsCount": 3626,
       "location": ""
     },
@@ -168,7 +253,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30282,
+      "followersCount": 30283,
       "friendsCount": 129,
       "location": "China"
     },
@@ -183,7 +268,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59552,
+      "followersCount": 59558,
       "friendsCount": 368,
       "location": ""
     },
@@ -198,7 +283,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30282,
+      "followersCount": 30283,
       "friendsCount": 129,
       "location": "China"
     },
@@ -230,7 +315,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126056,
+      "followersCount": 126069,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -247,7 +332,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30282,
+      "followersCount": 30283,
       "friendsCount": 129,
       "location": "China"
     },
@@ -296,7 +381,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18601,
+      "followersCount": 18603,
       "friendsCount": 829,
       "location": "San Jose, CA"
     },
@@ -387,5 +472,37 @@
     "videos": [],
     "tweetUrl": "https://x.com/WaymoCommunity/status/1938605396861857918",
     "fullText": "Everyone deserves to move safely and sustainably. Learn how Waymo &amp; Clean Air Partners are working under this shared mission."
+  },
+  {
+    "user": {
+      "screenName": "AGampel1",
+      "name": "Aleksandr Gampel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1614622343048953859/OktmM157_normal.jpg",
+      "description": "Hi. Cuby is setting the stage to commercialize a network of hundreds of Mobile Micro-Factories (MMFs) erected on or near construction sites.",
+      "followersCount": 770,
+      "friendsCount": 686,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1938581971103363072/vid/avc1/1920x1080/qmvJdDL7Se00TsCn.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/AGampel1/status/1938594781183046108",
+    "fullText": "Two days ago, we surpassed 700,000 engineering hours @buildwithcuby.  In that time, @AKandrashou and I have shown very little to the world (a function of moving fast rather than moving loud); despite signing pretty large contracts and breaking ground on our first stateside MMF. https://t.co/6f3UVkhEOp"
+  },
+  {
+    "user": {
+      "screenName": "kensmithmier",
+      "name": "Ken Smithmier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1171029741845004288/wTrctm5r_normal.jpg",
+      "description": "Business consultant/executive coach/old dog who’s been through the wars. https://t.co/I18v53nchA",
+      "followersCount": 1083,
+      "friendsCount": 512,
+      "location": "Nashville, TN"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/kensmithmier/status/1938558184555200819",
+    "fullText": "You can’t outsource a squat.\nNo trainer, no friend, no device can take your place under that bar. Squats demand personal effort. They demand your strength, your commitment, your courage. Just like all the other worthwhile things in your life."
   }
 ]
