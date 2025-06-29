@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 126065,
+      "friendsCount": 1325,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1939136168974504141",
+    "fullText": "有朋友 AI 用的少，认为 AI 主要是提高效率，而他没啥提高效率的场景。而我建议学 AI 用 AI 不一定是要有场景才能用，而是通过使用 AI 去和 AI 建立连接，建立对 AI 的直觉，这样当你有能借助 AI 提升效率的场景的时候，能第一时间知道是不是该用AI，怎么用 AI。\n\n建立对 AI"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 126065,
+      "friendsCount": 1325,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gukwc34XoAAUaML.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1939134389645959370",
+    "fullText": "@马少平THU: 做个类比，AI编程就相当于建筑，以前垒砖头，现在预制件，而建筑最重要的在于设计。 https://t.co/RWshSqYlBZ"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
@@ -56,7 +88,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126069,
+      "followersCount": 126065,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -107,7 +139,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126069,
+      "followersCount": 126065,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -124,7 +156,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32230,
+      "followersCount": 32231,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -139,7 +171,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6993,
+      "followersCount": 6994,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -154,7 +186,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150751,
+      "followersCount": 150748,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -171,7 +203,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6005,
+      "followersCount": 6004,
       "friendsCount": 368,
       "location": "杭州"
     },
@@ -204,7 +236,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8392,
+      "followersCount": 8391,
       "friendsCount": 290,
       "location": ""
     },
@@ -219,7 +251,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32230,
+      "followersCount": 32231,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -236,7 +268,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11015,
+      "followersCount": 11016,
       "friendsCount": 3626,
       "location": ""
     },
@@ -253,7 +285,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30283,
+      "followersCount": 30285,
       "friendsCount": 129,
       "location": "China"
     },
@@ -283,7 +315,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30283,
+      "followersCount": 30285,
       "friendsCount": 129,
       "location": "China"
     },
@@ -300,7 +332,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6005,
+      "followersCount": 6004,
       "friendsCount": 368,
       "location": "杭州"
     },
@@ -315,7 +347,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126069,
+      "followersCount": 126065,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -332,7 +364,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30283,
+      "followersCount": 30285,
       "friendsCount": 129,
       "location": "China"
     },
@@ -489,6 +521,23 @@
     ],
     "tweetUrl": "https://x.com/AGampel1/status/1938594781183046108",
     "fullText": "Two days ago, we surpassed 700,000 engineering hours @buildwithcuby.  In that time, @AKandrashou and I have shown very little to the world (a function of moving fast rather than moving loud); despite signing pretty large contracts and breaking ground on our first stateside MMF. https://t.co/6f3UVkhEOp"
+  },
+  {
+    "user": {
+      "screenName": "FCA_World",
+      "name": "FC Augsburg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1757230670022090752/z9Rm6OqZ_normal.jpg",
+      "description": "Welcome to the official FC Augsburg Twitter page in English! #FCA // Deutsch: @FCAugsburg",
+      "followersCount": 44429,
+      "friendsCount": 382,
+      "location": "Augsburg, Bayern"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1938586027611860992/vid/avc1/1080x1080/74AKPQvggg_zsivH.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/FCA_World/status/1938587519873929450",
+    "fullText": "Our Bundesliga schedule with no context https://t.co/2cNciNTUrg"
   },
   {
     "user": {
