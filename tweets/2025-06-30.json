@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18684,
+      "friendsCount": 1980,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuqwbJqXkAAA3nr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1939558566505193662",
+    "fullText": "工作原因，这两天在高强度使用自己写的Mac端剪切板工具—— “MoxCV” ，发现还有很多需要优化的地方\n\n1、小的展示框呼出需要使用快捷键（shift+command+V），但是打开软件并无引导，需要在设置里面才能看到\n\n2、小的展示框还是太挡地方，应该要做成玻璃透明的，并且调低长宽最小值，让使用更加自定义化 https://t.co/a9ybO3BLIL"
+  },
+  {
+    "user": {
       "screenName": "lencx_",
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21331,
+      "followersCount": 21327,
       "friendsCount": 1037,
       "location": ""
     },
@@ -88,7 +105,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30357,
+      "followersCount": 30358,
       "friendsCount": 129,
       "location": "China"
     },
@@ -173,7 +190,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126164,
+      "followersCount": 126168,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -190,7 +207,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18682,
+      "followersCount": 18684,
       "friendsCount": 1980,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -205,7 +222,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126164,
+      "followersCount": 126168,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -341,7 +358,7 @@
       "name": "Billy Evans",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1731458285436313600/xRnsGQUk_normal.jpg",
       "description": "CEO of @Haemanthusinc We build sensors for AI to understand health. \n@ElizabethHolmes babydaddy \nAlready cancelled.",
-      "followersCount": 60,
+      "followersCount": 59,
       "friendsCount": 238,
       "location": ""
     },
@@ -388,7 +405,7 @@
       "name": "Aztech",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937830858204790784/TdZzk88c_normal.jpg",
       "description": "Student of Pumponomics\nFormer Growth Lead on @xlabsxyz & @portalbridge_ & @c3protolcol \n@Lighter_xyz OG\nDm for Beta\nhttps://t.co/YFDHaWkuY3",
-      "followersCount": 211,
+      "followersCount": 210,
       "friendsCount": 364,
       "location": "Germany"
     },
@@ -518,7 +535,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126164,
+      "followersCount": 126168,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -610,7 +627,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18682,
+      "followersCount": 18684,
       "friendsCount": 1980,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -674,7 +691,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18682,
+      "followersCount": 18684,
       "friendsCount": 1980,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -789,7 +806,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30357,
+      "followersCount": 30358,
       "friendsCount": 129,
       "location": "China"
     },
@@ -890,7 +907,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126164,
+      "followersCount": 126168,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
