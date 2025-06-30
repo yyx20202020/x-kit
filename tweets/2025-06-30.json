@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6018,
+      "friendsCount": 369,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1939726420634476803",
+    "fullText": "让 Cursor 删代码，把一个已有项目删成可复用模板，要远远靠谱于让他抽取成一个模板。只是换了一个角度方式，就靠谱了。AI 还是看你怎么用它"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126175,
+      "followersCount": 126193,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -181,6 +196,23 @@
   },
   {
     "user": {
+      "screenName": "adiregolan",
+      "name": "Adir E Golan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832054456986284032/Xc9am6Ab_normal.jpg",
+      "description": "Writer of fantasy (mostly). \nI post curious mythology and history tidbits about unique characters and artifacts.",
+      "followersCount": 89,
+      "friendsCount": 0,
+      "location": "Depends on the story..."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GusKH-mWUAAjl4g.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/adiregolan/status/1939655212324573573",
+    "fullText": "Surtr (\"black\" in old Norse) is a fire giant in Norse mythology who is the guardian of Muspelheim (the fire realm). It is said he will kill Freyr during Ragnarök. https://t.co/n8eRqb76dE"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -218,7 +250,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55224,
+      "followersCount": 55225,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -528,7 +560,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 9034,
+      "followersCount": 9035,
       "friendsCount": 274,
       "location": "NewYork"
     },
@@ -596,7 +628,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126175,
+      "followersCount": 126193,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -645,7 +677,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126175,
+      "followersCount": 126193,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -985,6 +1017,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/RobinhoodApp/status/1939376949576831475",
     "fullText": "Catch up on our biggest crypto announcements of the year by reliving Robinhood Presents: To Catch a Token. https://t.co/GT8KHzZfyk"
+  },
+  {
+    "user": {
+      "screenName": "RobinhoodApp",
+      "name": "Robinhood",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
+      "description": "Trade. Invest. Earn.",
+      "followersCount": 1184703,
+      "friendsCount": 23,
+      "location": "Menlo Park, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RobinhoodApp/status/1939376655317008398",
+    "fullText": "The chase is over, but the story is just getting started. Replay the Robinhood Presents: To Catch a Token livestream. https://t.co/GT8KHzZfyk"
   },
   {
     "user": {
@@ -1618,7 +1665,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126175,
+      "followersCount": 126193,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
