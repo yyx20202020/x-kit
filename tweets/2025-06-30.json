@@ -1,6 +1,89 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32238,
+      "friendsCount": 616,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1939515322094215537",
+    "fullText": "我用美区iOS订阅的Claude Code一直没有被封。想问问大家除了使用代理API的方式，官方订阅是不是iOS订阅是最稳妥的？\n因为我在想，如果我通过iOS订阅了如果Anthropic不给我提供服务，我是不是可以通过苹果举报它啊...不知道有没有懂的🤣或者有没有通过iOS订阅也被封号的？"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30361,
+      "friendsCount": 129,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1939514286361264531",
+    "fullText": "https://t.co/MHqnGGtkua"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 11032,
+      "friendsCount": 3628,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuqI4XVXUAAiAr1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1939513151617224746",
+    "fullText": "昨天在 AGI Bar 给 @XCaptaincc 现场展示如何用 Get 笔记一遍聊天一遍录，聊完产出一堆笔记。\n当场安利了船长安装下载了，但是我觉得人类对 Get 笔记的潜力开发还不到 1%，所以准备拉群一起交流！学习如何用 Get 笔记搞出 10x 生产力！感兴趣小伙伴来！ https://t.co/x6LI1K25sk"
+  },
+  {
+    "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
+      "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
+      "followersCount": 9017,
+      "friendsCount": 274,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuqGCOSbUAEvYPx.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1939512404490289617",
+    "fullText": "AI算力产品卖终身会员，是不是也就国内用户会买？\n\nPS：作为独立开发者，你会去上架永久么？ https://t.co/VCmpe0UvfI"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 11032,
+      "friendsCount": 3628,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuqEqaWWsAAVVYM.png",
+      "https://pbs.twimg.com/media/GuqGgFiWkAAm4wL.jpg",
+      "https://pbs.twimg.com/media/GuqGh2tWQAAlhzh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1939511198610784301",
+    "fullText": "昨天在 AGI Bar 给 @XCaptaincc 现场展示如何用 Get 笔记一遍聊天一遍录，聊完产出一堆笔记。（我已经私聊 Get 笔记的 创始人 快刀青衣 @kuaidaoqingyi  要广告费了\n当场安利了船长安装下载了，但是我觉得人类对 Get 笔记的潜力开发还不到 1%，所以准备拉群一起交流！学习如何用 Get 笔记搞出 10x https://t.co/35otGnK1DH"
+  },
+  {
+    "user": {
       "screenName": "JimLambUSA",
       "name": "James Lamb",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1866396275681177600/cgbJqdiC_normal.jpg",
@@ -22,7 +105,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126145,
+      "followersCount": 126150,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -39,7 +122,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18688,
+      "followersCount": 18689,
       "friendsCount": 1980,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -54,7 +137,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126145,
+      "followersCount": 126150,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -71,7 +154,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59559,
+      "followersCount": 59566,
       "friendsCount": 369,
       "location": ""
     },
@@ -88,7 +171,7 @@
       "name": "Steve Cortes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1724056934955765760/DDHvzSst_normal.jpg",
       "description": "Born for a Storm. Bad Hombre. Founder: League of American Workers, Senior Advisor: Catholic Vote. Former: Trump 2016 & 2020, Vance 2022, Fox & CNN.",
-      "followersCount": 506052,
+      "followersCount": 506059,
       "friendsCount": 790,
       "location": "Tennessee"
     },
@@ -106,7 +189,7 @@
       "name": "Benny Johnson",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1913234634801926144/yVHVVAid_normal.jpg",
       "description": "Your Front Seat to the Golden Era",
-      "followersCount": 3775717,
+      "followersCount": 3775769,
       "friendsCount": 3824,
       "location": "Tampa Florida "
     },
@@ -153,7 +236,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18688,
+      "followersCount": 18689,
       "friendsCount": 1980,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -168,7 +251,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11031,
+      "followersCount": 11032,
       "friendsCount": 3628,
       "location": ""
     },
@@ -185,7 +268,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126145,
+      "followersCount": 126150,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -215,7 +298,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18688,
+      "followersCount": 18689,
       "friendsCount": 1980,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -245,7 +328,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18688,
+      "followersCount": 18689,
       "friendsCount": 1980,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -262,7 +345,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11031,
+      "followersCount": 11032,
       "friendsCount": 3628,
       "location": ""
     },
@@ -277,7 +360,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11031,
+      "followersCount": 11032,
       "friendsCount": 3628,
       "location": ""
     },
@@ -292,7 +375,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18688,
+      "followersCount": 18689,
       "friendsCount": 1980,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -339,7 +422,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 9015,
+      "followersCount": 9017,
       "friendsCount": 274,
       "location": "NewYork"
     },
@@ -356,7 +439,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 767,
+      "followersCount": 768,
       "friendsCount": 481,
       "location": ""
     },
@@ -373,7 +456,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 9015,
+      "followersCount": 9017,
       "friendsCount": 274,
       "location": "NewYork"
     },
@@ -407,7 +490,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30364,
+      "followersCount": 30361,
       "friendsCount": 129,
       "location": "China"
     },
@@ -427,7 +510,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59559,
+      "followersCount": 59566,
       "friendsCount": 369,
       "location": ""
     },
@@ -442,7 +525,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150796,
+      "followersCount": 150800,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -508,7 +591,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126145,
+      "followersCount": 126150,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -540,7 +623,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126145,
+      "followersCount": 126150,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -557,7 +640,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126145,
+      "followersCount": 126150,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
