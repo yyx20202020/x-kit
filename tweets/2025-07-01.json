@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
+      "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
+      "followersCount": 9052,
+      "friendsCount": 274,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuyfCcVWEAAO63j.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1940100847666622575",
+    "fullText": "当我看到这个更新日志后，死活也要爬起来\n\n-&gt; docker compose pull\n-&gt; docker compose up -d\n\n🐶 https://t.co/hoJKh0pyJG"
+  },
+  {
+    "user": {
       "screenName": "Lowes",
       "name": "Lowe's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1427348517165703170/jCmq6N7r_normal.jpg",
@@ -20,7 +37,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59562,
+      "followersCount": 59576,
       "friendsCount": 370,
       "location": ""
     },
@@ -67,7 +84,7 @@
       "name": "Robert Yaman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1838071781254688768/fVZomXtc_normal.jpg",
       "description": "Techno-optimist for animals. Founder @AnimalInnovate, blog at https://t.co/ABtaI7XVwJ. Not vegan. Oh, and I make music: https://t.co/9g6RfIEJOz",
-      "followersCount": 941,
+      "followersCount": 943,
       "friendsCount": 400,
       "location": "San Francisco, CA"
     },
@@ -129,7 +146,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4203383,
+      "followersCount": 4203428,
       "friendsCount": 3,
       "location": ""
     },
@@ -193,6 +210,23 @@
   },
   {
     "user": {
+      "screenName": "fullcastandcrew",
+      "name": "Full Cast and Crew Podcast",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925923228402204673/2hk3I7J4_normal.jpg",
+      "description": "Hosted by Jason Cilo. A framed original ‘Close Encounters’ poster, in podcast form. No film bros, mattress codes, or ‘canon’ fealty. Emotion not commotion.",
+      "followersCount": 3649,
+      "friendsCount": 1535,
+      "location": "Wherever You Get Podcasts"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Guxy97mXcAAnhcL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fullcastandcrew/status/1940051954207539646",
+    "fullText": "🚨 Episode 237 🚨 \n\n‘2010: The Year We Make Contact’ contemplates unnecessary sequels and commits the unforgivable sin of having HAL’s code somehow age alongside Doug Rain’s voice. Also: LITHGOW IN SPACE and Dana Elcar’s Russian Accent. Scheider’s Scheiderness deployed as Floyd, https://t.co/x3PliHrjdj"
+  },
+  {
+    "user": {
       "screenName": "CPAC",
       "name": "CPAC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
@@ -214,7 +248,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18664,
+      "followersCount": 18675,
       "friendsCount": 1985,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -231,8 +265,8 @@
       "name": "DanH",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1722708520980930560/uQp5SWeD_normal.jpg",
       "description": "Truth, democracy, and equality are good. Violence and terrorism are evil. Killing infants is NEVER okay. That wasn’t so complicated, was it?",
-      "followersCount": 37857,
-      "friendsCount": 6153,
+      "followersCount": 37890,
+      "friendsCount": 6155,
       "location": "USA"
     },
     "images": [],
@@ -281,7 +315,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18664,
+      "followersCount": 18675,
       "friendsCount": 1985,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -313,7 +347,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150787,
+      "followersCount": 150802,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -362,7 +396,7 @@
       "name": "Topstep",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1410674225577332738/V9fNEU-H_normal.jpg",
       "description": "1 Step. 1 Rule.™ The #1 Prop Firm.💰Earn funding in 2 days! 💸 Trusted Payouts 🚀Free Coaching ⭐️⭐️⭐️⭐️⭐️Live Support https://t.co/HRRl3ojJii",
-      "followersCount": 60424,
+      "followersCount": 60431,
       "friendsCount": 19,
       "location": "Chicago, IL"
     },
@@ -444,7 +478,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18664,
+      "followersCount": 18675,
       "friendsCount": 1985,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -657,7 +691,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59562,
+      "followersCount": 59576,
       "friendsCount": 370,
       "location": ""
     },
@@ -677,7 +711,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59562,
+      "followersCount": 59576,
       "friendsCount": 370,
       "location": ""
     },
@@ -744,7 +778,7 @@
       "name": "Forge and Fire Gaming",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922061063081590784/yF2sBj7u_normal.jpg",
       "description": "We are a game store in Saint Louis, MO",
-      "followersCount": 11062,
+      "followersCount": 11056,
       "friendsCount": 42,
       "location": "Saint Louis, MO"
     },
@@ -1439,7 +1473,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1190258,
+      "followersCount": 1190365,
       "friendsCount": 23,
       "location": "Menlo Park, CA"
     },
@@ -1515,6 +1549,23 @@
     ],
     "tweetUrl": "https://x.com/justwsports/status/1939703127802085738",
     "fullText": "Night out in New York planned by Microsoft Copilot for @AliyahFun https://t.co/29D9LOa8po"
+  },
+  {
+    "user": {
+      "screenName": "NoahAITech",
+      "name": "Noah AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938328411287785474/L7HL7H0y_normal.jpg",
+      "description": "AI Agent for Life Science Professionals",
+      "followersCount": 32,
+      "friendsCount": 64,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1939696529197170688/vid/avc1/1920x1080/LpBt5knxqUDv1FmB.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NoahAITech/status/1939696735733027302",
+    "fullText": "Introducing Noah, an AI Agent purpose-built for life sciences.\n\nNoah designs and executes professional tasks across R&amp;D, clinical development, commercial strategy, and investment, leveraging intelligent search and biomedical databases to automate your knowledge-intensive https://t.co/TwUwEhJkTo"
   },
   {
     "user": {
@@ -2143,7 +2194,7 @@
       "name": "Benny Johnson",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1913234634801926144/yVHVVAid_normal.jpg",
       "description": "Your Front Seat to the Golden Era",
-      "followersCount": 3777855,
+      "followersCount": 3778154,
       "friendsCount": 3826,
       "location": "Tampa Florida "
     },
