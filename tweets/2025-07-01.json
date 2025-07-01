@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 23319,
+      "friendsCount": 292,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1940063310269096019",
+    "fullText": "游本昌 92 岁，居然是 1933 年出生的，现在还有人经历了抗日战争和内战，还活蹦乱跳的活着的，真神奇。"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4203269,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1939734099968835584/vid/avc1/1920x1080/FXJCny8ss1IKmrsv.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/1940063220456464880",
+    "fullText": "OpenAI Podcast Episode 2 is now live!\n\n@markchen90 and @nickaturley join @andrewmayne to pull back the curtain on the making of ChatGPT.\n\nThey also get into how products are developed and what’s next for agentic coding and multimodal assistants. https://t.co/Bmz7RINIuo"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -22,7 +54,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126217,
+      "followersCount": 126218,
       "friendsCount": 1326,
       "location": "Chicago, IL"
     },
@@ -68,11 +100,28 @@
   },
   {
     "user": {
+      "screenName": "FinNewsNow",
+      "name": "Financial News Now",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/978425394616442886/EZD48H1i_normal.jpg",
+      "description": "Financial-News-Now is a leading source for what matters most within the hottest #investment sectors in North America. #stocks #investors #stockmarket",
+      "followersCount": 12546,
+      "friendsCount": 2996,
+      "location": "Long Beach, CA "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1940033083094265856/vid/avc1/1920x1080/lD9k9DVYjhw1eX6k.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/FinNewsNow/status/1940034790121775149",
+    "fullText": "🚀 BREAKING: New Era Helium ($NEHC) JV Signs LOI for Massive AI Data Center in Permian Basin\n\n@NewEraHelium joint venture, Texas Critical Data Centers (TCDC), just signed a Letter of Intent with a leading global high-performance AI cloud provider to build a 250MW AI data center https://t.co/1ivfoRS34h"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150794,
+      "followersCount": 150785,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -89,7 +138,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30346,
+      "followersCount": 30348,
       "friendsCount": 131,
       "location": "China"
     },
@@ -139,7 +188,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11049,
+      "followersCount": 11050,
       "friendsCount": 3639,
       "location": ""
     },
@@ -173,7 +222,7 @@
       "name": "Bubblemaps",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1542463278412169216/dj1tOY36_normal.png",
       "description": "The visual layer of InfoFi — powered by $BMT",
-      "followersCount": 267082,
+      "followersCount": 266980,
       "friendsCount": 301,
       "location": ""
     },
@@ -190,7 +239,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11049,
+      "followersCount": 11050,
       "friendsCount": 3639,
       "location": ""
     },
@@ -235,7 +284,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11049,
+      "followersCount": 11050,
       "friendsCount": 3639,
       "location": ""
     },
@@ -300,7 +349,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32281,
+      "followersCount": 32282,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -317,7 +366,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11049,
+      "followersCount": 11050,
       "friendsCount": 3639,
       "location": ""
     },
@@ -352,7 +401,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59561,
+      "followersCount": 59560,
       "friendsCount": 370,
       "location": ""
     },
@@ -372,7 +421,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59561,
+      "followersCount": 59560,
       "friendsCount": 370,
       "location": ""
     },
@@ -439,7 +488,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30346,
+      "followersCount": 30348,
       "friendsCount": 131,
       "location": "China"
     },
@@ -454,7 +503,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30346,
+      "followersCount": 30348,
       "friendsCount": 131,
       "location": "China"
     },
@@ -474,7 +523,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32281,
+      "followersCount": 32282,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -568,7 +617,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30346,
+      "followersCount": 30348,
       "friendsCount": 131,
       "location": "China"
     },
@@ -598,6 +647,21 @@
     ],
     "tweetUrl": "https://x.com/TheSixFiveMedia/status/1939840723551232368",
     "fullText": "Server innovation has certainly ramped up due to the explosion of AI. Here's an example - the newest Gen12 ProLiant servers now have a consolidation ratio of 6:1 (Gen10) &amp; 26:1 (Gen8).  Coming from HPE Discover Las Vegas 2025, @DanielNewmanUV &amp; @PatrickMoorhead sat down w/ @HPE's https://t.co/RYmb5e8omm"
+  },
+  {
+    "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 245851,
+      "friendsCount": 5069,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CPAC/status/1939838298400133433",
+    "fullText": "Today, Sen. Rick Scott (R-FL) filed an essential amendment to the OBBB, focusing on essential reforms to Medicaid. CPAC is pleased to support this amendment to the OBBB because it takes direct aim at one of Washington’s most dangerous habits: using federal dollars to prop up"
   },
   {
     "user": {
@@ -987,7 +1051,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16491,
+      "followersCount": 16490,
       "friendsCount": 1194,
       "location": "San Antonio, TX"
     },
@@ -1104,7 +1168,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1190075,
+      "followersCount": 1190095,
       "friendsCount": 23,
       "location": "Menlo Park, CA"
     },
