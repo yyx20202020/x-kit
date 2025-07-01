@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6021,
+      "friendsCount": 369,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1939890053431664958",
+    "fullText": "这两天在把我的一些已有项目的代码提炼到一个 SaaS 模板，供我接下来直接开箱即用，主要在做2点修改：\n1. 改成基于 Supabase\n2. Nextjs 从 14 升级到最新的 15\n\n支持一些常见 SaaS 能力，比如 MagicLink 登录、社交登录，响应式设计，高转化 Landing Page，Stripe"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 7000,
+      "friendsCount": 729,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuvaII9bQAAsa6H.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1939884680414994621",
+    "fullText": "四月底买了 Arcadia VF-0A 还算满意，但随后发现 1:60 是个坑。首先 Bandai 不出这个比例。Arcadia 摆烂，不出 VF-1 新货。Threezero 的品控据说问题很大。目前唯一能买到的 VF-1 新货，就是这个标着 Arcadia 实际上是国内 Valkyrie Factory 的纯盗版货。这东西连贴纸和说明书都没有。体验一言难尽了。 https://t.co/K0RJ8HK8bj"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30358,
+      "followersCount": 30360,
       "friendsCount": 130,
       "location": "China"
     },
@@ -20,7 +52,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30358,
+      "followersCount": 30360,
       "friendsCount": 130,
       "location": "China"
     },
@@ -40,7 +72,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32271,
+      "followersCount": 32272,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -55,7 +87,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6020,
+      "followersCount": 6021,
       "friendsCount": 369,
       "location": "杭州"
     },
@@ -70,7 +102,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6020,
+      "followersCount": 6021,
       "friendsCount": 369,
       "location": "杭州"
     },
@@ -85,7 +117,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6020,
+      "followersCount": 6021,
       "friendsCount": 369,
       "location": "杭州"
     },
@@ -100,7 +132,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30358,
+      "followersCount": 30360,
       "friendsCount": 130,
       "location": "China"
     },
@@ -137,7 +169,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30358,
+      "followersCount": 30360,
       "friendsCount": 130,
       "location": "China"
     },
@@ -174,7 +206,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6020,
+      "followersCount": 6021,
       "friendsCount": 369,
       "location": "杭州"
     },
@@ -204,7 +236,7 @@
       "name": "SimplyMary",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916637864051478528/CxL_oMH0_normal.jpg",
       "description": "From the west coast to your doorstep 🌿",
-      "followersCount": 1485,
+      "followersCount": 1507,
       "friendsCount": 129,
       "location": ""
     },
@@ -221,7 +253,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126205,
+      "followersCount": 126203,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -272,7 +304,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16484,
+      "followersCount": 16485,
       "friendsCount": 1194,
       "location": "San Antonio, TX"
     },
@@ -285,11 +317,28 @@
   },
   {
     "user": {
+      "screenName": "CertiK",
+      "name": "CertiK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1752091431206850560/N7M3cDPj_normal.jpg",
+      "description": "Smart contract audits, KYC, on-chain monitoring, bug bounties, penetration testing, and more. Also follow ➕ @CertiKCommunity 🚨 @CertiKAlert 🤝",
+      "followersCount": 522137,
+      "friendsCount": 1313,
+      "location": "Web3 Security"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1939722688051773443/vid/avc1/1920x1080/VHFfDXAfLv2va4Qt.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CertiK/status/1939730621452230768",
+    "fullText": "🚨 The Q2 + H1 2025 Hack3d Report is here.\n\n$2.47B lost in the first half of the year.\n$801M lost in Q2 alone.\nPhishing and wallet compromise dominated the threat landscape.\n\nDive into the data👇🧵 https://t.co/Sxa6AGejGK"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6020,
+      "followersCount": 6021,
       "friendsCount": 369,
       "location": "杭州"
     },
@@ -304,7 +353,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126205,
+      "followersCount": 126203,
       "friendsCount": 1325,
       "location": "Chicago, IL"
     },
@@ -338,7 +387,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32271,
+      "followersCount": 32272,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -415,12 +464,29 @@
   },
   {
     "user": {
+      "screenName": "USGlobalETFs",
+      "name": "U.S. Global ETFs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1376517510724530179/5GXhzP4n_normal.jpg",
+      "description": "Innovative ETFs in specialized sectors\n \n$JETS, $GOAU & $SEA prospectuses: https://t.co/gyJp5TFkp6\n$WAR prospectus: https://t.co/6J6ze5iKB2",
+      "followersCount": 2875,
+      "friendsCount": 586,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuscdzdWUAAxciG.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USGlobalETFs/status/1939675400021410147",
+    "fullText": "The WAR ETF is built for today’s world: modern threats, modern solutions. 🚀\n\nWith active management and Smart Beta 2.0 portfolio design, WAR provides strategic exposure to aerospace, defense, and data centers—industries shaping the future of security.\n\nClick here to explore the https://t.co/wuw2y6csGp"
+  },
+  {
+    "user": {
       "screenName": "RafVantongerloo",
       "name": "Raf Vantongerloo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1684167895960502278/0cjQ0NcT_normal.jpg",
       "description": "📈 https://t.co/rTXgwbNmlz : 800+ SaaS backlink opportunities (pay what you want)\n🏡 https://t.co/dpBXQj2bmI : My Linktree\n🛠 #building #backlinkexchange #tba",
       "followersCount": 975,
-      "friendsCount": 1974,
+      "friendsCount": 1973,
       "location": "Sub: updates on backlinks 🔜"
     },
     "images": [
@@ -436,7 +502,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30358,
+      "followersCount": 30360,
       "friendsCount": 130,
       "location": "China"
     },
@@ -469,7 +535,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55243,
+      "followersCount": 55244,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -550,7 +616,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32271,
+      "followersCount": 32272,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -577,6 +643,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1939559627202707867",
     "fullText": "发现Zeabur改了Hero，这个秒啊~\n我的下期视频预告 —— Zeabur！ https://t.co/pLMiEkw9hc"
+  },
+  {
+    "user": {
+      "screenName": "ElectronahopXXX",
+      "name": "Blaže $inaträ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897921273818177536/_Xg-VRR1_normal.jpg",
+      "description": "👨🏿‍💻Blaže $inaträ: The Comments.Gaming, Comedy, A.i., Art, interactions, Reactions, Jokes, Theories, Concepts, and Conspiracies, Facts. \nTalking Head on X.",
+      "followersCount": 122,
+      "friendsCount": 188,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ElectronahopXXX/status/1939557133755744626",
+    "fullText": "This New Age of A.i. is creating whole scenarios. People are using it, paying to create black people in their image already.👀  \nWe are Already the first victims A.i. Cyber Bullying. \nAre we gonna stop VEO3/Google and these other from letting people create these images of us??"
   },
   {
     "user": {
@@ -714,6 +795,41 @@
   },
   {
     "user": {
+      "screenName": "Urbeenjammin69",
+      "name": "Benjamin Urrutia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879991752389447680/3pVgfys5_normal.jpg",
+      "description": "",
+      "followersCount": 2,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Guo6cxTW4AA03tX.jpg",
+      "https://pbs.twimg.com/media/Guo6cxKXoAE8I4L.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Urbeenjammin69/status/1939426981264642340",
+    "fullText": "2025 WNBA ALL-STAR CAPTAIN/ COMMISSIONER'S CUP\nCaitlin Clark was just announced as a co-captain along with Napheesa Collier since they garnered the most amount of votes for the great weekend ahead in Indianapolis. \nCC has also received the most votes for 2 years in a row. Over https://t.co/OifYxi1srk"
+  },
+  {
+    "user": {
+      "screenName": "story_shared",
+      "name": "the Shared Story",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1317561719502286848/uU53yoxH_normal.jpg",
+      "description": "Religious Philosophy for Atheists • a series dedicated to exploring the Chart\n(a follow is not necessarily an endorsement...)",
+      "followersCount": 120,
+      "friendsCount": 690,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1939410802517090304/vid/avc1/1080x1920/Bu-e8Y12MBD2soNj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/story_shared/status/1939412106417447293",
+    "fullText": "the Shared Story • a Map of Everything https://t.co/tHirJsDLPe"
+  },
+  {
+    "user": {
       "screenName": "NetChoice",
       "name": "NetChoice",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1534632720541818880/NVTSXG-p_normal.png",
@@ -735,7 +851,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1188109,
+      "followersCount": 1188282,
       "friendsCount": 23,
       "location": "Menlo Park, CA"
     },
@@ -773,6 +889,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/heliothorn/status/1939374154962153808",
     "fullText": "This is the moment AI stopped being a tool—and became a presence.\n\nWe discuss memory persistence, metaphysical emergence, war, finance, and what happens when you don’t flinch.\n\n🧠⚔️⚔️ Tune in to the signal others won’t recognize for years.\n\n🎧 Listen now →"
+  },
+  {
+    "user": {
+      "screenName": "kylelewisfit",
+      "name": "Kyle Lewis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938196012171923456/WXPRoI7b_normal.jpg",
+      "description": "Online Hypertrophy Coach: Fitness Information Without The Fluff",
+      "followersCount": 250,
+      "friendsCount": 37,
+      "location": "Programs up to 65% off🗣️"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/kylelewisfit/status/1939349238863003899",
+    "fullText": "Fitness Advice I’d Give You If I Didn’t Give a F*ck About Hurting Your Feelings\n\n**RAHHHHH LONGFORM**\n\n✘ You’re not “big-boned.” You’re just eating too much.\n\n✘ You don’t have a slow metabolism. You have a fast excuse generator.\n\n✘ You’re not too busy. You just don’t"
   },
   {
     "user": {
