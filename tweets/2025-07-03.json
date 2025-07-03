@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30395,
+      "friendsCount": 131,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1940802817515835849",
+    "fullText": "DeepSeek帮我做攻略，比我自己研究快太多了。\n\n7月份要从武汉自驾去新疆玩伊利小环线，我想知道武汉去乌鲁木齐以及乌鲁木齐回武汉的自驾途径地要怎么安排，最好途径地也有好的自然风景。"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -22,7 +37,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32356,
+      "followersCount": 32357,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -47,6 +62,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1940781200072982624",
     "fullText": "刚刚被DM，问到Fiat24的开卡问题，突然想起来，每一张不同平台合作的Fiat24卡都需要用新的邮箱号注册，因为一邮箱只能绑一卡，我的四个邮箱都已经注册过了，如果之后又有新的卡想要申领怎么办？我把不用的卡注销掉可以释放邮箱号重新注册吗？🧐"
+  },
+  {
+    "user": {
+      "screenName": "MindM3anders",
+      "name": "Mind Meanders",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940456435256541185/Ql8vpYo__normal.jpg",
+      "description": "💥 Random musings 💥 Spontaneous ideas 💥 Quick thoughts 💥",
+      "followersCount": 714,
+      "friendsCount": 1208,
+      "location": "In My Mind"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gu8JGE8WQAAiEQn.mp4"
+    ],
+    "tweetUrl": "https://x.com/MindM3anders/status/1940780184468336728",
+    "fullText": "◇\n◇\n\nWe’re all performing for an algorithm that doesn’t care.\n\n◇\n◇ https://t.co/x664YIIT6A"
   },
   {
     "user": {
@@ -86,7 +118,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55377,
+      "followersCount": 55382,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -218,7 +250,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18695,
+      "followersCount": 18703,
       "friendsCount": 1992,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -233,7 +265,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32356,
+      "followersCount": 32357,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -301,7 +333,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18695,
+      "followersCount": 18703,
       "friendsCount": 1992,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -319,7 +351,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30394,
+      "followersCount": 30395,
       "friendsCount": 131,
       "location": "China"
     },
@@ -336,7 +368,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150867,
+      "followersCount": 150874,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -371,7 +403,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30394,
+      "followersCount": 30395,
       "friendsCount": 131,
       "location": "China"
     },
@@ -437,7 +469,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32356,
+      "followersCount": 32357,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -469,7 +501,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150867,
+      "followersCount": 150874,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -584,7 +616,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30394,
+      "followersCount": 30395,
       "friendsCount": 131,
       "location": "China"
     },
@@ -604,7 +636,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32356,
+      "followersCount": 32357,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -670,7 +702,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32356,
+      "followersCount": 32357,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -687,7 +719,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30394,
+      "followersCount": 30395,
       "friendsCount": 131,
       "location": "China"
     },
@@ -813,7 +845,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30394,
+      "followersCount": 30395,
       "friendsCount": 131,
       "location": "China"
     },
@@ -1339,7 +1371,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29639376,
+      "followersCount": 29639374,
       "friendsCount": 228,
       "location": ""
     },
@@ -1502,6 +1534,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/ZARGATES/status/1940381794278207494",
     "fullText": "🏝 YOUR OWN ISLAND IN ZARGATES!    \n\nDear fans, \n\nToday we’re launching the biggest update in the history of the project!    We’ve spent months working not just to make onboarding easier for newcomers, but to bring you something that will spark real excitement.   \n\nZARGATES  JUST https://t.co/UvghSNMHGq"
+  },
+  {
+    "user": {
+      "screenName": "ForteProtocol",
+      "name": "Forte",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1844150391723757569/kr1nvMyy_normal.jpg",
+      "description": "The infrastructure layer to define, launch, and monetize your on-chain economy.",
+      "followersCount": 20142,
+      "friendsCount": 365,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1940378636885819392/vid/avc1/3840x2160/4AUj0B9XLvy0e0Ab.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ForteProtocol/status/1940380274430255105",
+    "fullText": "FortePay is now the core payments infrastructure for SequencePay, thanks to a strategic alliance with @ForteProtocol &amp; @0xSequence.\n\n✅ Seamless fiat crypto conversion\n✅ NFT + token purchases\n✅ Global + local payment rails\n✅ Built-in KYC &amp; compliance\nAn end-to-end, multi-chain https://t.co/dAaXfv2urM"
   },
   {
     "user": {
