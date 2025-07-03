@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8409,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu7B7gea0AAvRM5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1940701719454969984",
+    "fullText": "大家有触发  Cursor 的限额吗？没有 claude 4 sonnet 写不了代码 🥲 https://t.co/YyksMr0J8y"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32357,
+      "followersCount": 32361,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -22,7 +39,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150874,
+      "followersCount": 150873,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -39,7 +56,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18700,
+      "followersCount": 18701,
       "friendsCount": 1990,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -54,7 +71,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18700,
+      "followersCount": 18701,
       "friendsCount": 1990,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -69,7 +86,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59601,
+      "followersCount": 59602,
       "friendsCount": 370,
       "location": ""
     },
@@ -102,7 +119,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30390,
+      "followersCount": 30393,
       "friendsCount": 131,
       "location": "China"
     },
@@ -122,7 +139,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32357,
+      "followersCount": 32361,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -171,7 +188,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32357,
+      "followersCount": 32361,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -188,7 +205,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30390,
+      "followersCount": 30393,
       "friendsCount": 131,
       "location": "China"
     },
@@ -198,6 +215,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1940590131947491794",
     "fullText": "老师的书，每日读一段，都有收货 https://t.co/vcIec1U7sm"
+  },
+  {
+    "user": {
+      "screenName": "Jeremy_Tedesco",
+      "name": "Jeremy Tedesco",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742230486242492416/63n1ltKm_normal.jpg",
+      "description": "Sr. Counsel and SVP @ADFlegal. Opinions are my own. Benchmarking corporate respect for free speech at https://t.co/4wCWiZsfUC.",
+      "followersCount": 1139,
+      "friendsCount": 480,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Jeremy_Tedesco/status/1940588984557617545",
+    "fullText": "Remember how much we all loved COVID censorship? \n\nWell, maybe you didn’t, but EU Commissioners including @HennaVirkkunen certainly did. They still do.\n\nMs. Virkkunen wants to muzzle Americans and citizens in every corner of the globe under the censorious DSA (aka “Destroy,"
   },
   {
     "user": {
@@ -237,7 +269,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18700,
+      "followersCount": 18701,
       "friendsCount": 1990,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -284,7 +316,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30390,
+      "followersCount": 30393,
       "friendsCount": 131,
       "location": "China"
     },
@@ -296,6 +328,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1940574213355851790",
     "fullText": "领导5点就去菜地收菜了，她种菜和我玩电脑一样，有瘾。 https://t.co/ORjG3KpQ5z"
+  },
+  {
+    "user": {
+      "screenName": "damnvonrob",
+      "name": "Damnitrius Von Robinson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1933763535361998848/xzm3566e_normal.jpg",
+      "description": "I am The Lorax\nand\nI speak for the trees\n\nthe trees say shut the fuck up",
+      "followersCount": 28,
+      "friendsCount": 27,
+      "location": "Phoenix, AZ"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/damnvonrob/status/1940556258626752781",
+    "fullText": "@bertkreischer I've been training. I'm not saying I can outdrink the machine... I'm saying I can keep up."
   },
   {
     "user": {
@@ -416,6 +463,23 @@
   },
   {
     "user": {
+      "screenName": "USGlobalETFs",
+      "name": "U.S. Global ETFs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1376517510724530179/5GXhzP4n_normal.jpg",
+      "description": "Innovative ETFs in specialized sectors\n \n$JETS, $GOAU & $SEA prospectuses: https://t.co/gyJp5TFkp6\n$WAR prospectus: https://t.co/6J6ze5iKB2",
+      "followersCount": 2883,
+      "friendsCount": 586,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu4G9AiWcAAJ_ho.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USGlobalETFs/status/1940496214106997186",
+    "fullText": "The headlines haven’t been too kind to the travel industry lately. You’ve probably seen the same bearish takes we have—reports of slumping business travel to the U.S., falling international visitor spending and weak demand.\n\nContext is everything, though, and if you dig a little https://t.co/8lIQAEqBF2"
+  },
+  {
+    "user": {
       "screenName": "JessupWealth",
       "name": "Jessup Wealth Management",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1384186138445836288/fkw6tHlD_normal.jpg",
@@ -469,7 +533,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18700,
+      "followersCount": 18701,
       "friendsCount": 1990,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -567,7 +631,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1924314148650811392/wIRdLxXp_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx\n别用 V0 了， 试试？",
-      "followersCount": 22582,
+      "followersCount": 22583,
       "friendsCount": 337,
       "location": "HK"
     },
@@ -594,6 +658,21 @@
     ],
     "tweetUrl": "https://x.com/R34LG00DGOY/status/1940416389841571909",
     "fullText": "Philly Cat | A Tony Palma Production\nNew Music Coming July 3rd 10:10 AM\nK   A   M  A   L   A         P   A   C   K https://t.co/sJqoxhlLks"
+  },
+  {
+    "user": {
+      "screenName": "CitronResearch",
+      "name": "Citron Research",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1402292015845363714/fnNgwSxh_normal.png",
+      "description": "Citron Research | Since 2001, delivering bold market analysis & investment insights. Led by Andrew Left, empowering informed financial decisions worldwide.",
+      "followersCount": 362264,
+      "friendsCount": 482,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CitronResearch/status/1940412266853380103",
+    "fullText": "$RKT — Loved this quote from Brad Safalow in Barron’s on Rocket’s recent tech moves and acquisitions. Even Elizabeth Warren would agree with this one:\n\n“Rocket has the potential to be the single most disruptive company in the history of residential real estate.”\n\nThe U.S. housing"
   },
   {
     "user": {
@@ -650,7 +729,7 @@
       "name": "兔子",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932160302717739008/5MKjyVnF_normal.jpg",
       "description": "三个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm\n3. Claude Code改版+订阅服务：https://t.co/2hVG9GQQ2J",
-      "followersCount": 9120,
+      "followersCount": 9122,
       "friendsCount": 275,
       "location": "NewYork"
     },
@@ -1014,7 +1093,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4740,
+      "followersCount": 4741,
       "friendsCount": 486,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -1191,7 +1270,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126306,
+      "followersCount": 126312,
       "friendsCount": 1328,
       "location": "Chicago, IL"
     },
@@ -1429,7 +1508,7 @@
       "name": "Full Cast and Crew Podcast",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940537809808306176/iqsTmSgO_normal.jpg",
       "description": "Hosted by Jason Cilo. A framed original ‘Close Encounters’ poster, in podcast form. No film bros, mattress codes, or ‘canon’ fealty. Emotion not commotion.",
-      "followersCount": 3653,
+      "followersCount": 3652,
       "friendsCount": 1536,
       "location": "Wherever You Get Podcasts"
     },
