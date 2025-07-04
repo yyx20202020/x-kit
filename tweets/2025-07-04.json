@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8409,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1941024616644071868",
+    "fullText": "小程序的认证越来越恶心了 😅 经常遇到系统允许提交认证，人工审核不给过的情况，不太想做个人小程序了。"
+  },
+  {
+    "user": {
+      "screenName": "kriss1601",
+      "name": "lupe santillana",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940979063939596288/SdEvzhqh_normal.jpg",
+      "description": "ns",
+      "followersCount": 1232,
+      "friendsCount": 6,
+      "location": "UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/kriss1601/status/1941018857440985293",
+    "fullText": "smile"
+  },
+  {
+    "user": {
       "screenName": "yuxiyou",
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 106971,
+      "followersCount": 106973,
       "friendsCount": 241,
       "location": "Singapore"
     },
@@ -35,7 +65,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150841,
+      "followersCount": 150840,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -82,7 +112,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18670,
+      "followersCount": 18669,
       "friendsCount": 1993,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -129,7 +159,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11105,
+      "followersCount": 11107,
       "friendsCount": 3644,
       "location": ""
     },
@@ -146,7 +176,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188663,
+      "followersCount": 188665,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -180,7 +210,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11105,
+      "followersCount": 11107,
       "friendsCount": 3644,
       "location": ""
     },
@@ -212,7 +242,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188663,
+      "followersCount": 188665,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -623,7 +653,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11105,
+      "followersCount": 11107,
       "friendsCount": 3644,
       "location": ""
     },
@@ -672,7 +702,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32345,
+      "followersCount": 32343,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -734,7 +764,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55404,
+      "followersCount": 55406,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -766,7 +796,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11105,
+      "followersCount": 11107,
       "friendsCount": 3644,
       "location": ""
     },
@@ -817,7 +847,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18670,
+      "followersCount": 18669,
       "friendsCount": 1993,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -866,7 +896,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32345,
+      "followersCount": 32343,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -917,7 +947,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18670,
+      "followersCount": 18669,
       "friendsCount": 1993,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -952,7 +982,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150841,
+      "followersCount": 150840,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -1021,7 +1051,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32345,
+      "followersCount": 32343,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -1332,6 +1362,23 @@
   },
   {
     "user": {
+      "screenName": "PowerGPU",
+      "name": "PowerGPU",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1567144633125289984/iFyEPNTI_normal.jpg",
+      "description": "Custom Gaming PCs Founder: @Jese_PowerGPU  Website: https://t.co/YFqbmwFeG5 Support: @PowerGPUSupport Discord: https://t.co/1JbnGfXzFy Sales: https://t.co/9RJWlLxJtK",
+      "followersCount": 405741,
+      "friendsCount": 2661,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu3rU6UXIAAGqLo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PowerGPU/status/1940479218040918338",
+    "fullText": "Our BIGGEST Sale is HERE!\n\n✅ Up to $500 off all Ready to Ships \n✅ FREE Mousepad with EVERY PC\n✅ Random MSRP 5090 FE PC's dropping all month (Yes we'll be charging $1999.99 for the FE's on a few 🤯)\n✅ BEST Warranty in the Industry\n\nTake advantage of these insane deal today 🕐 https://t.co/fPtBl0Myh7"
+  },
+  {
+    "user": {
       "screenName": "macrozack",
       "name": "macrozack (τ, τ) 🚀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923365184598315008/zJfrP3Xs_normal.jpg",
@@ -1368,7 +1415,7 @@
       "name": "Wire Network",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917583302661148672/-N3HBA7Y_normal.jpg",
       "description": "Enabling next-gen apps at scale by giving devs unprecedented access to all users, assets, and universal liquidity. \n\nWelcome to the Universal Transaction Layer",
-      "followersCount": 13043,
+      "followersCount": 13044,
       "friendsCount": 617,
       "location": ""
     },
