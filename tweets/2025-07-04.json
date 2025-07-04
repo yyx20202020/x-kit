@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6982,
+      "friendsCount": 729,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1941149848142787038",
+    "fullText": "讨论一个气候访谈问题的时候，如果你不回答「中国人是不是人」就算离题。我觉得这也挺好的，这个问题以后中国人就专门留给副国级以上的人来回答他们，答案永远是令人满意的。"
+  },
+  {
+    "user": {
+      "screenName": "FMeyrath",
+      "name": "Frank Meyrath",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901439467371548672/ZjbOhObr_normal.jpg",
+      "description": "Real Estate, Business, AI & Social Commentary. \n\nOver $1 Billion in transactions in real estate private equity and banking.",
+      "followersCount": 565,
+      "friendsCount": 258,
+      "location": "Atlanta, GA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvBXXnvWMAAfVWd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FMeyrath/status/1941147505640518141",
+    "fullText": "Shameless plug to Follow Me for more fuel for your mind and day! https://t.co/8Y8Kn32UE4"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax__AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Our mission is to build a world where intelligence thrives with everyone.",
+      "followersCount": 15498,
+      "friendsCount": 8,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvBFUMAXMAAbY-N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax__AI/status/1941135664831222199",
+    "fullText": "🚨 MiniMax-M1 Technical Seminar\nJoin us for our first official seminar — a deep dive into the world’s first open-weight hybrid-attention reasoning model, with 1M-token input &amp; 80K-token output.\n\n🧠 Experts from MiniMax, Anthropic, Hugging Face, vLLM, MIT, HKUST &amp; more\n📅 July 10 https://t.co/X2auaDhlPq"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18671,
+      "followersCount": 18672,
       "friendsCount": 1993,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -50,7 +99,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18671,
+      "followersCount": 18672,
       "friendsCount": 1993,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -67,7 +116,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21333,
+      "followersCount": 21334,
       "friendsCount": 1037,
       "location": ""
     },
@@ -84,7 +133,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11112,
+      "followersCount": 11114,
       "friendsCount": 3648,
       "location": ""
     },
@@ -197,7 +246,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6391,
+      "followersCount": 6390,
       "friendsCount": 1428,
       "location": ""
     },
@@ -276,7 +325,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21333,
+      "followersCount": 21334,
       "friendsCount": 1037,
       "location": ""
     },
@@ -291,7 +340,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30409,
+      "followersCount": 30405,
       "friendsCount": 131,
       "location": "China"
     },
@@ -305,11 +354,26 @@
   },
   {
     "user": {
+      "screenName": "saisuresh137",
+      "name": "saisuresh",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938176686438187008/m5ZGnu7v_normal.jpg",
+      "description": "Volvo FH Aeros join Harrison’s fleet in driver-first upgrade",
+      "followersCount": 2,
+      "friendsCount": 15,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saisuresh137/status/1941066180116296044",
+    "fullText": "Get ready for the biggest event we’ve ever hosted, with unmatched volume and energy! Join us to be part of something extraordinary"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150804,
+      "followersCount": 150802,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -324,7 +388,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150804,
+      "followersCount": 150802,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -335,12 +399,27 @@
   },
   {
     "user": {
+      "screenName": "gbhardwaj831",
+      "name": "gaurav bhardwaj",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/506387751889936386/LANiLxiM_normal.jpeg",
+      "description": "Work one-on-one to refine every detail and create an authentic trip.",
+      "followersCount": 2,
+      "friendsCount": 14,
+      "location": "WORLD"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gbhardwaj831/status/1941052426892857794",
+    "fullText": "Get ready for the biggest event we’ve ever hosted, with unmatched volume and energy! Join us to be part of something extraordinary"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32339,
-      "friendsCount": 617,
+      "followersCount": 32335,
+      "friendsCount": 618,
       "location": "Hong Kong"
     },
     "images": [],
@@ -405,7 +484,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6040,
+      "followersCount": 6039,
       "friendsCount": 369,
       "location": "杭州"
     },
@@ -420,7 +499,7 @@
       "name": "Mina Evans",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940121430365986816/xYsDybse_normal.jpg",
       "description": "A former society lady who shed her masks and found freedom in solitude. Antisocial by choice.",
-      "followersCount": 40,
+      "followersCount": 41,
       "friendsCount": 48,
       "location": "Castle On The Hill - Europe "
     },
@@ -467,7 +546,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11112,
+      "followersCount": 11114,
       "friendsCount": 3648,
       "location": ""
     },
@@ -544,7 +623,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 106991,
+      "followersCount": 106990,
       "friendsCount": 241,
       "location": "Singapore"
     },
@@ -559,7 +638,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30409,
+      "followersCount": 30405,
       "friendsCount": 131,
       "location": "China"
     },
@@ -574,7 +653,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150804,
+      "followersCount": 150802,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -591,7 +670,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6983,
+      "followersCount": 6982,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -670,7 +749,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6983,
+      "followersCount": 6982,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -685,7 +764,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11112,
+      "followersCount": 11114,
       "friendsCount": 3648,
       "location": ""
     },
@@ -719,7 +798,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188662,
+      "followersCount": 188664,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -753,7 +832,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11112,
+      "followersCount": 11114,
       "friendsCount": 3648,
       "location": ""
     },
@@ -770,7 +849,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6983,
+      "followersCount": 6982,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -785,7 +864,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188662,
+      "followersCount": 188664,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -897,7 +976,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6983,
+      "followersCount": 6982,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -947,7 +1026,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6983,
+      "followersCount": 6982,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -1181,7 +1260,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6040,
+      "followersCount": 6039,
       "friendsCount": 369,
       "location": "杭州"
     },
@@ -1522,7 +1601,7 @@
       "name": "Flavio justino",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934634192069120000/1PnwDCBi_normal.jpg",
       "description": "Necessity is the mother of invention",
-      "followersCount": 1673,
+      "followersCount": 1675,
       "friendsCount": 1,
       "location": "The Rest"
     },
