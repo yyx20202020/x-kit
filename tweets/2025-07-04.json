@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30394,
+      "friendsCount": 131,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu_u6zAWIAAvJDZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1941033990896689517",
+    "fullText": "程序员落泪，满大街的lovebug？这名字像话吗？ https://t.co/JBbbWhZNDm"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 11107,
+      "friendsCount": 3644,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu_tmnPX0AEUqad.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1941031530316562840",
+    "fullText": "真热泪盈眶！我愿称这个为 “巢级个体”社区的 奇点时刻。\n（去年大部分都是为爱发电，最近摸索到商业化的方法了，也获得了社区成员的认可！\n加油，继续！ https://t.co/ykO2hdxTI1"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
@@ -16,11 +50,26 @@
   },
   {
     "user": {
+      "screenName": "Rasih3455Rasih",
+      "name": "rasih ertunç",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940979347231227905/2eWzEOcf_normal.jpg",
+      "description": "mmmm",
+      "followersCount": 1250,
+      "friendsCount": 8,
+      "location": "UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Rasih3455Rasih/status/1941018891125510175",
+    "fullText": "smile"
+  },
+  {
+    "user": {
       "screenName": "kriss1601",
       "name": "lupe santillana",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940979063939596288/SdEvzhqh_normal.jpg",
       "description": "ns",
-      "followersCount": 1232,
+      "followersCount": 1230,
       "friendsCount": 6,
       "location": "UK"
     },
@@ -35,7 +84,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 106973,
+      "followersCount": 106981,
       "friendsCount": 241,
       "location": "Singapore"
     },
@@ -50,7 +99,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30393,
+      "followersCount": 30394,
       "friendsCount": 131,
       "location": "China"
     },
@@ -65,7 +114,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150840,
+      "followersCount": 150837,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -82,7 +131,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6990,
+      "followersCount": 6987,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -144,7 +193,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6990,
+      "followersCount": 6987,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -176,7 +225,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188665,
+      "followersCount": 188666,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -227,7 +276,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6990,
+      "followersCount": 6987,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -242,7 +291,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188665,
+      "followersCount": 188666,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -354,7 +403,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6990,
+      "followersCount": 6987,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -389,7 +438,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6990,
+      "followersCount": 6987,
       "friendsCount": 729,
       "location": "San Jose, CA"
     },
@@ -621,7 +670,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30393,
+      "followersCount": 30394,
       "friendsCount": 131,
       "location": "China"
     },
@@ -698,6 +747,23 @@
   },
   {
     "user": {
+      "screenName": "theydied4us",
+      "name": "ABMF.org",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1816928327271137281/1-4Sidoh_normal.jpg",
+      "description": "We Remember & Honor the nearly 234,000 American service members buried or memorialized at ABMC military cemeteries away from the homeland.  Education, outreach.",
+      "followersCount": 64,
+      "friendsCount": 66,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1940053512206839808/vid/avc1/1080x1920/vetVcGYAvPdG35k7.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/theydied4us/status/1940784344635002946",
+    "fullText": "Please help us tell the stories of those who fought and died for our freedoms.\n\nWe Remember &amp; Honor: Then, Now, Forever https://t.co/JRFs1VcklJ"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -749,6 +815,23 @@
       "name": "Flavio justino",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934634192069120000/1PnwDCBi_normal.jpg",
       "description": "Necessity is the mother of invention",
+      "followersCount": 1673,
+      "friendsCount": 1,
+      "location": "The Rest"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu8DOm0XAAA23-l.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Flavioudiyrr/status/1940773596294795303",
+    "fullText": "In him was life, and that life was the light of all mankind https://t.co/5JzlEQ5Ha7"
+  },
+  {
+    "user": {
+      "screenName": "Flavioudiyrr",
+      "name": "Flavio justino",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934634192069120000/1PnwDCBi_normal.jpg",
+      "description": "Necessity is the mother of invention",
       "followersCount": 1671,
       "friendsCount": 1,
       "location": "The Rest"
@@ -764,7 +847,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55406,
+      "followersCount": 55403,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -814,7 +897,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59566,
+      "followersCount": 59564,
       "friendsCount": 370,
       "location": ""
     },
@@ -965,7 +1048,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30393,
+      "followersCount": 30394,
       "friendsCount": 131,
       "location": "China"
     },
@@ -982,7 +1065,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150840,
+      "followersCount": 150837,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -1000,7 +1083,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30393,
+      "followersCount": 30394,
       "friendsCount": 131,
       "location": "China"
     },
@@ -1602,5 +1685,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/zfqVVbYSI4lTu9j/status/1940341543065485617",
     "fullText": "All of Grim’s trophy designs are in stock and ready to be added to your trophy cabinet today!"
+  },
+  {
+    "user": {
+      "screenName": "Audacitycap",
+      "name": "AudaCity Capital",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1686790953581899789/SGQpUmu6_normal.jpg",
+      "description": "📍 London Prop Trading Firm Est 2012.\n🌐 Empowering Traders Globally\n📈Turn your passion into profits\n💰 Get Funded up to $2M | 🎓 Learn How to Trade like a Pro",
+      "followersCount": 11394,
+      "friendsCount": 312,
+      "location": "1 Canada Square London E14 5AA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu10LL6WUAIrWRE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Audacitycap/status/1940334753401516477",
+    "fullText": "📈 DxTrade is now open for YOU!\nA world-class trading platform, breaking the barriers for U.S. traders. Seamless execution, advanced tools, full risk control and it's fully accessible to all traders.\n ☑️ Fast 1-click execution\n ☑️ 24+ charting tools &amp; 50+ indicators\n ☑️ Real-time https://t.co/ytVKYjsGgj"
   }
 ]
