@@ -1,6 +1,57 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21332,
+      "friendsCount": 1037,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GvA_OzeXgAEk3Iq.mp4"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/1941121797812064395",
+    "fullText": "挺好奇 Dia 总结 Tab 的上下文是什么（链接、HTML、Markdown）？有佬研究过吗，可以科普下。 https://t.co/UvvlqRaJ7T"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 11110,
+      "friendsCount": 3646,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvA8Mofb0AAmNrn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1941117636274012443",
+    "fullText": "收到了小红书长文内测，开卷了开卷了！ https://t.co/MCtcJSD7ZG"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18672,
+      "friendsCount": 1993,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvA7lNQW4AE22I9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1941116957878890672",
+    "fullText": "https://t.co/eOSskKoxtX\n家人们可以TG私聊我一下吗？\n我做个测试，明明所有设置都是打开的，但是好多人都反映没办法发消息给我，我得排查一下了 https://t.co/aVzKPZQFV2"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -22,7 +73,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150839,
+      "followersCount": 150805,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -95,6 +146,23 @@
   },
   {
     "user": {
+      "screenName": "thedaywarrior",
+      "name": "thedaywarrior",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899250348583272449/zP90WO1P_normal.jpg",
+      "description": "I am transforming my life, and so can you. My journey started over 20 years ago moving to Japan. Your transformation journey can start today.",
+      "followersCount": 907,
+      "friendsCount": 602,
+      "location": "Subscribe for free book ➡️"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvAjmFgXUAA0LXq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/thedaywarrior/status/1941090579049243028",
+    "fullText": "This 4th of July, remember—freedom isn’t just a gift, it’s a responsibility.\n\nWe honor those who fought for our liberty by making the most of the lives they made possible.\n\nBe a little better today than you were yesterday.\nMake your freedom count.\nBe stronger. Be wiser. \nBe more https://t.co/kzBwFRh6zG"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
@@ -114,7 +182,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21333,
+      "followersCount": 21332,
       "friendsCount": 1037,
       "location": ""
     },
@@ -129,7 +197,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30403,
+      "followersCount": 30397,
       "friendsCount": 131,
       "location": "China"
     },
@@ -147,7 +215,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150839,
+      "followersCount": 150805,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -162,7 +230,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150839,
+      "followersCount": 150805,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -290,7 +358,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11109,
+      "followersCount": 11110,
       "friendsCount": 3646,
       "location": ""
     },
@@ -367,7 +435,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 107013,
+      "followersCount": 107015,
       "friendsCount": 241,
       "location": "Singapore"
     },
@@ -382,7 +450,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30403,
+      "followersCount": 30397,
       "friendsCount": 131,
       "location": "China"
     },
@@ -397,7 +465,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150839,
+      "followersCount": 150805,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -476,7 +544,7 @@
       "name": "DAN DA DAN Anime EN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894794348748771328/LRM0f26O_normal.jpg",
       "description": "Official English account for the DAN DA DAN anime. Season 2 now streaming! #DANDADAN",
-      "followersCount": 34725,
+      "followersCount": 34730,
       "friendsCount": 37,
       "location": ""
     },
@@ -508,7 +576,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11109,
+      "followersCount": 11110,
       "friendsCount": 3646,
       "location": ""
     },
@@ -559,7 +627,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11109,
+      "followersCount": 11110,
       "friendsCount": 3646,
       "location": ""
     },
@@ -714,6 +782,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/middlefeng/status/1940896435060572207",
     "fullText": "我小学玩过超电磁合体之后这么多年念念不忘的是它的零件总会以一种奇特的方式结合起来，而且不是固定的结合，是通过奇特方式增加摩擦力的活动关节，或者拆装接口。这次 Bandai 最新版也是如此。在其它机甲设计里从未看到。属于超电磁 V 的独有风味。 https://t.co/H2kZtIbA3G"
+  },
+  {
+    "user": {
+      "screenName": "WallStButts",
+      "name": "Wall Street Butts",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1659285260348059651/wQj9g1_A_normal.jpg",
+      "description": "Avant-Garde Capitalism. Global political and economic analyst. I also Digg™️ #eSports, Game Theory, #NFTs, #Web3, #DeFi, and road 🚵‍♀️. I may not DM back.",
+      "followersCount": 1480,
+      "friendsCount": 1194,
+      "location": "Newport Beach, CA "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WallStButts/status/1940895683223212405",
+    "fullText": "Capitalism definitely dies when the rich eat the poor."
   },
   {
     "user": {
@@ -1038,7 +1121,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30403,
+      "followersCount": 30397,
       "friendsCount": 131,
       "location": "China"
     },
@@ -1102,7 +1185,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11109,
+      "followersCount": 11110,
       "friendsCount": 3646,
       "location": ""
     },
@@ -1249,7 +1332,7 @@
       "name": "Flavio justino",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934634192069120000/1PnwDCBi_normal.jpg",
       "description": "Necessity is the mother of invention",
-      "followersCount": 1674,
+      "followersCount": 1675,
       "friendsCount": 1,
       "location": "The Rest"
     },
@@ -1968,7 +2051,7 @@
       "name": "Archer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1262881525994909697/hpEA_MA0_normal.jpg",
       "description": "Archer’s mission is to unlock the skies, freeing us to reimagine how we live and spend time. (NYSE: $ACHR)",
-      "followersCount": 44738,
+      "followersCount": 44741,
       "friendsCount": 481,
       "location": "Santa Clara, CA"
     },
@@ -1985,7 +2068,7 @@
       "name": "macrozack (τ, τ) 🚀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923365184598315008/zJfrP3Xs_normal.jpg",
       "description": "Director + communications @MacrocosmosAI \nBeliever in Bittensor. \n🧩 https://t.co/9k3wunNQwr\n🚀 telegram @ https://t.co/yNz1Ui3OzN",
-      "followersCount": 313,
+      "followersCount": 311,
       "friendsCount": 315,
       "location": "London"
     },
