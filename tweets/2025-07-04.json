@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "yuxiyou",
+      "name": "尤雨溪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
+      "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
+      "followersCount": 106969,
+      "friendsCount": 241,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuxiyou/status/1941010307645952446",
+    "fullText": "人生第一笔一级市场投资退出，基本没赚钱，心情有点复杂"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30391,
+      "followersCount": 30392,
       "friendsCount": 131,
       "location": "China"
     },
@@ -67,7 +82,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18670,
+      "followersCount": 18669,
       "friendsCount": 1992,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -131,7 +146,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188659,
+      "followersCount": 188660,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -197,7 +212,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188659,
+      "followersCount": 188660,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -561,7 +576,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30391,
+      "followersCount": 30392,
       "friendsCount": 131,
       "location": "China"
     },
@@ -625,7 +640,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32342,
+      "followersCount": 32345,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -687,7 +702,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55399,
+      "followersCount": 55402,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -695,6 +710,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/vikingmute/status/1940772977739812933",
     "fullText": "想问大家一下：2025年了，开发微信小程序推荐的框架工具是哪个？希望：轻量级/现代的工具栈/支持 Vue或者React \n\n一个朋友问我的，由于我平时从来不开发小程序，所以不太清楚现在的生态系统，什么 taro/uni-app 听起来都是很久以前都存在的大而全的解决方案，有什么后起之秀吗？"
+  },
+  {
+    "user": {
+      "screenName": "TCL_Brand",
+      "name": "TCL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1610211705136762880/o0GRD7Dv_normal.jpg",
+      "description": "TCL commits itself to providing ultimate service and experience with our premium electronics and smart tech products.",
+      "followersCount": 14201,
+      "friendsCount": 42,
+      "location": "Guangdong,China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1940745602309992448/vid/avc1/3840x2160/6XRBClRi1C3PNgXT.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TCL_Brand/status/1940772517544972779",
+    "fullText": "🫴 Meet TCL’s Built-in Refrigerators\n\nWith a precise 1.0 cm fit, improved insulation, heat dissipation, and smooth, stable recessed hinges for easy access — it’s built to blend beautifully into your smart kitchen ✨\n\nWhich built-in design fits your style? Tell us in the comment https://t.co/HDQh4AhWl6"
   },
   {
     "user": {
@@ -753,7 +785,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18670,
+      "followersCount": 18669,
       "friendsCount": 1992,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -802,7 +834,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32342,
+      "followersCount": 32345,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -853,7 +885,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18670,
+      "followersCount": 18669,
       "friendsCount": 1992,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -871,7 +903,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30391,
+      "followersCount": 30392,
       "friendsCount": 131,
       "location": "China"
     },
@@ -906,7 +938,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30391,
+      "followersCount": 30392,
       "friendsCount": 131,
       "location": "China"
     },
@@ -916,6 +948,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1940713242185322507",
     "fullText": "《顶级产品经理必修的一课》\n\n今天给公司同事培训怎么和设计师一起工作，下面是培训的内容：\n\n1. https://t.co/VaqRJkKdj1"
+  },
+  {
+    "user": {
+      "screenName": "FloydCalvi",
+      "name": "Calvin Floyd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940443018991210497/yXWptKOI_normal.png",
+      "description": "IT GOAT streamlines IT Operations for our clients by offering integrated IT solutions via our Help Desk, NOCaaS, and SOCaaS offerings...",
+      "followersCount": 1548,
+      "friendsCount": 32,
+      "location": "Dallas, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu7JdVsXQAAHTEr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FloydCalvi/status/1940710010604195905",
+    "fullText": "When something breaks, how your provider communicates matters as much as how they fix it.  Tech issues are stressful enough. Being ignored or confused while waiting? That’s unacceptable.  Support should sound like a partner, not a process. https://t.co/9KoCGUuGf2"
   },
   {
     "user": {
@@ -940,7 +989,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32342,
+      "followersCount": 32345,
       "friendsCount": 617,
       "location": "Hong Kong"
     },
@@ -1266,6 +1315,23 @@
   },
   {
     "user": {
+      "screenName": "Wire_Blockchain",
+      "name": "Wire Network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1917583302661148672/-N3HBA7Y_normal.jpg",
+      "description": "Enabling next-gen apps at scale by giving devs unprecedented access to all users, assets, and universal liquidity. \n\nWelcome to the Universal Transaction Layer",
+      "followersCount": 13043,
+      "friendsCount": 617,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1940439093512458240/vid/avc1/1548x720/WFuCXZj9P4Lg1zBs.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Wire_Blockchain/status/1940444164841427068",
+    "fullText": "Wire Network on Wall Street ft @wallstreetbets https://t.co/jkXTPBWWrX"
+  },
+  {
+    "user": {
       "screenName": "CrossPolitic",
       "name": "CrossPolitic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1040716606345633792/zJC8o8Tz_normal.jpg",
@@ -1328,6 +1394,23 @@
   },
   {
     "user": {
+      "screenName": "NasdaqBTCS",
+      "name": "BTCS Inc. (Nasdaq: BTCS)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1564405519166672896/RqxRNfu__normal.jpg",
+      "description": "Blockchain Technology Concensus Solutions (BTCS) - Block Building, Validating, and Developing Solutions on Ethereum\n\nDisclaimer: https://t.co/IhvZMWSAf9",
+      "followersCount": 25599,
+      "friendsCount": 2154,
+      "location": "Silver Spring, MD"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu2xmSdWUAAiRzM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NasdaqBTCS/status/1940402621266755629",
+    "fullText": "Our Builder+ block building business has secured direct order flow from @MetaMask, the leading Ethereum wallet with over 100 million users, developed by @Consensys. This is a critical milestone, complementing our other Q2 partnerships.  \n\nIn Q2, our block builder surpassed 2.7% https://t.co/H9N7kiUypX"
+  },
+  {
+    "user": {
       "screenName": "USFunds",
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
@@ -1349,7 +1432,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29639401,
+      "followersCount": 29639412,
       "friendsCount": 228,
       "location": ""
     },
@@ -1393,6 +1476,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/tettehotuteye/status/1940363258604708061",
     "fullText": "Presenting the Negentropic Synthesis Framework.  An informational framework integrating classical, quantum and cognitive worlds: \n\nhttps://t.co/4aR8cFC7RI…\n\nDraft, pre-peer review and pre-submission white papers can be found here:\nhttps://t.co/q6o6zSo88J… https://t.co/gXQNgOUPsH"
+  },
+  {
+    "user": {
+      "screenName": "FangXinKai1",
+      "name": "XinKai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1548753383880019968/eRYqqLYa_normal.jpg",
+      "description": "機器人🤖走開",
+      "followersCount": 1537,
+      "friendsCount": 1187,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FangXinKai1/status/1940353644773454236",
+    "fullText": "Welcome to my page!"
   },
   {
     "user": {
