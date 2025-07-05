@@ -1,11 +1,112 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150831,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvEUHlzXsAApNlk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1941355043615302115",
+    "fullText": "WARP 在国外真好用。我因为天天连酒店或者咖啡馆的Wi-Fi，为了网络安全都是挂着 WARP 来加密流量。在国外几乎没有网络损失（不知道那个$4.99的WARP+有啥用？）\n\n等回国后准备把家里的 NAS、游戏机以及办公室里的 CI 服务器都组个内网用。 https://t.co/MfiWUEiJID"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 6397,
+      "friendsCount": 1431,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvERKKNaIAEZNuP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1941352780813484335",
+    "fullText": "#DataCollie 日拱一卒\n今天睡到自然醒，10点起床写程序，2个小时把新建 MySQL Schema的窗口弄了个Banner修饰了一下。看上去似乎不是那么的呆板无趣了。\n#buildinpublic #indiedev https://t.co/Db0EhjIcC5"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150831,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1941348192450400624",
+    "fullText": "下午喝了一杯星巴克的冰美式，和国内的比，味道特别的苦，但是没有酸味。然后我晚上直到凌晨六点才睡着…… 这是第一次咖啡对我有用，我要捎几包回国喝。"
+  },
+  {
+    "user": {
+      "screenName": "1ogos_",
+      "name": "Gojo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938733785211699200/9FS_dKAw_normal.jpg",
+      "description": "",
+      "followersCount": 2694,
+      "friendsCount": 217,
+      "location": "Philadelphia, PA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvENmM1XIAAfUxy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/1ogos_/status/1941347868155290047",
+    "fullText": "How Drake boutta be once Iceman drops https://t.co/AB8D7GGvS6"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32346,
+      "friendsCount": 618,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941346133655080961/vid/avc1/2560x1440/87pmCmvFX_6idDLj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1941347733723578764",
+    "fullText": "🚀 Vibe Coding了项目，不懂如何部署？买了服务器面对命令行一脸懵逼？想部署开源n8n、数据库太难了？我最推荐国内开发者的部署平台：zeabur！完整课程 + 部署实战源码见 👇👇👇 https://t.co/q0Xnohet5H"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18677,
+      "friendsCount": 1995,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvENTYBaAAIcAc_.jpg",
+      "https://pbs.twimg.com/media/GvENTYxWsAE0D_8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1941347548893151236",
+    "fullText": "X 把左侧那个「职位」功能给做好了，看着还挺像那么回事的，可能就是和个人主页里挂“招聘”的那个功能是互通的吧 https://t.co/nY4NVKhxAH"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11121,
+      "followersCount": 11122,
       "friendsCount": 3651,
       "location": ""
     },
@@ -15,6 +116,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1941341376454746248",
     "fullText": "入了 @manateelazycat 家的懒猫微服，赛博数字员工 +1！\n试玩一段时间来分享，怎么用懒猫微服赚钱😎\n（不过灰色虽然耐脏，但是感觉有点不上相🤣 https://t.co/PopJCukJXg"
+  },
+  {
+    "user": {
+      "screenName": "MindM3anders",
+      "name": "Mind Meanders",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940456435256541185/Ql8vpYo__normal.jpg",
+      "description": "💥 Random musings 💥 Spontaneous ideas 💥 Quick thoughts 💥",
+      "followersCount": 752,
+      "friendsCount": 1267,
+      "location": "In My Mind"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GvEFnTjW4AA7OnZ.mp4"
+    ],
+    "tweetUrl": "https://x.com/MindM3anders/status/1941339170066268190",
+    "fullText": "◇\n◇\n\nSleep is the freedom you earn after a day of celebrating.\n\n◇\n◇ https://t.co/cEB768c2yY"
   },
   {
     "user": {
@@ -39,7 +157,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4765,
+      "followersCount": 4768,
       "friendsCount": 486,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -56,7 +174,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11121,
+      "followersCount": 11122,
       "friendsCount": 3651,
       "location": ""
     },
@@ -71,7 +189,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4765,
+      "followersCount": 4768,
       "friendsCount": 486,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -122,7 +240,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23335,
+      "followersCount": 23339,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -251,6 +369,23 @@
   },
   {
     "user": {
+      "screenName": "glvstra",
+      "name": "Greater Las Vegas STR Association",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1171484639245979653/ebrT2Gdl_normal.jpg",
+      "description": "The Greater Las Vegas Short-Term Rental Association (GLVSTRA) is a grass roots nonprofit organization representing property owners in Nevada.",
+      "followersCount": 365,
+      "friendsCount": 241,
+      "location": "Las Vegas, Nevada"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941232530331705344/vid/avc1/1920x1080/8LaAPZF3-p1FhYlg.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/glvstra/status/1941232680701657567",
+    "fullText": "Homeowners are suing Las Vegas officials over new short-term rental laws they say are unconstitutional and designed to protect hotel profits at the expense of everyday people’s income. https://t.co/gM2ZzukjBB"
+  },
+  {
+    "user": {
       "screenName": "truthfulthird",
       "name": "Truthfulthird",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860090941933080576/W87EjzVu_normal.jpg",
@@ -306,8 +441,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6393,
-      "friendsCount": 1429,
+      "followersCount": 6397,
+      "friendsCount": 1431,
       "location": ""
     },
     "images": [
@@ -357,7 +492,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11121,
+      "followersCount": 11122,
       "friendsCount": 3651,
       "location": ""
     },
@@ -374,7 +509,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4765,
+      "followersCount": 4768,
       "friendsCount": 486,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -438,7 +573,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18676,
+      "followersCount": 18677,
       "friendsCount": 1995,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -453,7 +588,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18676,
+      "followersCount": 18677,
       "friendsCount": 1995,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -487,7 +622,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11121,
+      "followersCount": 11122,
       "friendsCount": 3651,
       "location": ""
     },
@@ -497,6 +632,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1941117636274012443",
     "fullText": "收到了小红书长文内测，开卷了开卷了！ https://t.co/MCtcJSD7ZG"
+  },
+  {
+    "user": {
+      "screenName": "chica_3111",
+      "name": "ちか",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916763630202396672/-W0CciI7_normal.jpg",
+      "description": "デザインの気になる情報を発信",
+      "followersCount": 1588,
+      "friendsCount": 983,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chica_3111/status/1941116543339032609",
+    "fullText": "なんか今日1999年12月31日にに似てる"
+  },
+  {
+    "user": {
+      "screenName": "ING_Economics",
+      "name": "ING Economics",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1230810610172071936/06WYsgHB_normal.png",
+      "description": "Do your thing with the latest analysis from ING's economists and strategists. \nCheck out our THINK website on the link below.",
+      "followersCount": 83225,
+      "friendsCount": 2903,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1941114970294382592/pu/vid/avc1/1280x720/B_e_ROYobkQ9DdYu.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/ING_Economics/status/1941115246569025848",
+    "fullText": "Put July 9th in your diary... it's Tariff Reprieve Deadline Day! So what happens next? Watch this, find out... https://t.co/1HXyW4dEwG"
   },
   {
     "user": {
@@ -534,8 +701,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6393,
-      "friendsCount": 1429,
+      "followersCount": 6397,
+      "friendsCount": 1431,
       "location": ""
     },
     "images": [],
@@ -549,7 +716,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4765,
+      "followersCount": 4768,
       "friendsCount": 486,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -579,7 +746,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30451,
+      "followersCount": 30454,
       "friendsCount": 131,
       "location": "China"
     },
@@ -597,7 +764,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150833,
+      "followersCount": 150831,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -612,7 +779,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150833,
+      "followersCount": 150831,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -644,7 +811,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32344,
+      "followersCount": 32346,
       "friendsCount": 618,
       "location": "Hong Kong"
     },
@@ -676,7 +843,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11121,
+      "followersCount": 11122,
       "friendsCount": 3651,
       "location": ""
     },
@@ -708,7 +875,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 107032,
+      "followersCount": 107043,
       "friendsCount": 241,
       "location": "Singapore"
     },
@@ -723,7 +890,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30451,
+      "followersCount": 30454,
       "friendsCount": 131,
       "location": "China"
     },
@@ -927,6 +1094,21 @@
     ],
     "tweetUrl": "https://x.com/MelMattison1/status/1940817880532373608",
     "fullText": "Some thoughts... https://t.co/SkoT7X5yTB"
+  },
+  {
+    "user": {
+      "screenName": "Curaleaf_Inc",
+      "name": "Curaleaf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907434268147470336/Mws9hI_c_normal.png",
+      "description": "Leading provider of cannabis products with a mission to enhance lives by growing, sharing & celebrating the power of the plant. TSX: $CURA OTCQX: $CURLF NFS/21+",
+      "followersCount": 25244,
+      "friendsCount": 223,
+      "location": "New York City, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Curaleaf_Inc/status/1940787112690794537",
+    "fullText": "💥 Fireworks in the sky. Fire flower in the jar. This weekend only: Premium Half Ounces for $85. Light up your 4th the right way.\n👉 Grab yours before they’re gone."
   },
   {
     "user": {
