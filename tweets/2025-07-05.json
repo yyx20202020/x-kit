@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "ArosenDoc",
+      "name": "Arnold Rosen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1613969087528402944/N60gzFHz_normal.jpg",
+      "description": "Retired psychiatrist, software designer, Internet loudmouth -- looks at the interface between brain, memory and computer, and workarounds for getting older.",
+      "followersCount": 64,
+      "friendsCount": 84,
+      "location": "Manhattan, New York City"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ArosenDoc/status/1941598320838778941",
+    "fullText": "I support Bret Stephens for the Mayor of New York. Join me and everyone to help convince him. Give this post a heart. It can be done. https://t.co/yM64iKfgwx"
+  },
+  {
+    "user": {
+      "screenName": "saintsheetz1",
+      "name": "Saint Sheetz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841554122077564928/a9ZZa4nx_normal.jpg",
+      "description": "SuperEZ LLC dba Saint Sheetz is an ecommerce company designing and improving products for ease and productivity.  Our launch product is Saint Sheetz bedsheets.",
+      "followersCount": 10,
+      "friendsCount": 2,
+      "location": "Florida"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941573082482647040/vid/avc1/3840x2160/temXkWXc7Jf9AFLr.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/saintsheetz1/status/1941573323579851001",
+    "fullText": "Tired of remaking your bed every morning from scratch?  Patent-pending uniquely designed stay-in-place cozy Saint Sheetz keeps your bed sheets in place for easier bed making.  Order yours today https://t.co/Izb8OZqSgs"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126365,
+      "followersCount": 126366,
       "friendsCount": 1329,
       "location": "Chicago, IL"
     },
@@ -39,7 +71,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150850,
+      "followersCount": 150821,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -189,7 +221,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73938,
+      "followersCount": 73922,
       "friendsCount": 3410,
       "location": ""
     },
@@ -257,7 +289,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4816,
+      "followersCount": 4818,
       "friendsCount": 488,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -366,7 +398,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150850,
+      "followersCount": 150821,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -400,7 +432,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150850,
+      "followersCount": 150821,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -432,7 +464,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32348,
+      "followersCount": 32337,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -552,7 +584,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4816,
+      "followersCount": 4818,
       "friendsCount": 488,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -616,7 +648,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4816,
+      "followersCount": 4818,
       "friendsCount": 488,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -650,7 +682,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73938,
+      "followersCount": 73922,
       "friendsCount": 3410,
       "location": ""
     },
@@ -699,7 +731,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126365,
+      "followersCount": 126366,
       "friendsCount": 1329,
       "location": "Chicago, IL"
     },
@@ -748,7 +780,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126365,
+      "followersCount": 126366,
       "friendsCount": 1329,
       "location": "Chicago, IL"
     },
@@ -780,7 +812,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18609,
+      "followersCount": 18604,
       "friendsCount": 831,
       "location": "San Jose, CA"
     },
@@ -893,6 +925,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/imaginician/status/1941195201160282314",
     "fullText": "I’m thrilled to invite you into the journey of The Genius, my book weaving ancient wisdom, biohacking, and the Ingram Enneagram to unlock your limitless potential. Chapters like \"The Neurochemistry of Genius\" (live now) reveal how melatonin-testosterone cascades and lucid https://t.co/ibWimCZ250"
+  },
+  {
+    "user": {
+      "screenName": "PadreApp",
+      "name": "Padre",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1788689184355414016/mZMLcdNO_normal.jpg",
+      "description": "The fastest trading app for memecoins 🚀\n💰35% Cashback - highest on the market\n⚡️Snipe & trade with next-level tools: desktop & mobile\n\nTrade now: https://t.co/sF36UPTKb4",
+      "followersCount": 32850,
+      "friendsCount": 734,
+      "location": "Solana, Ethereum & Base"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GvCB1GGWsAA6jpA.mp4"
+    ],
+    "tweetUrl": "https://x.com/PadreApp/status/1941194787043897571",
+    "fullText": "PADRE CUSTOM PNL JUST DROPPED 🔥\n\nIt’s your show now:\n 🏆 Add any image or GIF as background\n 🏆 Customize colors and layout\n\nDrop your favorite GIF PnL card below👇\nLet’s see who flexes best! https://t.co/9X5R9qGPQb"
   },
   {
     "user": {
