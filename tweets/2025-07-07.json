@@ -1,6 +1,56 @@
 [
   {
     "user": {
+      "screenName": "1WilianDaniel",
+      "name": "𝔸𝕢𝕦𝕖𝕝𝕖 𝔾ℍ𝕆𝕊𝕋",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932471539892469760/zBUYkEID_normal.jpg",
+      "description": "Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to design, and make anything!",
+      "followersCount": 1669,
+      "friendsCount": 252,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/1WilianDaniel/status/1942227326575538456",
+    "fullText": "Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to design, and make anything!"
+  },
+  {
+    "user": {
+      "screenName": "GUNbyGUNZ",
+      "name": "GUNZ Official",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641810398016937985/Ea90ZMxI_normal.jpg",
+      "description": "The Layer-1 blockchain ecosystem powering community-driven economies in AAA games. Integrated into @PlayOffTheGrid. Developed by @GunzillaGames.",
+      "followersCount": 163618,
+      "friendsCount": 6,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1942224586709606400/vid/avc1/1280x720/UbR5gqlDm0pUlMGk.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/GUNbyGUNZ/status/1942224841555492895",
+    "fullText": "GUNZ is Coming to @solana\n\n📅  Launching on July 10th\n\nFind out what this means for you, Zeroes! 🫵 🧵 https://t.co/NTA1L6rfqg"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18618,
+      "friendsCount": 2000,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvQrBvpWsAE9HIn.jpg",
+      "https://pbs.twimg.com/media/GvQrBvbW8AAh0UH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1942224663645720626",
+    "fullText": "体验了用 OneKey 买特斯拉，好快，硬件钱包按按按，两三秒之后就成功了\n\n可能是目前渠道商还不够多，我原来想用Arb链的USDC直接跨链去换Sol链上的TSLAX，显示“没有提供商支持此交易”，只能手动先换Sol链的U，再手动购买\n\n之后无论是链上还是IBKR，特斯拉越跌我是越加仓的，每一次回调对我来说都是机会 https://t.co/RuTpdkCmQn"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -30,6 +80,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Topstep/status/1942196559887659450",
     "fullText": "TopstepTV Live Futures Day Trading: The Bulls Are On Parade! (7/7/25) https://t.co/3vgblEV3wp"
+  },
+  {
+    "user": {
+      "screenName": "CortesSteve",
+      "name": "Steve Cortes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1724056934955765760/DDHvzSst_normal.jpg",
+      "description": "Born for a Storm. Bad Hombre. Founder: League of American Workers, Senior Advisor: Catholic Vote. Former: Trump 2016 & 2020, Vance 2022, Fox & CNN.",
+      "followersCount": 506839,
+      "friendsCount": 792,
+      "location": "Tennessee"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvQQ2BnXoAAnHvY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CortesSteve/status/1942195862576222382",
+    "fullText": "Ok so the holiday time is over, GOP Senate, get to work confirming ALL of Trump’s nominees. You’re way behind.\n\nWe need OUR team on the floor… https://t.co/H3kc2g6gPe"
   },
   {
     "user": {
@@ -91,7 +158,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "西天上，总还留有晚霞",
-      "followersCount": 7599,
+      "followersCount": 7598,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -108,7 +175,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55500,
+      "followersCount": 55506,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -125,7 +192,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23385,
+      "followersCount": 23386,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -140,7 +207,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8412,
+      "followersCount": 8414,
       "friendsCount": 290,
       "location": ""
     },
@@ -155,7 +222,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32387,
+      "followersCount": 32389,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -173,7 +240,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8412,
+      "followersCount": 8414,
       "friendsCount": 290,
       "location": ""
     },
@@ -240,7 +307,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23385,
+      "followersCount": 23386,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -274,7 +341,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8412,
+      "followersCount": 8414,
       "friendsCount": 290,
       "location": ""
     },
@@ -319,7 +386,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6041,
+      "followersCount": 6042,
       "friendsCount": 369,
       "location": "杭州"
     },
@@ -334,7 +401,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4858,
+      "followersCount": 4859,
       "friendsCount": 490,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -426,7 +493,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23385,
+      "followersCount": 23386,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -475,7 +542,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126445,
+      "followersCount": 126449,
       "friendsCount": 1329,
       "location": "Chicago, IL"
     },
@@ -490,7 +557,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73968,
+      "followersCount": 73966,
       "friendsCount": 3413,
       "location": ""
     },
@@ -525,7 +592,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126445,
+      "followersCount": 126449,
       "friendsCount": 1329,
       "location": "Chicago, IL"
     },
@@ -561,7 +628,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4858,
+      "followersCount": 4859,
       "friendsCount": 490,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -598,7 +665,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4858,
+      "followersCount": 4859,
       "friendsCount": 490,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -643,6 +710,21 @@
   },
   {
     "user": {
+      "screenName": "TenderTheDevOFF",
+      "name": "TenderDev",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908209983319162880/WQe201J2_normal.jpg",
+      "description": "PM & analytics┃\nOwner of @ScriptedValues\n\nDiscord : tender_one",
+      "followersCount": 1555,
+      "friendsCount": 484,
+      "location": "discord : tender_one"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TenderTheDevOFF/status/1942004662942466237",
+    "fullText": "We're scaling up to build multiple Roblox games, and we need multiple team members in each role!"
+  },
+  {
+    "user": {
       "screenName": "JoshuaBeen",
       "name": "Joshua Been",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1680364574741262337/QN2r9Yrs_normal.jpg",
@@ -683,7 +765,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126445,
+      "followersCount": 126449,
       "friendsCount": 1329,
       "location": "Chicago, IL"
     },
@@ -747,7 +829,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59515,
+      "followersCount": 59506,
       "friendsCount": 373,
       "location": ""
     },
@@ -1011,7 +1093,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126445,
+      "followersCount": 126449,
       "friendsCount": 1329,
       "location": "Chicago, IL"
     },
@@ -1045,7 +1127,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11169,
+      "followersCount": 11170,
       "friendsCount": 3652,
       "location": ""
     },
@@ -1080,7 +1162,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32387,
+      "followersCount": 32389,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -1161,7 +1243,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 73968,
+      "followersCount": 73966,
       "friendsCount": 3413,
       "location": ""
     },
@@ -1699,6 +1781,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dbielecki/status/1941563826123702456",
     "fullText": "Long time @Tesla owner! Brought home the @cybertruck December of last year- It's a game changer. Now have Cybertruck, Model Y performance, solar and powerwall's.  Best decision ever.\n\nBelieve in a future of sustainability and try their amazing full self driving technology. Tap"
+  },
+  {
+    "user": {
+      "screenName": "PBATour",
+      "name": "PBA Tour",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1735733090234875905/pWLHsKFG_normal.jpg",
+      "description": "The official X of the PBA Tour",
+      "followersCount": 68520,
+      "friendsCount": 349,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941561970630533120/vid/avc1/720x830/VD5FXxmX01TapC6d.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/PBATour/status/1941562076696060081",
+    "fullText": "Throwback to when Osku STRUCK over a chair at the first PBA World Series of Bowling 🤯 https://t.co/knOvJfov0o"
   },
   {
     "user": {
