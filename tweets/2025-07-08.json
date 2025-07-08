@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 55634,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUuMFuXwAADluL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1942509663557447756",
+    "fullText": "各种爬虫服务层出不穷，最近又看到一个开源的 AnyCrawl\nhttps://t.co/kORDoOqSDL\n\n集成了 Cheerio、Playwright、Puppeteer 三种爬虫引擎，适合不同的场景。结果也是为 AI 优化过的 markdown。\n\n和 Firecrawl 也太像了 ...  感觉这些爬虫都是类似的，用它的云服务的话，看起来免费版比 Firecrawl https://t.co/HXrLtNLGzd"
+  },
+  {
+    "user": {
       "screenName": "lencx_",
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
@@ -23,7 +40,7 @@
       "name": "Manos Sandalis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1601910809126379521/mfLbX6PV_normal.jpg",
       "description": "Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to design, and make anything!",
-      "followersCount": 1849,
+      "followersCount": 1826,
       "friendsCount": 660,
       "location": "Παλαιό Φάληρο"
     },
@@ -55,7 +72,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18622,
+      "followersCount": 18628,
       "friendsCount": 2004,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -85,7 +102,7 @@
       "name": "たぁ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1941388448428064769/QVWTVBNB_normal.jpg",
       "description": "　元つむT学級っす。さんのよん",
-      "followersCount": 1061,
+      "followersCount": 1006,
       "friendsCount": 15,
       "location": "USA"
     },
@@ -116,7 +133,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
       "followersCount": 4865,
-      "friendsCount": 494,
+      "friendsCount": 495,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
     "images": [],
@@ -130,7 +147,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8415,
+      "followersCount": 8416,
       "friendsCount": 290,
       "location": ""
     },
@@ -145,7 +162,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32452,
+      "followersCount": 32453,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -196,7 +213,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8415,
+      "followersCount": 8416,
       "friendsCount": 290,
       "location": ""
     },
@@ -264,7 +281,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32452,
+      "followersCount": 32453,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -279,7 +296,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30502,
+      "followersCount": 30505,
       "friendsCount": 132,
       "location": "China"
     },
@@ -297,7 +314,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30502,
+      "followersCount": 30505,
       "friendsCount": 132,
       "location": "China"
     },
@@ -349,7 +366,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30502,
+      "followersCount": 30505,
       "friendsCount": 132,
       "location": "China"
     },
@@ -366,7 +383,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11205,
+      "followersCount": 11209,
       "friendsCount": 3655,
       "location": ""
     },
@@ -381,7 +398,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11205,
+      "followersCount": 11209,
       "friendsCount": 3655,
       "location": ""
     },
@@ -398,7 +415,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30502,
+      "followersCount": 30505,
       "friendsCount": 132,
       "location": "China"
     },
@@ -430,7 +447,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30502,
+      "followersCount": 30505,
       "friendsCount": 132,
       "location": "China"
     },
@@ -465,7 +482,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
       "followersCount": 4865,
-      "friendsCount": 494,
+      "friendsCount": 495,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
     "images": [],
@@ -496,7 +513,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30502,
+      "followersCount": 30505,
       "friendsCount": 132,
       "location": "China"
     },
@@ -712,7 +729,7 @@
       "name": "Jimmy’s Sport Picks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1433368332334505986/yvw0nWnt_normal.jpg",
       "description": "Over 10+ years experience betting on sports. I do all the research & analysis so you don’t have to. Follow to join in. 21+",
-      "followersCount": 206267,
+      "followersCount": 206257,
       "friendsCount": 202,
       "location": "JOIN MY BET CLUB ➡️"
     },
@@ -771,6 +788,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/secureainow/status/1942308971726983392",
     "fullText": "🚨NEW: Ford’s Jim Farley becomes the latest top CEO to sound the alarm on AI job-killing. \n\n“AI is gonna replace literally half of all white-collar workers in the U.S.” https://t.co/FagEg3Spwl"
+  },
+  {
+    "user": {
+      "screenName": "cmeoutfitters",
+      "name": "CME Outfitters",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1549470297077825536/mXX9OwLk_normal.jpg",
+      "description": "Leading accredited provider of free CME/CE for physicians, PAs, NPs, RNs, & pharmacists. Committed to health access & social responsibility education.",
+      "followersCount": 2306,
+      "friendsCount": 4659,
+      "location": "Bethesda, MD"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cmeoutfitters/status/1942305135650320840",
+    "fullText": "WATCH NOW: The Force Awakens – Unlocking the Potential of IL-23 Targeted Therapies in the Treatment of IBD. Download the resources + collect credit » https://t.co/3pACXclELc https://t.co/ktGa5aZ1u5"
   },
   {
     "user": {
@@ -1050,7 +1082,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30502,
+      "followersCount": 30505,
       "friendsCount": 132,
       "location": "China"
     },
@@ -1078,6 +1110,25 @@
   },
   {
     "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 409852,
+      "friendsCount": 1262,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvQ2WRxXUAA2Wr8.jpg",
+      "https://pbs.twimg.com/media/GvQ2WRyXEAAogSg.jpg",
+      "https://pbs.twimg.com/media/GvQ2WRyXYAAPWQZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1942237100847268027",
+    "fullText": "Kicking off in-person Gauntlet AI Cohort 2 with agents week!\n\nChallengers have ONE WEEK to build industry-specific, open source AI agents that handle complex workflows, manage context, and assists humans-in-the-loop.\n\nThose with the best products on Sunday advance to next week. https://t.co/7sop1tQnUT"
+  },
+  {
+    "user": {
       "screenName": "alanblogsooo",
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
@@ -1099,7 +1150,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8415,
+      "followersCount": 8416,
       "friendsCount": 290,
       "location": ""
     },
@@ -1124,6 +1175,21 @@
     ],
     "tweetUrl": "https://x.com/smcho91/status/1942234724279460317",
     "fullText": "Here is my new product demo with @elevenlabsio @HeyGen_Official @capcutapp .\n\nLegacy hiring systems are broken because all of us use AI tools. Now it's time to rethink how we assess and evaluate employee.\n\nTruVi starts with take-home assignment to hire software engineers. \n\nFun https://t.co/f7jMGd53VO"
+  },
+  {
+    "user": {
+      "screenName": "steveP2P",
+      "name": "Steve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1630346485089935360/-a2XFbzq_normal.jpg",
+      "description": "",
+      "followersCount": 142,
+      "friendsCount": 260,
+      "location": "Houston, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/steveP2P/status/1942230088688509240",
+    "fullText": "@elonmusk @elonmusk, Like many others here, I share a common sentiment. \nAs mentioned @stevenmarkryan, \nDo I want Elon Musk to dive into politics? No. \nDo I support him? Absolutely, yes.\n\nHere’s the thing: no matter who’s in power, they all face the same challenge—balancing the books. Yet,"
   },
   {
     "user": {
@@ -1163,7 +1229,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18622,
+      "followersCount": 18628,
       "friendsCount": 2004,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1262,7 +1328,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30502,
+      "followersCount": 30505,
       "friendsCount": 132,
       "location": "China"
     },
@@ -1382,7 +1448,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55633,
+      "followersCount": 55634,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1414,7 +1480,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8415,
+      "followersCount": 8416,
       "friendsCount": 290,
       "location": ""
     },
@@ -1429,7 +1495,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32452,
+      "followersCount": 32453,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -1447,7 +1513,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8415,
+      "followersCount": 8416,
       "friendsCount": 290,
       "location": ""
     },
@@ -1680,7 +1746,7 @@
       "name": "Steven",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1890151546249162752/dfXtWiFP_normal.jpg",
       "description": "building @kolect_ai prev cofounder keoplus(1m users) 半区app(500k users) https://t.co/vrD6nBpuax https://t.co/iQWvwdwjJM youngest 30u30 at 20yo",
-      "followersCount": 1508,
+      "followersCount": 1509,
       "friendsCount": 559,
       "location": "Cambridge, MA"
     },
@@ -1930,7 +1996,7 @@
       "name": "kusfaya",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1817807301715304448/WutUzpzE_normal.jpg",
       "description": "Specialising in Web Design and Web Hosting.",
-      "followersCount": 1711,
+      "followersCount": 1624,
       "friendsCount": 3441,
       "location": ""
     },
