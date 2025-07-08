@@ -1,11 +1,80 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 126487,
+      "friendsCount": 1330,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvV8kBmW0AAc4jE.jpg",
+      "https://pbs.twimg.com/media/GvV8tIJW0AAv3Er.jpg",
+      "https://pbs.twimg.com/media/GvV80cIWQAEOSsU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1942596210965037562",
+    "fullText": "一个小常识：删除空格或者缩写代码，并不一定会降低token 数量，比如你用 &lt;span&gt; 和 &lt;s&gt; 的 Token 用量是一样的，你 10 个空格也只是 1 个 token https://t.co/scCNsLsDXK"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8417,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1942595595895726232",
+    "fullText": "为了不让 Claude Code 闲着，我要让它在我休息的时候，也继续完成一些不需要我干预的任务 😀 压榨出最大价值。Claude Code 下达任务之后，直到完成之前，都可以一直在执行，这点太好用了，我都不需要写脚本不停下任务，只要创建一个 todo list，就可以一直执行下去了。"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150883,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvV7fxIaYAgl_ga.jpg",
+      "https://pbs.twimg.com/media/GvV7hjkaYAQ__V2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1942594675405381922",
+    "fullText": "拍到新壁纸 https://t.co/sxrWDIGE8S"
+  },
+  {
+    "user": {
+      "screenName": "picksagainst",
+      "name": "Against The Spread",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1924295003339112448/AXQ5afAT_normal.jpg",
+      "description": "Sports bets served daily. I do the research and analysis so that you don't have to. Follow to get notified of the plays first!",
+      "followersCount": 300,
+      "friendsCount": 41,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvVxNCpWkAIcQ5H.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/picksagainst/status/1942583417759010892",
+    "fullText": "LADDER DAY THREE\n\n⚾️ Boston Red Sox O4.5 Alt Total Runs\n(-162)\n\n✅$100➡️$184\n✅$184➡️$325\n🚨$325➡️$525\n\nThe sox have been swinging it well recently. They have reached this mark in L8/10 games WITHIN THE FIRST 5 INNINGS. I like them to do it again today given the full game and vs https://t.co/bDgbljNvMv"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18621,
+      "followersCount": 18624,
       "friendsCount": 2005,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -22,7 +91,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74000,
+      "followersCount": 74002,
       "friendsCount": 3413,
       "location": ""
     },
@@ -40,7 +109,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18621,
+      "followersCount": 18624,
       "friendsCount": 2005,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -166,7 +235,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30494,
+      "followersCount": 30491,
       "friendsCount": 132,
       "location": "China"
     },
@@ -181,7 +250,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55668,
+      "followersCount": 55666,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -215,7 +284,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21322,
+      "followersCount": 21324,
       "friendsCount": 1037,
       "location": ""
     },
@@ -265,7 +334,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18621,
+      "followersCount": 18624,
       "friendsCount": 2005,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -370,7 +439,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32454,
+      "followersCount": 32456,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -504,7 +573,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32454,
+      "followersCount": 32456,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -519,7 +588,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30494,
+      "followersCount": 30491,
       "friendsCount": 132,
       "location": "China"
     },
@@ -537,7 +606,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30494,
+      "followersCount": 30491,
       "friendsCount": 132,
       "location": "China"
     },
@@ -589,7 +658,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30494,
+      "followersCount": 30491,
       "friendsCount": 132,
       "location": "China"
     },
@@ -606,7 +675,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11212,
+      "followersCount": 11217,
       "friendsCount": 3656,
       "location": ""
     },
@@ -621,7 +690,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11212,
+      "followersCount": 11217,
       "friendsCount": 3656,
       "location": ""
     },
@@ -638,7 +707,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30494,
+      "followersCount": 30491,
       "friendsCount": 132,
       "location": "China"
     },
@@ -670,7 +739,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30494,
+      "followersCount": 30491,
       "friendsCount": 132,
       "location": "China"
     },
@@ -753,7 +822,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30494,
+      "followersCount": 30491,
       "friendsCount": 132,
       "location": "China"
     },
@@ -957,7 +1026,7 @@
       "name": "stacks.btc",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1764968185399267328/lrmnHOuN_normal.jpg",
       "description": "A Bitcoin L2 enabling smart contracts & apps with Bitcoin as secure base layer 🟧\n\nRegular Stacks Updates: https://t.co/w8goj3MlPU\n\n 🟧 TG+ https://t.co/MNXiV0kOyR",
-      "followersCount": 236520,
+      "followersCount": 236514,
       "friendsCount": 220,
       "location": "Bitcoin"
     },
@@ -1425,7 +1494,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23404,
+      "followersCount": 23405,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -1442,7 +1511,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23404,
+      "followersCount": 23405,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -1457,7 +1526,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30494,
+      "followersCount": 30491,
       "friendsCount": 132,
       "location": "China"
     },
@@ -1733,8 +1802,8 @@
       "name": "Satoshi Club",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592855651549675520/5BtpJkks_normal.jpg",
       "description": "Building the future of crypto, together. Join The Club.\n For business proposals: https://t.co/2UMAtgiXVZ #Bitcoin",
-      "followersCount": 136569,
-      "friendsCount": 1343,
+      "followersCount": 136561,
+      "friendsCount": 1344,
       "location": "Crypto, DeFi & Metaverse"
     },
     "images": [
