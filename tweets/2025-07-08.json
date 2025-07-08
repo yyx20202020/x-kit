@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8419,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1942663465996529690",
+    "fullText": "睡不着，在淘宝搜索关键词，看到有家店利用信息差卖服务，有人下单了，他就去用别人的小程序做好内容发给买家 😂 卖 10 块钱，卖出去 800+ 份了。"
+  },
+  {
+    "user": {
       "screenName": "PristineAuction",
       "name": "Pristine Auction",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864449161740812288/6RJPHmvP_normal.jpg",
@@ -13,6 +28,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/PristineAuction/status/1942643920405713309",
     "fullText": "Pristine Live! https://t.co/tMuqU7sAij"
+  },
+  {
+    "user": {
+      "screenName": "CerebrasSystems",
+      "name": "Cerebras",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894806880804913152/zLdh072p_normal.jpg",
+      "description": "The world's fastest AI inference and training.\nTry the latest open models at: https://t.co/jREGhLI2nj",
+      "followersCount": 34066,
+      "friendsCount": 249,
+      "location": "Sunnyvale, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1942632730308562945/vid/avc1/1920x1080/3P2tGvKi1t0k8FCM.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CerebrasSystems/status/1942633629416358101",
+    "fullText": "Deep research on ChatGPT takes over ten minutes. \n\nWe do it under 30 seconds.\n\nUsing Qwen3-235B on Cerebras, we've benchmarked agentic search workflows that process 10M+ document enterprise repositories in seconds, not hours. \n\nEarly enterprise customers report 20x faster https://t.co/oXNV97n5Hy"
   },
   {
     "user": {
@@ -71,7 +103,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30496,
+      "followersCount": 30494,
       "friendsCount": 132,
       "location": "China"
     },
@@ -105,7 +137,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126489,
+      "followersCount": 126482,
       "friendsCount": 1330,
       "location": "Chicago, IL"
     },
@@ -120,11 +152,26 @@
   },
   {
     "user": {
+      "screenName": "eshanchordia",
+      "name": "Eshan Chordia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923060970823483395/p7-9TiB7_normal.jpg",
+      "description": "founder & ceo @impulseai_  | @orangedaoxyz 🍊 fellow | x @protocollabs @zestyai",
+      "followersCount": 246,
+      "friendsCount": 351,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/eshanchordia/status/1942595892940525733",
+    "fullText": "I'm excited to share our whitepaper on decentralized, verifiable AI training! This paper outlines our fully scalable training with real time verification. At @impulseai_ , we believe that 100% verifiability is required to make decentralized training attack proof 🔒🧠🚀"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8418,
+      "followersCount": 8419,
       "friendsCount": 290,
       "location": ""
     },
@@ -139,7 +186,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150892,
+      "followersCount": 150888,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -170,6 +217,23 @@
   },
   {
     "user": {
+      "screenName": "davlam_",
+      "name": "David Lam",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927300105129869312/FN5vMBus_normal.jpg",
+      "description": "▶️: Co-founder & CEO at @useabacor - AI agents for Accounting Firms | ⏪: @GustoHQ @Amazon @Deloitte @PwC",
+      "followersCount": 1332,
+      "friendsCount": 2184,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GvV5Jp5awAAH2Ro.mp4"
+    ],
+    "tweetUrl": "https://x.com/davlam_/status/1942592066737082452",
+    "fullText": "“Are you an accountant drowning in admin?”\n“Do you want to 10x your client experience?”\n“Have you ever wanted busy seasons to be less busy?”\n\nMe too.\n\nThese were three questions I obsessed about for over a decade - as a Chartered Accountant at the world’s largest accounting https://t.co/f9VoIl1k6E"
+  },
+  {
+    "user": {
       "screenName": "HerzanAi",
       "name": "VaporFlaneur",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940192382089117696/bZ7mqRJL_normal.jpg",
@@ -184,6 +248,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/HerzanAi/status/1942585738450853892",
     "fullText": "Dating apps reward surface-level vibes over emotional depth.\n\nWhat happened to building real connections over time? Forget it. Modern dating isn’t about who you are. It’s about how well you perform the vibe. https://t.co/2nFbWjc3Yo"
+  },
+  {
+    "user": {
+      "screenName": "FannieMae",
+      "name": "Fannie Mae",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1260274484587778049/UMTKARBv_normal.jpg",
+      "description": "We create opportunities for people to buy, refinance, or rent a home. Careers: @lifeatfanniemae. Please review our Social Media Guidelines.",
+      "followersCount": 63491,
+      "friendsCount": 291,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1942584460064481280/vid/avc1/1080x1080/ZuVKhdvIIR_SIcPY.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/FannieMae/status/1942584490766811138",
+    "fullText": "More of America’s renters are finding affordable housing thanks to our industry-leading business model, which has financed more than 15 million* units of multifamily rental housing since 1988. Learn more: https://t.co/7aPJJSO3M6 https://t.co/DW1ZEqWd00"
+  },
+  {
+    "user": {
+      "screenName": "SarcasticSkep",
+      "name": "The Sarcastic Skeptic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938614348831760384/K1OboVax_normal.jpg",
+      "description": "Dissecting the absurdities of ideology, religion, dogma, culture, and blind belief with a sharp sense of humor and a healthy dose of skepticism.",
+      "followersCount": 10,
+      "friendsCount": 35,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1942583310946889728/vid/avc1/404x720/6EspF-lJYCd9oKvi.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SarcasticSkep/status/1942583470233907220",
+    "fullText": "Welcome to the unhinged culture war circus—where everyone thinks they’re under attack, but really, they just can’t stand being ignored. This video eviscerates the unholy alliance of Fundie Christians and Woke Activists, both addicted to martyrdom and allergic to self-awareness. https://t.co/DgQMU1F9yX"
   },
   {
     "user": {
@@ -240,7 +338,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18628,
+      "followersCount": 18627,
       "friendsCount": 2005,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -274,7 +372,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74005,
+      "followersCount": 74006,
       "friendsCount": 3412,
       "location": ""
     },
@@ -292,7 +390,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18628,
+      "followersCount": 18627,
       "friendsCount": 2005,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -386,7 +484,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4867,
+      "followersCount": 4866,
       "friendsCount": 496,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -403,7 +501,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8418,
+      "followersCount": 8419,
       "friendsCount": 290,
       "location": ""
     },
@@ -418,7 +516,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30496,
+      "followersCount": 30494,
       "friendsCount": 132,
       "location": "China"
     },
@@ -433,7 +531,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55681,
+      "followersCount": 55679,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -467,7 +565,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21325,
+      "followersCount": 21323,
       "friendsCount": 1037,
       "location": ""
     },
@@ -517,7 +615,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18628,
+      "followersCount": 18627,
       "friendsCount": 2005,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -592,7 +690,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4867,
+      "followersCount": 4866,
       "friendsCount": 496,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -607,7 +705,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8418,
+      "followersCount": 8419,
       "friendsCount": 290,
       "location": ""
     },
@@ -639,7 +737,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126489,
+      "followersCount": 126482,
       "friendsCount": 1330,
       "location": "Chicago, IL"
     },
@@ -673,7 +771,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8418,
+      "followersCount": 8419,
       "friendsCount": 290,
       "location": ""
     },
@@ -721,7 +819,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126489,
+      "followersCount": 126482,
       "friendsCount": 1330,
       "location": "Chicago, IL"
     },
@@ -739,7 +837,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126489,
+      "followersCount": 126482,
       "friendsCount": 1330,
       "location": "Chicago, IL"
     },
@@ -771,7 +869,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30496,
+      "followersCount": 30494,
       "friendsCount": 132,
       "location": "China"
     },
@@ -789,7 +887,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30496,
+      "followersCount": 30494,
       "friendsCount": 132,
       "location": "China"
     },
@@ -841,7 +939,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30496,
+      "followersCount": 30494,
       "friendsCount": 132,
       "location": "China"
     },
@@ -858,7 +956,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11237,
+      "followersCount": 11239,
       "friendsCount": 3656,
       "location": ""
     },
@@ -873,7 +971,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11237,
+      "followersCount": 11239,
       "friendsCount": 3656,
       "location": ""
     },
@@ -890,7 +988,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30496,
+      "followersCount": 30494,
       "friendsCount": 132,
       "location": "China"
     },
@@ -922,7 +1020,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30496,
+      "followersCount": 30494,
       "friendsCount": 132,
       "location": "China"
     },
@@ -973,7 +1071,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4867,
+      "followersCount": 4866,
       "friendsCount": 496,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -1694,7 +1792,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23404,
+      "followersCount": 23402,
       "friendsCount": 292,
       "location": "Guangdong"
     },
@@ -2360,6 +2458,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/1942072413879140384",
     "fullText": "大公司做事是挺难合作的，因为我发现从底层逻辑就不一样，有些人做事纯粹是面向老板做事，不是把事情做正确，而是把汇报做好看。"
+  },
+  {
+    "user": {
+      "screenName": "BobbyYoast_",
+      "name": "Bobby Yoast",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1669846060498407430/Uf_ukPrv_normal.jpg",
+      "description": "Follow me so I'm not posting into the void.",
+      "followersCount": 316,
+      "friendsCount": 101,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BobbyYoast_/status/1942067721635574054",
+    "fullText": "Epstein was an Israeli blackmail operation. With minimal research you'd discover all of Epsteins financials including his assets were bankrolled by Israeli billionaires tied to Mossad. Stop holding your ears crying racist/foreign asset like a leftist. Actually listen to some of"
   },
   {
     "user": {
