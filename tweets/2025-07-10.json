@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32490,
+      "friendsCount": 619,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvgPeygW4AE45U0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1943321863406653496",
+    "fullText": "🥳嘿嘿，Claude Code的课程终于剪辑完成了，再熬夜补充一下文档，明天早上在教程中发布！让大家看看如何用Claude Code只用一个提示词 + plan mode，生成一个完整项目！课程地址见：https://t.co/pETLm38HCc https://t.co/zzPuhzzT5n"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8426,
+      "followersCount": 8427,
       "friendsCount": 290,
       "location": ""
     },
@@ -13,6 +30,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/plusyip/status/1943314412594442368",
     "fullText": "下午下班的时候，有个女同事做了件很无语的事  😂 问我能不能把雨伞给另一个男同事用，说我打车回去用不上，我直接拒绝了。我没想明白为什么会有这种提议，还下着雨，我从公司到马路，以及回到下车都还要走一段距离，回来的时候雨变大了，还淋湿鞋了，当时庆幸果断拒绝别人，不然成落汤鸡就傻逼了。"
+  },
+  {
+    "user": {
+      "screenName": "FannieMae",
+      "name": "Fannie Mae",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1260274484587778049/UMTKARBv_normal.jpg",
+      "description": "We create opportunities for people to buy, refinance, or rent a home. Careers: @lifeatfanniemae. Please review our Social Media Guidelines.",
+      "followersCount": 63517,
+      "friendsCount": 291,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1943309231328772096/vid/avc1/720x720/N_ONjIz6hSF75aAc.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/FannieMae/status/1943309264749052109",
+    "fullText": "Creating affordable rental housing across America is the shared goal of the multifamily industry. Our unique financing model helps make it possible. Check it out: https://t.co/a9i491zRLz https://t.co/FLEWnLK0Km"
   },
   {
     "user": {
@@ -37,7 +71,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 783,
+      "followersCount": 784,
       "friendsCount": 483,
       "location": ""
     },
@@ -69,7 +103,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18621,
+      "followersCount": 18619,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -88,7 +122,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23403,
+      "followersCount": 23404,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -103,7 +137,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18621,
+      "followersCount": 18619,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -118,7 +152,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30526,
+      "followersCount": 30529,
       "friendsCount": 132,
       "location": "China"
     },
@@ -153,7 +187,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150903,
+      "followersCount": 150901,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -234,7 +268,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8426,
+      "followersCount": 8427,
       "friendsCount": 290,
       "location": ""
     },
@@ -264,7 +298,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6040,
+      "followersCount": 6039,
       "friendsCount": 370,
       "location": "杭州"
     },
@@ -294,7 +328,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32489,
+      "followersCount": 32490,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -309,7 +343,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 783,
+      "followersCount": 784,
       "friendsCount": 483,
       "location": ""
     },
@@ -324,7 +358,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 783,
+      "followersCount": 784,
       "friendsCount": 483,
       "location": ""
     },
@@ -356,7 +390,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30526,
+      "followersCount": 30529,
       "friendsCount": 132,
       "location": "China"
     },
@@ -373,7 +407,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30526,
+      "followersCount": 30529,
       "friendsCount": 132,
       "location": "China"
     },
@@ -388,7 +422,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30526,
+      "followersCount": 30529,
       "friendsCount": 132,
       "location": "China"
     },
@@ -439,7 +473,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23403,
+      "followersCount": 23404,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -502,7 +536,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55745,
+      "followersCount": 55749,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -549,7 +583,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74064,
+      "followersCount": 74058,
       "friendsCount": 3417,
       "location": ""
     },
@@ -579,7 +613,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8426,
+      "followersCount": 8427,
       "friendsCount": 290,
       "location": ""
     },
@@ -1176,7 +1210,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29634373,
+      "followersCount": 29634408,
       "friendsCount": 229,
       "location": ""
     },
@@ -1259,7 +1293,7 @@
       "name": "Charles Allen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1619378483347570689/tzGnNUCw_normal.jpg",
       "description": "CEO @NasdaqBTCS. blockchain entrepreneur, transparency advocate, capital markets expert, father of 2, and hang glider pilot.\n\nDisclaimer: https://t.co/JxjekZkKtg",
-      "followersCount": 24738,
+      "followersCount": 24872,
       "friendsCount": 68,
       "location": "Philadelphia Suburbs"
     },
@@ -1381,7 +1415,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1885950,
+      "followersCount": 1885938,
       "friendsCount": 5125,
       "location": "Jerusalem, Israel"
     },
@@ -1449,8 +1483,8 @@
       "name": "Lit🔥Xchange",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1816279941324865536/0a0fjOlN_normal.jpg",
       "description": "FinTech Co. developing a new stock & crypto brokerage app. Own equity, shares, & exclusive perks by investing pre-launch & IPO. Invest now https://t.co/NJNSv7nObi",
-      "followersCount": 6641,
-      "friendsCount": 2574,
+      "followersCount": 6640,
+      "friendsCount": 2573,
       "location": "Rockwall, TX"
     },
     "images": [],
@@ -1827,7 +1861,7 @@
       "name": "Brex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798046733815136256/BbynhUkt_normal.jpg",
       "description": "High-limit cards, high-yield banking, and more — trusted by 30,000+ companies, including 1 in 3 US startups.",
-      "followersCount": 18682,
+      "followersCount": 18690,
       "friendsCount": 1747,
       "location": "San Francisco, CA"
     },
