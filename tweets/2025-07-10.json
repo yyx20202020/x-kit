@@ -1,11 +1,73 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32482,
+      "friendsCount": 619,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1943197753892573414",
+    "fullText": "麻了，7月商单怎么这么多....是因为各家公司订好下半年OKR开始执行了吗🤣"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
+      "followersCount": 781,
+      "friendsCount": 483,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1943196568930390471",
+    "fullText": "啥？Claude Code 可以直接在 Windows 运行啦？无需 WSL，无需 Docker ！！！\n现在参照下面的教程安装配置 Claude Code，可以直接在 Win 系统原生运行了，再也不用受 WSL 的权限和配置折磨，而且实测 Claude Code 的运行反应速度至少快两倍！！！\nhttps://t.co/870QgweCAI"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
+      "followersCount": 781,
+      "friendsCount": 483,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gved0w-WYAAoqGm.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1943195902757458101",
+    "fullText": "用 AnyRouter 的 Claude Code 中转 API 的朋友们，可以把 BaseURL 地址改成下面这个，速度贼拉快，现在通过链接注册，免费获得100美金，专用于 Claude Code，注册地址：https://t.co/riv6vO6iuU https://t.co/WJDIlGqyFl"
+  },
+  {
+    "user": {
+      "screenName": "himariou",
+      "name": "Eugenia Himariou",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934947567877619712/MAnkOSPD_normal.jpg",
+      "description": "When all else fails, play dead.",
+      "followersCount": 1345,
+      "friendsCount": 60,
+      "location": "Norcross"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/himariou/status/1943187607221080251",
+    "fullText": "smile"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30515,
+      "followersCount": 30516,
       "friendsCount": 132,
       "location": "China"
     },
@@ -22,7 +84,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30515,
+      "followersCount": 30516,
       "friendsCount": 132,
       "location": "China"
     },
@@ -37,7 +99,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30515,
+      "followersCount": 30516,
       "friendsCount": 132,
       "location": "China"
     },
@@ -54,7 +116,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11352,
+      "followersCount": 11354,
       "friendsCount": 3660,
       "location": ""
     },
@@ -121,7 +183,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11352,
+      "followersCount": 11354,
       "friendsCount": 3660,
       "location": ""
     },
@@ -132,11 +194,26 @@
   },
   {
     "user": {
+      "screenName": "PastorDebraCUBJ",
+      "name": "Debra Hartsfield",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1567177579378999296/25l7QPhZ_normal.jpg",
+      "description": "Pastor of CUBJ Church. Kingdom Woman - Wife - Mother - Visionary",
+      "followersCount": 6297,
+      "friendsCount": 7,
+      "location": "Marietta, GA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PastorDebraCUBJ/status/1943135791506747603",
+    "fullText": "“Wholeheartedly Commit To Never Quit.”  1 Corinthians 12:25-26.  There is no such thing as private or individualistic Christianity.  We can’t stop with enjoying only our own relationship with God; we can’t stop with enjoying only our own success; we can’t stop with enjoying to"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55744,
+      "followersCount": 55746,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -151,7 +228,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11352,
+      "followersCount": 11354,
       "friendsCount": 3660,
       "location": ""
     },
@@ -183,7 +260,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74051,
+      "followersCount": 74054,
       "friendsCount": 3416,
       "location": ""
     },
@@ -342,6 +419,21 @@
   },
   {
     "user": {
+      "screenName": "huelergol",
+      "name": "huelergol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850879721443086337/uBQV7jNN_normal.jpg",
+      "description": "",
+      "followersCount": 13491,
+      "friendsCount": 835,
+      "location": "Chapecó, Brasil"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/huelergol/status/1943055327064436791",
+    "fullText": "I love tennis and basketball."
+  },
+  {
+    "user": {
       "screenName": "Box",
       "name": "Box",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1895242965435486208/Wfw2p9DY_normal.png",
@@ -376,6 +468,24 @@
   },
   {
     "user": {
+      "screenName": "Long_Brown_Path",
+      "name": "Barefoot Ken",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1265315453355917318/hPxeFKly_normal.jpg",
+      "description": "Runner, writer, financial analyst, barefooter.  100+ marathons/ultra's complete.  100+ barefoot races complete.  500+ mountains climbed without shoes",
+      "followersCount": 1632,
+      "friendsCount": 912,
+      "location": "New York"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvcSrFoW8AAcSET.jpg",
+      "https://pbs.twimg.com/media/GvcSrGFXoAAxTFR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Long_Brown_Path/status/1943042302215123082",
+    "fullText": "The Ancient Greeks had a practice they called \"askeisis.\"  It involved feats of endurance.  They went without food and water.  They exposed themself to extremes of heat, cold, and fatigue.  \n\nYes, it's the same root as the word \"ascetic,\" but they didn't do these things out of a https://t.co/Bk4Tct8cGx"
+  },
+  {
+    "user": {
       "screenName": "G1Erik",
       "name": "Erik",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1889759394088288256/svV09Fg-_normal.jpg",
@@ -391,11 +501,26 @@
   },
   {
     "user": {
+      "screenName": "amrenewctr",
+      "name": "Center for Renewing America",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1387464699449683974/2Rhnt6Y6_normal.jpg",
+      "description": "For God. For Country. For Community. CEO: @EricTeetsel",
+      "followersCount": 26730,
+      "friendsCount": 311,
+      "location": "Washington, D.C. "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/amrenewctr/status/1943022341350658480",
+    "fullText": "The next conservative era has arrived. Join the movement rebuilding America from the ground up."
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4212899,
+      "followersCount": 4213037,
       "friendsCount": 3,
       "location": ""
     },
@@ -406,11 +531,29 @@
   },
   {
     "user": {
+      "screenName": "EChronicDisease",
+      "name": "End Chronic Disease",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937548578450194432/fVjaPEXq_normal.jpg",
+      "description": "A nonprofit committed to reversing America’s chronic illness crisis through science-based, prevention-first education, advocacy, and collaboration.",
+      "followersCount": 349,
+      "friendsCount": 82,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvbgja9WcAAwrTg.jpg",
+      "https://pbs.twimg.com/media/Gvbgj-3WEAAnhbh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EChronicDisease/status/1942988426116014200",
+    "fullText": "87% of Americans want stronger food safety. 60% want artificial dyes removed.\n\nA new @axios @ipsos poll reveals some encouraging signs of bipartisan alignment—and a new movement on the rise. https://t.co/KYSlH93rt8"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6039,
+      "followersCount": 6040,
       "friendsCount": 370,
       "location": "杭州"
     },
@@ -510,7 +653,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30515,
+      "followersCount": 30516,
       "friendsCount": 132,
       "location": "China"
     },
@@ -579,7 +722,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18621,
+      "followersCount": 18620,
       "friendsCount": 2006,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -616,7 +759,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74051,
+      "followersCount": 74054,
       "friendsCount": 3416,
       "location": ""
     },
@@ -648,7 +791,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30515,
+      "followersCount": 30516,
       "friendsCount": 132,
       "location": "China"
     },
@@ -699,7 +842,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32479,
+      "followersCount": 32482,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -717,7 +860,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30515,
+      "followersCount": 30516,
       "friendsCount": 132,
       "location": "China"
     },
@@ -804,7 +947,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1885905,
+      "followersCount": 1885900,
       "friendsCount": 5125,
       "location": "Jerusalem, Israel"
     },
@@ -1063,6 +1206,23 @@
   },
   {
     "user": {
+      "screenName": "CustomCookies1",
+      "name": "CustomCookies.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1942704111872245761/ZdR-dt3e_normal.jpg",
+      "description": "Artisan bakers that specialize in creating visually stunning and delectable treats for your special occasions.",
+      "followersCount": 34,
+      "friendsCount": 10,
+      "location": "Brooklyn NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvXf2DTWMAEBy9_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CustomCookies1/status/1942705402166018235",
+    "fullText": "We're back! Spread the word!! Celebrate your next special occasion with our custom cookie treats. https://t.co/sP8ND8HOcY"
+  },
+  {
+    "user": {
       "screenName": "CPAC",
       "name": "CPAC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
@@ -1077,6 +1237,21 @@
     ],
     "tweetUrl": "https://x.com/CPAC/status/1942667616654369073",
     "fullText": "Peace. Freedom. Security. The choice was clear - @TulsiGabbard https://t.co/vX5OiNvgfJ"
+  },
+  {
+    "user": {
+      "screenName": "torbox_app",
+      "name": "TorBox",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901609849370165248/nZkHz970_normal.jpg",
+      "description": "The modern all-in-one downloading platform. Create your free account today👇",
+      "followersCount": 1054,
+      "friendsCount": 7,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/torbox_app/status/1942644421339877542",
+    "fullText": "idk what some of the other services are doing wrong\n\ntorrent download speeds can only get up to like 60mb/s on theirs\n\nwe can get like 300-400mb/s and higher\n\nit CANNOT be that hard you guys"
   },
   {
     "user": {
