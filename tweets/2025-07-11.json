@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 23407,
+      "friendsCount": 293,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1943610762230214930",
+    "fullText": "软路由配制成旁路由不想影响其他设备的话，避免切换路由时麻烦的改网络设置，可以在软路由上开一个 l2tp 或者 ikev2 服务，需要的设备用对应协议连进来就能享受服务，这两个隧道协议 ios/android/windows 都默认自带，无需装软件，这样软路由就是按需按设备使用的，开关就是个滑块。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -25,7 +40,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1924314148650811392/wIRdLxXp_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx\n别用 V0 了， 试试？",
-      "followersCount": 22628,
+      "followersCount": 22629,
       "friendsCount": 337,
       "location": "HK"
     },
@@ -42,7 +57,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150914,
+      "followersCount": 150924,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -59,7 +74,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55758,
+      "followersCount": 55757,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -74,7 +89,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32535,
+      "followersCount": 32536,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -91,7 +106,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74078,
+      "followersCount": 74079,
       "friendsCount": 3417,
       "location": ""
     },
@@ -140,7 +155,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32535,
+      "followersCount": 32536,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -190,7 +205,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126583,
+      "followersCount": 126585,
       "friendsCount": 1332,
       "location": "Chicago, IL"
     },
@@ -207,7 +222,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126583,
+      "followersCount": 126585,
       "friendsCount": 1332,
       "location": "Chicago, IL"
     },
@@ -242,7 +257,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 107355,
+      "followersCount": 107358,
       "friendsCount": 241,
       "location": "Singapore"
     },
@@ -375,7 +390,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188786,
+      "followersCount": 188785,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -473,7 +488,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32535,
+      "followersCount": 32536,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -823,7 +838,7 @@
       "name": "Consensus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932855570832211968/3JYBuOh7_normal.jpg",
       "description": "Find & understand the world's best knowledge, faster. \n\nSearch for free at https://t.co/4yonCjxofg",
-      "followersCount": 11941,
+      "followersCount": 11948,
       "friendsCount": 419,
       "location": "sf"
     },
@@ -857,7 +872,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32535,
+      "followersCount": 32536,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -1069,7 +1084,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1886139,
+      "followersCount": 1886120,
       "friendsCount": 5125,
       "location": "Jerusalem, Israel"
     },
@@ -1468,6 +1483,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/EChronicDisease/status/1942988426116014200",
     "fullText": "87% of Americans want stronger food safety. 60% want artificial dyes removed.\n\nA new @axios @ipsos poll reveals some encouraging signs of bipartisan alignment—and a new movement on the rise. https://t.co/KYSlH93rt8"
+  },
+  {
+    "user": {
+      "screenName": "TheCarolErskine",
+      "name": "Carol Erskine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929210940223897602/HSTeCiMq_normal.jpg",
+      "description": "Retired judge. Author. Child Advocate.",
+      "followersCount": 7697,
+      "friendsCount": 202,
+      "location": "Massachusetts"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvbYteeXwAEPNxb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheCarolErskine/status/1942982945242747016",
+    "fullText": "THANK YOU all for caring about Harmony Montgomery. So many of you ordered the book and support justice for a little girl failed by 2 states in life and death. I’m grateful—along with @BlairMillerTV and @BobbittMiller. All profits go to the Dave Thomas Foundation for Adoption. https://t.co/9JPFPlmoxl"
   },
   {
     "user": {
