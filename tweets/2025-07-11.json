@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150909,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvk83o4bUAAFXue.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1943651812046741770",
+    "fullText": "窗 https://t.co/IyT3pffWbd"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 6568,
+      "friendsCount": 1455,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1943648008593441206",
+    "fullText": "中国商务部稀土禁运后，今天路透社爆料有 3000 吨被偷运至欧美。商务部证实：走私关键矿产，顶风作案！为什么都上升到国家安全了，还能被偷运出去。牛逼！又一大批人发国难财！"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
@@ -20,7 +52,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18619,
+      "followersCount": 18616,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -52,7 +84,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30553,
+      "followersCount": 30552,
       "friendsCount": 132,
       "location": "China"
     },
@@ -123,7 +155,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55756,
+      "followersCount": 55758,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -138,7 +170,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32537,
+      "followersCount": 32538,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -155,7 +187,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74078,
+      "followersCount": 74079,
       "friendsCount": 3417,
       "location": ""
     },
@@ -187,7 +219,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21329,
+      "followersCount": 21326,
       "friendsCount": 1036,
       "location": ""
     },
@@ -204,7 +236,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32537,
+      "followersCount": 32538,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -254,7 +286,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126584,
+      "followersCount": 126582,
       "friendsCount": 1332,
       "location": "Chicago, IL"
     },
@@ -271,7 +303,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126584,
+      "followersCount": 126582,
       "friendsCount": 1332,
       "location": "Chicago, IL"
     },
@@ -306,7 +338,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 107367,
+      "followersCount": 107370,
       "friendsCount": 241,
       "location": "Singapore"
     },
@@ -326,7 +358,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30553,
+      "followersCount": 30552,
       "friendsCount": 132,
       "location": "China"
     },
@@ -458,7 +490,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30553,
+      "followersCount": 30552,
       "friendsCount": 132,
       "location": "China"
     },
@@ -522,7 +554,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59525,
+      "followersCount": 59527,
       "friendsCount": 377,
       "location": ""
     },
@@ -552,7 +584,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32537,
+      "followersCount": 32538,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -579,6 +611,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/BroRayPringle/status/1943436297172881883",
     "fullText": "Jesus declared, \"I and my Father are one.\"\n\nBut he also prayed that we might be partakers of the same oneness that he shared with God! \"That they may be one, even as we are one. I in them, and thou in me, that they may be made perfect in one.\"\n\n📚Joh 10:30, 17:22-23, 1Co 6:17 KJV https://t.co/pK20WLs8Tf"
+  },
+  {
+    "user": {
+      "screenName": "GUNbyGUNZ",
+      "name": "GUNZ Official",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641810398016937985/Ea90ZMxI_normal.jpg",
+      "description": "The Layer-1 blockchain ecosystem powering community-driven economies in AAA games. Integrated into @PlayOffTheGrid. Developed by @GunzillaGames.",
+      "followersCount": 180427,
+      "friendsCount": 10,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvh4ywCakAYS8s2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GUNbyGUNZ/status/1943436059213480382",
+    "fullText": "If I make it, I won't say anything...\n\nBut there will be signs\n\n50 likes and I drop 50 codes 😤 https://t.co/0YJRFK0zBh"
   },
   {
     "user": {
@@ -834,7 +883,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18619,
+      "followersCount": 18616,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -902,7 +951,7 @@
       "name": "Consensus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932855570832211968/3JYBuOh7_normal.jpg",
       "description": "Find & understand the world's best knowledge, faster. \n\nSearch for free at https://t.co/4yonCjxofg",
-      "followersCount": 11955,
+      "followersCount": 11956,
       "friendsCount": 419,
       "location": "sf"
     },
@@ -936,7 +985,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32537,
+      "followersCount": 32538,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -1509,6 +1558,23 @@
     ],
     "tweetUrl": "https://x.com/Box/status/1943053692275691976",
     "fullText": "AI agents are the fastest path in enabling employees to do more and to move beyond marginal process improvements and finally pursue the initiatives that once sat in the backlog. Hear more from @levie in the full video here: https://t.co/V1JM0fa5Sq https://t.co/fKSp0AZtgW"
+  },
+  {
+    "user": {
+      "screenName": "Mikefit101",
+      "name": "mGrant",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1903246514962522112/rM36GJhk_normal.jpg",
+      "description": "The keys to happiness: faith, family, freedom and furry, four-legged friends!",
+      "followersCount": 106,
+      "friendsCount": 84,
+      "location": "South Carolina, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1943041225147219968/vid/avc1/1280x720/VKNsfzSutDmiSyIu.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/Mikefit101/status/1943041318651093437",
+    "fullText": "Thank you @ntarnasky74 for my new favorite sound effect! https://t.co/xa4hGqNQSS"
   },
   {
     "user": {
