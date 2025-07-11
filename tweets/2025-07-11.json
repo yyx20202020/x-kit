@@ -1,6 +1,26 @@
 [
   {
     "user": {
+      "screenName": "yuxiyou",
+      "name": "尤雨溪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
+      "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
+      "followersCount": 107270,
+      "friendsCount": 241,
+      "location": "Singapore"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvjIIYNWoAER8db.jpg",
+      "https://pbs.twimg.com/media/GvjIIXdakAISGFi.jpg",
+      "https://pbs.twimg.com/media/GvjIIYLW4AEpg-p.jpg",
+      "https://pbs.twimg.com/media/GvjIIYTWoAAitOs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuxiyou/status/1943523299339964687",
+    "fullText": "今天来腾讯总部参观 https://t.co/5S7yEWfuQI"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -20,8 +40,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11363,
-      "friendsCount": 3662,
+      "followersCount": 11364,
+      "friendsCount": 3663,
       "location": ""
     },
     "images": [],
@@ -101,8 +121,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11363,
-      "friendsCount": 3662,
+      "followersCount": 11364,
+      "friendsCount": 3663,
       "location": ""
     },
     "images": [
@@ -118,7 +138,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188799,
+      "followersCount": 188803,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -154,8 +174,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11363,
-      "friendsCount": 3662,
+      "followersCount": 11364,
+      "friendsCount": 3663,
       "location": ""
     },
     "images": [
@@ -201,7 +221,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59539,
+      "followersCount": 59535,
       "friendsCount": 377,
       "location": ""
     },
@@ -216,7 +236,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32522,
+      "followersCount": 32525,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -243,6 +263,23 @@
     ],
     "tweetUrl": "https://x.com/CPAC/status/1943407458283589772",
     "fullText": "Scrambling gender roles: the fall of civilization - @MattWalshBlog https://t.co/Y05SSK9Q1I"
+  },
+  {
+    "user": {
+      "screenName": "Hyperweb_",
+      "name": "Hyperweb",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884128042743947264/VsBGVt7Z_normal.png",
+      "description": "The TypeScript-first platform bringing back the joy of programming. Build real apps across cloud and chain (formerly @cosmology_tech)",
+      "followersCount": 4095,
+      "friendsCount": 373,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvhdxQgakAQs22s.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Hyperweb_/status/1943406344285110288",
+    "fullText": "Today we’re sharing the next chapter of our journey at Hyperweb.\n\nIt’s not a pivot — it’s a synthesis.\n\nFrom infrastructure to blockchain, and now to a unified web where cloud meets chain and humans collaborate with AI agents. https://t.co/4gS5Wqq6fy"
   },
   {
     "user": {
@@ -344,6 +381,40 @@
   },
   {
     "user": {
+      "screenName": "withdelphi",
+      "name": "Delphi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912252893643620352/smlTMsSf_normal.jpg",
+      "description": "Your Mind. On Demand.\nTurn your knowledge into a Digital Mind that talks, teaches, and earns 24/7.",
+      "followersCount": 6907,
+      "friendsCount": 79,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvgusuGa0AAMa9y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/withdelphi/status/1943355073888911804",
+    "fullText": "She’s helped thousands heal with food, breath, and presence.\n\nNow you can talk to her, anytime.\n\nMona Sharma’s Digital Mind is live on Delphi.\nAsk about calm, vitality, nervous system healing - or whatever your body’s been trying to tell you.\n\nA new kind of conversation starts https://t.co/a6bh3p2t6R"
+  },
+  {
+    "user": {
+      "screenName": "rbradthomas",
+      "name": "Brad Thomas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1725935981612716032/Xfj-EnKA_normal.jpg",
+      "description": "Founder Wide Moat Research, Creator of iREIT®, Author of REITs For Dummies: https://t.co/PkB9GqCeB4",
+      "followersCount": 20532,
+      "friendsCount": 4396,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvgmArRWcAAefqm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rbradthomas/status/1943345616219738220",
+    "fullText": "\"Show me the money\" ... this is the title for our latest YouTube show at Wide Moat Research.  Please follow, like, and comment by clicking the subscribe link below. https://t.co/5q5IdBpEYT"
+  },
+  {
+    "user": {
       "screenName": "ConsensusNLP",
       "name": "Consensus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932855570832211968/3JYBuOh7_normal.jpg",
@@ -365,7 +436,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32522,
+      "followersCount": 32525,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -494,6 +565,21 @@
   },
   {
     "user": {
+      "screenName": "TheRealFerretly",
+      "name": "Ferretly",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1675823848522932224/4LEMGVRU_normal.jpg",
+      "description": "Elevate Your Culture with Social Media Background Screening🌟 \nSubscribe to our newsletter: https://t.co/oDG81Vh3f7",
+      "followersCount": 166,
+      "friendsCount": 626,
+      "location": "Easton, MD"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheRealFerretly/status/1943266941017428338",
+    "fullText": "Another Labubu. Listen—we don’t judge. We surface culture fits.\n\nFerretly’s AI screening flags risk and alignment—because fit isn’t just who they are, it’s how they show up."
+  },
+  {
+    "user": {
       "screenName": "MayanFinance",
       "name": "Mayan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1891499635597856769/5BMo_JQJ_normal.jpg",
@@ -532,7 +618,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150911,
+      "followersCount": 150920,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -609,7 +695,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32522,
+      "followersCount": 32525,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -797,6 +883,23 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the CPAC Freedom First Movement 🇺🇸 Home to the most influential gatherings of FREEDOM FIGHTERS in the world 🌎",
+      "followersCount": 246750,
+      "friendsCount": 5066,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1943029932747116544/pu/vid/avc1/720x1280/liaBFEOH6mOv8US6.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1943030008303202367",
+    "fullText": "Homeschooling and no phones: protecting my kids’ childhood - @MattWalshBlog https://t.co/naUTR05JD0"
+  },
+  {
+    "user": {
       "screenName": "River",
       "name": "River",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1901677501132296192/QM1Gzicb_normal.jpg",
@@ -814,11 +917,80 @@
   },
   {
     "user": {
+      "screenName": "digitalocean",
+      "name": "DigitalOcean",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755167733543534592/xEeaRe3u_normal.jpg",
+      "description": "The simplest scalable cloud. ☁️\n\nStatus: @DOstatus\nSupport: https://t.co/5gkvyinPlK",
+      "followersCount": 222243,
+      "friendsCount": 1616,
+      "location": "CO"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1943001334103347200/vid/avc1/1080x1080/BVRq4E12JumQwOBU.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/digitalocean/status/1943002130945839154",
+    "fullText": "One platform. One API. All your AI tools, in one place. ☁️🛠️🤖\n\nThe DigitalOcean GradientAI™️ Platform is now generally available, allowing you to access top models with a single API, manage agents with built-in tools, &amp; collaborate across teams, no infrastructure headaches https://t.co/Mda282KNAv"
+  },
+  {
+    "user": {
+      "screenName": "MessariCrypto",
+      "name": "Messari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879266423010181120/ko4sS0ZR_normal.jpg",
+      "description": "Messari is the leading provider of crypto market intelligence products that help professionals navigate crypto with confidence.",
+      "followersCount": 426392,
+      "friendsCount": 348,
+      "location": "Onchain"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvbtGqzakAIJGE8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MessariCrypto/status/1943000991374414245",
+    "fullText": "The PUMP token will launch via a 3 day ICO starting July 12 at 14:00 UTC.\n\nTokens will be sold at a price of $0.004, representing an FDV of $4 billion.\n\n- ICO: 33% (private 18%, public 15%)\n- Community/Ecosystem: 24%\n- Team: 20%\n- Investors: 13%\n- Livestreaming: 3%\n- https://t.co/GYQrKyNY7F"
+  },
+  {
+    "user": {
+      "screenName": "EChronicDisease",
+      "name": "End Chronic Disease",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937548578450194432/fVjaPEXq_normal.jpg",
+      "description": "A nonprofit committed to reversing America’s chronic illness crisis through science-based, prevention-first education, advocacy, and collaboration.",
+      "followersCount": 349,
+      "friendsCount": 83,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvbgja9WcAAwrTg.jpg",
+      "https://pbs.twimg.com/media/Gvbgj-3WEAAnhbh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EChronicDisease/status/1942988426116014200",
+    "fullText": "87% of Americans want stronger food safety. 60% want artificial dyes removed.\n\nA new @axios @ipsos poll reveals some encouraging signs of bipartisan alignment—and a new movement on the rise. https://t.co/KYSlH93rt8"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16516,
+      "friendsCount": 1195,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gva6YSnWoAEK8hZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1942945256032366898",
+    "fullText": "BULLISH SHIPPING SIGNAL: Global trade expanded by approximately $300 billion in the first half of the year, with goods contributing about $230 billion and services around $70 billion, according to a new report by @UNCTAD.\n\n“In the first quarter of 2025, global trade trends https://t.co/24OnmNZ1iC"
+  },
+  {
+    "user": {
       "screenName": "khloekardashian",
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29634515,
+      "followersCount": 29634803,
       "friendsCount": 229,
       "location": ""
     },
@@ -869,7 +1041,7 @@
       "name": "Lit🔥Xchange",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1816279941324865536/0a0fjOlN_normal.jpg",
       "description": "FinTech Co. developing a new stock & crypto brokerage app. Own equity, shares, & exclusive perks by investing pre-launch & IPO. Invest now https://t.co/NJNSv7nObi",
-      "followersCount": 6644,
+      "followersCount": 6645,
       "friendsCount": 2573,
       "location": "Rockwall, TX"
     },
