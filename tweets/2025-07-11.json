@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8428,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1943490590189953412",
+    "fullText": "试了一下 Gemini cli，用来做超长上下文的任务(不是写代码)真的很好用。"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 11362,
+      "friendsCount": 3662,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvilQZ9W8AASvIH.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1943485205903274024",
+    "fullText": "想起来，去年入职，HR 忧心忡忡地再三问，能不能干三年，别半道跑路了，甚至用劳务合同试用了3个月。\n现在，入职快一年了，2 个同事跑了，+1 跑了，+2 也跑了，组没了，部门也没了，我还在。 https://t.co/ZMAlexYWkh"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188803,
+      "followersCount": 188800,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -41,7 +73,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11361,
+      "followersCount": 11362,
       "friendsCount": 3662,
       "location": ""
     },
@@ -73,7 +105,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59528,
+      "followersCount": 59527,
       "friendsCount": 377,
       "location": ""
     },
@@ -88,7 +120,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32510,
+      "followersCount": 32516,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -152,11 +184,28 @@
   },
   {
     "user": {
+      "screenName": "ConsensusNLP",
+      "name": "Consensus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932855570832211968/3JYBuOh7_normal.jpg",
+      "description": "Find & understand the world's best knowledge, faster. \n\nSearch for free at https://t.co/4yonCjxofg",
+      "followersCount": 11863,
+      "friendsCount": 419,
+      "location": "sf"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1943339124234022912/vid/avc1/1280x720/Bv1SgBFEaufJ8s8X.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/ConsensusNLP/status/1943339876838977716",
+    "fullText": "Introducing: Consensus Deep Search 🔬\n\nDeep Search is a research agent that conducts literature reviews across 200M academic papers in two minutes. https://t.co/whyUmQmfZp"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32510,
+      "followersCount": 32516,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -205,7 +254,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 784,
+      "followersCount": 785,
       "friendsCount": 484,
       "location": ""
     },
@@ -334,6 +383,21 @@
   },
   {
     "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929898423735427072/onksEbgT_normal.jpg",
+      "description": "im retiring you won. Snack Wrap is back",
+      "followersCount": 4730109,
+      "friendsCount": 13011,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1943203541595636138",
+    "fullText": "wait it comes in ranch n spicy 😭😭❤️ 😭😭"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -353,7 +417,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32510,
+      "followersCount": 32516,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -368,7 +432,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 784,
+      "followersCount": 785,
       "friendsCount": 484,
       "location": ""
     },
@@ -383,7 +447,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 784,
+      "followersCount": 785,
       "friendsCount": 484,
       "location": ""
     },
@@ -449,7 +513,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11361,
+      "followersCount": 11362,
       "friendsCount": 3662,
       "location": ""
     },
@@ -481,7 +545,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11361,
+      "followersCount": 11362,
       "friendsCount": 3662,
       "location": ""
     },
