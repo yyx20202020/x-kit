@@ -1,6 +1,43 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30551,
+      "friendsCount": 132,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvkQBiuWMAAbX7W.jpg",
+      "https://pbs.twimg.com/media/GvkQBiyWYAA9mTe.jpg",
+      "https://pbs.twimg.com/media/GvkQBi1XgAAzUyB.jpg",
+      "https://pbs.twimg.com/media/GvkQBiUakAA3tGa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1943602366848139336",
+    "fullText": "赛里木湖的蓝好独特 https://t.co/8blaZhwj1L"
+  },
+  {
+    "user": {
+      "screenName": "nextify2024",
+      "name": "Nextify",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1924314148650811392/wIRdLxXp_normal.jpg",
+      "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx\n别用 V0 了， 试试？",
+      "followersCount": 22628,
+      "friendsCount": 337,
+      "location": "HK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1943600398675136512/vid/avc1/1300x720/5pX_rOBdUu6yowx7.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nextify2024/status/1943601106858221740",
+    "fullText": "不过是些许风霜罢了 https://t.co/6IKh1ehqgQ"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
@@ -37,7 +74,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32534,
+      "followersCount": 32535,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -69,7 +106,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8431,
+      "followersCount": 8430,
       "friendsCount": 290,
       "location": ""
     },
@@ -103,7 +140,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32534,
+      "followersCount": 32535,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -153,7 +190,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126591,
+      "followersCount": 126583,
       "friendsCount": 1332,
       "location": "Chicago, IL"
     },
@@ -170,7 +207,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126591,
+      "followersCount": 126583,
       "friendsCount": 1332,
       "location": "Chicago, IL"
     },
@@ -205,7 +242,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 107341,
+      "followersCount": 107355,
       "friendsCount": 241,
       "location": "Singapore"
     },
@@ -289,7 +326,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8431,
+      "followersCount": 8430,
       "friendsCount": 290,
       "location": ""
     },
@@ -306,7 +343,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8431,
+      "followersCount": 8430,
       "friendsCount": 290,
       "location": ""
     },
@@ -338,7 +375,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188790,
+      "followersCount": 188786,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -421,7 +458,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59529,
+      "followersCount": 59530,
       "friendsCount": 377,
       "location": ""
     },
@@ -436,7 +473,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32534,
+      "followersCount": 32535,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -718,7 +755,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18619,
+      "followersCount": 18618,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -820,7 +857,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32534,
+      "followersCount": 32535,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -852,7 +889,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8431,
+      "followersCount": 8430,
       "friendsCount": 290,
       "location": ""
     },
@@ -931,7 +968,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18619,
+      "followersCount": 18618,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -950,7 +987,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23406,
+      "followersCount": 23407,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -965,7 +1002,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18619,
+      "followersCount": 18618,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
