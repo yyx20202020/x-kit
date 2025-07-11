@@ -1,11 +1,31 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 126589,
+      "friendsCount": 1332,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvjTU_rW0AADan2.jpg",
+      "https://pbs.twimg.com/media/GvjTXVQXwAAuxoa.png",
+      "https://pbs.twimg.com/media/GvjTZQNXEAAxiXr.png",
+      "https://pbs.twimg.com/media/GvjTa3FXAAA7kkc.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1943535714710266123",
+    "fullText": "用AI编程真的能提速吗？研究结果可能让你吃惊！\n\n你一定听说过不少关于AI智能工具的神奇故事，比如有人借助AI快速完成了项目，或者几行代码就搞定了复杂任务。你可能也跃跃欲试，期待AI为自己的工作效率插上翅膀。可是真实情况真的如此吗？ https://t.co/zQS4kDtTdg"
+  },
+  {
+    "user": {
       "screenName": "yuxiyou",
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 107284,
+      "followersCount": 107285,
       "friendsCount": 241,
       "location": "Singapore"
     },
@@ -25,7 +45,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30547,
+      "followersCount": 30552,
       "friendsCount": 132,
       "location": "China"
     },
@@ -57,7 +77,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4877,
+      "followersCount": 4878,
       "friendsCount": 496,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -72,7 +92,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6041,
+      "followersCount": 6040,
       "friendsCount": 370,
       "location": "杭州"
     },
@@ -157,7 +177,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30547,
+      "followersCount": 30552,
       "friendsCount": 132,
       "location": "China"
     },
@@ -221,7 +241,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59541,
+      "followersCount": 59543,
       "friendsCount": 377,
       "location": ""
     },
@@ -236,7 +256,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32527,
+      "followersCount": 32525,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -246,6 +266,26 @@
     ],
     "tweetUrl": "https://x.com/yihui_indie/status/1943443602698629376",
     "fullText": "赶早班机直播千人在线🤣笑死，好多熟悉的 id https://t.co/JHwQ2SjjkE"
+  },
+  {
+    "user": {
+      "screenName": "tamugate",
+      "name": "Tamugate",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1942975535581212672/VxraRpiz_normal.jpg",
+      "description": "AI enthusiast sharing daily tips",
+      "followersCount": 39,
+      "friendsCount": 64,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvh0NhSWMAAvjF6.jpg",
+      "https://pbs.twimg.com/media/Gvh0NkxWcAASp2w.jpg",
+      "https://pbs.twimg.com/media/Gvh0NsjXEAAoHVx.jpg",
+      "https://pbs.twimg.com/media/Gvh0NviWcAACksR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tamugate/status/1943431076438798340",
+    "fullText": "Beautiful nature 🌺🌹 https://t.co/nAHRjArmwX"
   },
   {
     "user": {
@@ -330,11 +370,26 @@
   },
   {
     "user": {
+      "screenName": "iamtikue",
+      "name": "Tikue Anazodo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938935453941387264/ab9lzo_X_normal.jpg",
+      "description": "Co-Founder & CEO @joinkudos. \n\nPrev: Product @ Google Pay & Affirm",
+      "followersCount": 366,
+      "friendsCount": 140,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/iamtikue/status/1943390194490626371",
+    "fullText": "I'm noticing a troubling trend with some SaaS companies like @webflow  doing things that feel borderline scammy. I debated whether to post this, but I don't believe in gatekeeping when it comes to calling out companies that operate this way.\nWebflow was the most recent culprit,"
+  },
+  {
+    "user": {
       "screenName": "donwinslow",
       "name": "Don Winslow",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1647525880430993409/60HaCvHF_normal.jpg",
       "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\n#WinslowDigitalArmy  \n\nFind great books by following: @WinslowBookClub",
-      "followersCount": 899657,
+      "followersCount": 899647,
       "friendsCount": 36747,
       "location": "Tweets are just my opinion"
     },
@@ -368,7 +423,7 @@
       "name": "Pristine Auction",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864449161740812288/6RJPHmvP_normal.jpg",
       "description": "🏆 Authentic wins, priced for fans. 🏆",
-      "followersCount": 35425,
+      "followersCount": 35429,
       "friendsCount": 1458,
       "location": "Arizona"
     },
@@ -383,7 +438,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18623,
+      "followersCount": 18622,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -434,7 +489,7 @@
       "name": "Consensus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932855570832211968/3JYBuOh7_normal.jpg",
       "description": "Find & understand the world's best knowledge, faster. \n\nSearch for free at https://t.co/4yonCjxofg",
-      "followersCount": 11863,
+      "followersCount": 11913,
       "friendsCount": 419,
       "location": "sf"
     },
@@ -451,7 +506,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32527,
+      "followersCount": 32525,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -547,7 +602,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18623,
+      "followersCount": 18622,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -566,7 +621,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23407,
+      "followersCount": 23408,
       "friendsCount": 293,
       "location": "Guangdong"
     },
@@ -581,7 +636,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18623,
+      "followersCount": 18622,
       "friendsCount": 2008,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -596,7 +651,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30547,
+      "followersCount": 30552,
       "friendsCount": 132,
       "location": "China"
     },
@@ -631,7 +686,7 @@
       "name": "Mayan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1891499635597856769/5BMo_JQJ_normal.jpg",
       "description": "The Multichain Dispatch Network. Join us: https://t.co/iKSin7jv0f 🗿",
-      "followersCount": 36673,
+      "followersCount": 36686,
       "friendsCount": 207,
       "location": "Between Chains"
     },
@@ -665,7 +720,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150921,
+      "followersCount": 150920,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -727,7 +782,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6041,
+      "followersCount": 6040,
       "friendsCount": 370,
       "location": "杭州"
     },
@@ -742,7 +797,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32527,
+      "followersCount": 32525,
       "friendsCount": 619,
       "location": "Hong Kong"
     },
@@ -1016,6 +1071,38 @@
   },
   {
     "user": {
+      "screenName": "harry_schuh",
+      "name": "Harry Schuhmacher",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1565426839945887744/W8IX4km4_normal.jpg",
+      "description": "Journalist.",
+      "followersCount": 3141,
+      "friendsCount": 912,
+      "location": "San Antonio, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/harry_schuh/status/1942974220788502770",
+    "fullText": "Please, PLEASE, @kimbal we need you to intervene.  We need @elon to literally manufacture our boundless future, not get mired in the political DC mud."
+  },
+  {
+    "user": {
+      "screenName": "Israel",
+      "name": "Israel ישראל",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
+      "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
+      "followersCount": 1886204,
+      "friendsCount": 5125,
+      "location": "Jerusalem, Israel"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1942953984425123840/vid/avc1/640x364/XFPmw3zvkh5O_kdS.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Israel/status/1942954426324422939",
+    "fullText": "On October 7, Hamas terrorists invaded Israel. They massacred, kidnapped, and used sexual violence as a weapon of war.\n\nThe Dinah Report, released on July 8, exposes the horrors and calls for justice.\n\nMost victims can’t speak, because most didn’t survive.\n\nWe will be their https://t.co/8kpzARRzn7"
+  },
+  {
+    "user": {
       "screenName": "USFunds",
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
@@ -1030,6 +1117,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/USFunds/status/1942945256032366898",
     "fullText": "BULLISH SHIPPING SIGNAL: Global trade expanded by approximately $300 billion in the first half of the year, with goods contributing about $230 billion and services around $70 billion, according to a new report by @UNCTAD.\n\n“In the first quarter of 2025, global trade trends https://t.co/24OnmNZ1iC"
+  },
+  {
+    "user": {
+      "screenName": "VHindus71",
+      "name": "Voice of Bangladeshi Hindus 🇧🇩",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1820524138361966592/dTz2SwiC_normal.jpg",
+      "description": "Our goal is to reveal the truth. Covering the incidents that the mainstream media won't let you know.||.",
+      "followersCount": 75906,
+      "friendsCount": 2935,
+      "location": "Bangladesh "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gva3NNQX0AADX_j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/VHindus71/status/1942941734381765113",
+    "fullText": "This is why we support Israel and always will. Hindus and Jews are persecuted communities facing oppression worldwide. https://t.co/sbPXTegc0R"
   },
   {
     "user": {
