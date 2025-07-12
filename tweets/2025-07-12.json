@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 6565,
+      "friendsCount": 1454,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvotLahboAA4i8b.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1943915874559439301",
+    "fullText": "快月底了，还没发工资 。40 岁的程序员老登，花光身上所有的钱，只能蜗居在深圳城中村的出租屋里靠半截萝卜两个土豆充饥了。此刻真得感谢 GFW，让老爸老妈上不了 X，否则还不得气晕了… https://t.co/T8BT6xd1sE"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 11381,
+      "friendsCount": 3667,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvorzDuXAAA3WHB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1943914359970783254",
+    "fullText": "野卡 / yeka / wildcard 被约谈监管的事情实锤了，有在用的小伙伴准备提现和维权吧 https://t.co/24VsR7csSe"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18624,
+      "followersCount": 18625,
       "friendsCount": 2009,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -88,7 +122,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 787,
+      "followersCount": 788,
       "friendsCount": 485,
       "location": ""
     },
@@ -182,11 +216,28 @@
   },
   {
     "user": {
+      "screenName": "goldmedalmind",
+      "name": "Dr. Jim Afremow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1412463547687215104/DXG-Pl0K_normal.jpg",
+      "description": "Sport Psych & Author: The Champion's Mind, The Champion's Comeback, The Young Champion's, The Leader's Mind, The Creative's Mind",
+      "followersCount": 128744,
+      "friendsCount": 141619,
+      "location": "Eugene, OR / Phoenix, AZ"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvnGNkKbsAE_udn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goldmedalmind/status/1943802652460298515",
+    "fullText": "No matter your craft, your background, or your doubts - \"The Creatives Mind\" hands you the mental tools to thrive. https://t.co/4EMIXRalWW"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126603,
+      "followersCount": 126604,
       "friendsCount": 1332,
       "location": "Chicago, IL"
     },
@@ -293,6 +344,23 @@
   },
   {
     "user": {
+      "screenName": "GamerSupps",
+      "name": "Gamer Supps®",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666119132478046208/_ARcTc5__normal.jpg",
+      "description": "The Official Energy Drink of Shitposting™, \nEverything tastes better in a @waifucups \nAll customer service is handled through our 24-7 live chat on our website",
+      "followersCount": 333196,
+      "friendsCount": 600,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvmQadMXAAAEYVX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GamerSupps/status/1943747141391863839",
+    "fullText": "gg premium energy cans\n\navailable now in our first 3 flavors 👀\n\nbe the first to try before they're in your local store👇 https://t.co/ARgAbfk2BC"
+  },
+  {
+    "user": {
       "screenName": "FCA_World",
       "name": "FC Augsburg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1757230670022090752/z9Rm6OqZ_normal.jpg",
@@ -395,7 +463,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6974,
+      "followersCount": 6975,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -403,6 +471,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/middlefeng/status/1943728670935593197",
     "fullText": "Leviathan 在 Netflix 上映了。这是我刚来美国的时候和儿子都读过的小说。"
+  },
+  {
+    "user": {
+      "screenName": "mschlapp",
+      "name": "Matt Schlapp",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1788219886692347907/UlIMA2GX_normal.jpg",
+      "description": "Dad to 5 angels, husband to @mercedesschlapp as seen on Newsmax, Kansas, Chair of @cpac, Co-Author The Desecrators, Go Irish, life is better on Victory Farm",
+      "followersCount": 499044,
+      "friendsCount": 1194,
+      "location": "Alexandria VA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1943724529026510848/pu/vid/avc1/1280x720/uSwOV33NTRp8cS8W.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/mschlapp/status/1943724635347898424",
+    "fullText": "I asked Iair if there was a time he wanted to quit and give up. He said \"Never. Not for a second.\"\n\nWe owe that same unshakable resolve to the 50+ hostages still waiting in the dark.\n\nNever quit on them. Bring them home. https://t.co/a929OW4TaY"
   },
   {
     "user": {
@@ -427,7 +512,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150898,
+      "followersCount": 150892,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -444,7 +529,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32593,
+      "followersCount": 32595,
       "friendsCount": 620,
       "location": "Hong Kong"
     },
@@ -594,6 +679,21 @@
   },
   {
     "user": {
+      "screenName": "lbnkiarie",
+      "name": "Laban Kiarie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1816812331046760448/ME6MULSz_normal.jpg",
+      "description": "Mining and Mineral Processing Engineer",
+      "followersCount": 127,
+      "friendsCount": 277,
+      "location": "Juja"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lbnkiarie/status/1943662909663670356",
+    "fullText": "What’s a song that always puts you in a good mood?"
+  },
+  {
+    "user": {
       "screenName": "MarkIsmail_x",
       "name": "Mark Alexander Ismail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1891273372211761152/DiIGBR3g_normal.jpg",
@@ -630,7 +730,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150898,
+      "followersCount": 150892,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -711,7 +811,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18624,
+      "followersCount": 18625,
       "friendsCount": 2009,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -814,7 +914,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150898,
+      "followersCount": 150892,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -846,7 +946,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55791,
+      "followersCount": 55790,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -861,7 +961,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32593,
+      "followersCount": 32595,
       "friendsCount": 620,
       "location": "Hong Kong"
     },
@@ -927,7 +1027,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32593,
+      "followersCount": 32595,
       "friendsCount": 620,
       "location": "Hong Kong"
     },
@@ -965,7 +1065,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11380,
+      "followersCount": 11381,
       "friendsCount": 3667,
       "location": ""
     },
@@ -1365,7 +1465,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1886359,
+      "followersCount": 1886354,
       "friendsCount": 5125,
       "location": "Jerusalem, Israel"
     },
