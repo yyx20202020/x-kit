@@ -1,12 +1,42 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 23405,
+      "friendsCount": 294,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1944261092831900088",
+    "fullText": "发现老婆一个特长，只要小孩在身边，她能把身边发生的一切事情都转变成一次教育小孩的机会，吃饭时全家在刷一个古装爽剧，只要看十分钟，她就能找到剧情与学习之间的联系，然后从剧情说到学习，从剧情里将军为何打败仗说到学生如何对待考试失利，一边吃饭一边看一边教育小孩。。。。"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6047,
+      "friendsCount": 375,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1944259529279254583",
+    "fullText": "昨天去参加出海去线下活动，打了鸡血，今天回来，立马打开了手头的开发项目，更新了 Cursor 版本，运行了 pnpm run dev，开启了 docker，确定好要做的需求平台\n\n然后直接打开了 Steam"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6580,
-      "friendsCount": 1465,
+      "followersCount": 6582,
+      "friendsCount": 1467,
       "location": ""
     },
     "images": [],
@@ -110,8 +140,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6580,
-      "friendsCount": 1465,
+      "followersCount": 6582,
+      "friendsCount": 1467,
       "location": ""
     },
     "images": [
@@ -160,8 +190,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6580,
-      "friendsCount": 1465,
+      "followersCount": 6582,
+      "friendsCount": 1467,
       "location": ""
     },
     "images": [
@@ -297,8 +327,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6580,
-      "friendsCount": 1465,
+      "followersCount": 6582,
+      "friendsCount": 1467,
       "location": ""
     },
     "images": [
@@ -314,7 +344,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32651,
+      "followersCount": 32652,
       "friendsCount": 620,
       "location": "Hong Kong"
     },
@@ -331,8 +361,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6580,
-      "friendsCount": 1465,
+      "followersCount": 6582,
+      "friendsCount": 1467,
       "location": ""
     },
     "images": [
@@ -365,7 +395,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59548,
+      "followersCount": 59547,
       "friendsCount": 377,
       "location": ""
     },
@@ -429,7 +459,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11401,
+      "followersCount": 11402,
       "friendsCount": 3672,
       "location": ""
     },
@@ -446,7 +476,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11401,
+      "followersCount": 11402,
       "friendsCount": 3672,
       "location": ""
     },
@@ -495,8 +525,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6580,
-      "friendsCount": 1465,
+      "followersCount": 6582,
+      "friendsCount": 1467,
       "location": ""
     },
     "images": [],
@@ -510,7 +540,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55816,
+      "followersCount": 55818,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -528,7 +558,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11401,
+      "followersCount": 11402,
       "friendsCount": 3672,
       "location": ""
     },
@@ -562,7 +592,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150926,
+      "followersCount": 150925,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -616,8 +646,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6580,
-      "friendsCount": 1465,
+      "followersCount": 6582,
+      "friendsCount": 1467,
       "location": ""
     },
     "images": [
@@ -633,7 +663,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11401,
+      "followersCount": 11402,
       "friendsCount": 3672,
       "location": ""
     },
@@ -731,8 +761,8 @@
       "name": "Kimberly “Kim” Wexler MA JD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930212531081011200/gnyL1t2s_normal.jpg",
       "description": "🔥Border watcher. True crime blogger. Independent. Unaffiliated. Unfiltered. Hurt locker compartmentalizer. #AgeofDisinformation #DEFUNDtheUN IFBAV 🫡🙏🏼",
-      "followersCount": 21478,
-      "friendsCount": 10531,
+      "followersCount": 21481,
+      "friendsCount": 10530,
       "location": "Elon’s Glass House"
     },
     "images": [],
@@ -823,6 +853,23 @@
   },
   {
     "user": {
+      "screenName": "CrossPolitic",
+      "name": "CrossPolitic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1040716606345633792/zJC8o8Tz_normal.jpg",
+      "description": "Christian | Theonomic | Post-Mil Helping Christians apply God’s law to Politics. Podcast on @youtube @spotify @iTunes 🎧📺",
+      "followersCount": 22012,
+      "friendsCount": 399,
+      "location": "Moscow, Idaho"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvmpKCvbsAIQwzu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CrossPolitic/status/1943771043153473704",
+    "fullText": "You can get your tickets to this year's Fight Laugh Feast Network conference here!! Pub members get $50 off each ticket. Tickets are going fast and seating is limited this year so get them while you can!!\nSee y'all there!\n\nLink below 👇👇👇 https://t.co/u2JPMZlyOy"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -872,6 +919,23 @@
   },
   {
     "user": {
+      "screenName": "TradeTherapyllc",
+      "name": "Trade Therapy, LLC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1803486407543115776/ANxLjoK1_normal.jpg",
+      "description": "Tired of holding the bag?\nWall Street strategy. Plain English.\nInstitutional insight ≠ surface-level charting.\nUnrivaled depth. Weekly via Clarity.",
+      "followersCount": 268,
+      "friendsCount": 123,
+      "location": "Los Angeles, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvmH_7ZbsAA_mgc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TradeTherapyllc/status/1943734561881350273",
+    "fullText": "\"Big players don't pray for huge stock jumps—they set 'em up like a pro game plan. 🚀\n\nThis week's Clarity teaches you how to surf those massive moves using their tricks. \n\nReady to ride giants without getting wiped out? \n\n$FUTU $BABA https://t.co/oLkD2KdG0H"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -891,7 +955,7 @@
       "name": "Matt Schlapp",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1788219886692347907/UlIMA2GX_normal.jpg",
       "description": "Dad to 5 angels, husband to @mercedesschlapp as seen on Newsmax, Kansas, Chair of @cpac, Co-Author The Desecrators, Go Irish, life is better on Victory Farm",
-      "followersCount": 499056,
+      "followersCount": 499066,
       "friendsCount": 1194,
       "location": "Alexandria VA"
     },
@@ -935,6 +999,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/tettehotuteye/status/1943720976350695827",
     "fullText": "Last week, we began a qualitative journey into negentropy: the process that underpins life itself and our entire cosmos. Today, we present the mathematical foundations of the negentropic framework and invite critique and collaboration to test and explore its implications from the https://t.co/lT1egemHTs"
+  },
+  {
+    "user": {
+      "screenName": "GAM3Sgg_",
+      "name": "GAM3S.GG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699712182412365824/acUvjBqE_normal.jpg",
+      "description": "Welcome to the Future of Gaming | Powered by $G3. Discover 500+ Games, Reviews, Guides, Quests, News & #GAM3Awards | Links: https://t.co/jNfVIvWpl4",
+      "followersCount": 360032,
+      "friendsCount": 420,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1943719633111961600/vid/avc1/1280x720/__Nr5ll7hJAFxnNC.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/GAM3Sgg_/status/1943720138924339607",
+    "fullText": "“Fun in web3 games isn't enough. You also need progression and speculation in the ‘Web3 Gaming Trilemma.’”\n\n@playSparkball founder opened up to us on the mistakes &amp; hard lessons they’ve learned over the years. \n\nWatch now:\n\n00:00 Introduction\n02:32 The Sparkball Origin Story https://t.co/2IM2NsUXsU"
   },
   {
     "user": {
@@ -993,7 +1074,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32651,
+      "followersCount": 32652,
       "friendsCount": 620,
       "location": "Hong Kong"
     },
