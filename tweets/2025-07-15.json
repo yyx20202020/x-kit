@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 18628,
+      "friendsCount": 832,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/1944916063839485981",
+    "fullText": "今年春节回家时，我有机会问了我父亲这样一个问题：“在我小的时候，你有在我身上看到什么别的孩子不具备的特质吗？” 他回答说“专注，再沉入一件事后很认真”。"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
@@ -50,12 +65,57 @@
   },
   {
     "user": {
+      "screenName": "domfelt",
+      "name": "Dominik Feltes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1941824348223856640/UE3LIE3M_normal.jpg",
+      "description": "I am the founder of the TIL newsletter. We compile AI, tech, and science news into one daily email to help you save time. And it's free!",
+      "followersCount": 19,
+      "friendsCount": 82,
+      "location": "Free Newsletter 👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/domfelt/status/1944872404104437920",
+    "fullText": "Your time is valuable! One free email, one free offer:\n\nAI, tech, and science news summarized and linked.\n\nSubscribe to my free newsletter.\n\nThat's it."
+  },
+  {
+    "user": {
+      "screenName": "narb3h",
+      "name": "narb3h",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1795505008810606592/XsL-2TWL_normal.jpg",
+      "description": "just another ghost in the wires",
+      "followersCount": 455,
+      "friendsCount": 1379,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/narb3h/status/1944871094886043906",
+    "fullText": "children are the architects of entropy, weaving chaos into the fabric of existence.\n\nembrace it."
+  },
+  {
+    "user": {
+      "screenName": "adamweisner",
+      "name": "Adam Weisner",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1941954481434066944/M3Edegyd_normal.jpg",
+      "description": "CEO | Creator of UnbreakableOS | Author of The King’s Business™️. I’m a business operator and entrepreneur teaching Asymmetric Endurance.",
+      "followersCount": 14,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/adamweisner/status/1944847080872374385",
+    "fullText": "I’ve scaled businesses from $5M to $25M. From $85M to $1.2B. From $0 to $300K. I climbed the corporate ladder from $5.75/hr to $500K/yr. \n\nDrop a q and I’ll answer based on my experience to help…."
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126710,
-      "friendsCount": 1336,
+      "followersCount": 126717,
+      "friendsCount": 1337,
       "location": "Chicago, IL"
     },
     "images": [
@@ -89,7 +149,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6601,
+      "followersCount": 6599,
       "friendsCount": 1470,
       "location": ""
     },
@@ -106,7 +166,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32685,
+      "followersCount": 32686,
       "friendsCount": 621,
       "location": "Hong Kong"
     },
@@ -116,6 +176,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1944755607271096357",
     "fullText": "一个好消息！ https://t.co/dAqrqoYAMC"
+  },
+  {
+    "user": {
+      "screenName": "MFH_Holding",
+      "name": "Mercurity Fintech Holding Inc (NASDAQ:MFH)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937155843721502720/4a-5jwGc_normal.jpg",
+      "description": "Bridging traditional finance with digital innovation through digital asset services, financial advisory, and capital markets solutions.",
+      "followersCount": 74,
+      "friendsCount": 113,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MFH_Holding/status/1944753310159831543",
+    "fullText": "Mercurity Fintech Launches $500 Million “DeFi Basket” Treasury with Emphasis on Solana Ecosystem Integration\n\nMercurity Fintech ($MFH)  today announced the launch of its $500 million “DeFi Basket” Treasury marking a significant expansion of the company’s on-chain strategy and"
   },
   {
     "user": {
@@ -157,7 +232,7 @@
       "name": "Topstep",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1410674225577332738/V9fNEU-H_normal.jpg",
       "description": "1 Step. 1 Rule.™ The #1 Prop Firm.💰Earn funding in 2 days! 💸 Trusted Payouts 🚀Free Coaching ⭐️⭐️⭐️⭐️⭐️Live Support https://t.co/HRRl3ojJii",
-      "followersCount": 61533,
+      "followersCount": 61536,
       "friendsCount": 23,
       "location": "Chicago, IL"
     },
@@ -172,8 +247,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11427,
-      "friendsCount": 3676,
+      "followersCount": 11429,
+      "friendsCount": 3677,
       "location": ""
     },
     "images": [],
@@ -189,7 +264,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150947,
+      "followersCount": 150954,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -224,8 +299,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11427,
-      "friendsCount": 3676,
+      "followersCount": 11429,
+      "friendsCount": 3677,
       "location": ""
     },
     "images": [],
@@ -241,7 +316,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18611,
+      "followersCount": 18612,
       "friendsCount": 2014,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -273,7 +348,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55869,
+      "followersCount": 55870,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -324,7 +399,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150947,
+      "followersCount": 150954,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -342,8 +417,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11427,
-      "friendsCount": 3676,
+      "followersCount": 11429,
+      "friendsCount": 3677,
       "location": ""
     },
     "images": [
@@ -404,8 +479,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11427,
-      "friendsCount": 3676,
+      "followersCount": 11429,
+      "friendsCount": 3677,
       "location": ""
     },
     "images": [],
@@ -453,8 +528,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126710,
-      "friendsCount": 1336,
+      "followersCount": 126717,
+      "friendsCount": 1337,
       "location": "Chicago, IL"
     },
     "images": [
@@ -480,5 +555,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1944528240573637081",
     "fullText": "人发展的规律，短期拼机遇，中期拼能力，长期拼人品。\n\n企业发展的规律，短期拼生死，中期拼模式，长期拼产品。\n\n最终拼的是人品和产品。 https://t.co/JQMPfmMZnK"
+  },
+  {
+    "user": {
+      "screenName": "NCAVF",
+      "name": "NCAVF",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1813979328084160512/j3FKSRVU_normal.jpg",
+      "description": "NCAVF is a nationally recognized forensic audio, video, and digital evidence company. Founder David Notowitz appeared on Fox, LA Times, Daily Mail, and ABA.",
+      "followersCount": 706,
+      "friendsCount": 1744,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1822823861995421696/pu/vid/avc1/1280x720/l3Ipo7oOBoFVwmP2.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/NCAVF/status/1944421323075178640",
+    "fullText": "No one else has done this.     It's been a year since the attempted assassination. I still haven't seen anyone who synchronized most of the publicly available eye witness videos.  \n\nhttps://t.co/m52R1lDH2t"
   }
 ]
