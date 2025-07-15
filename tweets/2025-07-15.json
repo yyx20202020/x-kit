@@ -1,6 +1,41 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 6598,
+      "friendsCount": 1470,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1945132012248945034",
+    "fullText": "时代刚送走了廉价农民工，却迎来了廉价大学生。5000 元的农民工不一定找得到，但是 5000 元的大学生可以随便找。更扎心的是，这群廉价的大学生，正是当年那批廉价农民工用低廉的收入，辛辛苦苦培养出来的大学生子女！"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32720,
+      "friendsCount": 621,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv591NtWYAAfIWz.jpg",
+      "https://pbs.twimg.com/media/Gv595ewXgAAC93Y.jpg",
+      "https://pbs.twimg.com/media/Gv599M0a0AAcDst.jpg",
+      "https://pbs.twimg.com/media/Gv5-EXIW8AAsCuI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1945131451629928498",
+    "fullText": "吴恩达博士：去哪里找用户前期测试？直接去咖啡店问就是！独立开者们学到了吗😉？ https://t.co/YUEtU3AW5B"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -20,7 +55,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21339,
+      "followersCount": 21343,
       "friendsCount": 1036,
       "location": ""
     },
@@ -82,7 +117,7 @@
       "name": "Bubblemaps",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1542463278412169216/dj1tOY36_normal.png",
       "description": "The visual layer of InfoFi — powered by $BMT",
-      "followersCount": 266493,
+      "followersCount": 266479,
       "friendsCount": 302,
       "location": ""
     },
@@ -182,7 +217,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21339,
+      "followersCount": 21343,
       "friendsCount": 1036,
       "location": ""
     },
@@ -294,7 +329,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 150964,
+      "followersCount": 150968,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -341,7 +376,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74165,
+      "followersCount": 74168,
       "friendsCount": 3420,
       "location": ""
     },
@@ -570,7 +605,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74165,
+      "followersCount": 74168,
       "friendsCount": 3420,
       "location": ""
     },
@@ -687,7 +722,7 @@
       "name": "Willy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1892232781062602753/usSPgFFu_normal.jpg",
       "description": "Software engineer - I like to build stuff.",
-      "followersCount": 29,
+      "followersCount": 30,
       "friendsCount": 87,
       "location": "Austin TX"
     },
@@ -732,7 +767,7 @@
       "name": "Nik",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1515035491598585857/kgSecn-h_normal.jpg",
       "description": "Fintech enthusiast @twifintech\n\nFounder @thestablecon\n\nGeneral Partner @thefintechfund\n\nThe dogs bark but the caravan moves on",
-      "followersCount": 29388,
+      "followersCount": 29391,
       "friendsCount": 382,
       "location": "200k+ fintech people read ➡️"
     },
@@ -961,7 +996,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126832,
+      "followersCount": 126842,
       "friendsCount": 1337,
       "location": "Chicago, IL"
     },
@@ -1029,7 +1064,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1768661154895708160/TTHGdSx3_normal.jpg",
       "description": "state school technophile building companies at Overmatch Ventures || previously @nasa @politics.",
       "followersCount": 311,
-      "friendsCount": 903,
+      "friendsCount": 904,
       "location": "TX"
     },
     "images": [
@@ -1145,7 +1180,7 @@
       "name": "Mercurity Fintech Holding Inc (NASDAQ:MFH)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937155843721502720/4a-5jwGc_normal.jpg",
       "description": "Bridging traditional finance with digital innovation through digital asset services, financial advisory, and capital markets solutions.",
-      "followersCount": 83,
+      "followersCount": 84,
       "friendsCount": 113,
       "location": "New York"
     },
@@ -1194,7 +1229,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74165,
+      "followersCount": 74168,
       "friendsCount": 3420,
       "location": ""
     },
