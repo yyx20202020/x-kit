@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "get_glizzy",
+      "name": "Glizzy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1724242409389977600/0_AIOOu7_normal.jpg",
+      "description": "Indie games hit different when your main launcher isn’t watching… Co-Founded by @Lockie_Glizzy | @Jack_Glizzy",
+      "followersCount": 1435,
+      "friendsCount": 836,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/get_glizzy/status/1944976385837011345",
+    "fullText": "Welcome to the Indie Gaming Lounge! Indie devs and gamers, this is your space to share, discover, and connect. Let us know what you're building!\n\nhttps://t.co/lhnze41OA7"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
@@ -37,7 +52,7 @@
       "name": "Nextify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1924314148650811392/wIRdLxXp_normal.jpg",
       "description": "别用 Vercel 了，试试 https://t.co/jsJYiixPYx\n别用 V0 了， 试试？",
-      "followersCount": 22616,
+      "followersCount": 22620,
       "friendsCount": 337,
       "location": "HK"
     },
@@ -71,7 +86,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32692,
+      "followersCount": 32693,
       "friendsCount": 621,
       "location": "Hong Kong"
     },
@@ -283,8 +298,8 @@
       "name": "Don Winslow",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1647525880430993409/60HaCvHF_normal.jpg",
       "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\n#WinslowDigitalArmy  \n\nFind great books by following: @WinslowBookClub",
-      "followersCount": 900064,
-      "friendsCount": 36777,
+      "followersCount": 900043,
+      "friendsCount": 36776,
       "location": "Tweets are just my opinion"
     },
     "images": [],
@@ -345,6 +360,23 @@
   },
   {
     "user": {
+      "screenName": "smallest_AI",
+      "name": "smallest.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1877299933558259712/Ick25baK_normal.jpg",
+      "description": "building real-time AI for every human",
+      "followersCount": 4646,
+      "friendsCount": 41,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1944812804932034561/vid/avc1/1280x720/X-69KmX_vx-vbJJ9.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/smallest_AI/status/1944813821878788197",
+    "fullText": "How do you know your AI Voice Agents are performing as expected?\n\n@faraz_ml  built angry digital humans to find out.  \n\nFrom YC scrappiness to 350k+ projected ARR in 6 months — his story is wild!  Tune into this conversation with @kamath_sutra \n\n🔗Link to full podcast in thread https://t.co/cAkE6AvHNz"
+  },
+  {
+    "user": {
       "screenName": "MediaBoost5",
       "name": "MediaBoost",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1456005151500627972/bjsbCwia_normal.jpg",
@@ -364,7 +396,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 126742,
+      "followersCount": 126748,
       "friendsCount": 1337,
       "location": "Chicago, IL"
     },
@@ -465,7 +497,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32692,
+      "followersCount": 32693,
       "friendsCount": 621,
       "location": "Hong Kong"
     },
@@ -497,7 +529,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16520,
+      "followersCount": 16521,
       "friendsCount": 1195,
       "location": "San Antonio, TX"
     },
@@ -507,6 +539,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/USFunds/status/1944744048117297490",
     "fullText": "Gold momentum has gone neutral -- stuck between $3,300 support and $3,400 resistance.\n\nAfter early gains, it stalled as the S&amp;P 500 surged. Now it’s coiling in classic consolidation.\n\nIf slowdown fears or rate cuts return, a breakout could follow.\n\nOpportunity brewing? https://t.co/7EV530r0Sn"
+  },
+  {
+    "user": {
+      "screenName": "ecomtryggvi",
+      "name": "Tryggvi | Ecommerce SEO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1766394791250587648/V6t6JjOa_normal.jpg",
+      "description": "$55M+ In Organic Sales Using SEO Frameworks for Ecommerce",
+      "followersCount": 3817,
+      "friendsCount": 283,
+      "location": "Iceland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv0XgGYX0AEfyI8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ecomtryggvi/status/1944741711529353563",
+    "fullText": "Ecommerce SEO does not always have to be complicated. \n\n- Create more collections\n- Fix site structure issues\n- Improve your menu\n- Create commercial blog content to support products\n- Build backlinks\n\nWe worked with this Irish brand for just a few weeks at the start of the year. https://t.co/r5pQA40lwR"
   },
   {
     "user": {
@@ -995,7 +1044,7 @@
       "name": "Madelyn Thompson I 2027 | Student/Athlete",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934839781856329728/-kQDcWC__normal.jpg",
       "description": "SS, C, UT || Unity Blackwell 16u || Stafford High '27 || \n🥎🏑🏀 || 4.4 GPA ||\n2x All-District/Area ||\nMadelynRThompson2027@gmail.com ||\nUDX Ambassador",
-      "followersCount": 438,
+      "followersCount": 439,
       "friendsCount": 1209,
       "location": "Fredericksburg, VA"
     },
