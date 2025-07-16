@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4220881,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945607079265509376/vid/avc1/1280x720/R6vEpmiLwaQ2MbAJ.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/1945607177034760574",
+    "fullText": "https://t.co/Q4hAihIPrL"
+  },
+  {
+    "user": {
       "screenName": "Box",
       "name": "Box",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1895242965435486208/Wfw2p9DY_normal.png",
@@ -15,6 +32,23 @@
     ],
     "tweetUrl": "https://x.com/Box/status/1945575778340749673",
     "fullText": "Box CEO @levie and @a16z Partner @martin_casado share how AI will change the future of work https://t.co/k62DxQ0JeU"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16537,
+      "friendsCount": 1197,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwAABxMWUAAi3J6.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1945555113172451349",
+    "fullText": "Ryanair is flying high! Shares have surged 50% over the past year, climbing from under €14 to over €24. As air travel demand soars across Europe, this low-cost giant continues to deliver high-altitude returns. https://t.co/IlXejXhdDt"
   },
   {
     "user": {
@@ -138,7 +172,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32830,
+      "followersCount": 32832,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -236,7 +270,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6665,
+      "followersCount": 6667,
       "friendsCount": 1473,
       "location": ""
     },
@@ -318,7 +352,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29632733,
+      "followersCount": 29632749,
       "friendsCount": 229,
       "location": ""
     },
@@ -465,7 +499,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74186,
+      "followersCount": 74187,
       "friendsCount": 3420,
       "location": ""
     },
@@ -482,7 +516,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32830,
+      "followersCount": 32832,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -499,7 +533,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32830,
+      "followersCount": 32832,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -583,7 +617,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151054,
+      "followersCount": 151056,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -601,8 +635,8 @@
       "name": "Brandon Starr",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1944896792421888000/HimUV1zE_normal.jpg",
       "description": "fitness degen 🦹 #lockin",
-      "followersCount": 836,
-      "friendsCount": 75,
+      "followersCount": 859,
+      "friendsCount": 77,
       "location": ""
     },
     "images": [
@@ -722,7 +756,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151054,
+      "followersCount": 151056,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -823,7 +857,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30554,
+      "followersCount": 30551,
       "friendsCount": 132,
       "location": "China"
     },
@@ -1138,7 +1172,7 @@
       "name": "Kadena",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1820556208455172096/PQHyA3TU_normal.jpg",
       "description": "$KDA is the only L1 #PoW that scales. Founded by @SirLensALot & @_wjmartino_, started @JPMorgan’s 1st blockchain and @secgov CryptoGroup https://t.co/fH4voQhPmG",
-      "followersCount": 338391,
+      "followersCount": 338349,
       "friendsCount": 254,
       "location": "United States"
     },
