@@ -1,6 +1,85 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30555,
+      "friendsCount": 133,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwB5dHpXsAAXYDK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1945688594729124257",
+    "fullText": "从中国两大沙漠中间穿越过去，高速路超级好开，这边的科学家很务实很聪明，防风固沙很有效。 https://t.co/5Tndod05kV"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 23430,
+      "friendsCount": 295,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1945686134488785010",
+    "fullText": "微信小程序简直是当代用户体验最糟糕的典范：\n\n昨天我打开肯德基小程序，想选一下餐厅，手指刚点下去，上方载入一个优惠，把餐厅切换的按钮顶下去了，我手指不出意外的点到了优惠广告上；我刚想点退出优惠，突然屏幕一暗出现了一个巨大的抽奖罗盘，我又点罗盘上面去了；"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6973,
+      "friendsCount": 728,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1945686003840319678",
+    "fullText": "我费了好大劲习惯时态，结果这一代美国作家写作通通用一般现在时。"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 4893,
+      "friendsCount": 501,
+      "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/1945685900094296477",
+    "fullText": "SwiftUI 这个性能问题呀，气得我直想开始学 Appkit。\n\n但是我的性格又是，出现问题时首先找自己的问题。\n\n是不是自己的用法不对呀？是不是有我没开发到的 api 才导致不达预期呀？"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 11464,
+      "friendsCount": 3686,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945440874290147328/vid/avc1/1280x720/-GUsvFVgw3kYxO1Q.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/1945682263817236957",
+    "fullText": "对，我之前想说的就是，做一个 能 Mock 出 这种效果 的 发布会模拟器！\n思路 参考 @liseami1  的 口袋粉丝\nhttps://t.co/dUG3XlY2Ir"
+  },
+  {
+    "user": {
       "screenName": "CryptoVonDoom",
       "name": "VonDoom ☕️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1783884127831535616/CFogUoHh_normal.jpg",
@@ -22,7 +101,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18599,
+      "followersCount": 18595,
       "friendsCount": 2022,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -69,7 +148,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23429,
+      "followersCount": 23430,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -84,7 +163,7 @@
       "name": "Steve Cortes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1724056934955765760/DDHvzSst_normal.jpg",
       "description": "Born for a Storm. Bad Hombre. Founder: League of American Workers, Senior Advisor: Catholic Vote. Former: Trump 2016 & 2020, Vance 2022, Fox & CNN.",
-      "followersCount": 507591,
+      "followersCount": 507567,
       "friendsCount": 790,
       "location": "Tennessee"
     },
@@ -101,7 +180,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8984,
+      "followersCount": 8983,
       "friendsCount": 551,
       "location": ""
     },
@@ -117,7 +196,7 @@
     "user": {
       "screenName": "PlayedNBetrayed",
       "name": "@PlayedNBetrayed",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945575150734245888/4yeA35Lg_normal.jpg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945675961577377792/ggxv9ZA9_normal.jpg",
       "description": "Just a humble, regular, everyday, mostly standard grade, common garden variety, basic issued American man. Do you know the work of art in my profile? Tell me...",
       "followersCount": 235,
       "friendsCount": 33,
@@ -136,7 +215,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4221281,
+      "followersCount": 4221362,
       "friendsCount": 3,
       "location": ""
     },
@@ -198,11 +277,28 @@
   },
   {
     "user": {
+      "screenName": "Applied4Tech",
+      "name": "Applied Materials",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1942780875219034114/h25800kJ_normal.png",
+      "description": "We deliver material innovation that changes the world.",
+      "followersCount": 14969,
+      "friendsCount": 1541,
+      "location": "Santa Clara, California"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945538952443858944/vid/avc1/720x720/t0Zc7aXMmhOHMjtG.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/Applied4Tech/status/1945540182729523428",
+    "fullText": "Our innovation in materials science is more than a goal, it’s our passion. It’s our commitment to our employees because the work we do together advances the world’s technology. https://t.co/e9mxhM0809"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32849,
+      "followersCount": 32851,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -236,8 +332,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11463,
-      "friendsCount": 3685,
+      "followersCount": 11464,
+      "friendsCount": 3686,
       "location": ""
     },
     "images": [],
@@ -251,8 +347,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30560,
-      "friendsCount": 132,
+      "followersCount": 30555,
+      "friendsCount": 133,
       "location": "China"
     },
     "images": [],
@@ -268,7 +364,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6680,
+      "followersCount": 6681,
       "friendsCount": 1473,
       "location": ""
     },
@@ -283,8 +379,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30560,
-      "friendsCount": 132,
+      "followersCount": 30555,
+      "friendsCount": 133,
       "location": "China"
     },
     "images": [
@@ -303,7 +399,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29632874,
+      "followersCount": 29632689,
       "friendsCount": 229,
       "location": ""
     },
@@ -337,8 +433,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11463,
-      "friendsCount": 3685,
+      "followersCount": 11464,
+      "friendsCount": 3686,
       "location": ""
     },
     "images": [],
@@ -352,7 +448,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74197,
+      "followersCount": 74194,
       "friendsCount": 3421,
       "location": ""
     },
@@ -369,7 +465,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32849,
+      "followersCount": 32851,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -386,7 +482,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32849,
+      "followersCount": 32851,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -403,7 +499,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18599,
+      "followersCount": 18595,
       "friendsCount": 2022,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -418,7 +514,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6072,
+      "followersCount": 6071,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -452,7 +548,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55919,
+      "followersCount": 55917,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -470,7 +566,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151082,
+      "followersCount": 151080,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -481,6 +577,25 @@
     "videos": [],
     "tweetUrl": "https://x.com/waylybaye/status/1945388709928689683",
     "fullText": "雅加达的车几乎都是 MPV 车型，偶尔能见到国产五菱，BYD 也是网约车，不过是专车。 https://t.co/QvkGecNOeN"
+  },
+  {
+    "user": {
+      "screenName": "brandonsstar",
+      "name": "Brandon Starr",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1944896792421888000/HimUV1zE_normal.jpg",
+      "description": "fitness degen 🦹 #lockin",
+      "followersCount": 857,
+      "friendsCount": 77,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv9iA3xXAAECKCC.jpg",
+      "https://pbs.twimg.com/media/Gv9iA29bcAAgBMU.jpg",
+      "https://pbs.twimg.com/media/Gv9iA3Da4AMj8kd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/brandonsstar/status/1945381342348501030",
+    "fullText": "WAKE UP \nCOFFEE + ZYN \nMAKE A SHIT TONE OF MONEY \nHIT THE GYM \nCHILLMAXX\n\nSimple life if you ask me https://t.co/eMLPi8YTUX"
   },
   {
     "user": {
@@ -635,6 +750,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/1945335008043954522",
     "fullText": "虚假的独立开发：打造个人 IP、公开构建、先卖再做、付费优先、重视营销…\n\n真实的独立开发：卖课"
+  },
+  {
+    "user": {
+      "screenName": "jon_l47715",
+      "name": "J Luke Inc.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945334883292708865/Pmgw4nZ__normal.jpg",
+      "description": "California born and raised and more embarrassed than ever to admit it.  At least President Trump is back.",
+      "followersCount": 616,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv80zeoa4AIJ4wm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jon_l47715/status/1945332417662996627",
+    "fullText": "The Hate coming from Both Sides is Out of Control.  I’m just trying to get through the day like everyone else. https://t.co/Rfg6wBiaJW"
   },
   {
     "user": {
