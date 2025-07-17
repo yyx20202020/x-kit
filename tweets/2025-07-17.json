@@ -1,11 +1,75 @@
 [
   {
     "user": {
+      "screenName": "TurnbuckleWorld",
+      "name": "Turnbuckle.World",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896043065237782528/DhT-HC_b_normal.jpg",
+      "description": "Your go-to spot for wrestling cards, collectibles, and exclusive memorabilia! 🏆 Plus, top-tier wrestling promotions and media coverage! 💥 #Wrestling",
+      "followersCount": 222,
+      "friendsCount": 999,
+      "location": "Kentucky, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945825820922060800/vid/avc1/1282x720/tYnfn00N0btqVEkB.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/TurnbuckleWorld/status/1945825894607589479",
+    "fullText": "I hear Brian and Dillan are having a MASSIVE sale today! Get to the shop and take advantage of these deals! We have new inventory arriving today and so much stuff already! We are open 10-7 today! We look forward to seeing you! Also, later this week we will have special signing https://t.co/fNAmAwvVkQ"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 6692,
+      "friendsCount": 1473,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwD0v9EXYAAOxmN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1945824146899792170",
+    "fullText": "写给 20 多岁的程序员朋友们，别一天跟着各路提示词神仙跳大神了，一会三天上线一个 App，两天搞个套壳 Agent 的，看见就想抽人！听我的，把这两本书买回来好好入门机器学习各种算法和工程实践，做垂类模型才是 AI 赋能千行百业首选而非通用大模型。如果我还年轻，我就信老熊说的💪(≧ω≦) https://t.co/gl7Yf0nDns"
+  },
+  {
+    "user": {
+      "screenName": "JehoshaphatRsch",
+      "name": "Jehoshaphat Research",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1409671547896438784/Ad2j0qYT_normal.jpg",
+      "description": "I'm really glad you corrected me, Lisa. People are always really glad when they're corrected. - Homer Simpson\n\nSee track record and terms of use on our website",
+      "followersCount": 6575,
+      "friendsCount": 590,
+      "location": "Florida, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JehoshaphatRsch/status/1945821736009687209",
+    "fullText": "In the 4 years since we started publishing, our average short idea has underperformed the S&amp;P by about -40% in total.\n\nThis morning, we'll publish our 20th short idea on our website. Stay tuned (or subscribe to our mailing list if you'd rather not stay tuned)."
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 151082,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1945816514717970618",
+    "fullText": "欧洲最适合数字游民旅居的国家是哪个？"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30566,
+      "followersCount": 30567,
       "friendsCount": 133,
       "location": "China"
     },
@@ -101,7 +165,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30566,
+      "followersCount": 30567,
       "friendsCount": 133,
       "location": "China"
     },
@@ -118,7 +182,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32871,
+      "followersCount": 32868,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -165,7 +229,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30566,
+      "followersCount": 30567,
       "friendsCount": 133,
       "location": "China"
     },
@@ -308,7 +372,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6076,
+      "followersCount": 6077,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -451,7 +515,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30566,
+      "followersCount": 30567,
       "friendsCount": 133,
       "location": "China"
     },
@@ -579,7 +643,7 @@
       "name": "GUNZ Official",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1641810398016937985/Ea90ZMxI_normal.jpg",
       "description": "The Layer-1 blockchain ecosystem powering community-driven economies in AAA games. Integrated into @PlayOffTheGrid. Developed by @GunzillaGames.",
-      "followersCount": 141145,
+      "followersCount": 140503,
       "friendsCount": 11,
       "location": ""
     },
@@ -622,6 +686,21 @@
   },
   {
     "user": {
+      "screenName": "CEC_Onc",
+      "name": "CEC Oncology",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1455900070000222214/OFrJBa9-_normal.jpg",
+      "description": "Live & enduring accredited hem/onc activities for physicians (ACCME), nurses (ANCC), and pharmacists (ACPE): https://t.co/9vVpfCGQ56…",
+      "followersCount": 358,
+      "friendsCount": 325,
+      "location": "Radnor, PA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CEC_Onc/status/1945638346916860031",
+    "fullText": "WATCH NOW: MEK Inhibitors in NF1-PN: Advances &amp; Applications. Resources+credit:  https://t.co/YcZRlUB7Gj https://t.co/j5fUUdUVI4"
+  },
+  {
+    "user": {
       "screenName": "TheDropProps",
       "name": "The Drop Props | Daily DFS Models",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1941631796333948929/ExmB5_ry_normal.jpg",
@@ -660,7 +739,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8986,
+      "followersCount": 8982,
       "friendsCount": 551,
       "location": ""
     },
@@ -729,7 +808,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4222440,
+      "followersCount": 4222553,
       "friendsCount": 3,
       "location": ""
     },
@@ -825,7 +904,7 @@
       "name": "The Manifest Network ➡️ deploying",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907953556180586496/e8FTUTNA_normal.jpg",
       "description": "Decentralizing is hard.\nWe’re here to simplify it.\n\nWe empower taking control of your cloud data and building Sovereign Protocols. https://t.co/6DP0GT00l5",
-      "followersCount": 11659,
+      "followersCount": 11589,
       "friendsCount": 308,
       "location": "Data Center"
     },
@@ -951,6 +1030,21 @@
   },
   {
     "user": {
+      "screenName": "jayhaizlip",
+      "name": "Jay Haizlip",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1846041384614080512/FTLdp_UQ_normal.jpg",
+      "description": "Pastor | Evangelist | Disciple Maker https://t.co/4JuJRgrZEu",
+      "followersCount": 20394,
+      "friendsCount": 8,
+      "location": "Costa Mesa - Newport Beach CA."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jayhaizlip/status/1945528257996075099",
+    "fullText": "🔥 X-Thread: The Narrow Path Isn’t Optional\nJesus didn’t call us to blend in.\nHe called us to walk a road that few are willing to take.\n👇"
+  },
+  {
+    "user": {
       "screenName": "InvestigativeV",
       "name": "Stephen Janis, Reporter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1092153618743152640/hebwt64L_normal.jpg",
@@ -1021,7 +1115,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32871,
+      "followersCount": 32868,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -1197,6 +1291,23 @@
     ],
     "tweetUrl": "https://x.com/khloekardashian/status/1945468464572912047",
     "fullText": "This week I’m getting into the headlines and clearing up the rumors with some help from @robkardashian. Watch now on @X https://t.co/5JbnN70nPE"
+  },
+  {
+    "user": {
+      "screenName": "AxoCopper",
+      "name": "AXO Copper",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1928178084324216832/vXlGfoIQ_normal.jpg",
+      "description": "Axo Copper is a Canadian mineral exploration company engaged in the exploration and development of the La Huerta Project, a new copper discovery in Mexico.",
+      "followersCount": 55,
+      "friendsCount": 98,
+      "location": "Jalisco Mexico"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv-xBHvXMAA3FlD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AxoCopper/status/1945468208322068567",
+    "fullText": "$AXO Copper \n\nAXO Copper presents a compelling investment opportunity in the high-grade copper space.\n\nAXO's drilling program has confirmed the high-grade nature of the deposit with impressive intercepts including 9.4m grading 4.4% copper, with a subsection of 3.2m grading 21.4% https://t.co/mH71qDnLx6"
   },
   {
     "user": {
@@ -1980,6 +2091,23 @@
   },
   {
     "user": {
+      "screenName": "IDIisrael",
+      "name": "Israel Democracy Institute",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1750547612837588992/2eF6KINW_normal.jpg",
+      "description": "IDI is an independent, non-partisan think-and-do tank dedicated to strengthening the foundations of Israeli democracy.\ninfo@idi.org.il",
+      "followersCount": 7022,
+      "friendsCount": 1076,
+      "location": "Jerusalem, Israel"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945119662305415168/vid/avc1/720x720/sBgPwmAIcqEhe4LA.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/IDIisrael/status/1945120072600625221",
+    "fullText": "A controversial hearing was held this week by a newly formed ministerial committee to fire the Attorney General. Since the year 2000, the government has been required to consult with an independent, public-professional committee before dismissing an attorney general—that is, https://t.co/2ZrepIGsLS"
+  },
+  {
+    "user": {
       "screenName": "10minutedrill",
       "name": "10 Minute Drill",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940153043665780736/aag8ExNN_normal.jpg",
@@ -1994,6 +2122,23 @@
     ],
     "tweetUrl": "https://x.com/10minutedrill/status/1945113622432133331",
     "fullText": "💣 Biden's latest autopen bombshell\n\nOn Joe Biden's way out of office, the Biden White House announced unprecedented preemptive pardons for friends, families, and political allies.\n\nAnd according to the NYT, Biden didn't even approve them and staff signed them with the autopen. https://t.co/2fm5ta5mev"
+  },
+  {
+    "user": {
+      "screenName": "LikeEich",
+      "name": "Kyle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1372428726449881089/WbOzH19C_normal.jpg",
+      "description": "Christ is King. Developer of Console Launcher and https://t.co/rZzlU2YVYq",
+      "followersCount": 2767,
+      "friendsCount": 143,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv5gOLQWgAA9ke6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LikeEich/status/1945106619097907589",
+    "fullText": "I’m thrilled to introduce Wallpaper Reactor - the first cross-platform Live Wallpaper application for all of your devices!\n\nWallpaper Reactor supports:\n🎥 Videos\n🌀 Rive Animations\n🌐 Any Website\n📺 YouTube Clips\n✨ Custom Shaders\n🤖 Godot Games\n\n👇 Link Below 👇 https://t.co/Ncz98cVE5F"
   },
   {
     "user": {
