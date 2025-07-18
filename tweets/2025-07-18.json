@@ -1,11 +1,44 @@
 [
   {
     "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
+      "followersCount": 795,
+      "friendsCount": 487,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwGvIFBX0AASt69.jpg",
+      "https://pbs.twimg.com/media/GwGvJSSWwAA66PL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1946029418327265749",
+    "fullText": "左边是即梦3.0画的，右边是GPT4O画的，感觉还是即梦更有想象力些呢？\n提示词：皮克斯3D，南极企鹅 https://t.co/jznsUfXRIZ"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 74220,
+      "friendsCount": 3421,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1946027027422716372",
+    "fullText": "全是语法错误格式不太清晰的 PR message 或者 README.\n要比 LLM 写出来巨长的一段，格式清晰考虑全面表情丰富的强 200 倍。后者一读我就皱眉头。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30562,
+      "followersCount": 30565,
       "friendsCount": 134,
       "location": "China"
     },
@@ -22,7 +55,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188920,
+      "followersCount": 188930,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -41,7 +74,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188920,
+      "followersCount": 188930,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -86,6 +119,55 @@
     "videos": [],
     "tweetUrl": "https://x.com/middlefeng/status/1945998015950733723",
     "fullText": "今天遇到一个问题，要把 (y, x, 1) 做转换，怎么用现成的 OpenGL math 库来做。注意现成的 math 库都是针对 (x, y, 1)。一时脑子卡壳。结果问 ChatGPT 直接得到答案了。 https://t.co/qQzekKQlCi"
+  },
+  {
+    "user": {
+      "screenName": "ishookco",
+      "name": "iShook",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1933498011901906944/2l4rGAix_normal.jpg",
+      "description": "https://t.co/w2D7Wg0CJe, https://t.co/AimKi76PPc, https://t.co/grZ4gfl8Ee, https://t.co/fnbM6f8EuY, https://t.co/vDx8Vazosy,",
+      "followersCount": 7323,
+      "friendsCount": 953,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ishookco/status/1945983739433189745",
+    "fullText": "iShook TV - iShook Comics https://t.co/NYETgeGuE0"
+  },
+  {
+    "user": {
+      "screenName": "DayofTobias",
+      "name": "Paul Anthony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1526336569010884608/99FK3rhg_normal.jpg",
+      "description": "Paul Anthony is a seeker of truth, physician, philosopher, and creature of reason. His sci-fi books include, \"Day of Forgiveness\" and \"An Abundance of Caution\".",
+      "followersCount": 9004,
+      "friendsCount": 7981,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945969373761478656/vid/avc1/1280x720/45aNTGcUrx3ze5wF.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/DayofTobias/status/1945971840498696223",
+    "fullText": "What if alien contact wasn’t a threat—but a mirror?   Tobias Sinclair’s journey begins with a fracture in space… and a chance to heal what’s broken within.   📖https://t.co/O24gIdInzK 📷https://t.co/PQE9uaedB1 https://t.co/1fYwJXpo43"
+  },
+  {
+    "user": {
+      "screenName": "theaymanarab",
+      "name": "Ayman Arab",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755776816797585408/x2-IqiKX_normal.jpg",
+      "description": "I make YouTube videos/reels for ppl u probably watch | Documenting my journey since day 1 | Newsletter ➡️ https://t.co/lgx33usWJ2",
+      "followersCount": 10598,
+      "friendsCount": 877,
+      "location": "Work with my agency 👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwF4QrcWoAAz1To.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/theaymanarab/status/1945968806574367129",
+    "fullText": "https://t.co/Rlc7TLNQde"
   },
   {
     "user": {
@@ -142,7 +224,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226404,
+      "followersCount": 4226531,
       "friendsCount": 3,
       "location": ""
     },
@@ -172,6 +254,21 @@
   },
   {
     "user": {
+      "screenName": "PristineAuction",
+      "name": "Pristine Auction",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864449161740812288/6RJPHmvP_normal.jpg",
+      "description": "🏆 Authentic wins, priced for fans. 🏆",
+      "followersCount": 35419,
+      "friendsCount": 1457,
+      "location": "Arizona"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PristineAuction/status/1945924062645276762",
+    "fullText": "Repost our live stream and you’ll be entered to win a mystery card—we’re picking one random winner!\n\nhttps://t.co/rKfynjWCpz"
+  },
+  {
+    "user": {
       "screenName": "KalchikRev",
       "name": "Rev. Paul John Kalchik",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1538866932459393024/hZz1NFPr_normal.jpg",
@@ -191,7 +288,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226404,
+      "followersCount": 4226531,
       "friendsCount": 3,
       "location": ""
     },
@@ -223,7 +320,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226404,
+      "followersCount": 4226531,
       "friendsCount": 3,
       "location": ""
     },
@@ -302,7 +399,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 796,
+      "followersCount": 795,
       "friendsCount": 487,
       "location": ""
     },
@@ -319,7 +416,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226404,
+      "followersCount": 4226531,
       "friendsCount": 3,
       "location": ""
     },
@@ -334,7 +431,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23453,
+      "followersCount": 23459,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -398,7 +495,7 @@
       "name": "HIVE Digital Technologies",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/904749907512254464/f6dm3X-D_normal.jpg",
       "description": "NASDAQ: $HIVE | Proudly mining $BTC using green and clean energy | #AI & #HPC infrastructure for the digital transformation",
-      "followersCount": 56211,
+      "followersCount": 56209,
       "friendsCount": 525,
       "location": ""
     },
@@ -415,7 +512,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6754,
+      "followersCount": 6761,
       "friendsCount": 1478,
       "location": ""
     },
@@ -432,7 +529,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151102,
+      "followersCount": 151108,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -447,7 +544,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30562,
+      "followersCount": 30565,
       "friendsCount": 134,
       "location": "China"
     },
@@ -464,8 +561,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11474,
-      "friendsCount": 3687,
+      "followersCount": 11479,
+      "friendsCount": 3688,
       "location": ""
     },
     "images": [
@@ -481,8 +578,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11474,
-      "friendsCount": 3687,
+      "followersCount": 11479,
+      "friendsCount": 3688,
       "location": ""
     },
     "images": [
@@ -498,7 +595,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30562,
+      "followersCount": 30565,
       "friendsCount": 134,
       "location": "China"
     },
@@ -547,7 +644,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30562,
+      "followersCount": 30565,
       "friendsCount": 134,
       "location": "China"
     },
@@ -562,7 +659,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
-      "followersCount": 796,
+      "followersCount": 795,
       "friendsCount": 487,
       "location": ""
     },
@@ -669,6 +766,23 @@
   },
   {
     "user": {
+      "screenName": "PhilanthropyRnd",
+      "name": "Philanthropy Roundtable",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1461332140239507467/9uFt5W52_normal.jpg",
+      "description": "We foster excellence in philanthropy, protect philanthropic freedom and help donors advance liberty, opportunity and personal responsibility.",
+      "followersCount": 4130,
+      "friendsCount": 945,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945580721411657728/vid/avc1/1280x720/978oxTq4lGJN5PTX.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/PhilanthropyRnd/status/1945593554178376143",
+    "fullText": "When the Sifre kids were ostracized for their faith in public school, Arma Dei Academy offered hope—but the cost of tuition stood between them and a better education for their children.\n\nThanks to philanthropic freedom, the partnership of ACE Scholarships and the Daniels Fund https://t.co/dRHcyTFY1R"
+  },
+  {
+    "user": {
       "screenName": "USFunds",
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
@@ -707,7 +821,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29632448,
+      "followersCount": 29632461,
       "friendsCount": 229,
       "location": ""
     },
@@ -764,6 +878,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/FlipChicagoRed/status/1945394925303980432",
     "fullText": "Come out this Saturday and hang with us! https://t.co/FkignxXptD"
+  },
+  {
+    "user": {
+      "screenName": "Lowes",
+      "name": "Lowe's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1427348517165703170/jCmq6N7r_normal.jpg",
+      "description": "Lowe’s knows no matter what you’re doing, it’s easier to get it done when you’ve got the right people, the right products, all at the right price. 🔨",
+      "followersCount": 289568,
+      "friendsCount": 10902,
+      "location": "Corporate HQ, Mooresville, NC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Lowes/status/1945375266379063658",
+    "fullText": "At Lowe’s, we show up, roll up our sleeves, and dig in. And this year, we’re delivering 10 Million Square Feet of Impact."
   },
   {
     "user": {
