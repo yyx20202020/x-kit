@@ -100,6 +100,23 @@
   },
   {
     "user": {
+      "screenName": "jdegoes",
+      "name": "John A De Goes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1771489509798236160/jGsCqm25_normal.jpg",
+      "description": "CEO @ZivergeTech, CEO @GolemCloud, Exec Producer & Creator @TheUltCoder, OSS contributor @zioscala, speaker, writer. Accelerating human dominion. ✝️",
+      "followersCount": 17637,
+      "friendsCount": 1073,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1946225011032805376/vid/avc1/1920x1080/a8uZoEeR6GF362Av.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/jdegoes/status/1946226108518600773",
+    "fullText": "I'm excited to announce my role as host of The Ultimate Coder, a new show for developers, equal parts entertainment &amp; hard-core programming! 🎉\n\nIn our pilot, FIVE of the BEST TypeScript designers face off against Eidolon, an AI agent built by @zivergetech to craft superb APIs. https://t.co/lG6fgUmFDg"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
@@ -132,6 +149,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/Joshuammxm/status/1946214675911254077",
     "fullText": "$ES 1m\n\nShort in the morning from 15m fair value\n\n3 contracts 2.5 RR https://t.co/hDdA273mFC"
+  },
+  {
+    "user": {
+      "screenName": "iamjaredf",
+      "name": "Jared F.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1944028336013160455/DNtKfyaW_normal.jpg",
+      "description": "Father. Husband. Founding CEO @CanvsAI. Obsessed with emotion, cognition, and clarity. Making meaning from the messy stuff.",
+      "followersCount": 1317,
+      "friendsCount": 3242,
+      "location": "Los Angeles"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/iamjaredf/status/1946210349356917055",
+    "fullText": "Twenty-one days after my daughter was born, my house burned down.\n\nIn the chaos that followed, I kept saying I was depressed. But I was not.\n\nI was disgusted—by the helplessness, the loss of control, the systems built to feel indifferent. Once I named the emotion, I could lead"
   },
   {
     "user": {
@@ -205,7 +237,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30559,
+      "followersCount": 30558,
       "friendsCount": 135,
       "location": "China"
     },
@@ -434,7 +466,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32957,
+      "followersCount": 32956,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -451,7 +483,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30559,
+      "followersCount": 30558,
       "friendsCount": 135,
       "location": "China"
     },
@@ -521,7 +553,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11494,
+      "followersCount": 11495,
       "friendsCount": 3696,
       "location": ""
     },
@@ -568,7 +600,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32957,
+      "followersCount": 32956,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -585,7 +617,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127387,
+      "followersCount": 127389,
       "friendsCount": 1337,
       "location": "Chicago, IL"
     },
@@ -602,7 +634,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23514,
+      "followersCount": 23517,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -632,7 +664,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23514,
+      "followersCount": 23517,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -666,7 +698,7 @@
       "name": "TensorStax",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918085190486003712/srHA4PPH_normal.jpg",
       "description": "Autonomous AI for Data Engineering",
-      "followersCount": 344,
+      "followersCount": 345,
       "friendsCount": 22,
       "location": "San Francisco, CA"
     },
@@ -683,7 +715,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11494,
+      "followersCount": 11495,
       "friendsCount": 3696,
       "location": ""
     },
@@ -718,7 +750,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74233,
+      "followersCount": 74234,
       "friendsCount": 3423,
       "location": ""
     },
@@ -1545,7 +1577,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755276861234393088/DixYWdK__normal.jpg",
       "description": "Dad. Investor. Proud American and proud Zionist.",
       "followersCount": 1636,
-      "friendsCount": 5300,
+      "friendsCount": 5299,
       "location": ""
     },
     "images": [],
@@ -1895,6 +1927,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/waylybaye/status/1945816514717970618",
     "fullText": "欧洲最适合数字游民旅居的国家是哪个？"
+  },
+  {
+    "user": {
+      "screenName": "_supplychainnow",
+      "name": "Supply Chain Now",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890489237168140288/KcV5udm7_normal.jpg",
+      "description": "The #1 Voice of Supply Chain",
+      "followersCount": 24214,
+      "friendsCount": 11295,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwDtOngXkAAVVyC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_supplychainnow/status/1945815876986368444",
+    "fullText": "What’s public sector supply chain really like?\n\nVeteran supply chain pro Gary Smith shares 5 questions he wishes more people asked. Great insights from a former NYC Transit exec.\n\n📖 Read: https://t.co/JRfNKVfvL8\n📰 Subscribe to The Bridge: https://t.co/QVxIuTSRSn https://t.co/CGEYINZsuD"
   },
   {
     "user": {
