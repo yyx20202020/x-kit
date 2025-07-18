@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6078,
+      "friendsCount": 378,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1946073305674289523",
+    "fullText": "临时决议今天去日本大阪玩几天，目前已经在路上，求问大阪性价比酒店推荐，经济实惠，2个人。"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 23461,
+      "friendsCount": 295,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwHVNw0X0AA9ZdH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1946071183738482846",
+    "fullText": "360 电脑空闲时拼命读写硬盘导致 SSD 提前报废，最牛的是你一打开资源管理器，它就停了，大家推测有可能是偷偷搞 PCDN，现在 2025 年了还有人安装 360 么？ https://t.co/ZiqHwPQhat"
+  },
+  {
+    "user": {
       "screenName": "tensorstax",
       "name": "TensorStax",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918085190486003712/srHA4PPH_normal.jpg",
@@ -22,8 +54,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11481,
-      "friendsCount": 3688,
+      "followersCount": 11480,
+      "friendsCount": 3689,
       "location": ""
     },
     "images": [
@@ -104,7 +136,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188932,
+      "followersCount": 188933,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -123,7 +155,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188932,
+      "followersCount": 188933,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -352,7 +384,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226944,
+      "followersCount": 4227049,
       "friendsCount": 3,
       "location": ""
     },
@@ -431,7 +463,7 @@
       "name": "LinqAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1658790991757733888/6QVi0RHD_normal.jpg",
       "description": "LinqAI revolutionizes AI & decentralized computing with smart AI employees, a robust SaaS ecosystem, & scalable, cost-effective solutions via LinqProtocol",
-      "followersCount": 33919,
+      "followersCount": 34033,
       "friendsCount": 789,
       "location": ""
     },
@@ -448,7 +480,7 @@
       "name": "Frankie Colson",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1822814684527116288/A19pXsgY_normal.jpg",
       "description": "nomad | biohacker | aggressive AI enthusiast\n\nbringing agents into the economy one industry at a time",
-      "followersCount": 39,
+      "followersCount": 40,
       "friendsCount": 50,
       "location": ""
     },
@@ -463,7 +495,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226944,
+      "followersCount": 4227049,
       "friendsCount": 3,
       "location": ""
     },
@@ -510,7 +542,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226944,
+      "followersCount": 4227049,
       "friendsCount": 3,
       "location": ""
     },
@@ -619,6 +651,21 @@
   },
   {
     "user": {
+      "screenName": "jlowin",
+      "name": "Jeremiah Lowin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1579094414068178947/N2YLfnWx_normal.jpg",
+      "description": "CEO @PrefectIO. Building FastMCP. Mostly harmless.",
+      "followersCount": 11851,
+      "friendsCount": 1198,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jlowin/status/1945853635872932040",
+    "fullText": "Thrilled to share four milestones we hit in July:\n\n🚀 Record‑breaking quarter: we just posted the strongest in company history.\n\n🏁 Profitable: we’ll affirm this milestone in the next few weeks.\n\n🤩 Customer momentum: +70 % net growth in just six months.\n\n📈 Exploding usage:"
+  },
+  {
+    "user": {
       "screenName": "NinjaTrader",
       "name": "NinjaTrader",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631993074011217923/dItVVjfo_normal.jpg",
@@ -689,7 +736,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226944,
+      "followersCount": 4227049,
       "friendsCount": 3,
       "location": ""
     },
@@ -704,7 +751,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23463,
+      "followersCount": 23461,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -734,7 +781,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32920,
+      "followersCount": 32922,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -785,7 +832,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6771,
+      "followersCount": 6774,
       "friendsCount": 1478,
       "location": ""
     },
@@ -810,6 +857,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/waylybaye/status/1945816514717970618",
     "fullText": "欧洲最适合数字游民旅居的国家是哪个？"
+  },
+  {
+    "user": {
+      "screenName": "for_nat_whilk",
+      "name": "Nat Whilk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908493794195959808/uhQ_9V_b_normal.jpg",
+      "description": "intermittent involuntary inmate\n\n“Bad times, hard times—this is what people keep saying; but let us live well, and times shall be good. We are the times.\"",
+      "followersCount": 129,
+      "friendsCount": 58,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/for_nat_whilk/status/1945814401472143787",
+    "fullText": "Who was this written about?\n\n\"[their writings] make man appear more rational, human nature more noble, the ordering of the universe more open to human inspection, and the whole complex of man and nature more fully intelligible\""
   },
   {
     "user": {
@@ -1175,7 +1237,7 @@
       "name": "Lowe's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1427348517165703170/jCmq6N7r_normal.jpg",
       "description": "Lowe’s knows no matter what you’re doing, it’s easier to get it done when you’ve got the right people, the right products, all at the right price. 🔨",
-      "followersCount": 289566,
+      "followersCount": 289580,
       "friendsCount": 10902,
       "location": "Corporate HQ, Mooresville, NC"
     },
