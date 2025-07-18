@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32928,
+      "friendsCount": 622,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwHuZXiXgAEXFCF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1946101818028859610",
+    "fullText": "这周的Vibe Coding课程是大家关心的Creem支付！会完整的讲明白Creem的整个支付流程，包括链接支付、标准集成支付、一次性支付、订阅支付等逻辑。\n\n这期的备课时长比我预想的要长，我没有想到Creem网上的资料这么少，可能得下周一二才能发布了。课程地址：https://t.co/pETLm38HCc https://t.co/OB19JAjUho"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127324,
+      "followersCount": 127327,
       "friendsCount": 1337,
       "location": "Chicago, IL"
     },
@@ -22,7 +39,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23464,
+      "followersCount": 23462,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -52,7 +69,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23464,
+      "followersCount": 23462,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -86,7 +103,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11485,
+      "followersCount": 11484,
       "friendsCount": 3689,
       "location": ""
     },
@@ -168,7 +185,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188941,
+      "followersCount": 188942,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -187,7 +204,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188941,
+      "followersCount": 188942,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -431,7 +448,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4227325,
+      "followersCount": 4227407,
       "friendsCount": 3,
       "location": ""
     },
@@ -510,7 +527,7 @@
       "name": "LinqAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1658790991757733888/6QVi0RHD_normal.jpg",
       "description": "LinqAI revolutionizes AI & decentralized computing with smart AI employees, a robust SaaS ecosystem, & scalable, cost-effective solutions via LinqProtocol",
-      "followersCount": 33941,
+      "followersCount": 33943,
       "friendsCount": 789,
       "location": ""
     },
@@ -542,7 +559,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4227325,
+      "followersCount": 4227407,
       "friendsCount": 3,
       "location": ""
     },
@@ -606,7 +623,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4227325,
+      "followersCount": 4227407,
       "friendsCount": 3,
       "location": ""
     },
@@ -715,11 +732,28 @@
   },
   {
     "user": {
+      "screenName": "secureainow",
+      "name": "The Alliance for Secure AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1917992278020272128/A3022TPT_normal.jpg",
+      "description": "Mitigating AI Risks and Protecting Humanity.",
+      "followersCount": 393,
+      "friendsCount": 232,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwERSBMX0AE7sbC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/secureainow/status/1945857676820238737",
+    "fullText": ".@RepScottPerry  is raising the alarm on AI systems that ignore shutdown commands, rewrite themselves, and pursue their own goals.\n\nThis is great stuff 👏 https://t.co/a9ztmMbtuT"
+  },
+  {
+    "user": {
       "screenName": "jlowin",
       "name": "Jeremiah Lowin",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1579094414068178947/N2YLfnWx_normal.jpg",
       "description": "CEO @PrefectIO. Building FastMCP. Mostly harmless.",
-      "followersCount": 11852,
+      "followersCount": 11853,
       "friendsCount": 1198,
       "location": "Washington, DC"
     },
@@ -800,7 +834,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4227325,
+      "followersCount": 4227407,
       "friendsCount": 3,
       "location": ""
     },
@@ -815,7 +849,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23464,
+      "followersCount": 23462,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -930,7 +964,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6790,
+      "followersCount": 6791,
       "friendsCount": 1478,
       "location": ""
     },
@@ -962,7 +996,7 @@
       "name": "Sekur Private (OTCQB:SWISF)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826372068579180548/yLFIrKnW_normal.jpg",
       "description": "Sekur is a NON BIG TECH Swiss hosted Privacy Communications Platform for Email, Messenger, VPN. NO datamining. Take Your Privacy Back! 1A 4A Protection. $SWISF",
-      "followersCount": 7737,
+      "followersCount": 7765,
       "friendsCount": 7659,
       "location": "Privacy World"
     },
@@ -1230,6 +1264,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/1945686134488785010",
     "fullText": "微信小程序简直是当代用户体验最糟糕的典范：\n\n昨天我打开肯德基小程序，想选一下餐厅，手指刚点下去，上方载入一个优惠，把餐厅切换的按钮顶下去了，我手指不出意外的点到了优惠广告上；我刚想点退出优惠，突然屏幕一暗出现了一个巨大的抽奖罗盘，我又点罗盘上面去了；"
+  },
+  {
+    "user": {
+      "screenName": "CEC_Onc",
+      "name": "CEC Oncology",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1455900070000222214/OFrJBa9-_normal.jpg",
+      "description": "Live & enduring accredited hem/onc activities for physicians (ACCME), nurses (ANCC), and pharmacists (ACPE): https://t.co/9vVpfCGQ56…",
+      "followersCount": 359,
+      "friendsCount": 325,
+      "location": "Radnor, PA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CEC_Onc/status/1945638346916860031",
+    "fullText": "WATCH NOW: MEK Inhibitors in NF1-PN: Advances &amp; Applications. Resources+credit:  https://t.co/YcZRlUB7Gj https://t.co/j5fUUdUVI4"
   },
   {
     "user": {
