@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 188928,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwGXZJ-XgAARErg.jpg",
+      "https://pbs.twimg.com/media/GwGXZJ1XkAALxS8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1946003050319212685",
+    "fullText": "稳定币（stable coin）是最近的热点，新闻媒体不断提及。\n\n起因是今年5月，香港通过了《稳定币条例》，8月1日马上就要生效，允许企业申请牌照、发行稳定币。\n\n大多数人并不清楚，稳定币是什么？有什么用？\n\n我就来谈谈看法，为什么香港发行稳定币意义很大，其实很好懂。https://t.co/wGv0tqjbu4 https://t.co/VC41O1b8lr"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6974,
+      "friendsCount": 728,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwGSt8BagAE9ZZ_.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1945998015950733723",
+    "fullText": "今天遇到一个问题，要把 (y, x, 1) 做转换，怎么用现成的 OpenGL math 库来做。注意现成的 math 库都是针对 (x, y, 1)。一时脑子卡壳。结果问 ChatGPT 直接得到答案了。 https://t.co/qQzekKQlCi"
+  },
+  {
+    "user": {
+      "screenName": "nicholas_shawa",
+      "name": "Nicholas Shawa",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1939765898384220160/QJqo6iRH_normal.jpg",
+      "description": "Enjoying life while I can",
+      "followersCount": 51,
+      "friendsCount": 230,
+      "location": "Los Angeles "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwF1qYuXAAA7ix6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nicholas_shawa/status/1945966163919507490",
+    "fullText": "First demo of @DecartAI with @DLeitersdorf on @tbpn WOW https://t.co/DNojQ9p3Th"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59543,
+      "followersCount": 59542,
       "friendsCount": 377,
       "location": ""
     },
@@ -20,7 +72,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226078,
+      "followersCount": 4226244,
       "friendsCount": 3,
       "location": ""
     },
@@ -50,11 +102,26 @@
   },
   {
     "user": {
+      "screenName": "KalchikRev",
+      "name": "Rev. Paul John Kalchik",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1538866932459393024/hZz1NFPr_normal.jpg",
+      "description": "",
+      "followersCount": 9348,
+      "friendsCount": 664,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KalchikRev/status/1945922532671963471",
+    "fullText": "https://t.co/TemQFwItnb"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226078,
+      "followersCount": 4226244,
       "friendsCount": 3,
       "location": ""
     },
@@ -86,7 +153,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226078,
+      "followersCount": 4226244,
       "friendsCount": 3,
       "location": ""
     },
@@ -101,7 +168,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6077,
+      "followersCount": 6078,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -116,7 +183,7 @@
       "name": "Brex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798046733815136256/BbynhUkt_normal.jpg",
       "description": "High-limit cards, high-yield banking, and more — trusted by 30,000+ companies, including 1 in 3 US startups.",
-      "followersCount": 18754,
+      "followersCount": 18755,
       "friendsCount": 1747,
       "location": "San Francisco, CA"
     },
@@ -126,6 +193,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/brexHQ/status/1945876925517357381",
     "fullText": "Most financial controls slow teams down. \n\nIn our Summer Release, we built ones that don’t:\n\n✅ Policies that route instead of restrict\n✅ Roles with just the right access\n✅ Vendor management that prevents problems before they happen\n\nSean Vanderweerd demos controls that work https://t.co/fXD7xugWde"
+  },
+  {
+    "user": {
+      "screenName": "America1stLegal",
+      "name": "America First Legal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1651630619154104321/Wq51K9QY_normal.jpg",
+      "description": "Fighting for the American people and defending the rule of law in the United States 🇺🇸 | https://t.co/YYdmOR6NMg",
+      "followersCount": 353024,
+      "friendsCount": 518,
+      "location": "Washington DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwEU6W5WUAA0EyC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/America1stLegal/status/1945859510490313191",
+    "fullText": "/1🚨BREAKING — AFL just filed a federal civil rights complaint with DOJ calling for an immediate investigation and enforcement action against Johns Hopkins University for illegal DEI discrimination in its School of Medicine.\n\nThe law is clear.\n\nJohns Hopkins is now on notice. https://t.co/8FMT3wvNp0"
   },
   {
     "user": {
@@ -165,7 +249,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4226078,
+      "followersCount": 4226244,
       "friendsCount": 3,
       "location": ""
     },
@@ -195,7 +279,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6077,
+      "followersCount": 6078,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -210,7 +294,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32903,
+      "followersCount": 32905,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -227,7 +311,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6077,
+      "followersCount": 6078,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -240,11 +324,28 @@
   },
   {
     "user": {
+      "screenName": "HIVEDigitalTech",
+      "name": "HIVE Digital Technologies",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/904749907512254464/f6dm3X-D_normal.jpg",
+      "description": "NASDAQ: $HIVE | Proudly mining $BTC using green and clean energy | #AI & #HPC infrastructure for the digital transformation",
+      "followersCount": 56153,
+      "friendsCount": 525,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945835246865326081/vid/avc1/1280x720/Tod4JW6SyGHleE3E.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/HIVEDigitalTech/status/1945835744578207755",
+    "fullText": "Co-founder &amp; Executive Chairman Frank Holmes joins @MarleyKayden on @SchwabNetwork to break down:\n\n☑️ Why he’s bullish on Bitcoin &amp; stablecoins\n☑️ How the GENIUS Act could change everything\n☑️ Why gov’t policy = crypto’s tipping point\n\nFull interview 👇 https://t.co/gz9W0cKkSd"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6742,
+      "followersCount": 6748,
       "friendsCount": 1478,
       "location": ""
     },
@@ -261,7 +362,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151094,
+      "followersCount": 151101,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -276,7 +377,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30562,
+      "followersCount": 30561,
       "friendsCount": 134,
       "location": "China"
     },
@@ -327,7 +428,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30562,
+      "followersCount": 30561,
       "friendsCount": 134,
       "location": "China"
     },
@@ -344,7 +445,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32903,
+      "followersCount": 32905,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -376,7 +477,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30562,
+      "followersCount": 30561,
       "friendsCount": 134,
       "location": "China"
     },
@@ -408,7 +509,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6077,
+      "followersCount": 6078,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -472,7 +573,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55939,
+      "followersCount": 55942,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -498,6 +599,23 @@
   },
   {
     "user": {
+      "screenName": "Hyperweb_",
+      "name": "Hyperweb",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884128042743947264/VsBGVt7Z_normal.png",
+      "description": "The TypeScript-first platform bringing back the joy of programming. Build real apps across cloud and chain (formerly @cosmology_tech)",
+      "followersCount": 4098,
+      "friendsCount": 374,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv_Wk0va8AA374z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Hyperweb_/status/1945509496987726087",
+    "fullText": "🚀 No more YAML. Just types.\n\nToday we’re announcing KubernetesJS — a fully typed, zero-dependency TypeScript client for Kubernetes.\n\nIt’s modular, testable, composable — and works in the browser.\n\nThis is the React moment for cloud infrastructure. 👇 https://t.co/HA7qX8ij2s"
+  },
+  {
+    "user": {
       "screenName": "khloekardashian",
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
@@ -515,11 +633,26 @@
   },
   {
     "user": {
+      "screenName": "shanbatla",
+      "name": "Shan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937650211871956992/IHvo5bpz_normal.jpg",
+      "description": "I like technology, finance, and hard problems. Sometimes I like all three at the same time.",
+      "followersCount": 85,
+      "friendsCount": 193,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/shanbatla/status/1945467236635828257",
+    "fullText": "I grew up in Southern California and spent a good amount of my youth surfing.\n\nThe big unlock for me when I went from \"really bad\" to just \"bad\" is when I realized that I do not get to control how and when I get ride a wave. The ocean decides that. \n\nWhen you fail to respect the"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6077,
+      "followersCount": 6078,
       "friendsCount": 377,
       "location": "杭州"
     },
