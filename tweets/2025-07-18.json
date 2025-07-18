@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "BlackxBTC",
+      "name": "Black",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1782339392742248448/csDeqOeG_normal.jpg",
+      "description": "@CLASSIFIEDBTC | Creator of Black Sats | Artist on Bitcoin 🏴‍☠️",
+      "followersCount": 16924,
+      "friendsCount": 3510,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1946121559044681730/vid/avc1/1080x1080/Fq9PXWj3Lq51czsF.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/BlackxBTC/status/1946122989335978222",
+    "fullText": "2 years ago I created Black Sats from my darkness\n\nI inscribed pain into art on Bitcoin\n\nAll my work on Bitcoin is CLASSIFIED https://t.co/z2cOhHskqm"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11481,
+      "followersCount": 11480,
       "friendsCount": 3689,
       "location": ""
     },
@@ -22,7 +39,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32926,
+      "followersCount": 32930,
       "friendsCount": 622,
       "location": "Hong Kong"
     },
@@ -39,7 +56,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127311,
+      "followersCount": 127320,
       "friendsCount": 1337,
       "location": "Chicago, IL"
     },
@@ -71,7 +88,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6077,
+      "followersCount": 6078,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -120,7 +137,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11481,
+      "followersCount": 11480,
       "friendsCount": 3689,
       "location": ""
     },
@@ -155,7 +172,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74226,
+      "followersCount": 74219,
       "friendsCount": 3423,
       "location": ""
     },
@@ -185,7 +202,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30563,
+      "followersCount": 30562,
       "friendsCount": 134,
       "location": "China"
     },
@@ -202,7 +219,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188936,
+      "followersCount": 188922,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -214,6 +231,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/ruanyf/status/1946013059056898346",
     "fullText": "周五软件分享\n\n- Anytype（图一）：开源的多平台笔记软件，Obsidian 的替代品，自带同步功能 https://t.co/U8FMB87Kl5\n\n- Pangolin（图二）：带有 Web 界面的反向代理服务器 https://t.co/ytxxI4tVvm\n\n- Upyo（图三）：提供 email 收发功能的 JS 库 https://t.co/Jw01Fxo7et\n\n更多软件 https://t.co/l4LPQSNWgF"
+  },
+  {
+    "user": {
+      "screenName": "GreedyGraffiti",
+      "name": "Greedy Graffiti",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1649432477/youtube_profile_face_with_logo_normal.jpg",
+      "description": "Beats & Rhymes. Music & Memes. Animated rapper with 3 million views at: https://t.co/h4nwMFa5Bt",
+      "followersCount": 490,
+      "friendsCount": 328,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GwGgEWvW0AAL1T_.mp4"
+    ],
+    "tweetUrl": "https://x.com/GreedyGraffiti/status/1946012516829511680",
+    "fullText": "Wow @NICKIMINAJ &amp; @realannapaulina collab was not on my 2025 BINGO card but I’m here for it! We need Anna in a Nicki music video! I’ll make the beat &amp; waive my producer fee (will still need my publishing tho LOL - Nicki I’ve produced multiple Billboard hits under pseudonym - https://t.co/I4utz0UWkU"
   },
   {
     "user": {
@@ -238,7 +272,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188936,
+      "followersCount": 188922,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -305,7 +339,7 @@
       "name": "iShook",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1933498011901906944/2l4rGAix_normal.jpg",
       "description": "https://t.co/w2D7Wg0CJe, https://t.co/AimKi76PPc, https://t.co/grZ4gfl8Ee, https://t.co/fnbM6f8EuY, https://t.co/vDx8Vazosy,",
-      "followersCount": 7377,
+      "followersCount": 7401,
       "friendsCount": 953,
       "location": "New York"
     },
@@ -337,7 +371,7 @@
       "name": "Ayman Arab",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755776816797585408/x2-IqiKX_normal.jpg",
       "description": "I make YouTube videos/reels for ppl u probably watch | Documenting my journey since day 1 | Newsletter ➡️ https://t.co/lgx33usWJ2",
-      "followersCount": 10598,
+      "followersCount": 10596,
       "friendsCount": 877,
       "location": "Work with my agency 👉"
     },
@@ -501,7 +535,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59545,
+      "followersCount": 59536,
       "friendsCount": 377,
       "location": ""
     },
@@ -516,7 +550,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4227564,
+      "followersCount": 4227650,
       "friendsCount": 3,
       "location": ""
     },
@@ -627,7 +661,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4227564,
+      "followersCount": 4227650,
       "friendsCount": 3,
       "location": ""
     },
@@ -723,7 +757,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4227564,
+      "followersCount": 4227650,
       "friendsCount": 3,
       "location": ""
     },
@@ -738,7 +772,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6077,
+      "followersCount": 6078,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -853,7 +887,7 @@
       "name": "The Alliance for Secure AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917992278020272128/A3022TPT_normal.jpg",
       "description": "Mitigating AI Risks and Protecting Humanity.",
-      "followersCount": 393,
+      "followersCount": 394,
       "friendsCount": 232,
       "location": "Washington, DC"
     },
@@ -1113,8 +1147,8 @@
       "name": "Sekur Private (OTCQB:SWISF)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826372068579180548/yLFIrKnW_normal.jpg",
       "description": "Sekur is a NON BIG TECH Swiss hosted Privacy Communications Platform for Email, Messenger, VPN. NO datamining. Take Your Privacy Back! 1A 4A Protection. $SWISF",
-      "followersCount": 7765,
-      "friendsCount": 7670,
+      "followersCount": 7769,
+      "friendsCount": 7671,
       "location": "Privacy World"
     },
     "images": [],
@@ -1445,6 +1479,21 @@
     ],
     "tweetUrl": "https://x.com/PhilanthropyRnd/status/1945593554178376143",
     "fullText": "When the Sifre kids were ostracized for their faith in public school, Arma Dei Academy offered hope—but the cost of tuition stood between them and a better education for their children.\n\nThanks to philanthropic freedom, the partnership of ACE Scholarships and the Daniels Fund https://t.co/dRHcyTFY1R"
+  },
+  {
+    "user": {
+      "screenName": "OisinO",
+      "name": "Oisin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1946002264805474305/Kr9O2Q7v_normal.png",
+      "description": "CEO/Founder at Recharge ($100M+ ARR) | Empowering entrepreneurs and builders | Post on AI and building with humanity",
+      "followersCount": 991,
+      "friendsCount": 317,
+      "location": "Santa Monica"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OisinO/status/1945566598754177268",
+    "fullText": "Interesting to see companies flexing in the AI era. Slack and Figma are locking down APIs so AI systems have to pay for access or get limited in what they can do. Cloudflare, which routes 1/3 of web traffic, is making websites unreadable by AI by default unless paid."
   },
   {
     "user": {
