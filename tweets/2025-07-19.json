@@ -1,11 +1,77 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18592,
+      "friendsCount": 2028,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwMKcXmaoAA_pit.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1946410961583346125",
+    "fullText": "萨莉亚初体验，怎么能这么好吃 https://t.co/wksL7u2vgz"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 32965,
+      "friendsCount": 623,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwME1XYWwAA8gPD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1946406515344396604",
+    "fullText": "【Creem接入海外支付】本期备课中，发现Creem的webhook那块的鉴权 + 调试逻辑对于一个纯Vibe Coder来说还是太难了。我在努力想办法一步步的把这块讲明白.... https://t.co/9KdCDdmEJA"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 11495,
+      "friendsCount": 3696,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwMGNfAXQAAdodH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1946406321432985708",
+    "fullText": "说着说着，问朋友：\n咱刚聊哪来着？🙃 https://t.co/hPDfREyARD"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6083,
+      "followersCount": 6082,
+      "friendsCount": 378,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1946405944797086114",
+    "fullText": "暖粪熏得游人醉，\n直把杭州作便州"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6082,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -20,7 +86,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6083,
+      "followersCount": 6082,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -63,11 +129,29 @@
   },
   {
     "user": {
+      "screenName": "NautilusSS168",
+      "name": "Nautilus SS-168",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1888947949645750272/zyqz2ZJG_normal.jpg",
+      "description": "USAF Vet | Local AA-12 Simp | Airframe Certified\n\nDiscord: .nautilus\nPixiv: https://t.co/i0WK4FVoZL\nhttps://t.co/HCjy5bMu3w",
+      "followersCount": 2055,
+      "friendsCount": 345,
+      "location": "Nunya, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwLfeENWwAIf2GK.jpg",
+      "https://pbs.twimg.com/media/GwLfeEDXAAEOlMX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NautilusSS168/status/1946363893883777148",
+    "fullText": "WWI Doughboy. She's seen some shit. \n\nMight do something a little better with this character later idk https://t.co/yfDuxeLJm4"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4229601,
+      "followersCount": 4229630,
       "friendsCount": 3,
       "location": ""
     },
@@ -107,6 +191,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/ResourceWars_/status/1946344936464638077",
     "fullText": "🚨THE ULTIMATE DIGITAL INFRASTRUCTURE PLAY\n\nHaving had a ringside seat for some of the challenges @HIVEDigitalTech has overcome to celebrate 4 years on the NASDAQ, a huge congratulations to @bulldogholmes, @AydinKilicHIVE, @HIVEDarcy, Holly Schoenfeldt &amp; the entire HIVE team! https://t.co/8l1S0BTaP5"
+  },
+  {
+    "user": {
+      "screenName": "joyrider50",
+      "name": "Joyrider50",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/898966374969614336/dSFalV7M_normal.jpg",
+      "description": "California O.D., Indie game designer, bitcoin enthusiast, libertarian, and extropian.",
+      "followersCount": 642,
+      "friendsCount": 434,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/joyrider50/status/1946341858084323674",
+    "fullText": "I've spent the last 3 years fact checking tons of X posts and muting any one who is blatantly false. I wish I could share my mute list with others here, and collaborate with them on filters. I would even pay for good filters for X.  @elonmusk"
   },
   {
     "user": {
@@ -183,7 +282,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 18781,
+      "followersCount": 18793,
       "friendsCount": 833,
       "location": "San Jose, CA"
     },
@@ -249,7 +348,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1637381597665325057/2bDovZg7_normal.jpg",
       "description": "math/code/data | pvp maxi",
       "followersCount": 49937,
-      "friendsCount": 5266,
+      "friendsCount": 5231,
       "location": ""
     },
     "images": [
@@ -295,7 +394,7 @@
       "name": "Andrew Austin-Adler",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902108007548190720/TqCRldOL_normal.jpg",
       "description": "Student Meteorologist specializing in Tropical Cyclones. | Providing Analysis and factual forecasts on global weather phenomena 🌦️",
-      "followersCount": 670,
+      "followersCount": 673,
       "friendsCount": 122,
       "location": "Tulsa, OK, USA"
     },
@@ -313,7 +412,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6083,
+      "followersCount": 6082,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -333,7 +432,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59545,
+      "followersCount": 59543,
       "friendsCount": 377,
       "location": ""
     },
@@ -380,7 +479,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151099,
+      "followersCount": 151102,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -395,7 +494,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55960,
+      "followersCount": 55959,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -495,7 +594,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8453,
+      "followersCount": 8454,
       "friendsCount": 291,
       "location": ""
     },
@@ -523,12 +622,29 @@
   },
   {
     "user": {
+      "screenName": "svenstoffels",
+      "name": "Sven Stoffels",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892272153225256960/WIJZHtVJ_normal.jpg",
+      "description": "Follow all the links:\nhttps://t.co/xuZvCJgiF7",
+      "followersCount": 11126,
+      "friendsCount": 3044,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1946156417993338880/pu/vid/avc1/960x720/Rdpthz_DAoC56FF1.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/svenstoffels/status/1946156508238270494",
+    "fullText": "Missed the campaigns? There's still some limited stock available for Butch Killigan 1&amp;2! Link below 👇🏻 https://t.co/j3p4UTSpQq"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32964,
-      "friendsCount": 622,
+      "followersCount": 32965,
+      "friendsCount": 623,
       "location": "Hong Kong"
     },
     "images": [
@@ -563,7 +679,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151099,
+      "followersCount": 151102,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -580,7 +696,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11494,
+      "followersCount": 11495,
       "friendsCount": 3696,
       "location": ""
     },
@@ -597,8 +713,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 32964,
-      "friendsCount": 622,
+      "followersCount": 32965,
+      "friendsCount": 623,
       "location": "Hong Kong"
     },
     "images": [
@@ -614,7 +730,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127396,
+      "followersCount": 127404,
       "friendsCount": 1337,
       "location": "Chicago, IL"
     },
@@ -721,6 +837,23 @@
   },
   {
     "user": {
+      "screenName": "GreedyGraffiti",
+      "name": "Greedy Graffiti",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1649432477/youtube_profile_face_with_logo_normal.jpg",
+      "description": "Beats & Rhymes. Music & Memes. Animated rapper with 3 million views at: https://t.co/h4nwMFa5Bt",
+      "followersCount": 492,
+      "friendsCount": 328,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GwGgEWvW0AAL1T_.mp4"
+    ],
+    "tweetUrl": "https://x.com/GreedyGraffiti/status/1946012516829511680",
+    "fullText": "Wow @NICKIMINAJ &amp; @realannapaulina collab was not on my 2025 BINGO card but I’m here for it! We need Anna in a Nicki music video! I’ll make the beat &amp; waive my producer fee (will still need my publishing tho LOL - Nicki I’ve produced multiple Billboard hits under pseudonym - https://t.co/I4utz0UWkU"
+  },
+  {
+    "user": {
       "screenName": "ChinaConsulate",
       "name": "ChinaConsulateChicago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1246592231009591301/Wv_OmEzS_normal.jpg",
@@ -789,6 +922,23 @@
   },
   {
     "user": {
+      "screenName": "linq_ai",
+      "name": "LinqAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1658790991757733888/6QVi0RHD_normal.jpg",
+      "description": "LinqAI revolutionizes AI & decentralized computing with smart AI employees, a robust SaaS ecosystem, & scalable, cost-effective solutions via LinqProtocol",
+      "followersCount": 34039,
+      "friendsCount": 789,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945893723205705728/vid/avc1/1280x720/y-APigAbCio7Btao.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/linq_ai/status/1945908289297920416",
+    "fullText": "LinqProtocol Token Economy Introduction 🔥\n\nThread below👇 https://t.co/46PDynHdob"
+  },
+  {
+    "user": {
       "screenName": "dankimxyz",
       "name": "Dan Kim",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940477994616647681/S-9z_GLb_normal.jpg",
@@ -820,5 +970,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/nickagrayson/status/1945836731200065643",
     "fullText": "Just me casually FaceTiming the people behind the some of the fastest-growing apps on earth.\n\nHere's how it started 👇\n\nA few months ago, I was brainstorming ways to deliver the most valuable content around mobile app development + growth in the most simple, quick, and casual way https://t.co/YTXqwAmgY7"
+  },
+  {
+    "user": {
+      "screenName": "fuseenergy",
+      "name": "Fuse Energy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1676348145167474688/ZCTIlptw_normal.jpg",
+      "description": "Building energy superabundance - from real world renewables powering your home, to smarter grids on @Solana.",
+      "followersCount": 17582,
+      "friendsCount": 15,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwDnImNW8AA5M5v.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fuseenergy/status/1945809211289411934",
+    "fullText": "🚨 The Netherlands is rationing electricity.\n\n🔜 Warnings other European countries will follow.\n\n💡 The Fuse Energy Network is built to solve this. https://t.co/qrESrpquhO"
   }
 ]
