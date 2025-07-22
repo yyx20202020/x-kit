@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 74294,
+      "friendsCount": 3425,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwbBaY-bEAQSrd8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1947456557748523254",
+    "fullText": "把这行放在 .bashrc 里，每次打开新的 terminal 就可以随机选一个 IDE 来搞。\n把编程当成 rogue like\n每次的新鲜感都不一样。\n\nalias code=$(sh -c 'tools=(code cursor claude gemini trae); \\\necho \"${tools[$RANDOM % ${#tools[@]}]}\"') https://t.co/FDMudM1wiJ"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30533,
+      "friendsCount": 138,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwa_hdNbEAMoz_w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1947454484101403081",
+    "fullText": "所有复杂的问题都有滞延，要有眼光有耐心。\n\n怎么解读这句话？\n\n复杂组织在价值观，执行力和团结奋斗上都有不同程度的延后，有时候结果不对并不代表方向不对，不代表团队不对，而是需要时间同频。\n\n就像不同重量的铁球，摆臂幅度和频率不一样，需要时间让他们共振，当团队共振时，那就是所向无敌时。 https://t.co/op69bJpDFQ"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33082,
+      "followersCount": 33087,
       "friendsCount": 626,
       "location": "Hong Kong"
     },
@@ -22,7 +56,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33082,
+      "followersCount": 33087,
       "friendsCount": 626,
       "location": "Hong Kong"
     },
@@ -39,7 +73,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33082,
+      "followersCount": 33087,
       "friendsCount": 626,
       "location": "Hong Kong"
     },
@@ -56,7 +90,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127574,
+      "followersCount": 127579,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -73,7 +107,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127574,
+      "followersCount": 127579,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -86,11 +120,94 @@
   },
   {
     "user": {
+      "screenName": "bmet11",
+      "name": "HMCBMET",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/950448969414569984/KgaSQlwp_normal.jpg",
+      "description": "Professor Suggon Deeznuts, Widower, Father, Grandfather, US Navy Chief Petty Officer retired, FMF Corpsman, Fvck your feelings!",
+      "followersCount": 2348,
+      "friendsCount": 4344,
+      "location": "Bear, DE"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bmet11/status/1947389034990326248",
+    "fullText": "I was watching TV the other day, and apparently, women have their own professional basketball league...it's called  WNBA...the hell you say!"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16556,
+      "friendsCount": 1198,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwZr6mYWAAAN10s.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1947362567317324038",
+    "fullText": "As of this month, U.S. customs duties have topped $100 billion for the first time ever in a single year.\n\nThat number is even more remarkable when you consider that most of President Trump’s new tariffs haven’t even taken full effect yet. https://t.co/gxDMzCw0Hi"
+  },
+  {
+    "user": {
+      "screenName": "realJackJWyatt",
+      "name": "✎ 𝐉𝐚𝐜𝐤 𝐉. 𝐖𝐲𝐚𝐭𝐭",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1609171960759521283/36d1JBrT_normal.jpg",
+      "description": "Historical fiction writer, coast dweller, doggo daddy. Author of the NEW World War II thriller: Broken Castle.",
+      "followersCount": 1133,
+      "friendsCount": 694,
+      "location": "Florida"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947353180498448384/vid/avc1/1920x1088/nKZzCFgviGAZRKWb.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/realJackJWyatt/status/1947353439215788384",
+    "fullText": "Made this for fun. Maybe @five_books will show me a little love? https://t.co/HdD0U0FbcQ"
+  },
+  {
+    "user": {
+      "screenName": "ensign9945",
+      "name": "Ensign Marrazzo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1815430293198704640/IFOtqJ42_normal.jpg",
+      "description": "$ACHR $GOOGL $KDLY $META $UNH",
+      "followersCount": 45,
+      "friendsCount": 47,
+      "location": "USA, New York"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwZhk5vXEAAJ2ze.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ensign9945/status/1947351228335198511",
+    "fullText": "Hey, check this out - this thing’s legit $WKSP https://t.co/SNB4FWwRKe"
+  },
+  {
+    "user": {
+      "screenName": "contibase",
+      "name": "Contibase",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1933018398994137088/7h8C421S_normal.jpg",
+      "description": "Email platform for SaaS",
+      "followersCount": 1362,
+      "friendsCount": 5,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947323634080522240/vid/avc1/3840x2160/HNjXIfiVNXc5fmdj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/contibase/status/1947324041552904357",
+    "fullText": "How to autogenerate a page in Contibase and show the content on your website https://t.co/SNbSlDI1eL"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33082,
+      "followersCount": 33087,
       "friendsCount": 626,
       "location": "Hong Kong"
     },
@@ -140,7 +257,7 @@
       "name": "Opera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929542584352858112/ywlq6NFs_normal.jpg",
       "description": "Opera - your personal browser",
-      "followersCount": 631705,
+      "followersCount": 631715,
       "friendsCount": 400,
       "location": "Norway"
     },
@@ -157,7 +274,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59566,
+      "followersCount": 59572,
       "friendsCount": 377,
       "location": ""
     },
@@ -187,7 +304,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8462,
+      "followersCount": 8463,
       "friendsCount": 291,
       "location": ""
     },
@@ -195,6 +312,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/plusyip/status/1947292686777454960",
     "fullText": "那些卖几百块钱的高考志愿填报系统，预估的录取率不怎么准，算法好弱智 😂 之前帮我妹看高考志愿填报，她想报的专业系统预估的录取率只有 1%，但是我仔细一看，那个专业今年扩招，用往年录取顺位等信息，和 ChatGPT 聊聊，发现录取几率很大，甚至能到 70% 以上，就让我妹填了，然后真录取上了"
+  },
+  {
+    "user": {
+      "screenName": "edouard_april",
+      "name": "Édouard April",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947102819179233285/YSiuoWWj_normal.jpg",
+      "description": "Love 💙 | Protect ⚔️ | Survive 🌎",
+      "followersCount": 1110,
+      "friendsCount": 1438,
+      "location": "Québec, Canada"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwYsSaDX0AAEwJj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/edouard_april/status/1947292588387529090",
+    "fullText": "The Trinity is the most Fundamental nonsense in all Religions Combined. https://t.co/uNucqPvXax"
+  },
+  {
+    "user": {
+      "screenName": "Topstep",
+      "name": "Topstep",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1410674225577332738/V9fNEU-H_normal.jpg",
+      "description": "1 Step. 1 Rule.™ The #1 Prop Firm.💰Earn funding in 2 days! 💸 Trusted Payouts 🚀Free Coaching ⭐️⭐️⭐️⭐️⭐️Live Support https://t.co/HRRl3ojJii",
+      "followersCount": 62762,
+      "friendsCount": 21,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Topstep/status/1947276876004929979",
+    "fullText": "🛎️ We’re LIVE on @TopstepTV All day!\nDon’t let a case of the Mondays mess with your trades! 💪📈\n🎤 Ask questions\n📊 Trade smarter\n📺 Follow @TopstepTV &amp; subscribe on YouTube: https://t.co/0DyhsRimX8\nrtmp://va.pscp.tv:80/x https://t.co/qqHOpT9BNx"
   },
   {
     "user": {
@@ -236,7 +385,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6085,
+      "followersCount": 6084,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -251,7 +400,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11559,
+      "followersCount": 11558,
       "friendsCount": 3718,
       "location": ""
     },
@@ -268,7 +417,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8462,
+      "followersCount": 8463,
       "friendsCount": 291,
       "location": ""
     },
@@ -300,7 +449,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55995,
+      "followersCount": 55996,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -332,7 +481,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33082,
+      "followersCount": 33087,
       "friendsCount": 626,
       "location": "Hong Kong"
     },
@@ -349,7 +498,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30532,
+      "followersCount": 30533,
       "friendsCount": 138,
       "location": "China"
     },
@@ -366,7 +515,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6977,
+      "followersCount": 6975,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -381,7 +530,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30532,
+      "followersCount": 30533,
       "friendsCount": 138,
       "location": "China"
     },
@@ -398,7 +547,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6085,
+      "followersCount": 6084,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -413,7 +562,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6085,
+      "followersCount": 6084,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -428,7 +577,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11559,
+      "followersCount": 11558,
       "friendsCount": 3718,
       "location": ""
     },
@@ -445,7 +594,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19048,
+      "followersCount": 19051,
       "friendsCount": 835,
       "location": "San Jose, CA"
     },
@@ -475,11 +624,32 @@
   },
   {
     "user": {
+      "screenName": "JoshuaBeen",
+      "name": "Joshua Been",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1680364574741262337/QN2r9Yrs_normal.jpg",
+      "description": "Father • Husband • Artist • Author • Sat Stacker US Army Vet • Freewill Purist • Knucklehead      Incarnate Mind-Body-Spirit Complex of Earth",
+      "followersCount": 417,
+      "friendsCount": 309,
+      "location": "❤️🥾🏔👨‍🎨🎨🖼🧘"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwVW4hJXoAUikeO.jpg",
+      "https://pbs.twimg.com/media/GwVW6HrXgAIJCoG.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1947057933851795456/pu/vid/avc1/1280x720/iGFi6g554ok1UaRP.mp4?tag=12",
+      "https://video.twimg.com/ext_tw_video/1947057969323012098/pu/vid/avc1/1280x720/LaOqUAct9qEdcm8Z.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/JoshuaBeen/status/1947058154686255557",
+    "fullText": "As ai forces great artists into analogue mediums,\n...I have a recommendation, coming from video game dev/animation. \n👇\nA new perspective paints a clearer career path.\n😎\nThe alchemy of oil painting in God's glorious Creation,\n... from God's glorious Creation is real. \n\n🥰Let me https://t.co/EeGqvwzn4g"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59566,
+      "followersCount": 59572,
       "friendsCount": 377,
       "location": ""
     },
