@@ -1,11 +1,80 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18579,
+      "friendsCount": 2060,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwbV9qhaAAIdnss.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1947479150744506657",
+    "fullText": "坐到工位就想拉屎的病\n\n和\n\n去卫生间每个坑位都爆满的命 https://t.co/XhURV2ZwLZ"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30537,
+      "followersCount": 30535,
+      "friendsCount": 138,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwbU6d5bcAAVNer.jpg",
+      "https://pbs.twimg.com/media/GwbU6mwboAA_Ji-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1947478000603435208",
+    "fullText": "终于明白为啥昨天酒店那么大，因为100寸的幕布，前面空间不大，怼着看眼睛要瞎。\n\n昨天为了给领导投屏看电视，给乐播充了8.8元的会员。\n\n看来下次要把懒猫微服带上，插上酒店投影仪HDMI接口就可以免费看电影了。 https://t.co/LU2hocHd9c"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 798,
+      "friendsCount": 488,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwbUgrGbEAILhG1.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1947477713633308988",
+    "fullText": "想用 Claude Code 的朋友，可以先注册以下两个网站通过API方式使用。\nAnyRouter：https://t.co/riv6vO6iuU ，通过链接注册获得100美金，每日签到赠送25美金！\n问问Code：https://t.co/yhqBfWAleZ ，通过链接注册可获得150美金！\n以上奖励金均需要通过邀请链接注册才能获得哟，否则你就只能得一半奖励！ https://t.co/ps67Q5ZQV1"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 11557,
+      "friendsCount": 3719,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwbNCnzbEAEeDzL.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1947470210702938567",
+    "fullText": "我把 @XadillaX  送的 Trae SOLO 邀请码送给了一位教育专家，他没有编码基础，但是双减前曾在自己教育相关公司带过开发团队。他用几台电脑搭建了自己的 Agent 团队进行产品研发，从调研、设计、前端、后端⬇️\n\n如何评价 Trae 发布 2.0，以及新推出的 SOLO 模式体验如何？ - Cell细胞的回答 - 知乎 https://t.co/zuWSAUd6da"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30535,
       "friendsCount": 138,
       "location": "China"
     },
@@ -39,7 +108,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30537,
+      "followersCount": 30535,
       "friendsCount": 138,
       "location": "China"
     },
@@ -52,11 +121,28 @@
   },
   {
     "user": {
+      "screenName": "elmonx_official",
+      "name": "ElmonX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1616416222760804354/Rp6jEx_d_normal.jpg",
+      "description": "Redefining art and next-gen collectibles. https://t.co/kn2euSN6FJ",
+      "followersCount": 44447,
+      "friendsCount": 1470,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwa4PsCXAAAEhkF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elmonx_official/status/1947446475027583322",
+    "fullText": "💎 Small glimpse. Massive vibe. The best community. https://t.co/vFJJj0Ygm1"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33087,
+      "followersCount": 33086,
       "friendsCount": 627,
       "location": "Hong Kong"
     },
@@ -69,11 +155,28 @@
   },
   {
     "user": {
+      "screenName": "startup_bestie",
+      "name": "kristen ˙ᵕ˙",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938770523695075328/Iv9JKk1H_normal.jpg",
+      "description": "founder | ex-amazon | AI software dev",
+      "followersCount": 4454,
+      "friendsCount": 2377,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwa0-yUXYAAOvEJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/startup_bestie/status/1947444349056196993",
+    "fullText": "your ngmi if your bot is still using em dashes https://t.co/dmp62uCXgs"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33087,
+      "followersCount": 33086,
       "friendsCount": 627,
       "location": "Hong Kong"
     },
@@ -90,7 +193,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33087,
+      "followersCount": 33086,
       "friendsCount": 627,
       "location": "Hong Kong"
     },
@@ -135,11 +238,26 @@
   },
   {
     "user": {
+      "screenName": "MediaBoost5",
+      "name": "MediaBoost",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1456005151500627972/bjsbCwia_normal.jpg",
+      "description": "Empowering real estate professionals with effective social media solutions. 🏡 | Showcasing listings for sale on their behalf. 📣",
+      "followersCount": 255,
+      "friendsCount": 27,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MediaBoost5/status/1947413338188878201",
+    "fullText": "OPEN HOUSE\n07/26/2025 11:00AM-3:00PM\nResidential | 3 bedrooms | 2 bathrooms | 1491 sq. ft. | 4520.0 lot sq.ft. |  MLS 6867130. Call Chairud  Vangchailued for a private showing (602) 421-4076"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127582,
+      "followersCount": 127586,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -156,7 +274,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127582,
+      "followersCount": 127586,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -166,6 +284,40 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/1947394080100540847",
     "fullText": "这不就是现在 AI Agent 干的事吗？\nhttps://t.co/2H3LSKACiw"
+  },
+  {
+    "user": {
+      "screenName": "tRuth_Sp3aker",
+      "name": "Truth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938702107806138369/1bNvEFsj_normal.jpg",
+      "description": "Messi 🐐 FC Barcelona 💙❤️",
+      "followersCount": 393,
+      "friendsCount": 373,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwaF9TnWsAACG9y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tRuth_Sp3aker/status/1947391178917417184",
+    "fullText": "This barca jersey is so underrated https://t.co/m2HQmqE6Ka"
+  },
+  {
+    "user": {
+      "screenName": "freedomcenterlu",
+      "name": "Standing for Freedom Center",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891132341612929024/aDAp-m_t_normal.jpg",
+      "description": "Life, Liberty, & Truth are under attack. We exist to advance all three & defend Biblical principles for the next generation.",
+      "followersCount": 46593,
+      "friendsCount": 1256,
+      "location": "Liberty University"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947390532344225792/vid/avc1/2160x3840/mFgzO2HNEkJSyaJx.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/freedomcenterlu/status/1947390786418421925",
+    "fullText": "This is what winning looks like @RHelfenbein https://t.co/3C2QWxyuAD"
   },
   {
     "user": {
@@ -181,6 +333,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/bmet11/status/1947389034990326248",
     "fullText": "I was watching TV the other day, and apparently, women have their own professional basketball league...it's called  WNBA...the hell you say!"
+  },
+  {
+    "user": {
+      "screenName": "donwinslow",
+      "name": "Don Winslow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1647525880430993409/60HaCvHF_normal.jpg",
+      "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\n#WinslowDigitalArmy  \n\nFind great books by following: @WinslowBookClub",
+      "followersCount": 900577,
+      "friendsCount": 36808,
+      "location": "Tweets are just my opinion"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwZ9esXbEAA8ZCQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/donwinslow/status/1947381859874443517",
+    "fullText": "One man survived two Atomic bombings.\n\nIt's perhaps the greatest survival story ever told and it's the subject of a new book called Ghosts of Hiroshima which Oscar winner James Cameron is making into a major event film.\n\nThe book comes out on August 5. It's extraordinary. https://t.co/5GF3K2tI30"
   },
   {
     "user": {
@@ -305,7 +474,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33087,
+      "followersCount": 33086,
       "friendsCount": 627,
       "location": "Hong Kong"
     },
@@ -372,7 +541,7 @@
       "name": "Opera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929542584352858112/ywlq6NFs_normal.jpg",
       "description": "Opera - your personal browser",
-      "followersCount": 631717,
+      "followersCount": 631714,
       "friendsCount": 400,
       "location": "Norway"
     },
@@ -389,7 +558,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59573,
+      "followersCount": 59577,
       "friendsCount": 377,
       "location": ""
     },
@@ -419,7 +588,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8463,
+      "followersCount": 8468,
       "friendsCount": 291,
       "location": ""
     },
@@ -451,7 +620,7 @@
       "name": "Topstep",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1410674225577332738/V9fNEU-H_normal.jpg",
       "description": "1 Step. 1 Rule.™ The #1 Prop Firm.💰Earn funding in 2 days! 💸 Trusted Payouts 🚀Free Coaching ⭐️⭐️⭐️⭐️⭐️Live Support https://t.co/HRRl3ojJii",
-      "followersCount": 62763,
+      "followersCount": 62766,
       "friendsCount": 21,
       "location": "Chicago, IL"
     },
@@ -483,7 +652,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6858,
+      "followersCount": 6857,
       "friendsCount": 1480,
       "location": ""
     },
@@ -511,6 +680,21 @@
   },
   {
     "user": {
+      "screenName": "visualreg",
+      "name": "Visual Registration",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881405623591448576/ObIdOfJq_normal.jpg",
+      "description": "A software that:\n- Automates payroll and billing\n- Automates timekeeping\nand many other things\n\nTry it for free, no commitment or card required 💸",
+      "followersCount": 17,
+      "friendsCount": 22,
+      "location": "Norway"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/visualreg/status/1947237616824238159",
+    "fullText": "Still dealing with manual scheduling errors? Visual Registration (VRS)  automates workforce planning, ensuring accuracy, efficiency, and seamless shift management. Stop wasting hours on scheduling—automate with VRS today."
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -530,8 +714,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11554,
-      "friendsCount": 3718,
+      "followersCount": 11557,
+      "friendsCount": 3719,
       "location": ""
     },
     "images": [
@@ -547,7 +731,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8463,
+      "followersCount": 8468,
       "friendsCount": 291,
       "location": ""
     },
@@ -564,7 +748,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23599,
+      "followersCount": 23601,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -579,7 +763,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 55993,
+      "followersCount": 55994,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -611,7 +795,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33087,
+      "followersCount": 33086,
       "friendsCount": 627,
       "location": "Hong Kong"
     },
@@ -628,7 +812,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30537,
+      "followersCount": 30535,
       "friendsCount": 138,
       "location": "China"
     },
@@ -660,7 +844,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30537,
+      "followersCount": 30535,
       "friendsCount": 138,
       "location": "China"
     },
@@ -707,8 +891,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 11554,
-      "friendsCount": 3718,
+      "followersCount": 11557,
+      "friendsCount": 3719,
       "location": ""
     },
     "images": [
