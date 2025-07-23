@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6975,
+      "friendsCount": 728,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1948157942177644965",
+    "fullText": "最近时间线上推荐好书的越来越少。"
+  },
+  {
+    "user": {
+      "screenName": "huang_song_",
+      "name": "Huang Song",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1622938362675068928/dpumO_rh_normal.jpg",
+      "description": "Building magic.",
+      "followersCount": 26,
+      "friendsCount": 115,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwk9zG1aEAAK8pb.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/huang_song_/status/1948156472669651075",
+    "fullText": "What do you see in this logo? 👀 https://t.co/9CXxC9Q4z2"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33212,
+      "followersCount": 33218,
       "friendsCount": 629,
       "location": "Hong Kong"
     },
@@ -15,6 +47,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1948153098645704980",
     "fullText": "10 天时间，谢谢你 o3！离目标剩余 0.3kg https://t.co/ywHoZgwL2t"
+  },
+  {
+    "user": {
+      "screenName": "JosephRamelli",
+      "name": "Ramelli 🫣",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1326606281193369600/Hh-8GoEy_normal.jpg",
+      "description": "My tweets are not investment advice. UC Santa Barbara Alum... Go Gauchos!",
+      "followersCount": 1200,
+      "friendsCount": 535,
+      "location": "The Left Coast"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JosephRamelli/status/1948144213318942849",
+    "fullText": "The Republic of California began as the Wild West: a frontier of boundless opportunity, zero taxes, and pure freedom. How did we devolve into the most over-regulated, over-taxed nanny state? Time to reclaim our roots and make CA great again! 🌵"
   },
   {
     "user": {
@@ -56,7 +103,7 @@
       "name": "بوب",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1335706806023229440/QVdcD8YA_normal.jpg",
       "description": "Al AHLY big fan",
-      "followersCount": 270,
+      "followersCount": 271,
       "friendsCount": 406,
       "location": "cairo, Egypt"
     },
@@ -71,7 +118,7 @@
       "name": "Mercedes Schlapp",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898101395829456896/mBludBRf_normal.jpg",
       "description": "Faith, family, country, freedom. Ephesians 6:11. Host of @CPAC Now: America Uncanceled, Former WH Strategic Senior Advisor for President Trump",
-      "followersCount": 482950,
+      "followersCount": 482963,
       "friendsCount": 3765,
       "location": "Alexandria, VA"
     },
@@ -212,6 +259,23 @@
   },
   {
     "user": {
+      "screenName": "UsHealthdiaries",
+      "name": "HealthDiaries.US",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790444926053810176/_7QqzQYS_normal.jpg",
+      "description": "We produce Health & Wellness Apps. All our  Apps have Consumer and Healthcare provider logins. \nsee us at https://t.co/zx8O5aomNA",
+      "followersCount": 2202,
+      "friendsCount": 2036,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwj0g7DWsAIAupI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/UsHealthdiaries/status/1948079843205120408",
+    "fullText": "A thread on the Health &amp; Wellness Apps we make, watch till the end, you will be amazed, sensors coming soon ! https://t.co/KW2zQ85te1"
+  },
+  {
+    "user": {
       "screenName": "EdwardHarr89586",
       "name": "ChartHawk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1926589544431841280/t723fKeU_normal.jpg",
@@ -282,7 +346,7 @@
       "name": "THINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1877437833302114304/HKLKAqgV_normal.jpg",
       "description": "Build Ai You Own",
-      "followersCount": 98791,
+      "followersCount": 98662,
       "friendsCount": 546,
       "location": "Open Metaverse"
     },
@@ -331,7 +395,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18579,
+      "followersCount": 18582,
       "friendsCount": 2082,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -398,7 +462,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30528,
+      "followersCount": 30525,
       "friendsCount": 140,
       "location": "China"
     },
@@ -468,7 +532,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8471,
+      "followersCount": 8470,
       "friendsCount": 291,
       "location": ""
     },
@@ -626,7 +690,7 @@
       "name": "Chill Bill",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943022154850639872/8_DtyEPA_normal.jpg",
       "description": "Chill Bill 🎹 | Soothing piano improvs to escape the noise. Relax, study, vibe. New chill tunes most days.",
-      "followersCount": 50,
+      "followersCount": 51,
       "friendsCount": 10,
       "location": "Northeast US"
     },
@@ -728,7 +792,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8471,
+      "followersCount": 8470,
       "friendsCount": 291,
       "location": ""
     },
@@ -766,7 +830,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8471,
+      "followersCount": 8470,
       "friendsCount": 291,
       "location": ""
     },
@@ -914,7 +978,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 107974,
+      "followersCount": 107975,
       "friendsCount": 245,
       "location": "Singapore"
     },
@@ -929,7 +993,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151174,
+      "followersCount": 151180,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -964,7 +1028,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 107974,
+      "followersCount": 107975,
       "friendsCount": 245,
       "location": "Singapore"
     },
@@ -979,7 +1043,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74331,
+      "followersCount": 74329,
       "friendsCount": 3425,
       "location": ""
     },
@@ -1011,7 +1075,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11606,
+      "followersCount": 11604,
       "friendsCount": 3747,
       "location": ""
     },
@@ -1141,7 +1205,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11606,
+      "followersCount": 11604,
       "friendsCount": 3747,
       "location": ""
     },
@@ -1158,7 +1222,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33212,
+      "followersCount": 33218,
       "friendsCount": 629,
       "location": "Hong Kong"
     },
@@ -1209,7 +1273,7 @@
       "name": "thesailingape",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1745296678016462848/yJ2eqatd_normal.jpg",
       "description": "@onbasebrian enthusiasts",
-      "followersCount": 21765,
+      "followersCount": 21766,
       "friendsCount": 3175,
       "location": ""
     },
@@ -1244,7 +1308,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127718,
+      "followersCount": 127719,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -2432,7 +2496,7 @@
       "name": "Virtual Investor Co.",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1456330303652368384/yEvSV11X_normal.jpg",
       "description": "An online platform that offers public and private companies, across multiple industries the ability to stay active and engaged with the investment community.",
-      "followersCount": 2441,
+      "followersCount": 2442,
       "friendsCount": 68,
       "location": ""
     },
