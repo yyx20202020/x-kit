@@ -1,11 +1,98 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 127670,
+      "friendsCount": 1339,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1947867103026946516",
+    "fullText": "AI 自媒体，一个基本要求是不要把 AI Agent 翻译成“AI 代理”，AI Agent 不翻译都没关系"
+  },
+  {
+    "user": {
+      "screenName": "NiambiUsiku",
+      "name": "Niambi Usiku",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1911918748107182080/WbBNM53m_normal.jpg",
+      "description": "Writer of uncomfortable truths … and https://t.co/h1OlabXgKg",
+      "followersCount": 89,
+      "friendsCount": 187,
+      "location": "Mkono Mungu"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947859260282400768/vid/avc1/3840x2160/A15Mfvh6ES0Vm24_.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NiambiUsiku/status/1947861756446920914",
+    "fullText": "To save the future, we must protect the children who will shape it. \n\nSupport the audiobook campaign and get a copy of the novel and exclusive merch:  https://t.co/T9EHQ8wR4B\nStart your journey: https://t.co/J17kwRK2n9 https://t.co/vcxtL8qxpq"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30541,
+      "friendsCount": 139,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwgxxUWbEAAvrvN.jpg",
+      "https://pbs.twimg.com/media/GwgxxUTbEAEEAPB.jpg",
+      "https://pbs.twimg.com/media/GwgxxbkbcAAnefd.jpg",
+      "https://pbs.twimg.com/media/GwgxxdXbEAI65WS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1947861605578117627",
+    "fullText": "甘肃博物馆这些奇奇怪怪的宝物，哈哈哈哈哈哈哈 https://t.co/QgcvhdwpmC"
+  },
+  {
+    "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21341,
+      "friendsCount": 1036,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947860731808124929/vid/avc1/1172x720/Gt8tqqCQua_a-ATU.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/1947861113712087453",
+    "fullText": "#Noi 考虑到大部分 Prompt 为 Markdown 格式，太长难以阅读，这两天就给 Noi Ask 琢磨了个 Markdown 编辑模式（内嵌一个小型代码编辑器），再实现一下 Markdown 预览、Prompt 输入记录及版本管理，就离我设想的万能输入框不远了。 https://t.co/SV2ZyoO50L"
+  },
+  {
+    "user": {
+      "screenName": "SeekWildTrails",
+      "name": "Seek Wild Trails",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943057424870510592/P3CZCddG_normal.jpg",
+      "description": "God's creation is amazing! We're designing around that.",
+      "followersCount": 46,
+      "friendsCount": 265,
+      "location": "Texas"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwgtCnpXYAAJ9Rn.jpg",
+      "https://pbs.twimg.com/media/GwgtKFhXoAAYz2p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekWildTrails/status/1947857218415600077",
+    "fullText": "Fishers of Men T-shirt just added to store. 🐟🐟Inspired by Matthew 4:19. https://t.co/fVQ9h88AIy"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151137,
+      "followersCount": 151138,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -23,7 +110,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30542,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -55,7 +142,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127666,
+      "followersCount": 127670,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -72,7 +159,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30542,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -87,7 +174,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18586,
+      "followersCount": 18587,
       "friendsCount": 2073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -102,7 +189,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33129,
+      "followersCount": 33131,
       "friendsCount": 628,
       "location": "Hong Kong"
     },
@@ -117,7 +204,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30542,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -167,7 +254,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1814543987296120832/c2WaYnHG_normal.jpg",
       "description": "Computer enjoyer. Chief o1 pro shill",
       "followersCount": 765,
-      "friendsCount": 1060,
+      "friendsCount": 1062,
       "location": "San Francisco"
     },
     "images": [],
@@ -211,7 +298,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127666,
+      "followersCount": 127670,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -468,7 +555,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18586,
+      "followersCount": 18587,
       "friendsCount": 2073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -478,6 +565,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1947664379077681232",
     "fullText": "TSLA 止盈走了，等下一个机会吧。这个美股账户开了一年，起起落落，也才做到25%，比起Crypto账户涨的太慢了\n\n或许是不够自信。看准的价格买了就是买了，NVDA TSLA https://t.co/qsjNAwwoOB"
+  },
+  {
+    "user": {
+      "screenName": "AdamMortara",
+      "name": "Adam Mortara",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1669092419000778754/JQxYm0DK_normal.jpg",
+      "description": "https://t.co/b0SBsX4ih7",
+      "followersCount": 5319,
+      "friendsCount": 189,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AdamMortara/status/1947664327911063960",
+    "fullText": "Serendipitously, I got on the phone with a former student of mine trapped at Biglaw. Doing my dimestore impression of the great Will Consovoy, I implored him to \"get in the fight.\"\n\nAs I often do, I reflected on my own long career at America's best law firm. And I talked my way"
   },
   {
     "user": {
@@ -500,7 +602,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30542,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -517,7 +619,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30542,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -581,7 +683,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4236308,
+      "followersCount": 4236390,
       "friendsCount": 3,
       "location": ""
     },
@@ -596,7 +698,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33129,
+      "followersCount": 33131,
       "friendsCount": 628,
       "location": "Hong Kong"
     },
@@ -611,7 +713,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30542,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -628,7 +730,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18586,
+      "followersCount": 18587,
       "friendsCount": 2073,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -658,7 +760,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8980,
+      "followersCount": 8979,
       "friendsCount": 552,
       "location": ""
     },
@@ -675,7 +777,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30542,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -690,7 +792,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11587,
+      "followersCount": 11588,
       "friendsCount": 3740,
       "location": ""
     },
@@ -707,7 +809,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33129,
+      "followersCount": 33131,
       "friendsCount": 628,
       "location": "Hong Kong"
     },
@@ -724,7 +826,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56023,
+      "followersCount": 56021,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -758,7 +860,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33129,
+      "followersCount": 33131,
       "friendsCount": 628,
       "location": "Hong Kong"
     },
@@ -944,7 +1046,7 @@
       "name": "Opera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929542584352858112/ywlq6NFs_normal.jpg",
       "description": "Opera - your personal browser",
-      "followersCount": 631725,
+      "followersCount": 631727,
       "friendsCount": 400,
       "location": "Norway"
     },
@@ -971,6 +1073,21 @@
     ],
     "tweetUrl": "https://x.com/TGM_Crusade/status/1947298278095175850",
     "fullText": "A beautiful face fades. A peaceful heart lasts. Choose a woman who respects your mission, shares your values, and walks with God. This decision will shape your future more than any other. https://t.co/5M8x7HMpzt"
+  },
+  {
+    "user": {
+      "screenName": "visualreg",
+      "name": "Visual Registration",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881405623591448576/ObIdOfJq_normal.jpg",
+      "description": "A software that:\n- Automates payroll and billing\n- Automates timekeeping\nand many other things\n\nTry it for free, no commitment or card required 💸",
+      "followersCount": 16,
+      "friendsCount": 22,
+      "location": "Norway"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/visualreg/status/1947254226070929541",
+    "fullText": "Unbalanced schedules lead to burnout &amp; high turnover. VRS helps you plan shifts smarter, keeping your employees engaged and operations smooth. \n\nTransform your workforce planning today."
   },
   {
     "user": {
