@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "StonkyOli",
+      "name": "Olivier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1814543987296120832/c2WaYnHG_normal.jpg",
+      "description": "Computer enjoyer. Chief o1 pro shill",
+      "followersCount": 765,
+      "friendsCount": 1060,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StonkyOli/status/1947771981023351258",
+    "fullText": "Does \"a better twilio with less b.s.\" resonate with anyone else?"
+  },
+  {
+    "user": {
       "screenName": "MediaBoost5",
       "name": "MediaBoost",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1456005151500627972/bjsbCwia_normal.jpg",
@@ -20,7 +35,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127643,
+      "followersCount": 127648,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -30,6 +45,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1947756445287510217",
     "fullText": "好奇梁博说的这个模型是哪家的？ https://t.co/lMlUSUrAbM"
+  },
+  {
+    "user": {
+      "screenName": "maj0rbas1c",
+      "name": "maj0rbas1c",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/991401526877863936/jiYZX1Cr_normal.jpg",
+      "description": "",
+      "followersCount": 7,
+      "friendsCount": 51,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwfRLp2a4AAZKDk.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/maj0rbas1c/status/1947755369897546173",
+    "fullText": "Fingerprinting MCP servers with Shodan. I’ve built a tool that scans and verifies them- check out the details pinned on my profile. Cybersecurity and redteam https://t.co/Z72KjRcGLX"
   },
   {
     "user": {
@@ -110,6 +142,23 @@
   },
   {
     "user": {
+      "screenName": "OverExposedShow",
+      "name": "OVEREXPOSED",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908308788647477248/p5MRCKAu_normal.jpg",
+      "description": "Sundays - Thursdays @ 8pm EST. by @DancingEddie_ and @LexiconicalGap\n\nCommunity Discord link below.",
+      "followersCount": 317,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947678475176890368/vid/avc1/1920x1080/42m_OvEyZgaMcNNi.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OverExposedShow/status/1947688088823579020",
+    "fullText": "Crypto Rizz Gone Wrong\n\n\"I think i'm gonna break Iseem's heart here...\" https://t.co/cSfZA0rvFH"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -129,7 +178,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18583,
+      "followersCount": 18581,
       "friendsCount": 2072,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -146,7 +195,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23601,
+      "followersCount": 23600,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -161,7 +210,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30543,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -178,7 +227,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30543,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -195,7 +244,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23601,
+      "followersCount": 23600,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -227,7 +276,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4236102,
+      "followersCount": 4236150,
       "friendsCount": 3,
       "location": ""
     },
@@ -242,7 +291,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33116,
+      "followersCount": 33120,
       "friendsCount": 627,
       "location": "Hong Kong"
     },
@@ -257,7 +306,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30543,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -274,7 +323,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18583,
+      "followersCount": 18581,
       "friendsCount": 2072,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -289,7 +338,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74309,
+      "followersCount": 74312,
       "friendsCount": 3425,
       "location": ""
     },
@@ -321,7 +370,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30543,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -336,7 +385,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11585,
+      "followersCount": 11586,
       "friendsCount": 3739,
       "location": ""
     },
@@ -353,7 +402,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33116,
+      "followersCount": 33120,
       "friendsCount": 627,
       "location": "Hong Kong"
     },
@@ -404,7 +453,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33116,
+      "followersCount": 33120,
       "friendsCount": 627,
       "location": "Hong Kong"
     },
@@ -421,7 +470,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23601,
+      "followersCount": 23600,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -455,7 +504,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189046,
+      "followersCount": 189052,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -473,7 +522,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30543,
+      "followersCount": 30541,
       "friendsCount": 139,
       "location": "China"
     },
@@ -507,7 +556,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11585,
+      "followersCount": 11586,
       "friendsCount": 3739,
       "location": ""
     },
@@ -535,6 +584,23 @@
   },
   {
     "user": {
+      "screenName": "NetChoice",
+      "name": "NetChoice",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1534632720541818880/NVTSXG-p_normal.png",
+      "description": "We fight to make the internet safe for free enterprise and free expression.",
+      "followersCount": 4185,
+      "friendsCount": 340,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947396597689577475/vid/avc1/1080x1080/diFP5VXzAf64O0v6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NetChoice/status/1947398048994525338",
+    "fullText": "🚨🏛️NetChoice Urges Supreme Court to Stop Mississippi From Censoring Free Speech Online\n\nWASHINGTON—Today, NetChoice filed an emergency application to the U.S. Supreme Court, urging the justices to reinstate our preliminary injunction against Mississippi’s I.D.-for-Speech law, HB https://t.co/5oOsBSKGPy"
+  },
+  {
+    "user": {
       "screenName": "brexHQ",
       "name": "Brex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798046733815136256/BbynhUkt_normal.jpg",
@@ -556,7 +622,7 @@
       "name": "Opera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929542584352858112/ywlq6NFs_normal.jpg",
       "description": "Opera - your personal browser",
-      "followersCount": 631740,
+      "followersCount": 631734,
       "friendsCount": 400,
       "location": "Norway"
     },
@@ -566,6 +632,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/opera/status/1947309357462335992",
     "fullText": "Opera Neon, the Next-Gen AI Agentic Browser 👇\n\nA few lucky ones are already testing it and we’ve received many questions about its capabilities.\n\nHere are some examples of how to use AI agents on the web 🧵: https://t.co/aMrISzL1tD"
+  },
+  {
+    "user": {
+      "screenName": "TGM_Crusade",
+      "name": "The Gentleman Mindset",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1924953022230364160/EuGqGR3z_normal.png",
+      "description": "The classical mindset of a gentleman in a deteriorating modern world.\nPursue the “Ideal Man” through Fitness, Wisdom, Faith, Wealth, and Lifestyle.",
+      "followersCount": 23,
+      "friendsCount": 25,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947298219286806528/vid/avc1/720x1280/K785JnalHA_Eh-3-.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TGM_Crusade/status/1947298278095175850",
+    "fullText": "A beautiful face fades. A peaceful heart lasts. Choose a woman who respects your mission, shares your values, and walks with God. This decision will shape your future more than any other. https://t.co/5M8x7HMpzt"
   },
   {
     "user": {
