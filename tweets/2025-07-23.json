@@ -1,6 +1,83 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6084,
+      "friendsCount": 378,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1947843108986884373",
+    "fullText": "异度之刃2的歌在 Apple Music 上竟然找不到"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 127665,
+      "friendsCount": 1339,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwggjxqWEAAm0LS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1947842650297479511",
+    "fullText": "华尔街日报：AI 人才的史诗级争夺战——“爆炸性”合约、秘密交易与眼泪\n近几日，为了争夺硅谷最顶尖的人才，残酷的招聘大战已达到了前所未有的狂热高潮\n\n上周五，硅谷最热门的 AI 初创公司之一 Windsurf 的数百名员工齐聚办公室，期待着一个庆祝性的宣告。\n\n几个月来，OpenAI 一直在与 Windsurf 洽谈以 30 https://t.co/4bn3LiHEZH"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30542,
+      "friendsCount": 139,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1947842595666989528",
+    "fullText": "https://t.co/DN3LAR5gY0"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18586,
+      "friendsCount": 2072,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1947837527173566956",
+    "fullText": "怪事，一大一小两个屏幕用了半个月，最近觉得屏幕亮度有点低，看着暗暗脏脏的，可亮度已经拉满了😐"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 33129,
+      "friendsCount": 628,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1947834662317134265",
+    "fullText": "今天早上遛狗10多分钟，想好了3个短视频脚本的初稿。真是灵感迸发的一天开始！当然离不开ChatGPT Whisper强大的转录能力 + o3的整理能力"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -48,11 +125,26 @@
   },
   {
     "user": {
+      "screenName": "icebagz_",
+      "name": "Bagz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1831758297306632192/DcBZIRf3_normal.jpg",
+      "description": "Building @kanpaipandas. Owner @dirtyboxing_. Host of the @overdogspodcast. Owner @raini_studios.",
+      "followersCount": 84169,
+      "friendsCount": 3830,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/icebagz_/status/1947763431773184231",
+    "fullText": "Should nfts have trait swapping or be immutable?"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127661,
+      "followersCount": 127665,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -159,6 +251,21 @@
   },
   {
     "user": {
+      "screenName": "TheDonBetss",
+      "name": "DonChristoph",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1857400566420217857/jojrM5EY_normal.jpg",
+      "description": "Top 1% Overall via Pikkit\nLinks:\nSports betting AI 👉https://t.co/F3Z3Ngci86\nSecret MLB Edge 🤫 https://t.co/iw2YRwBokI",
+      "followersCount": 359,
+      "friendsCount": 184,
+      "location": "https://links.pikkit.com/user/"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDonBetss/status/1947722295104913444",
+    "fullText": "AI found another heater\nMisiorowski 6.5 K's \nGetting plus money on this is criminal\n🧵Thread:"
+  },
+  {
+    "user": {
       "screenName": "CookTheBooks12",
       "name": "Cook The Books",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653768265171124231/QmgNqpPZ_normal.jpg",
@@ -223,12 +330,29 @@
   },
   {
     "user": {
+      "screenName": "Skypadusa",
+      "name": "Skypad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1906901219668586496/IhHWpV0Z_normal.jpg",
+      "description": "Mission: Creating the Freedom of Mobility",
+      "followersCount": 167,
+      "friendsCount": 80,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947369162806071296/vid/avc1/1280x720/uT2KqZMMdxjp6MZc.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/Skypadusa/status/1947675753472266318",
+    "fullText": "@Grok, where's the ultimate spot to experience an Eclipse? We chose Austin, Texas - it was unforgettable!\n\n\"The Austin Eclipse\", our 4th video in the Skypad America Series, designed to inspire and propel our Mission: creating the Freedom of Mobility. ~ https://t.co/NKSz7bIQoa https://t.co/odvwQeEB5S"
+  },
+  {
+    "user": {
       "screenName": "circusrockmag",
       "name": "CIRCUS Magazine®",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1808723780652707840/uElX9V0u_normal.jpg",
       "description": "The official🎪CIRCUS Magazine rock music journal📖\n☎️813-590-2774\n✞\n🎖️ALLIANCE🇺🇸\nAnimals & Children Rescue Mission\nⓋ\nBio: https://t.co/hcRXAkDo0D\n🌿",
       "followersCount": 13771,
-      "friendsCount": 2597,
+      "friendsCount": 2598,
       "location": "1317 Edgewater Dr., Orlando FL"
     },
     "images": [
@@ -244,7 +368,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18583,
+      "followersCount": 18586,
       "friendsCount": 2072,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -261,7 +385,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23601,
+      "followersCount": 23602,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -310,7 +434,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23601,
+      "followersCount": 23602,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -357,7 +481,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4236204,
+      "followersCount": 4236231,
       "friendsCount": 3,
       "location": ""
     },
@@ -372,8 +496,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33128,
-      "friendsCount": 627,
+      "followersCount": 33129,
+      "friendsCount": 628,
       "location": "Hong Kong"
     },
     "images": [],
@@ -404,7 +528,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18583,
+      "followersCount": 18586,
       "friendsCount": 2072,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -419,7 +543,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74312,
+      "followersCount": 74313,
       "friendsCount": 3425,
       "location": ""
     },
@@ -434,7 +558,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8981,
+      "followersCount": 8980,
       "friendsCount": 552,
       "location": ""
     },
@@ -466,7 +590,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11586,
+      "followersCount": 11587,
       "friendsCount": 3739,
       "location": ""
     },
@@ -483,8 +607,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33128,
-      "friendsCount": 627,
+      "followersCount": 33129,
+      "friendsCount": 628,
       "location": "Hong Kong"
     },
     "images": [],
@@ -534,8 +658,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33128,
-      "friendsCount": 627,
+      "followersCount": 33129,
+      "friendsCount": 628,
       "location": "Hong Kong"
     },
     "images": [
@@ -547,11 +671,28 @@
   },
   {
     "user": {
+      "screenName": "hadeelOueiss",
+      "name": "Hadeel Oueis هديل عويس",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912475901884829697/pa10MeTV_normal.jpg",
+      "description": "Editor-in-chief @JusoorNews | Born in Syria | Made in 🇺🇸",
+      "followersCount": 84292,
+      "friendsCount": 4419,
+      "location": "Maryland, USA "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwcg9wtW8AAsPUG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hadeelOueiss/status/1947561635993833692",
+    "fullText": "Another Christian brutally killed by the Islamist forces of the Syrian regime in Suwayda. As electricity returns, horrifying videos are emerging—gruesome crimes identical to ISIS atrocities. At least 25 Christians and hundreds of Druze massacred. https://t.co/fO3iCcQM5X"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23601,
+      "followersCount": 23602,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -585,7 +726,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189056,
+      "followersCount": 189064,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -703,7 +844,7 @@
       "name": "Opera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929542584352858112/ywlq6NFs_normal.jpg",
       "description": "Opera - your personal browser",
-      "followersCount": 631725,
+      "followersCount": 631726,
       "friendsCount": 400,
       "location": "Norway"
     },
