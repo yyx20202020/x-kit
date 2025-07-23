@@ -4,7 +4,7 @@
       "screenName": "chuckchen_zh",
       "name": "Chuck Chen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1797186447491170304/fLqq1huE_normal.jpg",
-      "description": "💻 AI创业者，脱离9-5，屡败屡创\n📸 自启动构建@pixels_ai和其他工具\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "description": "💻 AI创业者，脱离9-5，屡败屡创\n📸 自启动构建saasdirs、1tongkuan和其他工具\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
       "followersCount": 80,
       "friendsCount": 92,
       "location": "免费AI工具 →"
@@ -18,11 +18,26 @@
   },
   {
     "user": {
+      "screenName": "EvanMendenhall_",
+      "name": "Evan Mendenhall",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1818320808001069056/ANYratLJ_normal.jpg",
+      "description": "Founder of Archer Technologies, Autodidact AI Researcher & Student from Graham-and-Doddsville",
+      "followersCount": 170,
+      "friendsCount": 182,
+      "location": "Hawaii, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EvanMendenhall_/status/1947895410368122908",
+    "fullText": "Hey @OpenAI your 4o model is embedding it's CoT sequence too deeply inside its own analyzer and needs a higher level agent oversight. It hallucinates on first sigma events which means you over-agentized it on the code environment but not the top level. \n\nThis is why it breaks."
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11589,
+      "followersCount": 11590,
       "friendsCount": 3739,
       "location": ""
     },
@@ -39,7 +54,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33144,
+      "followersCount": 33148,
       "friendsCount": 628,
       "location": "Hong Kong"
     },
@@ -56,7 +71,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
-      "followersCount": 801,
+      "followersCount": 802,
       "friendsCount": 489,
       "location": ""
     },
@@ -90,7 +105,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74324,
+      "followersCount": 74327,
       "friendsCount": 3425,
       "location": ""
     },
@@ -108,7 +123,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127669,
+      "followersCount": 127668,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -212,7 +227,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151144,
+      "followersCount": 151146,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -262,7 +277,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127669,
+      "followersCount": 127668,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -309,7 +324,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33144,
+      "followersCount": 33148,
       "friendsCount": 628,
       "location": "Hong Kong"
     },
@@ -486,7 +501,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127669,
+      "followersCount": 127668,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -940,7 +955,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18583,
+      "followersCount": 18580,
       "friendsCount": 2074,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -972,7 +987,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23603,
+      "followersCount": 23608,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -1038,7 +1053,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23603,
+      "followersCount": 23608,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -1100,7 +1115,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4236641,
+      "followersCount": 4236668,
       "friendsCount": 3,
       "location": ""
     },
@@ -1115,7 +1130,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33144,
+      "followersCount": 33148,
       "friendsCount": 628,
       "location": "Hong Kong"
     },
@@ -1147,7 +1162,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18583,
+      "followersCount": 18580,
       "friendsCount": 2074,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1260,7 +1275,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56028,
+      "followersCount": 56029,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1454,6 +1469,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1947496622050709700",
     "fullText": "https://t.co/TBG8RKXtks"
+  },
+  {
+    "user": {
+      "screenName": "DenofGeekUS",
+      "name": "Den of Geek News!",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1744896755387203585/GufpGb0e_normal.jpg",
+      "description": "A global pop culture powerhouse. Den of Geek is the top news source for TV, movies, games, books, comics & more. 📧 tips@denofgeek.com",
+      "followersCount": 73031,
+      "friendsCount": 2286,
+      "location": "New York"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwa43fDbEAA0EXt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DenofGeekUS/status/1947448386845872522",
+    "fullText": "We're Keeping the Peace on our Summer 2025 cover!\n\n@jamesgunn, @johncena, and the cast of @DCpeacemaker season 2 reveal how a Z-list hero came to be at the center of the rebooted DC Universe in our latest cover story. Link in 🧵 https://t.co/Am37iCHn4C"
   },
   {
     "user": {
@@ -1652,6 +1684,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/opera/status/1947309357462335992",
     "fullText": "Opera Neon, the Next-Gen AI Agentic Browser 👇\n\nA few lucky ones are already testing it and we’ve received many questions about its capabilities.\n\nHere are some examples of how to use AI agents on the web 🧵: https://t.co/aMrISzL1tD"
+  },
+  {
+    "user": {
+      "screenName": "PeloSwing",
+      "name": "PeloSwing🎯👸🏻",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1757131068698710016/9dmOvBd__normal.jpg",
+      "description": "Options Trading 🏛 Bringing Wall St to Main St💪 *Not financial advice* (Parody/not affiliated with Nancy) Est. Dec 2021",
+      "followersCount": 27189,
+      "friendsCount": 315,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwY62sHWUAADLHS.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeloSwing/status/1947308741189157114",
+    "fullText": "$JMIA +111% since March, continuing to outperform $BABA and $AMZN\n\nLovely sight 🎯\n\n@Stocktwits https://t.co/shq1zX1GgE"
   },
   {
     "user": {
