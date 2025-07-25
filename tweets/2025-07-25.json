@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 11626,
+      "friendsCount": 3756,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwr3MtfbgAE8NxR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1948642130848874557",
+    "fullText": "Podcast App 如果只能听，不能直接互动，就像鱼没有自行车。\n⬆️ 来自大圣老师 @shengxj1  的妙喻 https://t.co/JLb2zRC3bM"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 11626,
+      "friendsCount": 3756,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwr2Gs7bgAIZvjT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1948641097842147637",
+    "fullText": "在足够长的上下文能力到来之前，AI IDE 应该不止是 IDE，还应该是 工程管理工具（类似 JIRA），需要 有一部分 Auto JIRA 的能力，不然可能用户多一半时间在人肉写文档，来组织 全局 Context。 https://t.co/MnqzV8uXCQ"
+  },
+  {
+    "user": {
       "screenName": "goocarlos",
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19069,
+      "followersCount": 19070,
       "friendsCount": 836,
       "location": "San Jose, CA"
     },
@@ -152,7 +186,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151178,
+      "followersCount": 151175,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -172,7 +206,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127844,
+      "followersCount": 127842,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -257,7 +291,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151178,
+      "followersCount": 151175,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -308,7 +342,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30503,
+      "followersCount": 30502,
       "friendsCount": 139,
       "location": "China"
     },
@@ -342,7 +376,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189111,
+      "followersCount": 189110,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -378,7 +412,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6976,
+      "followersCount": 6978,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -395,7 +429,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30503,
+      "followersCount": 30502,
       "friendsCount": 139,
       "location": "China"
     },
@@ -443,7 +477,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4239632,
+      "followersCount": 4239663,
       "friendsCount": 3,
       "location": ""
     },
@@ -460,7 +494,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6092,
+      "followersCount": 6094,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -1363,7 +1397,7 @@
       "name": "ATH Vodka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1946176823923986432/xo3yBhcZ_normal.jpg",
       "description": "UltraPremium,No Additives,LED Bottle+Rewards. Partnered with: @SonyMusicUK @BRITs @HUGOBOSS @BET_UK @CostcoUK @Akon @heisrema @barmagazine @unstoppableweb\n18+",
-      "followersCount": 2643,
+      "followersCount": 2662,
       "friendsCount": 590,
       "location": "United Kingdom"
     },
@@ -1390,6 +1424,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/OTWSTrades/status/1948155589147656608",
     "fullText": "$FSLR Will Solar Ever Go up ever again?\nI think so.\n\n-Alt energy is still needed for electrification\n\n-Downtrend reversal\n-Reclaim 200 EMA\n\n-FWD PE of 10 \n-PEG of 0.6\n\n-Mildly Bullish Options Flow https://t.co/7qNpzR7pTt"
+  },
+  {
+    "user": {
+      "screenName": "secureainow",
+      "name": "The Alliance for Secure AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1917992278020272128/A3022TPT_normal.jpg",
+      "description": "Mitigating AI Risks and Protecting Humanity.",
+      "followersCount": 426,
+      "friendsCount": 235,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948139399822147585/vid/avc1/1920x1080/n5vM9twE80tP5vQi.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/secureainow/status/1948139741095907513",
+    "fullText": "✍️We just dropped off 10,000 petitions to Congress — signed by patriotic Americans who want to Secure AI Now. https://t.co/HTF13qbfFD"
   },
   {
     "user": {
@@ -1462,6 +1513,23 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the CPAC Freedom First Movement 🇺🇸 Home to the most influential gatherings of FREEDOM FIGHTERS in the world 🌎",
+      "followersCount": 247511,
+      "friendsCount": 5065,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948095865127841792/vid/avc1/1280x720/g8drVvPbi6XnyEWv.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1948096084653621332",
+    "fullText": "SIX MONTHS IN: @PressSec outlines President Trump's accomplishments and his ability to deliver on campaign promises in record time⤵️ https://t.co/4SZBLxxp06"
+  },
+  {
+    "user": {
       "screenName": "freedomcenterlu",
       "name": "Standing for Freedom Center",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1891132341612929024/aDAp-m_t_normal.jpg",
@@ -1493,6 +1561,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/AthVodka/status/1948094309959684327",
     "fullText": "Unstoppable Domains x ATH Vodka. \n.ATH domains 👀\nBuild /  flip / launch onchain. \n\nSimplify crypto payments.\nVerify identity. \nLaunch web3 sites.\nConnect securely.\nNo renewal fees. https://t.co/7i4U0VfZPg"
+  },
+  {
+    "user": {
+      "screenName": "CerebrasSystems",
+      "name": "Cerebras",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894806880804913152/zLdh072p_normal.jpg",
+      "description": "The world's fastest AI inference and training.\nTry the latest open models at: https://t.co/jREGhLI2nj",
+      "followersCount": 34938,
+      "friendsCount": 249,
+      "location": "Sunnyvale, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948084361364230144/vid/avc1/3200x2160/fYtMh1guU4IVxx8q.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CerebrasSystems/status/1948085129018257523",
+    "fullText": "Generate and iterate on code instantly.\n\n40x faster than Sonnet-4. Free to use.\n\nGet started with @cline and @cerebrassystems below 👇 https://t.co/otUlD83Oie"
   },
   {
     "user": {
@@ -1702,7 +1787,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29629777,
+      "followersCount": 29629900,
       "friendsCount": 229,
       "location": ""
     },
@@ -1780,6 +1865,21 @@
     ],
     "tweetUrl": "https://x.com/TrustVanta/status/1947989993923977511",
     "fullText": "✨Vanta has raised $150M in Series D funding and is now valued at $4.15B!✨\n\nOur mission is to help businesses earn and prove trust.\n\nIn 2018, that meant helping startups automate SOC 2, giving them a faster path to market and revenue.\n\nToday, it means using AI to help 12,000 https://t.co/rzBBS3GWF5"
+  },
+  {
+    "user": {
+      "screenName": "Bluggzz",
+      "name": "MatthewGND",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833519112628154368/SD13aLVq_normal.jpg",
+      "description": "Matthew | 21 | Social Media Manager and Graphic Designer from Grenada",
+      "followersCount": 273,
+      "friendsCount": 227,
+      "location": "Grenada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bluggzz/status/1947950958589456468",
+    "fullText": "Find what sets your heart free now."
   },
   {
     "user": {
