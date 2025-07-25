@@ -1,6 +1,56 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18590,
+      "friendsCount": 2102,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwq5rGjakAALW0S.jpg",
+      "https://pbs.twimg.com/media/Gwq4rfQbAAA2HtL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1948573952223359198",
+    "fullText": "我是反应过来为什么创作者收入分成功能被 X 关掉了\n\n有可能不仅是在开通功能的时候需要报保持 「三个月 500W 浏览」，而是随时检测以往三个月的数据都需要达标。这几个月发的少了，流量掉的好快所以没有达到...\n\n如果我的猜测没错，问题又来了，当我重新达标了，我又要去哪里开启呢？\n Premium https://t.co/ttS8t75JUQ"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 802,
+      "friendsCount": 492,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1948573833864380519",
+    "fullText": "想知道客户访问你的网站能有多快？我用 EdgeOne 工具测出：下载 84.21 Mbps / 延迟 18.00 ms，这就是接入 EdgeOne 后客户体验到的真实速度！测完分享即可免费使用 EO 加速： https://t.co/vUQ4JIXduG #TencentCloud #TencentEdgeOne #speedtest @TencentCloudEO"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 151192,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwq1Q0eaUAA9_CK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1948569098201243731",
+    "fullText": "不是，我预购的明末光盘刚发货，结果发售第一天你就爆雷差评如潮啦…… https://t.co/Uv5rzlM4rY"
+  },
+  {
+    "user": {
       "screenName": "chuckchen_zh",
       "name": "Chuck Chen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1797186447491170304/fLqq1huE_normal.jpg",
@@ -22,7 +72,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30504,
+      "followersCount": 30503,
       "friendsCount": 139,
       "location": "China"
     },
@@ -56,7 +106,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189103,
+      "followersCount": 189104,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -92,7 +142,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30504,
+      "followersCount": 30503,
       "friendsCount": 139,
       "location": "China"
     },
@@ -125,7 +175,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4239287,
+      "followersCount": 4239370,
       "friendsCount": 3,
       "location": ""
     },
@@ -150,6 +200,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/1948518069548319008",
     "fullText": "我们可能已经习惯了在推特上，可以尽情的和部分推友开着玩笑，聊着天。\n\n但是只有在线下活动的时候才感知到一个事实：部分推友真的是成功人士。"
+  },
+  {
+    "user": {
+      "screenName": "donwinslow",
+      "name": "Don Winslow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947763656701448192/Wli8elHE_normal.jpg",
+      "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\n#WinslowDigitalArmy  \n\nFind great books by following: @WinslowBookClub",
+      "followersCount": 900960,
+      "friendsCount": 36836,
+      "location": "Tweets are just my opinion"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948506157460635649/vid/avc1/1080x1080/I9VWQOTB2vJH8l4i.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/donwinslow/status/1948506242240184780",
+    "fullText": "NEW!  Excited to share the premiere of this new VIDEO.\n\n\"The best crime fiction I've read in 20 years\"\n—@StephenKing\n\n*Order Amazon: https://t.co/29UVY2C896\n*Order B&amp;N: https://t.co/4N7EmUwIQy https://t.co/pQc5rNjRRS"
   },
   {
     "user": {
@@ -223,7 +290,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21344,
+      "followersCount": 21341,
       "friendsCount": 1036,
       "location": ""
     },
@@ -241,7 +308,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59593,
+      "followersCount": 59595,
       "friendsCount": 377,
       "location": ""
     },
@@ -254,6 +321,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1948432019178094668",
     "fullText": "$TSLA #Marktoday\n特斯拉的财报大家都看了吧，不用赘述，数据很难看，马斯克也提醒市场很可能会持续几个季度的tough time\n几个数据罗列一下：季度交付数据+上海工程交付量+分析师一致预期+税收补贴的情况\n\n投资可以基于一个巨大的假设和前提，但路途中的颠簸是怎么执行和实现它 https://t.co/NJMDzy6YQM"
+  },
+  {
+    "user": {
+      "screenName": "earhartreality",
+      "name": "Amelia Earhart's Spirit!",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1521916713482145792/jWUoOEPF_normal.jpg",
+      "description": "Amelia Earhart's spirit lives on. There are many reasons why this reality is embraced.",
+      "followersCount": 445,
+      "friendsCount": 347,
+      "location": "Los Angeles"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwotssVbgAA2U2p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/earhartreality/status/1948420620703662255",
+    "fullText": "Happy Birthday, Amelia Earhart:) https://t.co/BzqpBd3Ma0"
   },
   {
     "user": {
@@ -409,7 +493,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30504,
+      "followersCount": 30503,
       "friendsCount": 139,
       "location": "China"
     },
@@ -441,7 +525,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30504,
+      "followersCount": 30503,
       "friendsCount": 139,
       "location": "China"
     },
@@ -458,7 +542,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56041,
+      "followersCount": 56042,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -475,7 +559,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30504,
+      "followersCount": 30503,
       "friendsCount": 139,
       "location": "China"
     },
@@ -492,7 +576,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11622,
+      "followersCount": 11623,
       "friendsCount": 3751,
       "location": ""
     },
@@ -507,7 +591,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33273,
+      "followersCount": 33274,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -522,7 +606,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33273,
+      "followersCount": 33274,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -539,7 +623,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30504,
+      "followersCount": 30503,
       "friendsCount": 139,
       "location": "China"
     },
@@ -760,6 +844,21 @@
   },
   {
     "user": {
+      "screenName": "queenpooie",
+      "name": "CRYPTO QUEEN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1924716277362524161/gpADElak_normal.jpg",
+      "description": "The QUEENS 👸 of crypto. They came for the memes and stayed for the DeFi.",
+      "followersCount": 565,
+      "friendsCount": 1156,
+      "location": "https://t.me/queenpooie"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/queenpooie/status/1948062967200923772",
+    "fullText": "Check out the Crypto Queen community:  Supporting the woman of crypto! https://t.co/6ETR1aiPPn"
+  },
+  {
+    "user": {
       "screenName": "IndieCritical",
       "name": "IndieCritical",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929933582941794304/s1mC2pIY_normal.png",
@@ -813,7 +912,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29629952,
+      "followersCount": 29629910,
       "friendsCount": 229,
       "location": ""
     },
