@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 127875,
+      "friendsCount": 1339,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1948863309484359742",
+    "fullText": "一篇值得仔细阅读的文章：《Anthropic 团队如何玩转 Claude Code ｜ How Anthropic teams use Claude Code》\n\n官方发布的他们团队内部如何使用 Claude Code 来提升效率的，有些地方确实耳目一新。\n\n最典型的是让以前没有相关领域经验的人可以在其他领域也做一些基础的工作而不必依赖其他团队成员。"
+  },
+  {
+    "user": {
+      "screenName": "danny_capel",
+      "name": "Danny Capel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1948758403389816834/SYhTdzXO_normal.jpg",
+      "description": "Welcome to the unpredictable world of Danny Capel.  Here, stories don’t just come to life – they kick down the door, and ride in on a unicycle-riding llama!",
+      "followersCount": 1,
+      "friendsCount": 36,
+      "location": "Verona, WI"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948839366261985281/vid/avc1/1920x1080/-tTX77zZs2bGlj8n.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/danny_capel/status/1948840085706997881",
+    "fullText": "Time is running—stop waiting, start living, make every second count. https://t.co/A8rlcmV6Yq"
+  },
+  {
+    "user": {
       "screenName": "ITAGEquipment",
       "name": "ITAG Equipment",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/739697271235715072/JF4vdbC7_normal.jpg",
@@ -167,7 +199,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21355,
+      "followersCount": 21356,
       "friendsCount": 1036,
       "location": ""
     },
@@ -1594,6 +1626,23 @@
   },
   {
     "user": {
+      "screenName": "MeegosFC",
+      "name": "Meegos For Soccer Fans",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937630786234253314/K28mEWL9_normal.png",
+      "description": "Building the best soccer app ever. Built for fans that are tired of reading generic news from big outlets. Want something new? Sign up for the waitlist.",
+      "followersCount": 53,
+      "friendsCount": 137,
+      "location": "The Pitch"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwpShArbgAIEC1W.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MeegosFC/status/1948460541162520805",
+    "fullText": "We're offering a free MLS kit of your choice in exchange for talking to us for an hour about your experience of following your favorite @MLS team. DMs open https://t.co/LZY2iVYjVA"
+  },
+  {
+    "user": {
       "screenName": "ConnieDMTD",
       "name": "Connie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1947387148715356161/YuNNk-wL_normal.jpg",
@@ -2197,6 +2246,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/christaforseat2/status/1948376411372179795",
     "fullText": "@JoJoFromJerz How the hell did @MELANIATRUMP get a EB-1 EINSTEIN VISA?"
+  },
+  {
+    "user": {
+      "screenName": "DadBasementShow",
+      "name": "Dad's Basement Show",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943454094259032065/HJpvOQ8S_normal.jpg",
+      "description": "Funny stories. Bad advice. \n\nEmail: DadsBasementShow@Gmail.com",
+      "followersCount": 24,
+      "friendsCount": 15,
+      "location": "Indiana"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DadBasementShow/status/1948374435653697693",
+    "fullText": "Should boys and girls be parented differently?"
   },
   {
     "user": {
