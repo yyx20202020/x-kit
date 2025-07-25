@@ -1,11 +1,46 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 127845,
+      "friendsCount": 1340,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwrGmmYXAAELZfY.jpg",
+      "https://pbs.twimg.com/media/GwrGoPzWwAAVN-o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1948590261858168858",
+    "fullText": "你知道 Claude Code 怎么控制思考时间长短的吗？在提示词里面说：“ultrathink”或者“think harder”或者“仔细思考”，那么它就会真的多思考一会。\n\n不是玄学，而是写在代码里面的，Claude Code 把思考级别分成了 4 档：\n- HIGHEST： 32K\n- MIDDLE：10K\n- BASIC：4K\n- NONE： 0 https://t.co/dz5RrMreJr"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 802,
+      "friendsCount": 492,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwrIDW2bEAAfxlq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1948589848157454372",
+    "fullText": "edge one 现在又送免费套餐名额了，测测速就可以获得两个免费套餐。 https://t.co/iKip2b8D9G"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18590,
+      "followersCount": 18580,
       "friendsCount": 2102,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -34,11 +69,28 @@
   },
   {
     "user": {
+      "screenName": "WaynesWordPod",
+      "name": "WaynesWord",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897180624114614272/k82mnAeP_normal.jpg",
+      "description": "Wayne Laugesen, award-winning journalist, hosts Wayne’s Word Podcast. Politics and culture.",
+      "followersCount": 375,
+      "friendsCount": 267,
+      "location": "Colorado"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948563765558923264/vid/avc1/1080x1920/QS66v2nfeFLt_WU7.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/WaynesWordPod/status/1948569791884919114",
+    "fullText": "I am a father of 6 boys, grown men now, save one teen still at home, and I would love them regardless if they were gay or trans, no ifs or buts. This social contagion that is gender affirming care? It has me riled. Back when my boys played with dolls, wore their mothers shoes, or https://t.co/vzlhqrAEIq"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151192,
+      "followersCount": 151187,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -106,7 +158,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189104,
+      "followersCount": 189105,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -118,6 +170,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/ruanyf/status/1948544704184025272",
     "fullText": "周五软件分享\n\n- vRain（图一）：制作中文直排古书的工具 https://t.co/jFMAPE2QQh\n\n- RustScan（图二）：命令行工具，扫描服务器开放哪些端口 https://t.co/41vR9oUSs5\n\n- tsx（图三）：直接运行TypeScript代码 https://t.co/w9Cuf5G3Bi\n\n更多软件 #科技爱好者周刊（第358期）https://t.co/H9WN5sqarD https://t.co/kJhvEDnmxq"
+  },
+  {
+    "user": {
+      "screenName": "currousity",
+      "name": "Joseph Curro",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1456172214479462404/3zJ3y5D1_normal.jpg",
+      "description": "art ⤵️",
+      "followersCount": 3968,
+      "friendsCount": 666,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwqeGOAWEAAEHon.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/currousity/status/1948543622229754320",
+    "fullText": "A few tangled strings attached https://t.co/5NcYsq5QCO"
   },
   {
     "user": {
@@ -175,7 +244,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4239370,
+      "followersCount": 4239427,
       "friendsCount": 3,
       "location": ""
     },
@@ -192,7 +261,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6090,
+      "followersCount": 6089,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -308,7 +377,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59595,
+      "followersCount": 59598,
       "friendsCount": 377,
       "location": ""
     },
@@ -321,6 +390,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1948432019178094668",
     "fullText": "$TSLA #Marktoday\n特斯拉的财报大家都看了吧，不用赘述，数据很难看，马斯克也提醒市场很可能会持续几个季度的tough time\n几个数据罗列一下：季度交付数据+上海工程交付量+分析师一致预期+税收补贴的情况\n\n投资可以基于一个巨大的假设和前提，但路途中的颠簸是怎么执行和实现它 https://t.co/NJMDzy6YQM"
+  },
+  {
+    "user": {
+      "screenName": "AcademyofDapps",
+      "name": "Academy of Web3 dApps",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1750639428844847104/cxB3aXuE_normal.jpg",
+      "description": "Educating people on how to use decentralized applications to improve lives, level the playing field, and give the normal person a way to compete and get ahead.",
+      "followersCount": 111,
+      "friendsCount": 376,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948146726788845570/vid/avc1/1280x720/arro2qRZy5hj0_t1.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/AcademyofDapps/status/1948422163889053766",
+    "fullText": "The Sovereign Liquidity Engine\nAn Alternative to a politicized Fed.. https://t.co/7eRMo0Gulg"
   },
   {
     "user": {
@@ -427,6 +513,23 @@
   },
   {
     "user": {
+      "screenName": "DoorDashImpact",
+      "name": "DoorDash Impact",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394384265836744709/6M-DOXdf_normal.jpg",
+      "description": "Empowering local economies is at the heart of everything we do.",
+      "followersCount": 7465,
+      "friendsCount": 1191,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwoHdEuWgAAf71I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DoorDashImpact/status/1948378465369035129",
+    "fullText": "We teamed up with @MLS, @ochocinco, and @ishowspeedsui to support @austinpetsalive with $100k to help pets impacted by the tragic Texas floods. \n\nThrough this partnership, we’re helping ensure that pets — and the families who love them — aren’t left behind as communities https://t.co/wMP8hHHAq1"
+  },
+  {
+    "user": {
       "screenName": "HanQin20001609",
       "name": "Han Qin",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1846278051442970627/__vHgWo5_normal.jpg",
@@ -446,7 +549,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23612,
+      "followersCount": 23613,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -461,7 +564,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18590,
+      "followersCount": 18580,
       "friendsCount": 2102,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -542,7 +645,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56042,
+      "followersCount": 56041,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -591,7 +694,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33274,
+      "followersCount": 33276,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -599,6 +702,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1948260868598186123",
     "fullText": "【求助贴】请问一下，近一两个月有大陆个人用户申请Creem支付成功的吗？我申请成功太久了，不太清楚现在的情况🤣"
+  },
+  {
+    "user": {
+      "screenName": "kokoroxcvdsai",
+      "name": "こころ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943299310327615488/BAZAoXMT_normal.jpg",
+      "description": "Hi! I'm MC Atlas (aka rufctr)",
+      "followersCount": 552,
+      "friendsCount": 25,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwmYI09XIAAu9qb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/kokoroxcvdsai/status/1948255602167156833",
+    "fullText": "Welcome to my Channel! I'm an American born English-Maltese Youtuber and here on the MC Atlas YouTube Channel, I build maps, flags, and possibly more! https://t.co/pbWVLuvdSb"
   },
   {
     "user": {
@@ -793,6 +913,23 @@
   },
   {
     "user": {
+      "screenName": "River1AM",
+      "name": "River1 Asset Management",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1816489985228300288/yH30pSDm_normal.jpg",
+      "description": "Active ETF Manager ($84m AUM)\n\n3-4 min perspective(s) on stocks you know!",
+      "followersCount": 204,
+      "friendsCount": 93,
+      "location": "Milwaukee, WI"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwkaf9uXUAA8sLb.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/River1AM/status/1948117671054123501",
+    "fullText": "52-week return:\n$RVER +23.45%\nNasdaq +17.36%\nSPX +14.04%\n\nSeems good\n\nSource Bloomberg https://t.co/eY3YLkPlxF"
+  },
+  {
+    "user": {
       "screenName": "MikeS52550662",
       "name": "Mishairo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1852780158312488960/GYSjfAkf_normal.jpg",
@@ -827,11 +964,28 @@
   },
   {
     "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16569,
+      "friendsCount": 1198,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwjwJrtWgAEFalE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1948070913548705800",
+    "fullText": "Gold miner Agnico Eagle Mines (AEM) is making waves, recently named to two top stock lists, including the prestigious IBD 50 and Big Cap 20, after hitting an all-time high.\n\nFor gold stock money managers, this recognition highlights @agnicoeagle’s strong fundamentals and https://t.co/ZC3Xi1f9FO"
+  },
+  {
+    "user": {
       "screenName": "AleoHQ",
       "name": "Aleo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836413549851140097/ZMjQzEUK_normal.jpg",
       "description": "Layer-1 blockchain that's zero-knowledge by design. Join us to build what you want with privacy at the forefront.",
-      "followersCount": 261286,
+      "followersCount": 261290,
       "friendsCount": 100,
       "location": "San Francisco, CA"
     },
@@ -912,7 +1066,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29629910,
+      "followersCount": 29629906,
       "friendsCount": 229,
       "location": ""
     },
@@ -922,6 +1076,23 @@
     ],
     "tweetUrl": "https://x.com/khloekardashian/status/1948005178617241713",
     "fullText": "I’m getting real about parenting this week 🤍 The good, the hard, the healing, and everything in between. Watch now on @X https://t.co/bMw4Zwmyb7"
+  },
+  {
+    "user": {
+      "screenName": "Arthavidyas",
+      "name": "Arthvidya",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904007964887007232/i3RcG3oN_normal.jpg",
+      "description": "Bridgewright. Parselmouth. #scenario01191991",
+      "followersCount": 378,
+      "friendsCount": 190,
+      "location": "Now"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwiybboXwAAx2bK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Arthavidyas/status/1948003025374577027",
+    "fullText": "the Japanese honeybees face the hornet,\nthey don’t sting. they hum.\ntogether. around the predator.\nthey generate heat — just enough \nto cook the hornet alive,\nwhile staying two degrees below their own death. 🐝 https://t.co/gClmBqKI2z"
   },
   {
     "user": {
@@ -939,6 +1110,23 @@
     ],
     "tweetUrl": "https://x.com/PadreApp/status/1948000294631076284",
     "fullText": "NEW UPDATES\n\n🏆 Top Discord groups calls marked on chart 🔥🔥🔥\n🏆 Wallet Tracker: individual settings per group (i.e. min trade size for chart marker, sound settings), increased limit to 10 groups = 10k tracked wallets! 🔥\n🏆 Search: engine upgrade and new layout with improved https://t.co/egjLZ2LgxI"
+  },
+  {
+    "user": {
+      "screenName": "TrustVanta",
+      "name": "Vanta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643267766470979584/lUtBWYw__normal.jpg",
+      "description": "Automate compliance, security, and trust with the leading AI trust management platform.",
+      "followersCount": 3700,
+      "friendsCount": 133,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947989423104348160/vid/avc1/1920x1080/XIYOsfENt82Q9Mj4.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TrustVanta/status/1947989993923977511",
+    "fullText": "✨Vanta has raised $150M in Series D funding and is now valued at $4.15B!✨\n\nOur mission is to help businesses earn and prove trust.\n\nIn 2018, that meant helping startups automate SOC 2, giving them a faster path to market and revenue.\n\nToday, it means using AI to help 12,000 https://t.co/rzBBS3GWF5"
   },
   {
     "user": {
