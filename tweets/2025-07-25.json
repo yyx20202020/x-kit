@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30506,
+      "friendsCount": 139,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwqolhTbgAMp7oK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1948555159191396824",
+    "fullText": "家里各种网络容易把人绕晕，描述清楚后懒猫微服售后团队会给一个最优解，速度噌噌噌就上去了 https://t.co/uzVRvwy3nZ"
+  },
+  {
+    "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
+      "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
+      "followersCount": 8986,
+      "friendsCount": 553,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwqnnlHbgAE_z7-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1948554093892698383",
+    "fullText": "我有种钱包丢了好多年结果又捡回来的感觉。昨天搬家到这家吃饭，结账的时候发现我是会员，里面还有不少预充的钱。可能是刚来新加坡的时候在其他分店冲的吧，关键我完全不记得了。 https://t.co/myEnerKT0M"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189103,
+      "followersCount": 189097,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -41,7 +75,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30507,
+      "followersCount": 30506,
       "friendsCount": 139,
       "location": "China"
     },
@@ -74,7 +108,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4239194,
+      "followersCount": 4239241,
       "friendsCount": 3,
       "location": ""
     },
@@ -119,6 +153,38 @@
   },
   {
     "user": {
+      "screenName": "ADINonline",
+      "name": "ADIN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894837171594342401/lkz4kDoP_normal.jpg",
+      "description": "The first autonomous venture fund.\n\nMembers source, agents analyze, investors vote, founders raise. Everyone wins. \n\nBy @tributelabsxyz",
+      "followersCount": 1228,
+      "friendsCount": 120,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948441690684944384/vid/avc1/1920x1080/Ev-18xef7fTMegcl.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ADINonline/status/1948445080668569967",
+    "fullText": "today, we’re opening the Network Member waitlist to the public. (like venture scouts with better economics).\n\njoin the first autonomous venture fund. ↓ https://t.co/qVh6Aw08q0"
+  },
+  {
+    "user": {
+      "screenName": "rywalker",
+      "name": "Ry Walker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/855914435994628097/_Fqg53Ck_normal.jpg",
+      "description": "ai optimist · ceo @tembo · prev ceo @astronomerio",
+      "followersCount": 4901,
+      "friendsCount": 2862,
+      "location": "Cincinnati, Ohio"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rywalker/status/1948436786344329616",
+    "fullText": "Does @astronomerio have more brand recognition than @confluentinc and @databricks now?"
+  },
+  {
+    "user": {
       "screenName": "lencx_",
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
@@ -141,7 +207,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59597,
+      "followersCount": 59598,
       "friendsCount": 377,
       "location": ""
     },
@@ -206,6 +272,23 @@
   },
   {
     "user": {
+      "screenName": "fiftyyears",
+      "name": "Fifty Years",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1782574179931594752/n6gzWb5x_normal.jpg",
+      "description": "Make something civilization needs. Helping great scientists and engineers become great entrepreneurs is our jam.",
+      "followersCount": 13869,
+      "friendsCount": 79,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948343300034871296/vid/avc1/1920x1080/5E5EPm1eG19GXpx0.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/fiftyyears/status/1948397885306835054",
+    "fullText": "SpaceX: \"What if rockets could be reused?\"\n\nTesla: \"What if cars don't need gas?\"\n\n@SailClippership: \"What if ships don't need fuel or crew?\" https://t.co/Rzx6oh3vPc"
+  },
+  {
+    "user": {
       "screenName": "HanQin20001609",
       "name": "Han Qin",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1846278051442970627/__vHgWo5_normal.jpg",
@@ -225,7 +308,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23613,
+      "followersCount": 23615,
       "friendsCount": 295,
       "location": "Guangdong"
     },
@@ -240,7 +323,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18587,
+      "followersCount": 18585,
       "friendsCount": 2101,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -272,7 +355,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30507,
+      "followersCount": 30506,
       "friendsCount": 139,
       "location": "China"
     },
@@ -304,7 +387,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30507,
+      "followersCount": 30506,
       "friendsCount": 139,
       "location": "China"
     },
@@ -338,7 +421,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30507,
+      "followersCount": 30506,
       "friendsCount": 139,
       "location": "China"
     },
@@ -355,7 +438,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11622,
+      "followersCount": 11621,
       "friendsCount": 3751,
       "location": ""
     },
@@ -370,7 +453,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33271,
+      "followersCount": 33274,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -385,7 +468,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33271,
+      "followersCount": 33274,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -402,7 +485,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30507,
+      "followersCount": 30506,
       "friendsCount": 139,
       "location": "China"
     },
@@ -555,6 +638,23 @@
   },
   {
     "user": {
+      "screenName": "PhenomPokerApp",
+      "name": "Phenom Poker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1728197377033392128/49ohbO9k_normal.jpg",
+      "description": "Decentralized online poker. Where every player is an owner. Join the poker revolution today. Visit the site to learn more at https://t.co/5fzclSCjtp",
+      "followersCount": 2772,
+      "friendsCount": 366,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwj5Gt8X0AAuQTd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PhenomPokerApp/status/1948080754702848339",
+    "fullText": "Today's the day for Mixed Game grinders  Full MTT schedule drops on Phenom Poker, NLH, Big O, 6-Card PLO, 2-7 Triple Draw &amp; more running all day and night.\n \n Come play the full rotation \n👉 http://play.phenompoker.comUse code INTHEMONEY for a 100% bonus up to 2,000 USDT. https://t.co/jDMiVKeSgR"
+  },
+  {
+    "user": {
       "screenName": "AleoHQ",
       "name": "Aleo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836413549851140097/ZMjQzEUK_normal.jpg",
@@ -625,7 +725,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29630223,
+      "followersCount": 29630144,
       "friendsCount": 229,
       "location": ""
     },
