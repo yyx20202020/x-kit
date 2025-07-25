@@ -1,12 +1,30 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21353,
+      "friendsCount": 1036,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwtmQZIbYAA9gkp.jpg",
+      "https://pbs.twimg.com/media/GwtmUfvbgAEI89_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1948763896715653546",
+    "fullText": "之前都是找我打广告，最近咋都想要我号。有种趁你病要你命的感觉 😅\n\n上次是“3000块，不诚心买”，这次是“我也是个，人”... https://t.co/PduKA0F3YY"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18577,
-      "friendsCount": 2109,
+      "followersCount": 18578,
+      "friendsCount": 2111,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -22,7 +40,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33274,
+      "followersCount": 33272,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -52,6 +70,23 @@
   },
   {
     "user": {
+      "screenName": "MollySOShea",
+      "name": "Molly O’Shea",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1673061505351450624/2A8YvQ2N_normal.jpg",
+      "description": "VC | Founder @Sourceryvc | HUGE fan of @brexhq",
+      "followersCount": 17438,
+      "friendsCount": 927,
+      "location": "LA / NYC / SF / MIA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948729128213250051/vid/avc1/1280x720/pu167Al3RN2jOXv8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MollySOShea/status/1948738447432450065",
+    "fullText": "BREAKING: Vise Hits $22B in Platform Assets &amp; 1275% YoY Growth, w/ ~40 Employees\n\nCEO &amp; Co-Founder Samir Vasavada (@samir_vasavada)  joins Sourcery to share how he &amp; his co-founder Runik Mehrotra (@RunikM) launched Vise to reshape the $83T wealth industry w/ technology\n\nBacked by https://t.co/Q3zyuKKkoB"
+  },
+  {
+    "user": {
       "screenName": "Robmontz",
       "name": "Rob Montz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934603779816505344/w9y4D3wH_normal.jpg",
@@ -73,7 +108,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59593,
+      "followersCount": 59594,
       "friendsCount": 377,
       "location": ""
     },
@@ -105,8 +140,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18577,
-      "friendsCount": 2109,
+      "followersCount": 18578,
+      "friendsCount": 2111,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -150,7 +185,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6100,
+      "followersCount": 6097,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -183,8 +218,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18577,
-      "friendsCount": 2109,
+      "followersCount": 18578,
+      "friendsCount": 2111,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -198,7 +233,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151169,
+      "followersCount": 151171,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -311,7 +346,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11625,
+      "followersCount": 11624,
       "friendsCount": 3756,
       "location": ""
     },
@@ -328,7 +363,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151169,
+      "followersCount": 151171,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -456,7 +491,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19070,
+      "followersCount": 19071,
       "friendsCount": 836,
       "location": "San Jose, CA"
     },
@@ -535,7 +570,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33274,
+      "followersCount": 33272,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -616,8 +651,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18577,
-      "friendsCount": 2109,
+      "followersCount": 18578,
+      "friendsCount": 2111,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -631,7 +666,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33274,
+      "followersCount": 33272,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -648,7 +683,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151169,
+      "followersCount": 151171,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -668,7 +703,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127863,
+      "followersCount": 127864,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -703,8 +738,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18577,
-      "friendsCount": 2109,
+      "followersCount": 18578,
+      "friendsCount": 2111,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -736,8 +771,8 @@
       "name": "WaynesWord",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897180624114614272/k82mnAeP_normal.jpg",
       "description": "Wayne Laugesen, award-winning journalist, hosts Wayne’s Word Podcast. Politics and culture.",
-      "followersCount": 375,
-      "friendsCount": 267,
+      "followersCount": 378,
+      "friendsCount": 270,
       "location": "Colorado"
     },
     "images": [],
@@ -753,7 +788,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151169,
+      "followersCount": 151171,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -804,7 +839,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30494,
+      "followersCount": 30490,
       "friendsCount": 139,
       "location": "China"
     },
@@ -838,7 +873,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189127,
+      "followersCount": 189132,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -988,7 +1023,7 @@
       "name": "Mercedes Schlapp",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898101395829456896/mBludBRf_normal.jpg",
       "description": "Faith, family, country, freedom. Ephesians 6:11. Host of @CPAC Now: America Uncanceled, Former WH Strategic Senior Advisor for President Trump",
-      "followersCount": 483183,
+      "followersCount": 483056,
       "friendsCount": 3767,
       "location": "Alexandria, VA"
     },
@@ -1523,6 +1558,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/secureainow/status/1948396825653776795",
     "fullText": "We encourage the administration to enact more safeguards to secure American chips, mitigate advanced AI’s potential dangers, and boost – not hinder – states’ ability to protect their citizens from the potential harms of AI.\n\nCEO @bstein80 responds to the AI Action Plan. https://t.co/xKDxgeCeOB"
+  },
+  {
+    "user": {
+      "screenName": "ckindel",
+      "name": "Tig",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869224082878668801/tRFlniKz_normal.jpg",
+      "description": "Ex-Amazon/MS/Etc...; working to make life multi-planetary 🌍 🪐 🚀 ⛷️⚽🚵‍♂️🚘",
+      "followersCount": 12116,
+      "friendsCount": 1197,
+      "location": "The Orion-Cygnus Arm"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwoVKFSbcAAjENP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ckindel/status/1948393131554349361",
+    "fullText": "Treat Dates with Sanctity\n\nIn project management, the ideal is No Date Is Ever Missed. Build a culture that strives to get asymptotically close to that ideal. \n\nNothing scares away mediocrity more than dates, dates, and dates for dates.\n\nMake it unacceptable to say, “I’m working https://t.co/fnFjg9Xlwd"
   },
   {
     "user": {
@@ -2269,7 +2321,7 @@
       "name": "The Alliance for Secure AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917992278020272128/A3022TPT_normal.jpg",
       "description": "Mitigating AI Risks and Protecting Humanity.",
-      "followersCount": 425,
+      "followersCount": 429,
       "friendsCount": 235,
       "location": "Washington, DC"
     },
