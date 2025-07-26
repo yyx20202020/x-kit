@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18574,
+      "friendsCount": 2119,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwyMCrIawAA0Acn.jpg",
+      "https://pbs.twimg.com/media/GwyMCrjbsAE_ZN8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1949086737491489090",
+    "fullText": "点三文鱼送了半盒边角料，煮一煮蘸酱油吃特别甜 https://t.co/1HSvgTs5gO"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 803,
+      "friendsCount": 494,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwyEksGaIAAEDK3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1949078602609467549",
+    "fullText": "发现现在宣传AI编程工具的帖子都是拿来生成单页小应用，这种也就只能看出模型能力吧，随便一个工具都可以做出来，真的看编程工具能力还得是多文件项目，先AI编程做一个产品迭代50个版本再看功编程工具能力，我用 Augment 做 https://t.co/tSLr2jJOKU 迭代超过50个版本，目前项目还没崩，怒夸Augment！ https://t.co/Ub29x0J2Av"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 11646,
+      "friendsCount": 3762,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwyD8lBasAAw92K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1949077834884100116",
+    "fullText": "最近试了个 AI 电台产品 📻「来福」，前百川智能某位联创做的。\n跟 NotebookLM、扣子播客那类工具不同——它不是工具，而是一套完整的服务，打开就有音频流源源不断，可以语音控制、语音聊天、语音点播。\n🧠 会分析你的兴趣\n🗣️ 能和 AI 主播互动\n📝 有长记忆，越聊越懂你 https://t.co/Z5mzPhYGDO"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151151,
+      "followersCount": 151154,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -59,7 +111,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6104,
+      "followersCount": 6106,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -89,7 +141,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
       "description": "CEO, Bootloader AI\n我也绝非等闲之辈！🥹",
-      "followersCount": 7640,
+      "followersCount": 7642,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -106,7 +158,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18575,
+      "followersCount": 18574,
       "friendsCount": 2119,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -121,7 +173,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127893,
+      "followersCount": 127897,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -138,7 +190,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21358,
+      "followersCount": 21359,
       "friendsCount": 1036,
       "location": ""
     },
@@ -156,7 +208,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18575,
+      "followersCount": 18574,
       "friendsCount": 2119,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -171,7 +223,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18575,
+      "followersCount": 18574,
       "friendsCount": 2119,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -203,7 +255,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18575,
+      "followersCount": 18574,
       "friendsCount": 2119,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -218,7 +270,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127893,
+      "followersCount": 127897,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -272,7 +324,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6104,
+      "followersCount": 6106,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -287,7 +339,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151151,
+      "followersCount": 151154,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -354,6 +406,23 @@
   },
   {
     "user": {
+      "screenName": "WWE",
+      "name": "WWE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_normal.jpg",
+      "description": "| Raw: Mondays at 8ET/5PT on Netflix | NXT: Tuesdays at 8ET/7CT on The CW | SmackDown: Fridays at 8ET/7CT on USA Network",
+      "followersCount": 14563493,
+      "friendsCount": 382,
+      "location": "Stamford, CT"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948909996902612992/vid/avc1/1920x1080/kdrB9S2fc_RvYsvl.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/WWE/status/1948910228298137843",
+    "fullText": ".@tiffstrattonwwe just helped @Jade_Cargill take out The Secret Hervice 😱 https://t.co/6JKvjQIw9E"
+  },
+  {
+    "user": {
       "screenName": "WBR_2021",
       "name": "Dogsafour",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1817293278938624000/aAmcUJn2_normal.jpg",
@@ -405,7 +474,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127893,
+      "followersCount": 127897,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -616,7 +685,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11643,
+      "followersCount": 11646,
       "friendsCount": 3762,
       "location": ""
     },
@@ -648,7 +717,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6104,
+      "followersCount": 6106,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -710,7 +779,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21358,
+      "followersCount": 21359,
       "friendsCount": 1036,
       "location": ""
     },
@@ -824,7 +893,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33271,
+      "followersCount": 33269,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -909,7 +978,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59576,
+      "followersCount": 59575,
       "friendsCount": 377,
       "location": ""
     },
@@ -939,7 +1008,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18575,
+      "followersCount": 18574,
       "friendsCount": 2119,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -984,7 +1053,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6104,
+      "followersCount": 6106,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -1017,7 +1086,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18575,
+      "followersCount": 18574,
       "friendsCount": 2119,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1047,7 +1116,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151151,
+      "followersCount": 151154,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -1064,7 +1133,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74343,
+      "followersCount": 74342,
       "friendsCount": 3426,
       "location": ""
     },
@@ -1126,7 +1195,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6855,
+      "followersCount": 6854,
       "friendsCount": 1480,
       "location": ""
     },
@@ -1143,7 +1212,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74343,
+      "followersCount": 74342,
       "friendsCount": 3426,
       "location": ""
     },
@@ -1455,7 +1524,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127893,
+      "followersCount": 127897,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -1661,6 +1730,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/CEC_Onc/status/1948473283524829456",
     "fullText": "WATCH NOW: Grand Rounds on Advancing Cervical Cancer Care:New Therapies, Guidelines Credit Info: https://t.co/nM1MWHZZMt https://t.co/IOS7mFH7PN"
+  },
+  {
+    "user": {
+      "screenName": "TalkinBaseball_",
+      "name": "Talkin’ Baseball",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934560990869200896/edy2BoeN_normal.jpg",
+      "description": "Baseball podcast brought to you by @JomboyMedia | Hosted by @TalkinJake & @trevorplouffe",
+      "followersCount": 461745,
+      "friendsCount": 664,
+      "location": "Jomboy Media"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948450700079312896/vid/avc1/1080x1080/Bmp39kn6_6uwDiMD.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TalkinBaseball_/status/1948450910063276066",
+    "fullText": "81 games should be considered the halfway mark of the season https://t.co/ETgL7ab6Ie"
   },
   {
     "user": {
