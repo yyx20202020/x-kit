@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21359,
+      "friendsCount": 1036,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwxKreNbgAgjcnJ.jpg",
+      "https://pbs.twimg.com/media/GwxKreLaIAAyE2l.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1949014854993674588",
+    "fullText": "看到数学家还在用网页版对话式 AI，我就感觉让 Noi Ask 支持 markdown 输入及预览（公式、流程图等）或许还有意义 😅\n\n支持发送记录也算是一个临时笔记本了，后面再搞个 prompt 微调版本记录，感觉一个输入框要给我玩坏了… https://t.co/p46WkRShff"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18569,
+      "followersCount": 18572,
       "friendsCount": 2115,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -20,7 +38,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18569,
+      "followersCount": 18572,
       "friendsCount": 2115,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -37,7 +55,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18569,
+      "followersCount": 18572,
       "friendsCount": 2115,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -52,7 +70,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18569,
+      "followersCount": 18572,
       "friendsCount": 2115,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -67,7 +85,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127877,
+      "followersCount": 127883,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -104,7 +122,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30483,
+      "followersCount": 30480,
       "friendsCount": 139,
       "location": "China"
     },
@@ -136,7 +154,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151159,
+      "followersCount": 151164,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -155,7 +173,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30483,
+      "followersCount": 30480,
       "friendsCount": 139,
       "location": "China"
     },
@@ -172,7 +190,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30483,
+      "followersCount": 30480,
       "friendsCount": 139,
       "location": "China"
     },
@@ -239,7 +257,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19126,
+      "followersCount": 19125,
       "friendsCount": 836,
       "location": "San Jose, CA"
     },
@@ -254,7 +272,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127877,
+      "followersCount": 127883,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -641,7 +659,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33274,
+      "followersCount": 33273,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -726,7 +744,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59591,
+      "followersCount": 59592,
       "friendsCount": 377,
       "location": ""
     },
@@ -756,7 +774,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18569,
+      "followersCount": 18572,
       "friendsCount": 2115,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -834,7 +852,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18569,
+      "followersCount": 18572,
       "friendsCount": 2115,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -864,7 +882,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151159,
+      "followersCount": 151164,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -881,7 +899,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74348,
+      "followersCount": 74349,
       "friendsCount": 3426,
       "location": ""
     },
@@ -930,7 +948,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74348,
+      "followersCount": 74349,
       "friendsCount": 3426,
       "location": ""
     },
@@ -979,7 +997,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151159,
+      "followersCount": 151164,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -1028,7 +1046,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19126,
+      "followersCount": 19125,
       "friendsCount": 836,
       "location": "San Jose, CA"
     },
@@ -1109,7 +1127,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33274,
+      "followersCount": 33273,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -1175,7 +1193,7 @@
       "name": "Starseed",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1910817060503887872/yIHbEh-R_normal.jpg",
       "description": "Seeding the world of tomorrow, today.\n$SEED: AjLY1z4gQ9in2p1ccT7wK3E5ETPMzF5u7NzQYRjodBLV\nLaunched on @believeapp.\nhttps://t.co/3UgQmFKcBG",
-      "followersCount": 3150,
+      "followersCount": 3149,
       "friendsCount": 122,
       "location": ""
     },
@@ -1212,7 +1230,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127877,
+      "followersCount": 127883,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -1425,7 +1443,7 @@
       "name": "Morra Games",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1941527331203436544/sI-A03fk_normal.jpg",
       "description": "Gaming. Community & Ownership |\nIPs: @karnakmobile // @playmythya",
-      "followersCount": 38431,
+      "followersCount": 38435,
       "friendsCount": 441,
       "location": "Morraverse"
     },
