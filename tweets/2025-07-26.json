@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18571,
+      "friendsCount": 2113,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1948970071453564936",
+    "fullText": "做了一整晚噩梦，梦里我的行为被家人断章取义、过度解读，以至于醒来还是非常的烦躁，什么话都不想说\n有些很糟糕的回忆，本来都忘了，现在全都想起来了\n算了算了，中午去吃大餐哄哄自己，可能就好了🫤"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127867,
+      "followersCount": 127868,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -19,11 +34,30 @@
   },
   {
     "user": {
+      "screenName": "FLLBeachBallers",
+      "name": "Fort Lauderdale Beach Ballers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916870425730019328/ulnqe4YY_normal.jpg",
+      "description": "This is home to the Fort Lauderdale Beach Ballers. Please click the below links and sign our petition to save our Iconic courts!!!",
+      "followersCount": 22,
+      "friendsCount": 42,
+      "location": "Fort Lauderdale Beach"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwwXa1nWQAAPLwi.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1948958491642662912/pu/vid/avc1/442x960/PonYvurDoSuIwSlv.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/FLLBeachBallers/status/1948958512068866263",
+    "fullText": "Let's go people. Come out and support our team! City Commissioners think they can move our court to make us happy. Sorry....the courts cannot be moved. They represent the desegregation of the Fort Lauderdale beaches in the 1960's. They are historical. https://t.co/dy5gkielBC"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30486,
+      "followersCount": 30483,
       "friendsCount": 139,
       "location": "China"
     },
@@ -40,7 +74,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6103,
+      "followersCount": 6104,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -74,7 +108,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30486,
+      "followersCount": 30483,
       "friendsCount": 139,
       "location": "China"
     },
@@ -91,7 +125,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30486,
+      "followersCount": 30483,
       "friendsCount": 139,
       "location": "China"
     },
@@ -126,7 +160,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4919,
+      "followersCount": 4920,
       "friendsCount": 504,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -158,7 +192,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127867,
+      "followersCount": 127868,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -215,6 +249,23 @@
     ],
     "tweetUrl": "https://x.com/danny_capel/status/1948840085706997881",
     "fullText": "Time is running—stop waiting, start living, make every second count. https://t.co/A8rlcmV6Yq"
+  },
+  {
+    "user": {
+      "screenName": "CoachNickMoney",
+      "name": "Coach Nick Money",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905374908130930688/szOgKu3K_normal.jpg",
+      "description": "My content is not stock or financial advice. It is my opinion. Always do your own due diligence. https://t.co/JGCEuIWalv",
+      "followersCount": 13948,
+      "friendsCount": 20,
+      "location": "Discord ➡️"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwuorRtWkAAlOi9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CoachNickMoney/status/1948836828804530537",
+    "fullText": "We dropped $MCVT to our private Discord today before it ran up 231%. We provided 4 other 100%+ runners and 2 other large runners as well! We provide real-time small-cap stock runners, custom scanners and real-time stock news. The 1st 4 days are $1.99. Join here: https://t.co/wGNSRSdrcy"
   },
   {
     "user": {
@@ -322,7 +373,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6103,
+      "followersCount": 6104,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -382,6 +433,21 @@
     ],
     "tweetUrl": "https://x.com/cygnal/status/1948761975271358468",
     "fullText": "How often does your family sit down for dinner together each week? According to our latest NVT data, most Americans make time for this NEARLY EVERY DAY — a heartening trend in today’s busy world. @brentbuc https://t.co/ZNmBxAS436"
+  },
+  {
+    "user": {
+      "screenName": "D3fibrillator",
+      "name": "⚡Keith's Broken Maracas⚡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891878984591290368/1ca2916W_normal.jpg",
+      "description": "🦅America First. 🐊Florida Man.  🐱Cat Dad.  ⚡PatHead.  🍪Keksi Cookie Monster.  #PatHeads #PutThatInYourPipe",
+      "followersCount": 744,
+      "friendsCount": 1314,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/D3fibrillator/status/1948756306640171390",
+    "fullText": "Keeping Jesus in mind, should we meme our enemies or pray for them?  Is it possible to do both without judging others? 🔥🙏"
   },
   {
     "user": {
@@ -453,7 +519,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33277,
+      "followersCount": 33274,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -504,7 +570,7 @@
       "name": "Hadeel Oueis هديل عويس",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912475901884829697/pa10MeTV_normal.jpg",
       "description": "Editor-in-chief @JusoorNews | Syria Expert.",
-      "followersCount": 84397,
+      "followersCount": 84400,
       "friendsCount": 4429,
       "location": "Maryland, USA "
     },
@@ -538,7 +604,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59582,
+      "followersCount": 59583,
       "friendsCount": 377,
       "location": ""
     },
@@ -613,7 +679,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6103,
+      "followersCount": 6104,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -755,6 +821,23 @@
   },
   {
     "user": {
+      "screenName": "CGasparino",
+      "name": "Charles Gasparino",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1504155169134727171/h1d-cili_normal.jpg",
+      "description": "Charles Gasparino is a FOX Biz Senior Correspondent, NY Post columnist & author of Go Woke Go Broke; The Inside Story of the Radicalization of Corporate America",
+      "followersCount": 240074,
+      "friendsCount": 4791,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948609768777474048/vid/avc1/1920x1080/_6Oas50yk1M7o0Vu.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CGasparino/status/1948665008415453625",
+    "fullText": "🚨RISK AND RETURN NEW EPISODE 🚨\n\nBattleground Stocks Take Center Stage, Stephen Colbert's Loud Exit\n\nIn the newest episode of Risk and Return, Charlie Gasparino and S3 Partners' Bob Sloan break down the difference between meme stocks and battleground stocks like $KSS and $AI. https://t.co/HQXoFzUZTi"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
@@ -840,7 +923,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33277,
+      "followersCount": 33274,
       "friendsCount": 636,
       "location": "Hong Kong"
     },
@@ -926,7 +1009,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127867,
+      "followersCount": 127868,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
