@@ -86,6 +86,23 @@
   },
   {
     "user": {
+      "screenName": "ziggledev",
+      "name": "Ziggle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1949277396101648384/1ECvg-AH_normal.jpg",
+      "description": "check out clanker, a grok based - claude code like cli tool with a npm like package manager",
+      "followersCount": 0,
+      "friendsCount": 5,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949378422003666944/vid/avc1/3340x2160/V70TcCOvWKNPrsqG.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ziggledev/status/1949379605288079426",
+    "fullText": "npm install -g @ziggler/clanker\nclanker https://t.co/CK3ZEm54UD"
+  },
+  {
+    "user": {
       "screenName": "ZavgSergey",
       "name": "Sergey 🇵🇹",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1948872261273833472/DINQR26E_normal.jpg",
@@ -107,7 +124,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128048,
+      "followersCount": 128049,
       "friendsCount": 1340,
       "location": "Chicago, IL"
     },
@@ -188,7 +205,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151137,
+      "followersCount": 151138,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -240,7 +257,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6106,
+      "followersCount": 6107,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -317,7 +334,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74339,
+      "followersCount": 74340,
       "friendsCount": 3425,
       "location": ""
     },
@@ -503,7 +520,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 108209,
+      "followersCount": 108208,
       "friendsCount": 247,
       "location": "Singapore"
     },
@@ -617,7 +634,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18570,
+      "followersCount": 18571,
       "friendsCount": 2131,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -650,7 +667,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
       "followersCount": 6882,
-      "friendsCount": 1485,
+      "friendsCount": 1486,
       "location": ""
     },
     "images": [
@@ -666,7 +683,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6106,
+      "followersCount": 6107,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -730,7 +747,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18570,
+      "followersCount": 18571,
       "friendsCount": 2131,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -745,7 +762,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18570,
+      "followersCount": 18571,
       "friendsCount": 2131,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -829,7 +846,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151137,
+      "followersCount": 151138,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -883,7 +900,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6106,
+      "followersCount": 6107,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -945,7 +962,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128048,
+      "followersCount": 128049,
       "friendsCount": 1340,
       "location": "Chicago, IL"
     },
@@ -995,7 +1012,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18570,
+      "followersCount": 18571,
       "friendsCount": 2131,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1010,7 +1027,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18570,
+      "followersCount": 18571,
       "friendsCount": 2131,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1372,7 +1389,7 @@
       "name": "Coach Nick Money",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905374908130930688/szOgKu3K_normal.jpg",
       "description": "My content is not stock or financial advice. It is my opinion. Always do your own due diligence. https://t.co/JGCEuIWalv",
-      "followersCount": 13949,
+      "followersCount": 13948,
       "friendsCount": 20,
       "location": "Discord ➡️"
     },
@@ -1605,6 +1622,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/lencx_/status/1948763896715653546",
     "fullText": "之前都是找我打广告，最近咋都想要我号。有种趁你病要你命的感觉 😅\n\n上次是“3000块，不诚心买”，这次是“我也是个，人”... https://t.co/PduKA0F3YY"
+  },
+  {
+    "user": {
+      "screenName": "rbradthomas",
+      "name": "Brad Thomas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1725935981612716032/Xfj-EnKA_normal.jpg",
+      "description": "Founder Wide Moat Research, Creator of iREIT®, Author of REITs For Dummies: https://t.co/PkB9GqCeB4",
+      "followersCount": 20575,
+      "friendsCount": 4412,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwtjMG5XUAABPX_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rbradthomas/status/1948760992860483809",
+    "fullText": "Takeaways from $BX Q2-25 earnings call:\n\n👉 \"Distributable earnings increased 25% year-over-year to $1.6 billion ($1.21/sh).\"\n\n👉 \" Fund flows of $212 billion for the last 12 months, lifting AUM 13% year-over-year to a record $1.2 trillion.\"\n\n👉 \"We invested $33 billion in the https://t.co/wa8xK4ilkZ"
   },
   {
     "user": {
