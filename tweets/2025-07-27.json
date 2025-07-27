@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 33272,
+      "friendsCount": 636,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw2svRubsAEKwzX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1949406884253102169",
+    "fullText": "今天在整理AI编程课的学员案例，给大家的作品做封面。才发现https://t.co/eiFG9Jyyls的功能已经丰富到我有点用不来了...\n\n这个事情引出我一直以来的一个思考：商业产品很多时候不得不在“更多功能”和“更好使用”之间拉扯，很难两全。当它为更多人服务 + https://t.co/ox7mM792cX"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -39,7 +56,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128043,
+      "followersCount": 128042,
       "friendsCount": 1340,
       "location": "Chicago, IL"
     },
@@ -56,7 +73,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4922,
+      "followersCount": 4920,
       "friendsCount": 505,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -105,7 +122,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151139,
+      "followersCount": 151135,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -217,7 +234,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74339,
+      "followersCount": 74336,
       "friendsCount": 3425,
       "location": ""
     },
@@ -371,7 +388,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4922,
+      "followersCount": 4920,
       "friendsCount": 505,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -384,11 +401,26 @@
   },
   {
     "user": {
+      "screenName": "LuisPaulBaron",
+      "name": "Luis Paul S. Baron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1831875485606756352/esM_whjq_normal.jpg",
+      "description": "Senior Catholic Missionary, Probono IT & AI Consulting for Christian Projects, Author, Founder. 12 twitters in 12 years of boycott ended after Elon Musk got it.",
+      "followersCount": 423,
+      "friendsCount": 1544,
+      "location": "Metro Washington-DC USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LuisPaulBaron/status/1949187709689274644",
+    "fullText": "In this especial day, when The Church celebrates the lives of grandparents throughout the world, interconnected with the feast day of Sts. Anne &amp; Joachim, the parents of Mary, I'm honored to share a \"Program of Life\" in form of prayer, which I composed for the members of our"
+  },
+  {
+    "user": {
       "screenName": "yuxiyou",
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 108210,
+      "followersCount": 108212,
       "friendsCount": 247,
       "location": "Singapore"
     },
@@ -396,6 +428,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuxiyou/status/1949180942779859174",
     "fullText": "万能的推，有人认识这个 web3 项目背后的人么？\nhttps://t.co/ARAfegpKmy\n应该是华人，项目似乎已经弃坑，npm 上 @ vite org 下的包已经三年没有更新。 想看看能不能联系到负责他们把这个 org 要过来。"
+  },
+  {
+    "user": {
+      "screenName": "omnifariou9",
+      "name": "Omnifarious9",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915158843316719616/mdYv4zQ5_normal.jpg",
+      "description": "Om·ni·far·i·ous - \ncomprising or relating to all sorts or varieties. Sales executive thats generated millons in revenue for Fortune 500 companies. \n@Veefriends",
+      "followersCount": 674,
+      "friendsCount": 1513,
+      "location": "Miami Florida"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omnifariou9/status/1949170520580137084",
+    "fullText": "Lol, Iluvium releases a new \"summer\" wave lineup and asks for people to leave comments with their thoughts on it, I go into discord, I see anyone who left a comment that was slightly negative get told \"go somewhere else to play\", and they wonder why they get less than 40 votes on"
   },
   {
     "user": {
@@ -469,7 +516,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18581,
+      "followersCount": 18569,
       "friendsCount": 2130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -501,7 +548,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6878,
+      "followersCount": 6879,
       "friendsCount": 1482,
       "location": ""
     },
@@ -582,7 +629,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18581,
+      "followersCount": 18569,
       "friendsCount": 2130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -597,7 +644,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18581,
+      "followersCount": 18569,
       "friendsCount": 2130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -681,7 +728,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151139,
+      "followersCount": 151135,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -797,7 +844,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128043,
+      "followersCount": 128042,
       "friendsCount": 1340,
       "location": "Chicago, IL"
     },
@@ -847,7 +894,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18581,
+      "followersCount": 18569,
       "friendsCount": 2130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -862,7 +909,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18581,
+      "followersCount": 18569,
       "friendsCount": 2130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -913,7 +960,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18581,
+      "followersCount": 18569,
       "friendsCount": 2130,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -945,7 +992,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128043,
+      "followersCount": 128042,
       "friendsCount": 1340,
       "location": "Chicago, IL"
     },
@@ -1224,7 +1271,7 @@
       "name": "Coach Nick Money",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905374908130930688/szOgKu3K_normal.jpg",
       "description": "My content is not stock or financial advice. It is my opinion. Always do your own due diligence. https://t.co/JGCEuIWalv",
-      "followersCount": 13950,
+      "followersCount": 13949,
       "friendsCount": 20,
       "location": "Discord ➡️"
     },
@@ -1547,7 +1594,7 @@
       "name": "Rob Montz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934603779816505344/w9y4D3wH_normal.jpg",
       "description": "as seen in the new york times, free press, megyn kelly and your weird but precocious nephew's youtube feed. no father to the style.",
-      "followersCount": 3561,
+      "followersCount": 3562,
       "friendsCount": 501,
       "location": ""
     },
@@ -1611,7 +1658,7 @@
       "name": "LifePoints",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1590029420290768896/_P3X845V_normal.jpg",
       "description": "Got something to say? Say it with us and get paid for it! Earn cash & gift cards for giving your opinion on popular brands and products. CLICK BELOW & SIGN UP",
-      "followersCount": 109647,
+      "followersCount": 109649,
       "friendsCount": 1,
       "location": "Worldwide"
     },
