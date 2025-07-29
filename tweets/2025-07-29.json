@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "AfternoonFin",
+      "name": "Afternoon Finance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943432497443803138/pvOaCG7u_normal.jpg",
+      "description": "Get a 5 minute update covering what you need to know from Wall Street to Silicon Valley & Beyond.\n4:30pm EST. Monday through Friday. 100% free.",
+      "followersCount": 3,
+      "friendsCount": 9,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxDWvwaasAA0Tig.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AfternoonFin/status/1950294798415409465",
+    "fullText": "🧵 1/19\nHappy National Chicken Wing Day.\nMarkets brought the heat too.\nGrab a napkin—we're digging into the spiciest headlines in business, markets, and the world. https://t.co/bnUNvIOOrn"
+  },
+  {
+    "user": {
       "screenName": "CockleDrain",
       "name": "Cockle Drain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824530894918647808/Lr1QVnhi_normal.jpg",
@@ -32,6 +49,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/X30072105/status/1950278107015082038",
     "fullText": "Finding common grounds between feminism and traditional values:\n\nWomen should be allowed to be strong and independent if they so choose,\nAnd be recognized, appreciated and applauded for their accomplishments.\n \nBut they should NOT be required or indoctrinated to be strong and"
+  },
+  {
+    "user": {
+      "screenName": "rsg",
+      "name": "Bobby Goodlatte",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1278244390176092161/tWErC_xw_normal.jpg",
+      "description": "Co-founder & CEO @trysunflower 🌻 Product designer & startup investor. Early design @Facebook. Angel investor @Coinbase @Linear @Expo @XMTP_ & 200+ more",
+      "followersCount": 77846,
+      "friendsCount": 2848,
+      "location": "Miami"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxC80CsX0AA1yuq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rsg/status/1950266852191719811",
+    "fullText": "We got an incredible write-up over on LinkedIn from one of our investors: @TRVentureCap \n\nThey've been in our corner from nearly day one—long before the @trysunflower alpha started rolling out (to an incredibly positive reception!)\n\nTheir conviction in us means a ton to me ❤️ https://t.co/6Tc8MHG5jX"
   },
   {
     "user": {
@@ -152,7 +186,7 @@
       "name": "NoFilterGPT",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1773183361084694528/nza-AA4c_normal.jpg",
       "description": "AI chat service without limitations. We're Private, Unhinged, Unfiltered, Uncensored, Unrestrained.",
-      "followersCount": 978,
+      "followersCount": 980,
       "friendsCount": 1515,
       "location": ""
     },
@@ -184,7 +218,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4246023,
+      "followersCount": 4246071,
       "friendsCount": 3,
       "location": ""
     },
@@ -352,7 +386,7 @@
       "name": "PeloSwing🎯👸🏻",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1757131068698710016/9dmOvBd__normal.jpg",
       "description": "Options Trading 🏛 Bringing Wall St to Main St💪 *Not financial advice* (Parody/not affiliated with Nancy) Est. Dec 2021",
-      "followersCount": 27462,
+      "followersCount": 27469,
       "friendsCount": 315,
       "location": "Washington, DC"
     },
@@ -392,6 +426,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/multisynq/status/1950206298064040242",
     "fullText": "Multisynq stays up"
+  },
+  {
+    "user": {
+      "screenName": "10minutedrill",
+      "name": "10 Minute Drill",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1946819852565426177/iLAjMfCk_normal.jpg",
+      "description": "Your morning 10-minute rundown of the most important stories in news and politics, hosted by veteran political strategist @mattdizwhitlock. New episodes T/Th.",
+      "followersCount": 2658,
+      "friendsCount": 149,
+      "location": "Washington, DC "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950068099266596866/vid/avc1/1280x720/fVRduD_uqgWzWLaO.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/10minutedrill/status/1950205925433958854",
+    "fullText": "💣 It's been called \"the biggest political story you haven't heard about\" \n\nAs Democrats fight to get illegal immigrants counted in the census ahead of Congressional reapportionment, red states move to redraw their Congressional maps to deal with influx coming from blue states https://t.co/t1S9oRbuzs"
   },
   {
     "user": {
@@ -1376,7 +1427,7 @@
       "name": "CaliforniaABC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2459549271/abcstar_normal.gif",
       "description": "California Department of Alcoholic Beverage Control (ABC)",
-      "followersCount": 4831,
+      "followersCount": 4833,
       "friendsCount": 914,
       "location": "Headquarters Sacramento, CA"
     },
@@ -1931,8 +1982,8 @@
       "name": "The Alliance for Secure AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917992278020272128/A3022TPT_normal.jpg",
       "description": "Mitigating AI Risks and Protecting Humanity.",
-      "followersCount": 439,
-      "friendsCount": 239,
+      "followersCount": 440,
+      "friendsCount": 242,
       "location": "Washington, DC"
     },
     "images": [],
