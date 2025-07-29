@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30466,
+      "friendsCount": 142,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxB3ABRXYAAAATu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1950189986776825979",
+    "fullText": "旅游之前就买了，一直没时间读，这两天才读完老爷子的书，语言朴实，创业有激情。\n\n朴实无华的话道出了做生意的秘诀。\n\n下面是，我读后的一些读书笔记分享给大家。 https://t.co/jr7FkJYfbF"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 805,
+      "friendsCount": 494,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1950186530321977570",
+    "fullText": "发现接入多渠道的生图模型后，最难处理的是错误提示，不同渠道的各种错误场景，很难收集全，导致现在不能细分场景给用户明确的提示，有点难搞啊。"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11707,
+      "followersCount": 11705,
+      "friendsCount": 3792,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxBy5rCW4AA7RD1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1950184987401084949",
+    "fullText": "微信手机端-多选-转发，终于好使了！ https://t.co/dbA5fTAOxy"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 11705,
       "friendsCount": 3792,
       "location": ""
     },
@@ -16,11 +65,43 @@
   },
   {
     "user": {
+      "screenName": "gunb33",
+      "name": "Billy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874150206771499008/mN3TWFI__normal.jpg",
+      "description": "Predicting movements with pre-and-post earnings insights for smarter trades.\nI'm sharing my case: $PEP $NVDA $CSCO $INTC",
+      "followersCount": 111,
+      "friendsCount": 42,
+      "location": "Denver. USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxBtVQRaQAA9hID.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/gunb33/status/1950178974421963085",
+    "fullText": "$WKSP projects revenue of approximately $20–25M for 2025, reflecting significant growth compared to 2024. The company is actively executing its plans, with products currently shipping, a scaled factory, and government contracts underway.\n\nIn 2024, revenue was around $10M. The https://t.co/LN1Jl2zC42"
+  },
+  {
+    "user": {
+      "screenName": "TopstepTV",
+      "name": "TopstepTV",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
+      "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
+      "followersCount": 7180,
+      "friendsCount": 32,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TopstepTV/status/1950176283612369078",
+    "fullText": "🚨 TopstepTV is LIVE: @TheOneLanceB joins us and the TopstepVIP Draft continues! Don’t miss the action.\nFollow on X @TopstepTV\nSubscribe on YouTube: https://t.co/AirwNjhYnZ https://t.co/8HTRivnZp5"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11707,
+      "followersCount": 11705,
       "friendsCount": 3792,
       "location": ""
     },
@@ -31,11 +112,28 @@
   },
   {
     "user": {
+      "screenName": "gabby74968",
+      "name": "Michelle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929552526258417665/_m_EF8yq_normal.jpg",
+      "description": "I'd like to create a platform for survivors of narcissistic abuse where we all feel understood through spiritual tidbits and uplifting stories, tips and advice.",
+      "followersCount": 26,
+      "friendsCount": 31,
+      "location": "Ohio, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxBmv4vWYAAqibs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/gabby74968/status/1950171620674355468",
+    "fullText": "Remember, the trauma bond is created from the love bombing/abuse cycle the narcissist creates. This disregulates brain chemistry. It literally creates psychological and psychological reactions all throughout your body. This is why so many survivors of narcisstic abuse end up with https://t.co/JfglfdsolD"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11707,
+      "followersCount": 11705,
       "friendsCount": 3792,
       "location": ""
     },
@@ -86,7 +184,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56092,
+      "followersCount": 56094,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -138,7 +236,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33345,
+      "followersCount": 33347,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -170,7 +268,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11707,
+      "followersCount": 11705,
       "friendsCount": 3792,
       "location": ""
     },
@@ -205,7 +303,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18561,
       "friendsCount": 2157,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -222,7 +320,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30463,
+      "followersCount": 30466,
       "friendsCount": 142,
       "location": "China"
     },
@@ -259,7 +357,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19223,
+      "followersCount": 19224,
       "friendsCount": 837,
       "location": "San Jose, CA"
     },
@@ -387,7 +485,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11707,
+      "followersCount": 11705,
       "friendsCount": 3792,
       "location": ""
     },
@@ -422,7 +520,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11707,
+      "followersCount": 11705,
       "friendsCount": 3792,
       "location": ""
     },
@@ -439,7 +537,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18561,
       "friendsCount": 2157,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -814,7 +912,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151209,
+      "followersCount": 151215,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -865,7 +963,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18561,
       "friendsCount": 2157,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -897,7 +995,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33345,
+      "followersCount": 33347,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -912,7 +1010,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18561,
       "friendsCount": 2157,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
