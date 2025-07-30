@@ -1,11 +1,44 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 151210,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1950421351296356570",
+    "fullText": "在雅加达第一次看到司机转弯要给一个人钱时感到很诧异，那人既不像管理人员也不像是是乞讨的。后来发现这是一种特殊的职业，路上有很多。雅加达非常堵，如果要在道路中间转弯或者调头，他会帮你拦住对向的车，让你快速通过，只要给他一个硬币就行。"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18575,
+      "followersCount": 18571,
+      "friendsCount": 2163,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxFJC8HacAAabX0.jpg",
+      "https://pbs.twimg.com/media/GxFIZwLbAAAYpjK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1950420636192690612",
+    "fullText": "Mint 了一个 「ETH十周年纪念NFT」 ,支付 0.5u Gas Fee\n\nMint 地址👇\nhttps://t.co/aTwHyZfPIC https://t.co/P1rO8eIsvt"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18571,
       "friendsCount": 2163,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -20,7 +53,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128379,
+      "followersCount": 128380,
       "friendsCount": 1343,
       "location": "Chicago, IL"
     },
@@ -38,7 +71,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 11741,
-      "friendsCount": 3796,
+      "friendsCount": 3797,
       "location": ""
     },
     "images": [
@@ -54,7 +87,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18575,
+      "followersCount": 18571,
       "friendsCount": 2163,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -69,7 +102,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30466,
+      "followersCount": 30465,
       "friendsCount": 142,
       "location": "China"
     },
@@ -137,7 +170,7 @@
       "name": "Scientology Network",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1624465216401727493/SgA--cXs_normal.jpg",
       "description": "Watch on DIRECTV 320, DIRECTV STREAM, AT&T U-verse, Roku, Apple TV, Fire TV and https://t.co/OQcPQOkOda!",
-      "followersCount": 31152,
+      "followersCount": 31155,
       "friendsCount": 56,
       "location": "Hollywood, Los Angeles"
     },
@@ -408,6 +441,26 @@
   },
   {
     "user": {
+      "screenName": "marketwirenews",
+      "name": "Market Wire News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1806758575148011521/7uxqERRy_normal.jpg",
+      "description": "Real-time stock news & investor tools\nDaily #StockNews at https://t.co/0PViOdLpgF\nFollow for market updates!",
+      "followersCount": 61798,
+      "friendsCount": 0,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxDGP6DWIAAIiyh.jpg",
+      "https://pbs.twimg.com/media/GxDGR2_XgAAVSjE.jpg",
+      "https://pbs.twimg.com/media/GxDGYpKXwAA-Bp_.jpg",
+      "https://pbs.twimg.com/media/GxDGdMCWcAAoLvj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/marketwirenews/status/1950277499545669919",
+    "fullText": "A Promising Growth Opportunity in Defense Tech\n\nVisionWave Holdings, Inc. (Nasdaq: $VWAV) emerges as a high-potential investment in the rapidly expanding AI-driven defense technology sector. \n\nIts July 15, 2025, Nasdaq debut and a $55 million funding package, including a $50 https://t.co/0PBsBNnQtC"
+  },
+  {
+    "user": {
       "screenName": "rsg",
       "name": "Bobby Goodlatte",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1278244390176092161/tWErC_xw_normal.jpg",
@@ -508,7 +561,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4246680,
+      "followersCount": 4246713,
       "friendsCount": 3,
       "location": ""
     },
@@ -593,7 +646,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30466,
+      "followersCount": 30465,
       "friendsCount": 142,
       "location": "China"
     },
@@ -672,7 +725,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30466,
+      "followersCount": 30465,
       "friendsCount": 142,
       "location": "China"
     },
@@ -689,7 +742,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30466,
+      "followersCount": 30465,
       "friendsCount": 142,
       "location": "China"
     },
@@ -722,7 +775,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 11741,
-      "friendsCount": 3796,
+      "friendsCount": 3797,
       "location": ""
     },
     "images": [
@@ -739,7 +792,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 11741,
-      "friendsCount": 3796,
+      "friendsCount": 3797,
       "location": ""
     },
     "images": [],
@@ -769,7 +822,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 11741,
-      "friendsCount": 3796,
+      "friendsCount": 3797,
       "location": ""
     },
     "images": [],
@@ -784,7 +837,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 11741,
-      "friendsCount": 3796,
+      "friendsCount": 3797,
       "location": ""
     },
     "images": [
@@ -817,7 +870,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56108,
+      "followersCount": 56109,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -867,7 +920,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33379,
+      "followersCount": 33381,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -900,7 +953,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 11741,
-      "friendsCount": 3796,
+      "friendsCount": 3797,
       "location": ""
     },
     "images": [
@@ -917,7 +970,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18575,
+      "followersCount": 18571,
       "friendsCount": 2163,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -934,7 +987,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30466,
+      "followersCount": 30465,
       "friendsCount": 142,
       "location": "China"
     },
@@ -951,7 +1004,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19246,
+      "followersCount": 19247,
       "friendsCount": 837,
       "location": "San Jose, CA"
     },
@@ -983,7 +1036,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6109,
+      "followersCount": 6110,
       "friendsCount": 377,
       "location": "杭州"
     },
