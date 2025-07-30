@@ -1,12 +1,46 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 151201,
+      "friendsCount": 478,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxHeChlbkAI4Avp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1950584260210954626",
+    "fullText": "https://t.co/f6GMsp6Llm"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 6909,
+      "friendsCount": 1496,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxHahGRbMAA9tnG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1950581335116202080",
+    "fullText": "#DataCollie 日拱一卒\n今晚解决了个大问题，当这种复杂嵌套布局下，表格数据多到出现纵向滚动条时，UI会重新计算高度重绘表格引起数据闪动、错乱。最终放弃使用TableView组件自动带内部滚动条，而是将 TableView 包裹到 ScrollPane 中去，完美解决我的问题。\n#buildinpublic #indiedev https://t.co/t7hPNVblN0"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18567,
-      "friendsCount": 2170,
+      "followersCount": 18566,
+      "friendsCount": 2172,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -24,7 +58,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4247610,
+      "followersCount": 4247646,
       "friendsCount": 3,
       "location": ""
     },
@@ -92,8 +126,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18567,
-      "friendsCount": 2170,
+      "followersCount": 18566,
+      "friendsCount": 2172,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -122,8 +156,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18567,
-      "friendsCount": 2170,
+      "followersCount": 18566,
+      "friendsCount": 2172,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -137,8 +171,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30467,
-      "friendsCount": 143,
+      "followersCount": 30466,
+      "friendsCount": 146,
       "location": "China"
     },
     "images": [],
@@ -201,8 +235,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18567,
-      "friendsCount": 2170,
+      "followersCount": 18566,
+      "friendsCount": 2172,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -233,7 +267,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11752,
+      "followersCount": 11755,
       "friendsCount": 3805,
       "location": ""
     },
@@ -250,7 +284,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33368,
+      "followersCount": 33369,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -282,7 +316,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11752,
+      "followersCount": 11755,
       "friendsCount": 3805,
       "location": ""
     },
@@ -297,8 +331,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30467,
-      "friendsCount": 143,
+      "followersCount": 30466,
+      "friendsCount": 146,
       "location": "China"
     },
     "images": [],
@@ -310,11 +344,26 @@
   },
   {
     "user": {
+      "screenName": "BrudaRuan",
+      "name": "ruanpraum",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1845421835493470215/dpXYOojG_normal.jpg",
+      "description": "333",
+      "followersCount": 280,
+      "friendsCount": 218,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BrudaRuan/status/1950465619280744733",
+    "fullText": "Believe in yourself. You’ve got this!"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8491,
+      "followersCount": 8492,
       "friendsCount": 291,
       "location": ""
     },
@@ -348,7 +397,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74417,
+      "followersCount": 74419,
       "friendsCount": 3428,
       "location": ""
     },
@@ -365,7 +414,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151198,
+      "followersCount": 151201,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -398,8 +447,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18567,
-      "friendsCount": 2170,
+      "followersCount": 18566,
+      "friendsCount": 2172,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -462,7 +511,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128439,
+      "followersCount": 128441,
       "friendsCount": 1344,
       "location": "Chicago, IL"
     },
@@ -494,7 +543,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11752,
+      "followersCount": 11755,
       "friendsCount": 3805,
       "location": ""
     },
@@ -511,8 +560,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18567,
-      "friendsCount": 2170,
+      "followersCount": 18566,
+      "friendsCount": 2172,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -526,8 +575,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30467,
-      "friendsCount": 143,
+      "followersCount": 30466,
+      "friendsCount": 146,
       "location": "China"
     },
     "images": [
@@ -575,7 +624,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8986,
+      "followersCount": 8985,
       "friendsCount": 553,
       "location": ""
     },
@@ -984,7 +1033,7 @@
       "name": "Market Wire News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1806758575148011521/7uxqERRy_normal.jpg",
       "description": "Real-time stock news & investor tools\nDaily #StockNews at https://t.co/0PViOdLpgF\nFollow for market updates!",
-      "followersCount": 61798,
+      "followersCount": 61794,
       "friendsCount": 0,
       "location": "San Jose, CA"
     },
@@ -1117,7 +1166,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4247610,
+      "followersCount": 4247646,
       "friendsCount": 3,
       "location": ""
     },
@@ -1219,8 +1268,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30467,
-      "friendsCount": 143,
+      "followersCount": 30466,
+      "friendsCount": 146,
       "location": "China"
     },
     "images": [
@@ -1253,7 +1302,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151198,
+      "followersCount": 151201,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -1440,6 +1489,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1950180175544557571",
     "fullText": "“人不能被 AI 解放，人只能自己解放自己。”\nhttps://t.co/XfnwLBln9A"
+  },
+  {
+    "user": {
+      "screenName": "ReformDAO",
+      "name": "Reform DAO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874790046122815488/p1eVTytC_normal.jpg",
+      "description": "The first market making & liquidity providing DAO │ $RFRM is officially listed on @Mexc_Official, @Gate_io, @bit2me, and @Bitpanda_global.",
+      "followersCount": 165575,
+      "friendsCount": 90,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxBsncBWQAAxQ9_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ReformDAO/status/1950178081605361933",
+    "fullText": "Our commitment to vigilance and reliability in Market Making\n\nReform DAO maintains continuous vigilance for its market making clients, actively monitoring markets to ensure stability, liquidity, and optimal execution.\n\nIn special or volatile situations, the team remains https://t.co/NObnyM2HKn"
   },
   {
     "user": {
