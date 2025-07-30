@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "mattpavelle",
+      "name": "Matt Pavelle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937921123947298816/whkRnP3Z_normal.jpg",
+      "description": "Democratizing Healthcare · co(Founder/CEO) @DoctronicAI · NYC🗽 · father of twins · @SCSatCMU @USV @tuskventures @HF0Residency · RT≠👍",
+      "followersCount": 2963,
+      "friendsCount": 257,
+      "location": "New York City"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mattpavelle/status/1950517537566802290",
+    "fullText": "Per @sama \"People talk about the most personal sh** in their lives to ChatGPT\" and goes on to say there's no legal confidentiality when using ChatGPT. Meanwhile at @DoctronicAI we're anonymous by default. No training on your data. HIPAA compliant. Private means private: privacy"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -54,7 +69,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33383,
+      "followersCount": 33380,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -84,7 +99,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30468,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -135,7 +150,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74407,
+      "followersCount": 74408,
       "friendsCount": 3428,
       "location": ""
     },
@@ -249,7 +264,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128427,
+      "followersCount": 128428,
       "friendsCount": 1344,
       "location": "Chicago, IL"
     },
@@ -313,7 +328,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30468,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -323,6 +338,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1950387246852694317",
     "fullText": "视频总结， 这个工具挺好用的。操作简单，学校的老师必备呀 https://t.co/IaluwxwUfQ"
+  },
+  {
+    "user": {
+      "screenName": "cchoi888",
+      "name": "Charlie Choi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909801559506272259/8SRu-pUT_normal.jpg",
+      "description": "Building something new @KeytakeAI ($0 ARR) & \nAI Voice Generator @lovolabs ($3MM ARR)",
+      "followersCount": 401,
+      "friendsCount": 563,
+      "location": "California, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950381895344410625/vid/avc1/1920x1080/vS16bxGepZToVz5n.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cchoi888/status/1950382226480517398",
+    "fullText": "You can now create full length Youtube videos in @KeytakeAI with just a few clicks!\n\nCopy and paste your script or let AI generate it.\n\nChoose your influencer and AI voice.\n\nClick create, wait a few minutes, and boom your video is done.\n\nExport to Youtube, get a million views. https://t.co/yptMMSZhOx"
   },
   {
     "user": {
@@ -345,7 +377,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 8985,
+      "followersCount": 8986,
       "friendsCount": 553,
       "location": ""
     },
@@ -688,6 +720,23 @@
   },
   {
     "user": {
+      "screenName": "brexHQ",
+      "name": "Brex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798046733815136256/BbynhUkt_normal.jpg",
+      "description": "High-limit cards, high-yield banking, and more — trusted by 30,000+ companies, including 1 in 3 US startups.",
+      "followersCount": 18902,
+      "friendsCount": 1755,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxDRgTfXsAAxXWL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/brexHQ/status/1950289012435951735",
+    "fullText": "It’s giving: big drops, smarter AI, no notes. \nBrex Summer Release ⬇️ https://t.co/V8GLjbuCdR"
+  },
+  {
+    "user": {
       "screenName": "metalcloak",
       "name": "MetalCloak",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1623044456189685761/bgFIf7Yn_normal.jpg",
@@ -838,7 +887,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4247322,
+      "followersCount": 4247381,
       "friendsCount": 3,
       "location": ""
     },
@@ -940,7 +989,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30468,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -1087,7 +1136,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30468,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -1104,7 +1153,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30468,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -1640,6 +1689,21 @@
   },
   {
     "user": {
+      "screenName": "cmeoutfitters",
+      "name": "CME Outfitters",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1549470297077825536/mXX9OwLk_normal.jpg",
+      "description": "Leading accredited provider of free CME/CE for physicians, PAs, NPs, RNs, & pharmacists. Committed to health access & social responsibility education.",
+      "followersCount": 2310,
+      "friendsCount": 4662,
+      "location": "Bethesda, MD"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cmeoutfitters/status/1949907886991429690",
+    "fullText": "WATCH NOW: Bridging Gaps and Advancing Care in Sickle Cell Disease in the Context of Drug Therapy. Info+credit: https://t.co/d8lMjEmC6P https://t.co/0juI4Gq0Qy"
+  },
+  {
+    "user": {
       "screenName": "evilentity",
       "name": "Piotr J | Dart Racer Dev",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/657552201313710084/ddp66AT1_normal.jpg",
@@ -1827,7 +1891,7 @@
       "name": "The Alliance for Secure AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917992278020272128/A3022TPT_normal.jpg",
       "description": "Mitigating AI Risks and Protecting Humanity.",
-      "followersCount": 442,
+      "followersCount": 443,
       "friendsCount": 242,
       "location": "Washington, DC"
     },
