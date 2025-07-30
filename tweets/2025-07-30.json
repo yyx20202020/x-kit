@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 56127,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950530220597063681/vid/avc1/2954x1408/DZHAaU95i34wvXT3.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1950531592470028608",
+    "fullText": "有人在项目实践中使用了 tPRC 了吗？https://t.co/3jzIcZ0O4v\n之前后端一直用的传统的 REST 方式，有点心动想去升级感受一下。对 Typescript 简直太友好了。\n\n感觉优点还是挺多的：\n\n* 前后端统一的验证规则\n* 使用函数调用的方式，自动推导，类型安全。\n* 自动批处理，多个调用合并为一个请求。\n* https://t.co/6fpu9J1ec1"
+  },
+  {
+    "user": {
       "screenName": "mattpavelle",
       "name": "Matt Pavelle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937921123947298816/whkRnP3Z_normal.jpg",
@@ -52,7 +69,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11749,
+      "followersCount": 11751,
       "friendsCount": 3800,
       "location": ""
     },
@@ -69,7 +86,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33380,
+      "followersCount": 33379,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -84,7 +101,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11749,
+      "followersCount": 11751,
       "friendsCount": 3800,
       "location": ""
     },
@@ -99,7 +116,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30470,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -116,7 +133,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8493,
+      "followersCount": 8492,
       "friendsCount": 291,
       "location": ""
     },
@@ -167,7 +184,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151212,
+      "followersCount": 151214,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -264,7 +281,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128429,
+      "followersCount": 128424,
       "friendsCount": 1344,
       "location": "Chicago, IL"
     },
@@ -296,7 +313,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11749,
+      "followersCount": 11751,
       "friendsCount": 3800,
       "location": ""
     },
@@ -328,7 +345,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30470,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -724,7 +741,7 @@
       "name": "Brex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798046733815136256/BbynhUkt_normal.jpg",
       "description": "High-limit cards, high-yield banking, and more — trusted by 30,000+ companies, including 1 in 3 US startups.",
-      "followersCount": 18902,
+      "followersCount": 18904,
       "friendsCount": 1755,
       "location": "San Francisco, CA"
     },
@@ -904,7 +921,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4247430,
+      "followersCount": 4247491,
       "friendsCount": 3,
       "location": ""
     },
@@ -1006,7 +1023,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30470,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -1040,7 +1057,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151212,
+      "followersCount": 151214,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -1153,7 +1170,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30470,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -1170,7 +1187,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30470,
+      "followersCount": 30469,
       "friendsCount": 142,
       "location": "China"
     },
@@ -1202,7 +1219,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11749,
+      "followersCount": 11751,
       "friendsCount": 3800,
       "location": ""
     },
@@ -1219,7 +1236,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11749,
+      "followersCount": 11751,
       "friendsCount": 3800,
       "location": ""
     },
@@ -1249,7 +1266,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11749,
+      "followersCount": 11751,
       "friendsCount": 3800,
       "location": ""
     },
@@ -1281,7 +1298,7 @@
       "name": "Zain Kahn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1889312610702512128/tqpykcHj_normal.jpg",
       "description": "Scaled products to 10M users + I write the world's biggest AI newsletter @superhuman_ai (1M readers). I share insights on AI, robotics, and building companies.",
-      "followersCount": 510210,
+      "followersCount": 510183,
       "friendsCount": 294,
       "location": "Join 1 Million+ readers →"
     },
@@ -1315,7 +1332,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11749,
+      "followersCount": 11751,
       "friendsCount": 3800,
       "location": ""
     },
@@ -1325,6 +1342,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1950166750303309857",
     "fullText": "最近降本增效，冷静拒绝了加班和加后端、客户端职责但不加钱的指令。\n但是，我在想，要是有一身软肋，可能就只能默默承受了。哎，资本。 https://t.co/UUSwbVfS3c"
+  },
+  {
+    "user": {
+      "screenName": "XDC_Network_",
+      "name": "XDC Network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1852620254549266432/-_Y9Rhp__normal.jpg",
+      "description": "Layer-1 blockchain live since 2019 | EVM compatible | Powering payments, RWA tokenization, DePIN & more | Secure, scalable (2000+ TPS), for enterprise & retail.",
+      "followersCount": 132876,
+      "friendsCount": 979,
+      "location": "Global"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950158760531677186/vid/avc1/1920x1080/z4sI_uB1Ie5447NQ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/XDC_Network_/status/1950160682856698068",
+    "fullText": "From Wall Street to the World\nXDC Network Co-founder @riteshkakkad joined @VinceMolinari - CEO of @FintechTvGlobal at the New York Stock Exchange to share how @XDC_Network_ is transforming finance—combining blockchain speed, cost-efficiency, and compliance to power real-world https://t.co/nhIeNW9b3y"
   },
   {
     "user": {
@@ -1491,6 +1525,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1950059339458498888",
     "fullText": "懒猫相册，懒猫网盘是官方打板的应用。100%使用到了懒猫微服提供的SDK，作为微服的用户和开发者可以利用这套SDK编程的方式实现自己的应用。  \n\n作为一名独立开发有什么优势： \n\n1. 环境统一：开发环境和生产环境相同，大大减少调试难度  \n\n2. https://t.co/tXNhjCZjWF"
+  },
+  {
+    "user": {
+      "screenName": "motorsep",
+      "name": "Alex 3yb0^",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/907824668475883521/r2Bz9td-_normal.jpg",
+      "description": "VR / indie game (and non-game) developer, 3D artist, game designer, problem solver, engineer. Likes cats. Papa of a dog. https://t.co/EJ8e2iZwbT",
+      "followersCount": 1012,
+      "friendsCount": 2517,
+      "location": "TX, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950056478271819777/vid/avc1/1024x1024/eR8hizffLLAKTwyq.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/motorsep/status/1950057568576913855",
+    "fullText": "Published my Unreal Engine 4.27.2 lightweight layered VR skybox on Fab and ArtStation. It's animated and works well on standalone VR HMDs (Meta Quest 2, Meta Quest 3, Meta Quest 3S, probably Pico 4 too), but can also be used for PC VR, PSVR2 and flat mobile projects. https://t.co/dV4aB7knL9"
   },
   {
     "user": {
@@ -1808,7 +1859,7 @@
       "name": "SEDA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908135040715837440/u9I6XvnF_normal.jpg",
       "description": "The Internet Onchain.\n\nDeploy application specific oracle programs in seconds.\n\nBacked by @coinbase @recvcx @coinfund_io and more.",
-      "followersCount": 40619,
+      "followersCount": 40627,
       "friendsCount": 124,
       "location": "All Networks"
     },
