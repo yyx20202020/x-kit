@@ -5,8 +5,40 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11792,
-      "friendsCount": 3809,
+      "followersCount": 11799,
+      "friendsCount": 3810,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxKbZhHaEAAXtZc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1950792465948217663",
+    "fullText": "无法克制自己不评价社会新闻，咋整？ https://t.co/wmpsqXC5i3"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 6904,
+      "friendsCount": 1496,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1950790264844681549",
+    "fullText": "#Java 并行流 parallelStream 适合计算密集型的无状态任务。如：大数据集的 map、filter等纯 CPU 计算和不依赖外部和共享变量的无状态操作。非常不适合I/O 密集型任务（如 JDBC 操作、文件读写、HTTP 请求）、共享变量修改、依赖顺序的操作。滥用并行流会导致线程安全、性能下降、数据不一致等问题！"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 11799,
+      "friendsCount": 3810,
       "location": ""
     },
     "images": [],
@@ -37,7 +69,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33372,
+      "followersCount": 33369,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -54,7 +86,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33372,
+      "followersCount": 33369,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -101,8 +133,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11792,
-      "friendsCount": 3809,
+      "followersCount": 11799,
+      "friendsCount": 3810,
       "location": ""
     },
     "images": [],
@@ -150,8 +182,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11792,
-      "friendsCount": 3809,
+      "followersCount": 11799,
+      "friendsCount": 3810,
       "location": ""
     },
     "images": [],
@@ -195,7 +227,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128496,
+      "followersCount": 128499,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
@@ -619,7 +651,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4248771,
+      "followersCount": 4248805,
       "friendsCount": 3,
       "location": ""
     },
@@ -661,6 +693,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/USGlobalETFs/status/1950564763672481874",
     "fullText": "Global sea trade is the backbone of world commerce, and companies powering it play a vital role.\n\nWith supply chains adapting and evolving, the $SEA ETF offers exposure to this essential sector. Consider this opportunity to invest in the engines of global trade amid shifting https://t.co/N0g4AADLEN"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16569,
+      "friendsCount": 1197,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxHLeKEWsAA3EK4.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1950563858956845497",
+    "fullText": "In a market skeptical of airlines, we believe JetBlue ($JBLU) is a standout turnaround story, and that’s why we own it in one of our thematic ETFs.\n\nStrategic alliances, cost discipline, and modernized fleet upgrades are powering renewed profitability. JetBlue aims to deliver https://t.co/r3ydkZ5BCY"
   },
   {
     "user": {
@@ -796,7 +845,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56129,
+      "followersCount": 56131,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -894,7 +943,7 @@
       "name": "Identity V",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930957699279458304/CTcvyrAf_normal.jpg",
       "description": "Welcome to Identity V official English Page.\nCustomer Service：gameidentityv@global.netease.com \nTopup Center: https://t.co/8v28neTdcL",
-      "followersCount": 325952,
+      "followersCount": 325950,
       "friendsCount": 4,
       "location": ""
     },
@@ -1251,6 +1300,40 @@
   },
   {
     "user": {
+      "screenName": "PeloSwing",
+      "name": "PeloSwing🎯👸🏻",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1757131068698710016/9dmOvBd__normal.jpg",
+      "description": "Options Trading 🏛 Bringing Wall St to Main St💪 *Not financial advice* (Parody/not affiliated with Nancy) Est. Dec 2021",
+      "followersCount": 27665,
+      "friendsCount": 315,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxCNGnFWAAAmKuE.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeloSwing/status/1950213969446113487",
+    "fullText": "We called the top on $QS\n\n-34% in a week and a half (and yes we alerted puts)\n\n@Stocktwits https://t.co/pbVlgZSCnG"
+  },
+  {
+    "user": {
+      "screenName": "sekurprivate",
+      "name": "Sekur Private (OTCQB:SWISF)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826372068579180548/yLFIrKnW_normal.jpg",
+      "description": "Sekur is a NON BIG TECH Swiss hosted Privacy Communications Platform for Email, Messenger, VPN. NO datamining. Take Your Privacy Back! 1A 4A Protection. $SWISF",
+      "followersCount": 10283,
+      "friendsCount": 7784,
+      "location": "Privacy World"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxAI_M2X0AAtwiq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sekurprivate/status/1950206274144006255",
+    "fullText": "ExpressVPN leaked users’ real IP for 4 months.\nThis isn’t clickbait. It’s a confirmed vulnerability.\nA debug setting left in production allowed Remote Desktop traffic to bypass the VPN tunnel: exposing your location in plain text.\nNo alerts. No warnings. Just silence.\nNow https://t.co/UPMg8Vp9MY"
+  },
+  {
+    "user": {
       "screenName": "SouthbyGrace042",
       "name": "Southern by Grace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611564337851731971/vaaU15IT_normal.jpg",
@@ -1270,7 +1353,7 @@
       "name": "Cleo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929495559175303169/bZFc2U8c_normal.png",
       "description": "Money talks. Cleo talks back.",
-      "followersCount": 20546,
+      "followersCount": 20547,
       "friendsCount": 4170,
       "location": ""
     },
