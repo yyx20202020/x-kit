@@ -1,11 +1,56 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18557,
+      "friendsCount": 2174,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1950864557083439155",
+    "fullText": "我以为我的社恐已经好了，好多人，光坐着鸡皮疙瘩就起来了。妈妈我想回家😐"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 6912,
+      "friendsCount": 1497,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1950859389310579041",
+    "fullText": "最近网上爆出个程序员的事，看的心里很不是滋味。2020年，他在深圳光明去按揭买了套520万的房子，去年被公司裁了，收入一断，房贷还不上，房子被法拍卖了380万，结果倒欠银行60多万，还被拉进失信名单。 在时代的洪流面前，任何人都是一粒沙…"
+  },
+  {
+    "user": {
+      "screenName": "byakuya82",
+      "name": "byakuya82",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000234952981/9d2968f1294f2c46768e2ac49ed16056_normal.jpeg",
+      "description": "Todo el mundo miente.",
+      "followersCount": 186,
+      "friendsCount": 262,
+      "location": "Salamanca"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/byakuya82/status/1950857745063928036",
+    "fullText": "Create your own narrative; write your own story."
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6111,
+      "followersCount": 6110,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -20,7 +65,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11842,
+      "followersCount": 11849,
       "friendsCount": 3815,
       "location": ""
     },
@@ -35,7 +80,7 @@
       "name": "Darwin Watterson ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/491267219020849152/RnJ28BHo_normal.jpeg",
       "description": "🕵️‍♂️ The stories they don’t want you to see. Real news. No filters.",
-      "followersCount": 10273,
+      "followersCount": 10155,
       "friendsCount": 237,
       "location": "Montreal"
     },
@@ -52,7 +97,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151197,
+      "followersCount": 151193,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -69,7 +114,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151197,
+      "followersCount": 151193,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -103,7 +148,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11842,
+      "followersCount": 11849,
       "friendsCount": 3815,
       "location": ""
     },
@@ -135,7 +180,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11842,
+      "followersCount": 11849,
       "friendsCount": 3815,
       "location": ""
     },
@@ -152,7 +197,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11842,
+      "followersCount": 11849,
       "friendsCount": 3815,
       "location": ""
     },
@@ -169,7 +214,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6911,
+      "followersCount": 6912,
       "friendsCount": 1497,
       "location": ""
     },
@@ -184,7 +229,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11842,
+      "followersCount": 11849,
       "friendsCount": 3815,
       "location": ""
     },
@@ -199,7 +244,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74430,
+      "followersCount": 74424,
       "friendsCount": 3429,
       "location": ""
     },
@@ -233,7 +278,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33371,
+      "followersCount": 33372,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -250,7 +295,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33371,
+      "followersCount": 33372,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -267,7 +312,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6111,
+      "followersCount": 6110,
       "friendsCount": 377,
       "location": "杭州"
     },
@@ -297,7 +342,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11842,
+      "followersCount": 11849,
       "friendsCount": 3815,
       "location": ""
     },
@@ -332,7 +377,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30465,
+      "followersCount": 30464,
       "friendsCount": 146,
       "location": "China"
     },
@@ -364,7 +409,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11842,
+      "followersCount": 11849,
       "friendsCount": 3815,
       "location": ""
     },
@@ -460,7 +505,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74430,
+      "followersCount": 74424,
       "friendsCount": 3429,
       "location": ""
     },
@@ -475,7 +520,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59609,
+      "followersCount": 59603,
       "friendsCount": 377,
       "location": ""
     },
@@ -490,7 +535,7 @@
       "name": "webAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1819026513829707776/gR1i5qQY_normal.jpg",
       "description": "Enterprise-grade infrastructure for local AI deployment. Powerful models that run on your hardware, keeping data private and secure.",
-      "followersCount": 10996,
+      "followersCount": 11026,
       "friendsCount": 23,
       "location": "Austin, TX"
     },
@@ -603,6 +648,23 @@
   },
   {
     "user": {
+      "screenName": "jonbma",
+      "name": "Jon Ma",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1598173504414924800/oMj2z4T9_normal.jpg",
+      "description": "Building @Artemis | ex @InsightPartners @Whalerock @Publiccomps | Crypto / Fintech Analyst",
+      "followersCount": 11330,
+      "friendsCount": 2237,
+      "location": "Brooklyn, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxIqbe6XUAAP3uU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jonbma/status/1950668295528386779",
+    "fullText": "Robinhood with a monstrous Q2'25.\n\n- Net Revenue: $989m +45% YoY (top tier growth)\n- Total Platform Assets: $279B +99% driven by higher equity / crypto and net assets added\n- ARPU: $151 +34% YoY\n- Gold Subscribers: 3.5m +76% YoY\n- Net Income: $386m +105% YoY\n- Net Income Margin: https://t.co/SZY3frtJi0"
+  },
+  {
+    "user": {
       "screenName": "ntengler",
       "name": "Nancy Tengler, CIO Laffer Tengler Investments",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1364035511329820672/6e6jjltn_normal.jpg",
@@ -688,7 +750,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59609,
+      "followersCount": 59603,
       "friendsCount": 377,
       "location": ""
     },
@@ -914,7 +976,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151197,
+      "followersCount": 151193,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -948,7 +1010,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 6911,
+      "followersCount": 6912,
       "friendsCount": 1497,
       "location": ""
     },
@@ -984,7 +1046,7 @@
       "name": "OriginTrail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1745101388709814272/emMOmENi_normal.jpg",
       "description": "Trace the origin. Trust the source. Official account of the OriginTrail ecosystem🌐 Decentralized Knowledge Graph powering #AI, #DePin, #DeSci and #RWA 🧠",
-      "followersCount": 114177,
+      "followersCount": 114252,
       "friendsCount": 1364,
       "location": "Decentralized"
     },
@@ -1001,7 +1063,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4249169,
+      "followersCount": 4249251,
       "friendsCount": 3,
       "location": ""
     },
@@ -1351,6 +1413,21 @@
   },
   {
     "user": {
+      "screenName": "YHWHJESUSCHRIST",
+      "name": "Infinity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950019531268825088/giowgIb4_normal.jpg",
+      "description": "",
+      "followersCount": 19,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/YHWHJESUSCHRIST/status/1950491681855541655",
+    "fullText": "And if you are a somewhat sensitive and empathetic human you can see how fragile people are and we have people running around this world seeking vengeance and wreaking havoc wherever they go just for the hell of it,\nThese people have shut of their inner voice, their intuition and"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -1665,6 +1742,23 @@
   },
   {
     "user": {
+      "screenName": "FinNewsNow",
+      "name": "Financial News Now",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/978425394616442886/EZD48H1i_normal.jpg",
+      "description": "Financial-News-Now is a leading source for what matters most within the hottest #investment sectors in North America. #stocks #investors #stockmarket",
+      "followersCount": 12571,
+      "friendsCount": 2987,
+      "location": "Long Beach, CA "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950333376831135744/vid/avc1/1920x1080/Xu9fyfMDCg0ikt29.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/FinNewsNow/status/1950333791899439382",
+    "fullText": "🤠 From Gas Fields to GPU Fields? You bet.\n@NewEraHelium’s JV just secured 235 acres in the Permian Basin to build a gigawatt-scale AI data center campus—with expansion potential to 438 acres.\nBecause nothing says “Welcome to the future” like training large language models in the https://t.co/YQ2o1RJNQb"
+  },
+  {
+    "user": {
       "screenName": "tryhighlight",
       "name": "Highlight",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917274249724846080/nFh8Bn7e_normal.jpg",
@@ -1694,6 +1788,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/FireSourcery/status/1950316533722616269",
     "fullText": "Riot Games once told me \"r3tard\" is a slur. When there are devices/apparatuses known as \"r3tarders\". It's literally a metaphor of physical properties. What a bunch of ass-wipes,  Charmin Ultra-Soft."
+  },
+  {
+    "user": {
+      "screenName": "SharmaXOfficial",
+      "name": "Piyush Sharma",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950362700531589120/ud8e4UUk_normal.jpg",
+      "description": "Founding Engineer @notebooklm, @google\npersonal: https://t.co/vWvCvWiFIl",
+      "followersCount": 5,
+      "friendsCount": 11,
+      "location": "California, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950314191333838850/vid/avc1/1280x720/9VbeV2SRKaoT75PG.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SharmaXOfficial/status/1950315486576857209",
+    "fullText": "How to travel to 2099, a quick VIDEO overview\n\nproud of the work NotebookLM team has done to bring studio and video overviews to life!\n\n@NotebookLM\n@Google\n@NewsFromGoogle\n\nWant to create your own fast explainer video?\n\n1. Drop your documents into notebook\n2. Hit the \"Video https://t.co/BmfcmgYqEi"
   },
   {
     "user": {
@@ -1760,6 +1871,23 @@
     ],
     "tweetUrl": "https://x.com/AmericaGrooves/status/1950253372814053828",
     "fullText": "Dear @grok,\n\nplease explain what a \"schism\" is, and then explain why the whole concept is essentially... dumb\n\nGrok 3, not Grok 4, because Grok 4 will overthink it (which is preferable in most cases, but not this one).\n\n@dwpasulka @entireworld137\n\nPeace:  The Final Frontier\n\n... https://t.co/ZSazTN9feY"
+  },
+  {
+    "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3049,
+      "friendsCount": 996,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950248977787686912/vid/avc1/1920x1080/CtSyxLl8zQTTb5ap.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1950249177084285398",
+    "fullText": "How do tech leaders reimagine human connection in the age of hybrid work? 💫\n\nIn this Collaboration session from The Six Five Summit: AI Unleashed 2025, @HP's Greg Baribault and @Google’s Andrew Nartker join @MelodyBrue to explore how HP Dimension &amp; Google Beam leverage https://t.co/it6PwOeGx4"
   },
   {
     "user": {
