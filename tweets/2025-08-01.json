@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 128857,
+      "friendsCount": 1347,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1951188174949998592/vid/avc1/1280x720/UVGsfdMXr-oIH25x.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1951193365841588705",
+    "fullText": "前几天在 X 上刷到一段《让子弹飞》和《甄嬛传》的英语配音视频，音色逼真、英语流利到我以为是真人配的，后来才发现原来是用 B站新发布的 IndexTTS2 文本转语音模型做的。当时心里还打了个小问号，这么好的效果会不会只是剪辑出来的宣传视频？🧵 https://t.co/hVtPaBAcF5"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 4932,
+      "friendsCount": 506,
+      "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1951191283487367168/vid/avc1/1920x1080/7Hz24RRDc1WgjkL6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/s1ntone/status/1951192208507302264",
+    "fullText": "兄弟们，来看我是不是🔥了？ https://t.co/0IE1e5pNV3"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -22,7 +56,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11970,
+      "followersCount": 11972,
       "friendsCount": 3824,
       "location": ""
     },
@@ -54,7 +88,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151223,
+      "followersCount": 151225,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -135,7 +169,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11970,
+      "followersCount": 11972,
       "friendsCount": 3824,
       "location": ""
     },
@@ -169,7 +203,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56135,
+      "followersCount": 56137,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -184,7 +218,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189316,
+      "followersCount": 189318,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -203,7 +237,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189316,
+      "followersCount": 189318,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -279,6 +313,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/adamshamos/status/1951054746472612184",
     "fullText": "I can tell you your company's real priorities in 5 minutes, and I won't need to see a single strategy doc.\n\nI'll warn you, though. You might not like what you find. 🧵 https://t.co/Um3qJDBDg1"
+  },
+  {
+    "user": {
+      "screenName": "OpenGradient",
+      "name": "OpenGradient",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902830433466978305/9V0NUEPt_normal.jpg",
+      "description": "Research lab building at the frontier of AI and blockchain. Backed by @a16zcrypto, @svangel, and @cbventures.",
+      "followersCount": 212341,
+      "friendsCount": 21,
+      "location": "New York City"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1951011386722537474/vid/avc1/1920x1080/Y-epavA7lWdLRDpK.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OpenGradient/status/1951022205737042209",
+    "fullText": "Unified Memory for Every AI. \n\nUnsever. Next Week. \n\n@memsync_ai https://t.co/qwwi02H9aD"
+  },
+  {
+    "user": {
+      "screenName": "WestPointGoldUS",
+      "name": "West Point Gold (TSXV: WPG | OTCQB: WPGCF)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1871065212486610944/XpYWq3gG_normal.jpg",
+      "description": "West Point Gold Corp. is focused on building ounces in the Southwest USA. \n⛏️ Nevada ⛏️ Arizona\n🇨🇦 TSXV: $WPG\n🇺🇸 OTCQB: $WPGCF",
+      "followersCount": 379,
+      "friendsCount": 15,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxNXsXTWEAA1Tow.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WestPointGoldUS/status/1951004327104926094",
+    "fullText": "🚨 VanEck owns a 8.73% stake in West Point Gold $WPG.V\nOne of the largest global managers of gold equity funds is positioned.\n📊 7.66M shares held (as of 6/30/25).\n\nWPG is advancing gold projects in a tier-one jurisdiction with:\n🟡 Strategic land package near producing mines\n🟡 https://t.co/5U0EbJ1b8t"
   },
   {
     "user": {
@@ -565,7 +633,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128853,
+      "followersCount": 128857,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
@@ -634,7 +702,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11970,
+      "followersCount": 11972,
       "friendsCount": 3824,
       "location": ""
     },
@@ -768,7 +836,7 @@
       "name": "Opera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1947951130194948096/n2xpxg80_normal.jpg",
       "description": "Opera - your personal browser",
-      "followersCount": 631533,
+      "followersCount": 631535,
       "friendsCount": 400,
       "location": "Norway"
     },
@@ -802,8 +870,8 @@
       "name": "The Crypto Radio",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826509164048171008/UItMCmoF_normal.jpg",
       "description": "The Crypto Radio, a one-stop platform for crypto and blockchain—news, entertainment, and education. #crypto #bitcoin #cryptoradiox",
-      "followersCount": 9116,
-      "friendsCount": 548,
+      "followersCount": 9121,
+      "friendsCount": 562,
       "location": "Dubai"
     },
     "images": [],
@@ -864,7 +932,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56135,
+      "followersCount": 56137,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -995,7 +1063,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11970,
+      "followersCount": 11972,
       "friendsCount": 3824,
       "location": ""
     },
@@ -1274,7 +1342,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128853,
+      "followersCount": 128857,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
@@ -1346,6 +1414,21 @@
     ],
     "tweetUrl": "https://x.com/dsiroker/status/1950694924074267005",
     "fullText": "How To Achieve Personal Superintelligence https://t.co/P0BKyPjZK7"
+  },
+  {
+    "user": {
+      "screenName": "StashFootball",
+      "name": "Stash",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1944518883332734976/RkKcM1bq_normal.jpg",
+      "description": "Your AI-powered fantasy football copilot; providing best-in-class draft optimization and rest-of-season projections with actionable insights.",
+      "followersCount": 1446,
+      "friendsCount": 777,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StashFootball/status/1950650858263503133",
+    "fullText": "So we built our own AI for fantasy football. And yeah, it’s free—for everyone. 👇"
   },
   {
     "user": {
