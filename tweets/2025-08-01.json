@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 33374,
+      "friendsCount": 640,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1951136012605988865/vid/avc1/3840x2160/_EJ050y0pDj_nexC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1951139280472182828",
+    "fullText": "🥳给我的课程做了一个飓牛逼的先导视频，我相信这个视频会解答大家很多对于我课程的疑问! https://t.co/qJTyBbrRXL"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6111,
+      "friendsCount": 378,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1951136084093706341",
+    "fullText": "我也在武大得过那个湿疹，长在两腿内侧，十分能理解那个男生受不了在图书馆抓挠一下。\n那个湿疹我自己一个人在学校一直擦药也没用，折磨了很久，后来是回家对症抹药才好的。\n所以，我是挺能感同身受的，我经常都是抓破了，用疼痛来缓解瘙痒。"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -37,7 +69,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11950,
+      "followersCount": 11954,
       "friendsCount": 3822,
       "location": ""
     },
@@ -86,7 +118,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189297,
+      "followersCount": 189303,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -105,7 +137,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189297,
+      "followersCount": 189303,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -284,6 +316,36 @@
   },
   {
     "user": {
+      "screenName": "feross",
+      "name": "Feross",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1499215593089556483/VtxQLy6L_normal.jpg",
+      "description": "⚡️ Founder + CEO @SocketSecurity (https://t.co/7g1opA8rgG) • 🌲 Visiting lecturer @Stanford (https://t.co/yw9prxLQAM) • ❤️ Open source @WebTorrentApp + @StandardJS",
+      "followersCount": 28536,
+      "friendsCount": 1597,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/feross/status/1950977211932221541",
+    "fullText": "🚨 DAY 4 OF SOCKET LAUNCH WEEK 🚨 Rust support just landed in Socket.\n\nYou can now search any crate on @SocketSecurity and see what’s really inside before you `cargo add`.\n\n🛡️ We’re not just scanning for CVEs. Socket detects:\n\n🧨 Malicious build scripts\n⚠️ Unsafe code\n🔗 FFI"
+  },
+  {
+    "user": {
+      "screenName": "tenlifejosh",
+      "name": "Josh Noreen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938318424699961344/_KeWkhU4_normal.jpg",
+      "description": "Entrepreneur. Storyteller. Soft skills evangelist.\nI build businesses, tools, and teams that make the world a little more human.\nFounder of the @myfirstjobapp",
+      "followersCount": 4202,
+      "friendsCount": 614,
+      "location": "Denver, CO"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tenlifejosh/status/1950976295703290185",
+    "fullText": "The broken dare to dream.\nThe weak dare to stand.\nThe tired dare to try again.\nThe doubted dare to believe.\n\nThe ashamed dare to be seen.\nThe guilty dare to forgive themselves.\nThe angry dare to soften.\nThe lost dare to love.\n\nThe ones who know exactly how far they fell…\nDare to"
+  },
+  {
+    "user": {
       "screenName": "WisprFlow",
       "name": "Wispr Flow",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1899840130237730816/mOZdb0UE_normal.png",
@@ -371,7 +433,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128787,
+      "followersCount": 128801,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
@@ -388,7 +450,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33369,
+      "followersCount": 33374,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -423,7 +485,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11950,
+      "followersCount": 11954,
       "friendsCount": 3822,
       "location": ""
     },
@@ -508,7 +570,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59601,
+      "followersCount": 59600,
       "friendsCount": 377,
       "location": ""
     },
@@ -542,7 +604,7 @@
       "name": "Opera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1947951130194948096/n2xpxg80_normal.jpg",
       "description": "Opera - your personal browser",
-      "followersCount": 631555,
+      "followersCount": 631554,
       "friendsCount": 400,
       "location": "Norway"
     },
@@ -559,7 +621,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23657,
+      "followersCount": 23658,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -645,7 +707,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33369,
+      "followersCount": 33374,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -677,7 +739,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18564,
+      "followersCount": 18565,
       "friendsCount": 2189,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -692,7 +754,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7034,
+      "followersCount": 7041,
       "friendsCount": 1497,
       "location": ""
     },
@@ -722,7 +784,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11950,
+      "followersCount": 11954,
       "friendsCount": 3822,
       "location": ""
     },
@@ -733,11 +795,28 @@
   },
   {
     "user": {
+      "screenName": "CerenBeliction",
+      "name": "Darwin Watterson ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/491267219020849152/RnJ28BHo_normal.jpeg",
+      "description": "🕵️‍♂️ The stories they don’t want you to see. Real news. No filters.",
+      "followersCount": 9654,
+      "friendsCount": 237,
+      "location": "Montreal"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950831475726942208/vid/avc1/1080x1080/rZ_LYLDg1tjxBz8w.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CerenBeliction/status/1950831576616780120",
+    "fullText": "After a busy day at work or taking care of your family, the last thing you want to worry about is cleaning your home. Let MOLLY MAID take care of the dirty work for you! Whether you prefer weekly house cleaning, bi-weekly or monthly cleaning service, MOLLY MAID has you covered. https://t.co/UQXNrnGrQ2"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151218,
+      "followersCount": 151221,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -769,11 +848,26 @@
   },
   {
     "user": {
+      "screenName": "chaotropy",
+      "name": "Chaotropy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1810582667492315136/nXEtbnyK_normal.png",
+      "description": "MD, 33 | Only innovation increases order | Only opinions, no financial advice | Do your own due diligence",
+      "followersCount": 228,
+      "friendsCount": 181,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chaotropy/status/1950815081303814455",
+    "fullText": "As $MSFT and $META showed yesterday, as $AMZN will likely show tonight, and $NVDA in a month—we’re in the steep part of the exponential curve. Information density is exploding. Time is contracting. Get used to it. Adapt your time horizons. Don’t regret—learn. Be a student of the"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 11950,
+      "followersCount": 11954,
       "friendsCount": 3822,
       "location": ""
     },
@@ -920,7 +1014,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128787,
+      "followersCount": 128801,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
@@ -935,7 +1029,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59601,
+      "followersCount": 59600,
       "friendsCount": 377,
       "location": ""
     },
@@ -1012,11 +1106,28 @@
   },
   {
     "user": {
+      "screenName": "stefan_hamann",
+      "name": "Stefan Hamann 🛒 👾 🎮 🧬",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947915004717551617/Oz_JYQbp_normal.jpg",
+      "description": "🚀 CEO @shopware | Building Agentic Commerce aka AI agents + open‑source commerce. 🧑‍💻 Code nerd, future‑focused.  Love science & proud dad of 👦👦👧👦",
+      "followersCount": 2314,
+      "friendsCount": 1987,
+      "location": "Schöppingen"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950590816851787776/vid/avc1/1920x1080/cIUqw0Q7VQ-qdVeA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/stefan_hamann/status/1950591185791201696",
+    "fullText": "The universe has source code.\nWe just reverse-engineered it.\nNo hype. Just math.\n👇 https://t.co/fLa9t87qIY"
+  },
+  {
+    "user": {
       "screenName": "fablesimulation",
       "name": "The Simulation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1659389520268394496/BtO2v6o6_normal.jpg",
       "description": "Primetime Emmy winning Oculus/Pixar/AI team building Sim Francisco - a home for AI agents.",
-      "followersCount": 32162,
+      "followersCount": 32191,
       "friendsCount": 2199,
       "location": "San Francisco, CA"
     },
