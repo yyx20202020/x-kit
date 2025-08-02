@@ -1,12 +1,57 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 7153,
+      "friendsCount": 1505,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1951502170190389291",
+    "fullText": "随手发了深圳某程序员高价买房被裁后无力偿还贷款法拍倒欠银行 60 万的推文。不知是触碰了什么逆鳞，评论区里牛鬼蛇神齐聚一堂异常热闹，有粉红、反贼、智障、白痴、还有搞黄的、搞赌的、变态的、精神分裂的等等吧。这让我理解了为什么某些国家社会撕裂极化、政治衰退这么严重，都是所谓的自由惹的祸！"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18564,
+      "friendsCount": 2193,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1951498887711301689",
+    "fullText": "对了，这个月 23 - 24 的 ETH Shenzhen 我报了志愿者，不知道要不要我，在等后续通知。以后要多参加活动，愿意折腾就是是好事，怎么折腾都是进步"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151230,
-      "friendsCount": 478,
+      "followersCount": 151231,
+      "friendsCount": 479,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1951496740634558531",
+    "fullText": "都说越南海关专找中国人要钱，亲身体验了下。原来不是正大光明的要小费，而是有由头的啊，比如打印照片一百人民币一张，还有俩人要每人 300 不知道是什么费用，短短几分钟就收了一千多人民币，他们都有微信来收钱。我们资料带齐了倒是一分钱没交。"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 151231,
+      "friendsCount": 479,
       "location": "中华人民共和国"
     },
     "images": [
@@ -22,8 +67,8 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151230,
-      "friendsCount": 478,
+      "followersCount": 151231,
+      "friendsCount": 479,
       "location": "中华人民共和国"
     },
     "images": [
@@ -39,7 +84,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 12017,
+      "followersCount": 12018,
       "friendsCount": 3834,
       "location": ""
     },
@@ -224,7 +269,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129031,
+      "followersCount": 129034,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
@@ -371,7 +416,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18564,
       "friendsCount": 2193,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -418,7 +463,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33403,
+      "followersCount": 33405,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -435,7 +480,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59608,
+      "followersCount": 59607,
       "friendsCount": 377,
       "location": ""
     },
@@ -484,7 +529,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59608,
+      "followersCount": 59607,
       "friendsCount": 377,
       "location": ""
     },
@@ -499,7 +544,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18564,
       "friendsCount": 2193,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -516,7 +561,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18564,
       "friendsCount": 2193,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -546,7 +591,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18564,
       "friendsCount": 2193,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -563,7 +608,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59608,
+      "followersCount": 59607,
       "friendsCount": 377,
       "location": ""
     },
@@ -589,11 +634,28 @@
   },
   {
     "user": {
+      "screenName": "praisepure",
+      "name": "Network of Glory",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/886949646974599169/_mZ1jqYr_normal.jpg",
+      "description": "Network of Glory is an online Bible teaching ministry founded by Lola Richey. Our mission is the Great Commission of Jesus with Jesus to ALL. Matthew 28:18-20.",
+      "followersCount": 6257,
+      "friendsCount": 182,
+      "location": "South Carolina"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxRTx_gXIAI1ehu.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/praisepure/status/1951276859557081341",
+    "fullText": "Why Goodness Matters https://t.co/pIQ2ae2vW1"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18564,
       "friendsCount": 2193,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -655,7 +717,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23661,
+      "followersCount": 23662,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -687,7 +749,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8492,
+      "followersCount": 8491,
       "friendsCount": 290,
       "location": ""
     },
@@ -704,7 +766,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129031,
+      "followersCount": 129034,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
@@ -738,7 +800,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23661,
+      "followersCount": 23662,
       "friendsCount": 296,
       "location": "Guangdong"
     },
@@ -770,7 +832,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 12017,
+      "followersCount": 12018,
       "friendsCount": 3834,
       "location": ""
     },
@@ -787,8 +849,8 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151230,
-      "friendsCount": 478,
+      "followersCount": 151231,
+      "friendsCount": 479,
       "location": "中华人民共和国"
     },
     "images": [
@@ -804,7 +866,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33403,
+      "followersCount": 33405,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -1047,6 +1109,23 @@
   },
   {
     "user": {
+      "screenName": "mercedesschlapp",
+      "name": "Mercedes Schlapp",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898101395829456896/mBludBRf_normal.jpg",
+      "description": "Faith, family, country, freedom. Ephesians 6:11. Host of @CPAC Now: America Uncanceled, Former WH Strategic Senior Advisor for President Trump",
+      "followersCount": 483978,
+      "friendsCount": 3769,
+      "location": "Alexandria, VA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950958943746084864/vid/avc1/1280x720/XCpQua1FFDF6r74Y.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/mercedesschlapp/status/1950964678940663814",
+    "fullText": "The Cincinnati Police have a responsibility to get to the bottom of this viral brawl, state the facts, and make sure people get charged for it, so we can avoid others jumping to conclusions. https://t.co/y1WpvEGRWV"
+  },
+  {
+    "user": {
       "screenName": "River1AM",
       "name": "River1 Asset Management",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1816489985228300288/yH30pSDm_normal.jpg",
@@ -1061,6 +1140,23 @@
     ],
     "tweetUrl": "https://x.com/River1AM/status/1950958486407295037",
     "fullText": "$ZM - Left for dead now extremely attractive valuation\n\nWhat drives the stock higher?\n\n$ZM needs a catalyst (buyback? growth inflection?) https://t.co/hNZ47GVdd4"
+  },
+  {
+    "user": {
+      "screenName": "SolanaInstitute",
+      "name": "Solana Policy Institute",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907055858132893696/76h1ODGW_normal.jpg",
+      "description": "A non-partisan, non-profit focused on educating policymakers on how decentralized networks like Solana are the future infrastructure of the digital economy.",
+      "followersCount": 3788,
+      "friendsCount": 45,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxMu1heWoAIDzOd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SolanaInstitute/status/1950956055644774572",
+    "fullText": "Stablecoins aren't a threat - they're an upgrade. Think streamlined payments, lower costs, &amp; increased financial inclusion all while upgrading the traditional banking system. The GENIUS Act proves how smart regulation works. The US leads with balanced policy and other nations https://t.co/0MimyJueSY"
   },
   {
     "user": {
@@ -1136,7 +1232,7 @@
       "name": "Brilliant Labs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1942294853049581568/FdlcFPNv_normal.png",
       "description": "Open source eyewear for the AI era",
-      "followersCount": 10192,
+      "followersCount": 10194,
       "friendsCount": 487,
       "location": ""
     },
