@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "vincentaamato",
+      "name": "Vincent Amato",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808956822382071812/zea7McZN_normal.jpg",
+      "description": "CS @BrownUniversity",
+      "followersCount": 102,
+      "friendsCount": 389,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxTG-P1XYAAPPl0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vincentaamato/status/1951403618562875472",
+    "fullText": "Just finished a side project: FlashShare - a peer-to-peer file sharing tool with zero upload time (now in beta!)\n\nThis lets you skip the \"upload → wait → share\" dance. Send folders directly, instantly.\n\nI'm honestly not sure if this solves a real problem or if it's just my own https://t.co/YKCtIRjgHj"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128969,
+      "followersCount": 128983,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
@@ -28,6 +45,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/blkboxeconomics/status/1951385636822511863",
     "fullText": "A sell-off in April portending,\nthis landing both hard and impending,\na dip buyer’s folly,\nraise cash and don’t lolly,\nthe panic on tap never-ending."
+  },
+  {
+    "user": {
+      "screenName": "MrWesleyTaylor",
+      "name": "Wesley Taylor",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694129331235336192/Uh1vy9PG_normal.jpg",
+      "description": "San Francisco insomniac.",
+      "followersCount": 345,
+      "friendsCount": 345,
+      "location": "A Planet Floating In Space..."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937701080588001280/vid/avc1/1920x1080/KMDWJ9u2KPSt9Ft-.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MrWesleyTaylor/status/1951383469658882227",
+    "fullText": "“...Trump, he obviously doesn’t give a shit about anyone’s life...besides his...” - Jack Cocchiarella \nhttps://t.co/IER5MX8KU4"
   },
   {
     "user": {
@@ -63,6 +97,23 @@
   },
   {
     "user": {
+      "screenName": "shawnshenjx",
+      "name": "Shawn Shen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936346302000037888/_4IDzCLk_normal.jpg",
+      "description": "Co-Founder @memories_ai | 🥊 rookie | Cambridge PhD | Prev Meta Reality Labs",
+      "followersCount": 2109,
+      "friendsCount": 208,
+      "location": "Cambridge, England"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1951349092044705792/pu/vid/avc1/544x966/Q3DyRbbRqs4UycqM.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/shawnshenjx/status/1951349637203542294",
+    "fullText": "We made an agent using our model and infra to automatically translate John Wick movie to a 2055 Futuristic John Wick movie, check how it works https://t.co/WAnLtCr7U9"
+  },
+  {
+    "user": {
       "screenName": "CerebrasSystems",
       "name": "Cerebras",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894806880804913152/zLdh072p_normal.jpg",
@@ -77,6 +128,23 @@
     ],
     "tweetUrl": "https://x.com/CerebrasSystems/status/1951339880325456159",
     "fullText": "🟧🟨QWEN3 CODER is LIVE on Cerebras 🟨🟧\n2,000 tokens/s - 20x faster than Sonnet\n0.5s time-to-full-answer\n131K context\n$2 per M input/output tokens\nAvailable in Cline, Windsurf &amp; more https://t.co/0JjOkB7Ows"
+  },
+  {
+    "user": {
+      "screenName": "MikeBinderjokes",
+      "name": "Mike Binder",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1867320860765507584/0vvTjx1d_normal.jpg",
+      "description": "Writer Director UPSIDE OF ANGER, REIGN OVER ME. Stand up comic. 40 years sober. 38 years married. Join my community if u love to laugh or make others laugh.",
+      "followersCount": 16219,
+      "friendsCount": 5865,
+      "location": "Los angeles"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1951333320656297984/vid/avc1/1080x1920/R7Q6qkgfKVFuyLjt.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MikeBinderjokes/status/1951334952228045096",
+    "fullText": "This MONDAY AUGUST 4 8 PM. Amazing show at the Laugh Factory on Sunset Blvd. @jeffdye seriously one of the hottest comics in standup right now. @adamhunter from @greggutfeld @jetskijohnson one of my favorite new comics that you know from @badfriends_pod @VinnyFasline who has a https://t.co/nHAB9jqYsm"
   },
   {
     "user": {
@@ -101,7 +169,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18562,
+      "followersCount": 18563,
       "friendsCount": 2192,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -133,7 +201,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33394,
+      "followersCount": 33400,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -150,7 +218,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59601,
+      "followersCount": 59602,
       "friendsCount": 377,
       "location": ""
     },
@@ -182,7 +250,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59601,
+      "followersCount": 59602,
       "friendsCount": 377,
       "location": ""
     },
@@ -197,7 +265,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18562,
+      "followersCount": 18563,
       "friendsCount": 2192,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -214,7 +282,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18562,
+      "followersCount": 18563,
       "friendsCount": 2192,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -229,7 +297,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18562,
+      "followersCount": 18563,
       "friendsCount": 2192,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -246,7 +314,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59601,
+      "followersCount": 59602,
       "friendsCount": 377,
       "location": ""
     },
@@ -261,7 +329,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18562,
+      "followersCount": 18563,
       "friendsCount": 2192,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -272,11 +340,28 @@
   },
   {
     "user": {
+      "screenName": "luisGdeP",
+      "name": "Luis Grave de Peralta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1713224431525408768/MOajehEG_normal.jpg",
+      "description": "Making easier to learn and teach Relativistic Quantum Mechanics. Facilitando la enseñanza y el aprendizaje de Mecánica Cuántica Relativista",
+      "followersCount": 273,
+      "friendsCount": 190,
+      "location": "Lubbock, TX, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1951256732144926723/vid/avc1/1080x1920/VgXhH-IuXPygbmEk.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/luisGdeP/status/1951256855604236400",
+    "fullText": "Ever wondered why there is not a Periodic Table of antimatter chemical elements? Learn this in 10 second and follow me🤠in X @luisGdeP : https://t.co/gEr19lnqmw"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6109,
+      "followersCount": 6110,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -291,7 +376,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6109,
+      "followersCount": 6110,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -321,7 +406,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6109,
+      "followersCount": 6110,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -355,7 +440,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128969,
+      "followersCount": 128983,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
@@ -423,7 +508,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151228,
+      "followersCount": 151219,
       "friendsCount": 478,
       "location": "中华人民共和国"
     },
@@ -440,7 +525,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33394,
+      "followersCount": 33400,
       "friendsCount": 640,
       "location": "Hong Kong"
     },
@@ -457,7 +542,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6109,
+      "followersCount": 6110,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -472,7 +557,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6109,
+      "followersCount": 6110,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -504,7 +589,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56243,
+      "followersCount": 56249,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -519,7 +604,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189326,
+      "followersCount": 189330,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -538,7 +623,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189326,
+      "followersCount": 189330,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -563,6 +648,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1951073417815531602",
     "fullText": "推特的shadowban要怎么解封呀？好郁闷呀，这么多天大家都看不到我的评论\n\n大佬们有遇到过这种情况吗？你们是怎么解封的？"
+  },
+  {
+    "user": {
+      "screenName": "visualsemi",
+      "name": "Visual Semiconductor, Inc.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1944904832256761860/kI5Z1MMo_normal.jpg",
+      "description": "We’re redefining how the world sees — with Glasses Free 3D that delivers real depth and immersion.  The future without glasses starts here.",
+      "followersCount": 40,
+      "friendsCount": 188,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1951051810078339072/vid/avc1/1280x720/6cMfQWNhzHddmCJf.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/visualsemi/status/1951051891770880037",
+    "fullText": "A Glasses-Free 3D Smartphone is coming! https://t.co/EkyCKY6S5p"
   },
   {
     "user": {
@@ -655,7 +757,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 128969,
+      "followersCount": 128983,
       "friendsCount": 1347,
       "location": "Chicago, IL"
     },
