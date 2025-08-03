@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
+      "followersCount": 7165,
+      "friendsCount": 1514,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1951831927989964859",
+    "fullText": "#PostgreSQL Partial Index（部分索引）应用场景：\n1. 稀疏列查询。\n2. 热点状态查询。如：只查状态为XX的数据\n3. 时间区间数据分布不均。如：只查最近3个月订单\n4. 逻辑删除标记，建立唯一索引。如：CREATE INDEX uk_name ON items (name) WHERE is_deleted = false;\n#每日编程"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33430,
+      "followersCount": 33429,
       "friendsCount": 642,
       "location": "Hong Kong"
     },
@@ -197,7 +212,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1886621,
+      "followersCount": 1886695,
       "friendsCount": 5123,
       "location": "Jerusalem, Israel"
     },
@@ -214,7 +229,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151247,
+      "followersCount": 151246,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -282,7 +297,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151247,
+      "followersCount": 151246,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -331,7 +346,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129126,
+      "followersCount": 129131,
       "friendsCount": 1348,
       "location": "Chicago, IL"
     },
@@ -348,7 +363,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151247,
+      "followersCount": 151246,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -380,7 +395,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18569,
       "friendsCount": 2207,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -395,7 +410,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151247,
+      "followersCount": 151246,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -410,7 +425,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151247,
+      "followersCount": 151246,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -427,7 +442,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151247,
+      "followersCount": 151246,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -495,7 +510,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129126,
+      "followersCount": 129131,
       "friendsCount": 1348,
       "location": "Chicago, IL"
     },
@@ -503,6 +518,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1951387474376180005",
     "fullText": "The Information：揭秘 OpenAI GPT-5 崎岖的研发之路\n\nOpenAI 在开发 GPT-5 过程中遭遇的种种困境，预示着整个行业 AI 进展的放缓。研究人员相信，强化学习领域的进步将有助于克服这一障碍。\n\n核心要点\n• GPT-5 将展现出超越其前辈的实质性改进，但其性能上的提升将无法与早期 GPT"
+  },
+  {
+    "user": {
+      "screenName": "shawnshenjx",
+      "name": "Shawn Shen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936346302000037888/_4IDzCLk_normal.jpg",
+      "description": "Co-Founder @memories_ai | 🥊 rookie | Cambridge PhD | Prev Meta Reality Labs",
+      "followersCount": 2116,
+      "friendsCount": 209,
+      "location": "Cambridge, England"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1951349092044705792/pu/vid/avc1/544x966/Q3DyRbbRqs4UycqM.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/shawnshenjx/status/1951349637203542294",
+    "fullText": "We made an agent using our model and infra to automatically translate John Wick movie to a 2055 Futuristic John Wick movie, check how it works https://t.co/WAnLtCr7U9"
   },
   {
     "user": {
@@ -527,7 +559,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19351,
+      "followersCount": 19350,
       "friendsCount": 837,
       "location": "San Jose, CA"
     },
@@ -544,7 +576,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18569,
       "friendsCount": 2207,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -559,7 +591,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16586,
+      "followersCount": 16587,
       "friendsCount": 1197,
       "location": "San Antonio, TX"
     },
@@ -576,7 +608,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33430,
+      "followersCount": 33429,
       "friendsCount": 642,
       "location": "Hong Kong"
     },
@@ -623,7 +655,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18569,
       "friendsCount": 2207,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -638,7 +670,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18569,
       "friendsCount": 2207,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -688,7 +720,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18565,
+      "followersCount": 18569,
       "friendsCount": 2207,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
