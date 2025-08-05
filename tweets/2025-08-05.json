@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "aaawonzo",
+      "name": "AAA Wonzo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897348244411404288/tySm3G6U_normal.jpg",
+      "description": "Building @quok_it | @Franklin_DAO | CMPE & EE @PennEngineers",
+      "followersCount": 270,
+      "friendsCount": 699,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxnTKxWawAIS_q1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aaawonzo/status/1952826118610010496",
+    "fullText": "Four months ago, @SemiAnalysis_  shook the neocloud industry with ClusterMAX, the first third-party rating system for the quality of neocloud services.\n\nSince then, a lot has changed. 10% of providers have gotten acquired, pivoted, or sunsetted all while geopolitics have been https://t.co/prjrJMMRsS"
+  },
+  {
+    "user": {
+      "screenName": "tembo",
+      "name": "Tembo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907096408764608514/fU0Mafit_normal.jpg",
+      "description": "ai agents for engineering teams — ask better, build faster",
+      "followersCount": 3989,
+      "friendsCount": 9,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxnS0lGXIAARp6k.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tembo/status/1952825079559238035",
+    "fullText": "Opus 4.1 is here\n\nFaster reasoning, cleaner code, sharper reviews\n\nNow available on Tembo https://t.co/AG9QnVVqf8"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4257836,
+      "followersCount": 4257947,
       "friendsCount": 3,
       "location": ""
     },
@@ -35,7 +69,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4257836,
+      "followersCount": 4257947,
       "friendsCount": 3,
       "location": ""
     },
@@ -65,11 +99,28 @@
   },
   {
     "user": {
+      "screenName": "MitchWainer",
+      "name": "Mitch Wainer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1858860728519663616/8qqT-Q-C_normal.jpg",
+      "description": "Current: CEO & Co-Founder @GrowWithSource (attribution software), Managing Partner @ MAXIMIZE (developer marketing agency) Past: @DigitalOcean Co-Founder & CMO.",
+      "followersCount": 2532,
+      "friendsCount": 264,
+      "location": "Miami Beach, FL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952785426923573248/vid/avc1/1920x1080/-iTttLr7eE7duP-J.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MitchWainer/status/1952785544280183134",
+    "fullText": "🚨 Public Beta: Source is live!\n\nAttribution is broken. We’re building a new AI-powered platform for B2B growth teams - and we’re launching it early.\n\nIt’s rough. It’s raw. But it works. If you're tired of flying blind with your marketing spend, Source shows you what organic and https://t.co/iqTjEfAMs7"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4257836,
+      "followersCount": 4257947,
       "friendsCount": 3,
       "location": ""
     },
@@ -84,7 +135,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30487,
+      "followersCount": 30486,
       "friendsCount": 147,
       "location": "China"
     },
@@ -133,7 +184,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4257836,
+      "followersCount": 4257947,
       "friendsCount": 3,
       "location": ""
     },
@@ -165,7 +216,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30487,
+      "followersCount": 30486,
       "friendsCount": 147,
       "location": "China"
     },
@@ -190,6 +241,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/1952770757987320023",
     "fullText": "看了塞尔达开发历史（开发原理）的分析，太牛了，永远的创新。每一作都不是一两句话能简单讲清楚的设计哲学和方法"
+  },
+  {
+    "user": {
+      "screenName": "SuperiorSource",
+      "name": "Superior Source",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1949964773858172928/ilCPFA7F_normal.jpg",
+      "description": "Named “Best Supplements” by Better Nutrition Magazine, Superior Source has 100 MicroLingual supplement tablets that dissolve under the tongue. #NoPillsToSwallow",
+      "followersCount": 13513,
+      "friendsCount": 12301,
+      "location": "Los Angeles"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SuperiorSource/status/1952767806434640160",
+    "fullText": "During hot weather, your body loses more fluids and electrolytes through sweat, and your metabolism may be under more strain. Supporting your system with the right vitamins and minerals is key.*"
   },
   {
     "user": {
@@ -227,7 +293,7 @@
       "name": "Etherlink 🔗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864246518816866304/F11uuMzg_normal.jpg",
       "description": "An EVM-compatible, non-custodial Layer 2 blockchain powered by Tezos Smart Rollups technology.",
-      "followersCount": 33999,
+      "followersCount": 33938,
       "friendsCount": 98,
       "location": ""
     },
@@ -254,6 +320,23 @@
     ],
     "tweetUrl": "https://x.com/sedaprotocol/status/1952746416310210956",
     "fullText": "SEDA is now live on @HyperliquidX EVM Mainnet.\n\nBuilders can now access over 11 million institutional-grade data feeds in seconds across:\n\n▪️US Equities,\n▪️US ETFs,\n▪️Crypto,\n▪️Private Equity\n\nHyperliquid, powered by $SEDA https://t.co/ihOJjJyapk"
+  },
+  {
+    "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952736919000875009/iIz_722T_normal.jpg",
+      "description": "📍McDonaldland 8.12",
+      "followersCount": 4758533,
+      "friendsCount": 12997,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxmImC7WMAAMpXD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1952742104611881102",
+    "fullText": "the reunion I’ve been waiting for...\ntake a trip to get the mcdonaldland meal 8.12 https://t.co/sNtSd2j54S"
   },
   {
     "user": {
@@ -293,7 +376,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7294,
+      "followersCount": 7295,
       "friendsCount": 1525,
       "location": ""
     },
@@ -358,7 +441,7 @@
       "name": "TopstepTV",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
       "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
-      "followersCount": 7277,
+      "followersCount": 7276,
       "friendsCount": 32,
       "location": "Chicago, IL"
     },
@@ -407,7 +490,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30487,
+      "followersCount": 30486,
       "friendsCount": 147,
       "location": "China"
     },
@@ -520,7 +603,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7294,
+      "followersCount": 7295,
       "friendsCount": 1525,
       "location": ""
     },
@@ -537,7 +620,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8506,
+      "followersCount": 8507,
       "friendsCount": 290,
       "location": ""
     },
@@ -584,7 +667,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30487,
+      "followersCount": 30486,
       "friendsCount": 147,
       "location": "China"
     },
@@ -667,7 +750,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74544,
+      "followersCount": 74546,
       "friendsCount": 3434,
       "location": ""
     },
@@ -748,7 +831,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30487,
+      "followersCount": 30486,
       "friendsCount": 147,
       "location": "China"
     },
@@ -795,7 +878,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13052,
+      "followersCount": 13062,
       "friendsCount": 3872,
       "location": ""
     },
@@ -844,7 +927,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30487,
+      "followersCount": 30486,
       "friendsCount": 147,
       "location": "China"
     },
@@ -972,7 +1055,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13050,
+      "followersCount": 13062,
       "friendsCount": 3872,
       "location": ""
     },
@@ -989,8 +1072,8 @@
       "name": "Michael A. Gayed, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898205138860339201/_N6eEqfo_normal.jpg",
       "description": "Portfolio Manager of The Free Markets ETF (Ticker: $FMKT) and The ATAC Credit Rotation ETF (Ticker: $JOJO)",
-      "followersCount": 759410,
-      "friendsCount": 11054,
+      "followersCount": 759421,
+      "friendsCount": 11070,
       "location": "Click link for research"
     },
     "images": [],
@@ -1145,6 +1228,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/USFunds/status/1952464357356413419",
     "fullText": "Wheels Up!\n\nEurope’s top airline giants are making bold moves to expand their reach and market power, reports @Bloomberg.\n\nLufthansa Group is strengthening its network with acquisitions like ITA Airways and a stake in airBaltic.\n\nAir France-KLM is on track to become the majority https://t.co/r1B5NyZuTr"
+  },
+  {
+    "user": {
+      "screenName": "MoneybagFree",
+      "name": "Tyler Free | Marketing fulfillment",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945184932042579968/EmeHcipB_normal.jpg",
+      "description": "Owner of Club Capital 🤑| Able to market any product or service | Built to thrive",
+      "followersCount": 387,
+      "friendsCount": 37,
+      "location": "DM with questions"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MoneybagFree/status/1952462023201014199",
+    "fullText": "Your network determines your net worth. \n\nMost people network wrong - they ask for help instead of offering value first. \n\nWhat value are you bringing to the table?\n\nAnsewer that question in THE CAPITALIST CLUB!\n\nShow your skill off, and make money with it to.\n\nJoin Club Capital:"
   },
   {
     "user": {
@@ -1429,7 +1527,7 @@
       "name": "Shawn Shen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936346302000037888/_4IDzCLk_normal.jpg",
       "description": "Co-Founder @memories_ai | 🥊 rookie | Cambridge PhD | Prev Meta Reality Labs",
-      "followersCount": 2166,
+      "followersCount": 2167,
       "friendsCount": 217,
       "location": "Cambridge, England"
     },
