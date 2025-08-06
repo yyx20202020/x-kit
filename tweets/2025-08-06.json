@@ -1,12 +1,42 @@
 [
   {
     "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4261704,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1953139020231569685",
+    "fullText": "LIVE5TREAM THURSDAY 10AM PT"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 129573,
+      "friendsCount": 1352,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1953135369584627730",
+    "fullText": "在使用 AI 辅助编码工具（比如 Claude Code）时，你是否难以进入心流状态？\n\n对我来说，因为每次交互后都得等待，这让我很容易分心，因为等待我就去刷推或者看剧，很难专注。\n\n也有人说因为用 AI 辅助，不担心遇到问题“卡”在那里过不去，反而容易进入心流。"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18577,
-      "friendsCount": 2259,
+      "followersCount": 18582,
+      "friendsCount": 2260,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -20,7 +50,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33714,
+      "followersCount": 33729,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -52,7 +82,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56382,
+      "followersCount": 56384,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -112,11 +142,26 @@
   },
   {
     "user": {
+      "screenName": "ItsCodieRose",
+      "name": "Codie Rose",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936223422356287488/3coDnllp_normal.jpg",
+      "description": "Time to END the tribal politics and cultural warfare tearing us apart. Let’s restore reason, nuance & shared humanity. We can disagree without hating each other",
+      "followersCount": 50,
+      "friendsCount": 287,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ItsCodieRose/status/1953087697049784658",
+    "fullText": "America's biggest threat is not China or Russia\nIt is internal rot within its government\n\n$35T of unserviceable debt \nCredit downgrades\nDefault fears\nDevaluation of the dollar\nSelf-destructive diplomacy\n\nWhat is the most urgent step we should take to save the U.S. from implosion?"
+  },
+  {
+    "user": {
       "screenName": "USFunds",
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16603,
+      "followersCount": 16604,
       "friendsCount": 1198,
       "location": "San Antonio, TX"
     },
@@ -148,7 +193,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33714,
+      "followersCount": 33729,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -182,7 +227,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33714,
+      "followersCount": 33729,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -233,8 +278,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18577,
-      "friendsCount": 2259,
+      "followersCount": 18582,
+      "friendsCount": 2260,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -265,7 +310,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23706,
+      "followersCount": 23707,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -344,7 +389,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74541,
+      "followersCount": 74545,
       "friendsCount": 3434,
       "location": ""
     },
@@ -359,7 +404,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151228,
+      "followersCount": 151229,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -411,7 +456,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56382,
+      "followersCount": 56384,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -490,7 +535,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33714,
+      "followersCount": 33729,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -503,12 +548,29 @@
   },
   {
     "user": {
+      "screenName": "BobaVideo",
+      "name": "Boba AI Labs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952988326883147779/88QF8Nd-_normal.jpg",
+      "description": "Boba Anime 1.3 is live. Try it at: https://t.co/dQmIu6cSiZ",
+      "followersCount": 27,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952990922960191495/vid/avc1/1288x720/-ahmU_8xgMLS_Kup.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/BobaVideo/status/1952992036266885563",
+    "fullText": "Introducing Boba Anime 1.3   \n\nOur new frontier model tuned specifically for creating Anime.\n\nCongrats to our EXTREMELY talented research team. It’s taken a huge effort to make the leap from 1.0 to 1.3, and we can’t be more proud of the results. \n\nDropping tomorrow - everywhere… https://t.co/PgNsJk76CY"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13309,
-      "friendsCount": 3877,
+      "followersCount": 13318,
+      "friendsCount": 3880,
       "location": ""
     },
     "images": [],
@@ -524,8 +586,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18577,
-      "friendsCount": 2259,
+      "followersCount": 18582,
+      "friendsCount": 2260,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -554,8 +616,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13309,
-      "friendsCount": 3877,
+      "followersCount": 13318,
+      "friendsCount": 3880,
       "location": ""
     },
     "images": [],
@@ -571,7 +633,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151228,
+      "followersCount": 151229,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -586,7 +648,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33714,
+      "followersCount": 33729,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -601,7 +663,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129562,
+      "followersCount": 129573,
       "friendsCount": 1352,
       "location": "Chicago, IL"
     },
@@ -650,8 +712,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13309,
-      "friendsCount": 3877,
+      "followersCount": 13318,
+      "friendsCount": 3880,
       "location": ""
     },
     "images": [],
@@ -699,8 +761,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18577,
-      "friendsCount": 2259,
+      "followersCount": 18582,
+      "friendsCount": 2260,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -714,8 +776,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13309,
-      "friendsCount": 3877,
+      "followersCount": 13318,
+      "friendsCount": 3880,
       "location": ""
     },
     "images": [],
@@ -744,7 +806,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30511,
+      "followersCount": 30509,
       "friendsCount": 147,
       "location": "China"
     },
@@ -1162,7 +1224,7 @@
       "name": "Danny Capel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1948758403389816834/SYhTdzXO_normal.jpg",
       "description": "Welcome to the unpredictable world of Danny Capel.  I’m sharing my life through writing, comedy skits, and a caffeine addiction.",
-      "followersCount": 74,
+      "followersCount": 75,
       "friendsCount": 37,
       "location": "Verona, WI"
     },
@@ -1285,6 +1347,23 @@
     ],
     "tweetUrl": "https://x.com/CosineAI/status/1952779326660681783",
     "fullText": "Our coding agent relies on open source projects. Our partnership with OpenAI has allowed us to ship this today.\n\nMeet AutoDoc – Cosine’s new feature that kills stale documentation.\n\nAutoDoc was built end-to-end completely autonomously. AI building AI:\n\nTry it free → https://t.co/G5NSE4d24O"
+  },
+  {
+    "user": {
+      "screenName": "Aasii",
+      "name": "Aasi Tahir Siddique",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1599129635782103040/wg19Vcbn_normal.jpg",
+      "description": "Independent Thinker and Agent for Change \n(Our true Nationality is Humankind)\nPeace through friendship, not wars",
+      "followersCount": 10710,
+      "friendsCount": 7042,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxmqScAXUAALIbN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Aasii/status/1952779166790684676",
+    "fullText": "Purpose https://t.co/y3hHbbIEqi"
   },
   {
     "user": {
@@ -1565,7 +1644,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1952736919000875009/iIz_722T_normal.jpg",
       "description": "📍McDonaldland 8.12",
-      "followersCount": 4759497,
+      "followersCount": 4759533,
       "friendsCount": 12997,
       "location": ""
     },
