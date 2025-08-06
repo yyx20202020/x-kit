@@ -1,6 +1,53 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18577,
+      "friendsCount": 2259,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1953133921182597136",
+    "fullText": "最近不流行提肛了，痔疮率真的变高了吗？"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 33714,
+      "friendsCount": 649,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxroYD5boAA080G.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1953131039603532066",
+    "fullText": "分享一个Vibe Coding的技巧。大家知道AI模型对于国内的很多产品的代码生成能力，是没有海外主流产品好，我拿小程序的TDesign这个组件库为例，经常AI会引用一些根本不存在的UI组件。\n\n遇到这类问题的时候，我会这么做：\n1. 去把产品的Github开源项目整个下载下来\n2. 让Claude https://t.co/nTYskkpLQ1"
+  },
+  {
+    "user": {
+      "screenName": "Dinkinanas3004",
+      "name": "Dinda Nanas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874137873496035328/uBQSTxfx_normal.jpg",
+      "description": "Discovering undervalued stocks through detailed analysis and thoughtful insights. \nMy case: $META $GOOGL $AIG $NKE",
+      "followersCount": 48,
+      "friendsCount": 50,
+      "location": "Denver. USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Dinkinanas3004/status/1953124231094616203",
+    "fullText": "$WKSP\n✅ $2.8M non-dilutive grant\n✅ ISO-certified plant\n✅ Dealer count 6x’d in a year\n✅ Hyundai confirmed OEM partner\n✅ Institutional ownership creeping up\n\nYou think this stays a $3 stock?\nYou don’t write government checks for fluff\nYou don’t partner with OEMs unless the"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
@@ -86,7 +133,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7359,
+      "followersCount": 7362,
       "friendsCount": 1525,
       "location": ""
     },
@@ -101,7 +148,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33686,
+      "followersCount": 33714,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -135,7 +182,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33686,
+      "followersCount": 33714,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -186,7 +233,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18570,
+      "followersCount": 18577,
       "friendsCount": 2259,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -203,7 +250,7 @@
       "name": "TopstepTV",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
       "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
-      "followersCount": 7302,
+      "followersCount": 7306,
       "friendsCount": 32,
       "location": "Chicago, IL"
     },
@@ -312,7 +359,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151226,
+      "followersCount": 151228,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -443,7 +490,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33686,
+      "followersCount": 33714,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -460,8 +507,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13307,
-      "friendsCount": 3876,
+      "followersCount": 13309,
+      "friendsCount": 3877,
       "location": ""
     },
     "images": [],
@@ -477,7 +524,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18570,
+      "followersCount": 18577,
       "friendsCount": 2259,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -507,8 +554,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13307,
-      "friendsCount": 3876,
+      "followersCount": 13309,
+      "friendsCount": 3877,
       "location": ""
     },
     "images": [],
@@ -524,7 +571,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151226,
+      "followersCount": 151228,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -539,7 +586,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33686,
+      "followersCount": 33714,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -554,7 +601,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129555,
+      "followersCount": 129562,
       "friendsCount": 1352,
       "location": "Chicago, IL"
     },
@@ -603,8 +650,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13307,
-      "friendsCount": 3876,
+      "followersCount": 13309,
+      "friendsCount": 3877,
       "location": ""
     },
     "images": [],
@@ -620,7 +667,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8507,
+      "followersCount": 8508,
       "friendsCount": 291,
       "location": ""
     },
@@ -637,8 +684,8 @@
       "name": "The Gift with Laurence N. Kaldor",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1722748235305910273/dDbWBwy9_normal.jpg",
       "description": "Plane Crash Survivor | Author of The Gift | Husband & Homeschool Dad | Fmr Judge Pro Tem | Faith, No Fear | One Truth | Livestreams @TheGiftTheBook | Unfiltered",
-      "followersCount": 3461,
-      "friendsCount": 1785,
+      "followersCount": 3467,
+      "friendsCount": 1786,
       "location": "Free State of Florida "
     },
     "images": [],
@@ -652,7 +699,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18570,
+      "followersCount": 18577,
       "friendsCount": 2259,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -667,8 +714,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13307,
-      "friendsCount": 3876,
+      "followersCount": 13309,
+      "friendsCount": 3877,
       "location": ""
     },
     "images": [],
@@ -697,7 +744,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30508,
+      "followersCount": 30511,
       "friendsCount": 147,
       "location": "China"
     },
@@ -987,7 +1034,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4261469,
+      "followersCount": 4261597,
       "friendsCount": 3,
       "location": ""
     },
@@ -1518,7 +1565,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1952736919000875009/iIz_722T_normal.jpg",
       "description": "📍McDonaldland 8.12",
-      "followersCount": 4759464,
+      "followersCount": 4759497,
       "friendsCount": 12997,
       "location": ""
     },
