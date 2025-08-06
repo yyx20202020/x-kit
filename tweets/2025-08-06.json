@@ -1,6 +1,53 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 151303,
+      "friendsCount": 479,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1952959740704952585",
+    "fullText": "大家在城区怎么飞无人机啊？感觉随便一个楼一挡就丢失信号强制返航了。"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 33522,
+      "friendsCount": 648,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1952954768261099952",
+    "fullText": "求个推上各位大佬调研：各位开发小程序，后端服务优先选择什么呢？"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 129458,
+      "friendsCount": 1352,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952954659179495424/vid/avc1/1920x1080/q5rkYdFYv16T17RG.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1952954741777945071",
+    "fullText": "Gemini 的 Stroybook 太酷了！我得说今天虽然发布了那么多 AI 模型产品，这个是我最喜欢的一个，只要上传一段文字或者提示词或者文档，就可以生成一本图文并茂的故事书，效果相当相当的好！一定要去试试！\n\n测试地址见评论。\n\n***\n\n在 Gemini 应用中，创作属于你的插画故事书\n\n今天，我们隆重推出 https://t.co/q9FPFbgNA2"
+  },
+  {
+    "user": {
       "screenName": "DavidMakovsky",
       "name": "David Makovsky",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1925014952374345728/lLsOqr91_normal.jpg",
@@ -20,7 +67,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13173,
+      "followersCount": 13182,
       "friendsCount": 3873,
       "location": ""
     },
@@ -54,7 +101,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18552,
+      "followersCount": 18551,
       "friendsCount": 2245,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -69,7 +116,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13173,
+      "followersCount": 13182,
       "friendsCount": 3873,
       "location": ""
     },
@@ -150,7 +197,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74554,
+      "followersCount": 74556,
       "friendsCount": 3434,
       "location": ""
     },
@@ -203,6 +250,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/kevinschrage/status/1952857438400725002",
     "fullText": "I am looking for a video editor to edit short-form videos. AI experience is a bonus. Could be a full-time role. Who do you recommend?"
+  },
+  {
+    "user": {
+      "screenName": "IndoPacPodcast",
+      "name": "Why Should We Care: Indo-Pacific Pod",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780729369226579968/FRS4GBld_normal.jpg",
+      "description": "Join Ray Powell and Jim Carouso as they explore issues defining this century's pivotal region, the Indo-Pacific. New podcast every Friday.",
+      "followersCount": 2755,
+      "friendsCount": 117,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952852244522545152/vid/avc1/1080x1920/h_AM8_h9aYlMtawJ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/IndoPacPodcast/status/1952855322738966838",
+    "fullText": "SPECIAL PRESIDENTIAL GUEST: Why Should We Care About the Pacific Island Country Standing Up to China?\n\nIn a groundbreaking episode, @GordianKnotRay and Jim welcome their first-ever head of state as a guest—Surangel Whipps Jr., the 10th President of the Republic of Palau. Links 👇 https://t.co/ztDDGkSVUZ"
   },
   {
     "user": {
@@ -270,6 +334,23 @@
   },
   {
     "user": {
+      "screenName": "RedChip",
+      "name": "RedChip",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1770098886046109697/nt4im3nh_normal.jpg",
+      "description": "The World Leader in Small-Cap Investor Relations.\nRead our Disclosures: https://t.co/A2Fge25eX2",
+      "followersCount": 5635,
+      "friendsCount": 3664,
+      "location": "Orlando, Florida"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952828208950214656/vid/avc1/480x852/BiY1zD1MaXF3AQr3.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/RedChip/status/1952828260452036773",
+    "fullText": "Clinical decisions are only as good as the data behind them.\n\n$BIAF's CyPath® Lung empowers pulmonologists to make informed decisions when faced with indeterminate nodules. By confirming or excluding malignancy early, it helps avoid unnecessary CT scans, biopsies, and delays in https://t.co/GRi8U9vBFh"
+  },
+  {
+    "user": {
       "screenName": "aaawonzo",
       "name": "AAA Wonzo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897348244411404288/tySm3G6U_normal.jpg",
@@ -308,7 +389,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4259595,
+      "followersCount": 4259659,
       "friendsCount": 3,
       "location": ""
     },
@@ -353,7 +434,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4259595,
+      "followersCount": 4259659,
       "friendsCount": 3,
       "location": ""
     },
@@ -470,7 +551,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4259595,
+      "followersCount": 4259659,
       "friendsCount": 3,
       "location": ""
     },
@@ -551,7 +632,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4259595,
+      "followersCount": 4259659,
       "friendsCount": 3,
       "location": ""
     },
@@ -726,7 +807,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18552,
+      "followersCount": 18551,
       "friendsCount": 2245,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -741,7 +822,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7331,
+      "followersCount": 7335,
       "friendsCount": 1525,
       "location": ""
     },
@@ -756,7 +837,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18552,
+      "followersCount": 18551,
       "friendsCount": 2245,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -786,7 +867,7 @@
       "name": "BounceBit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1952649849272483840/91TwXebr_normal.jpg",
       "description": "Enabling real yield with RWA // $₿₿ // Backed by @BreyerCap, @blockchaincap, @YZiLabs",
-      "followersCount": 262302,
+      "followersCount": 262297,
       "friendsCount": 12,
       "location": "BB Chain"
     },
@@ -1096,6 +1177,23 @@
   },
   {
     "user": {
+      "screenName": "CaliOTM",
+      "name": "Organization of Transparency and Merit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1159253333737033728/8rUzfJ-D_normal.jpg",
+      "description": "The Organization of Transparency and Merit seeks to promote freedom of speech by educating through open, honest dialogue.",
+      "followersCount": 1902,
+      "friendsCount": 5360,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952550966143954944/vid/avc1/824x1464/fYKue6hNSZEUZS50.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CaliOTM/status/1952551072272372026",
+    "fullText": "Do The Work First https://t.co/jQwQkAxnkG"
+  },
+  {
+    "user": {
       "screenName": "USFunds",
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
@@ -1296,5 +1394,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/Izraelinfo/status/1952248298003386847",
     "fullText": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "user": {
+      "screenName": "numa0511",
+      "name": "ぬまっち",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1951048866704318465/QHbye6_L_normal.jpg",
+      "description": "Visuals that speak louder than words.\n🎨 Branding | Social Media | Web Design\nDM for freelance & collabs",
+      "followersCount": 291,
+      "friendsCount": 0,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxfGmFvaUAA2Z8i.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/numa0511/status/1952247339839836537",
+    "fullText": "Before &amp; After.\nSame brand, new energy.\nSwipe to see the transformation. https://t.co/oTD5fn6eVH"
   }
 ]
