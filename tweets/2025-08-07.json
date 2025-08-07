@@ -1,11 +1,46 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34157,
+      "friendsCount": 654,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxwkkYGa4AEND5x.jpg",
+      "https://pbs.twimg.com/media/GxwkkeraYAAnmVs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1953476727017243059",
+    "fullText": "【i人随笔】从上周六持续到本周四，是我这个超级大i人社交爆炸的6天。对于一个i人来说，社交是一件很耗费能量的事情。\n\n比如上周六的Vibe https://t.co/1L93JwCfvl"
+  },
+  {
+    "user": {
+      "screenName": "SERVPRO",
+      "name": "SERVPRO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1454198020455735296/q5kOCNgk_normal.jpg",
+      "description": "Cleaning. Restoration. Construction. 1-800-SERVPRO.",
+      "followersCount": 6157,
+      "friendsCount": 48,
+      "location": "USA and Canada"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxwSEo6XwAAk7cp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SERVPRO/status/1953467345671684384",
+    "fullText": "SERVPRO Team Dobson supports their local Ohio schools' football teams by tackling the laundry for them. They take on tough stains and return uniforms fresh, folded, and ready for kickoff every week.\n\nNow that’s what we call a clean win! 🏈 https://t.co/0iVPbWMzww"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18636,
+      "followersCount": 18637,
       "friendsCount": 2265,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -21,7 +56,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
       "followersCount": 16609,
-      "friendsCount": 1197,
+      "friendsCount": 1198,
       "location": "San Antonio, TX"
     },
     "images": [
@@ -37,7 +72,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4270092,
+      "followersCount": 4270815,
       "friendsCount": 3,
       "location": ""
     },
@@ -54,8 +89,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34145,
-      "friendsCount": 653,
+      "followersCount": 34157,
+      "friendsCount": 654,
       "location": "Hong Kong"
     },
     "images": [
@@ -71,7 +106,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56388,
+      "followersCount": 56383,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -86,7 +121,7 @@
       "name": "TopstepTV",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
       "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
-      "followersCount": 7321,
+      "followersCount": 7334,
       "friendsCount": 32,
       "location": "Chicago, IL"
     },
@@ -101,7 +136,7 @@
       "name": "Anything",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1953219821501595650/I_gBVKvV_normal.png",
       "description": "what if the future was already here?",
-      "followersCount": 7334,
+      "followersCount": 7348,
       "friendsCount": 9,
       "location": "SF"
     },
@@ -133,7 +168,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30510,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -167,7 +202,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18636,
+      "followersCount": 18637,
       "friendsCount": 2265,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -182,7 +217,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151311,
+      "followersCount": 151320,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -233,7 +268,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7399,
+      "followersCount": 7395,
       "friendsCount": 1525,
       "location": ""
     },
@@ -248,7 +283,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13394,
+      "followersCount": 13396,
       "friendsCount": 3883,
       "location": ""
     },
@@ -282,7 +317,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7399,
+      "followersCount": 7395,
       "friendsCount": 1525,
       "location": ""
     },
@@ -297,7 +332,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30510,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -329,7 +364,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151311,
+      "followersCount": 151320,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -344,7 +379,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151311,
+      "followersCount": 151320,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -359,8 +394,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34145,
-      "friendsCount": 653,
+      "followersCount": 34157,
+      "friendsCount": 654,
       "location": "Hong Kong"
     },
     "images": [],
@@ -391,7 +426,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151311,
+      "followersCount": 151320,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -408,7 +443,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30510,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -446,7 +481,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18636,
+      "followersCount": 18637,
       "friendsCount": 2265,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -478,7 +513,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13394,
+      "followersCount": 13396,
       "friendsCount": 3883,
       "location": ""
     },
@@ -493,7 +528,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13394,
+      "followersCount": 13396,
       "friendsCount": 3883,
       "location": ""
     },
@@ -511,7 +546,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
       "followersCount": 19484,
-      "friendsCount": 838,
+      "friendsCount": 839,
       "location": "San Jose, CA"
     },
     "images": [],
@@ -525,7 +560,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30510,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -559,7 +594,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30510,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -720,6 +755,21 @@
     ],
     "tweetUrl": "https://x.com/kencheney/status/1953195945358983455",
     "fullText": "🚨 My YA sci-fi thriller Ark Debt is out NOW—and the Kindle edition is FREE TODAY!\n\nAI and robotics are reshaping our jobs, income, and humanity itself. Fans of Wool, Scythe &amp; The Hunger Games—this one’s for you! https://t.co/CvPuYDGgwr"
+  },
+  {
+    "user": {
+      "screenName": "msectors",
+      "name": "MicroSectors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1105945512660877314/YbxpE_Ex_normal.png",
+      "description": "Providing 3X/-3X exposure to the names you know in the sectors you follow. Brought to you by @rexshares | Important disclosure: https://t.co/zjZNDjpoRC",
+      "followersCount": 9663,
+      "friendsCount": 822,
+      "location": "Miami, FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/msectors/status/1953195222349033755",
+    "fullText": "Occidental Petroleum Corp., $OXY, earnings were released this afternoon.\n\nEPS: expected $0.34, reported $0.39\n✅Beat: 14.71%\nRevenue: expected $6.354B, reported $6.456B\n✅Beat: 1.60%"
   },
   {
     "user": {
@@ -1156,7 +1206,7 @@
       "name": "Michael & Esther",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1827939758087290880/D8HUxn1a_normal.jpg",
       "description": "• 14 yrs day-trading & swing trading • God is Love💚 • Trade live and grow with us $350 to $17 million👇 follow us on Youtube: superluckeee_trading",
-      "followersCount": 87564,
+      "followersCount": 87597,
       "friendsCount": 718,
       "location": "www.superluckeee.com"
     },
@@ -1759,7 +1809,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129653,
+      "followersCount": 129674,
       "friendsCount": 1353,
       "location": "Chicago, IL"
     },
@@ -1842,7 +1892,7 @@
       "name": "The Gift with Laurence N. Kaldor",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1722748235305910273/dDbWBwy9_normal.jpg",
       "description": "Plane Crash Survivor | Author of The Gift | Husband & Homeschool Dad | Fmr Judge Pro Tem | Faith, No Fear | One Truth | Livestreams @TheGiftTheBook | Unfiltered",
-      "followersCount": 3471,
+      "followersCount": 3473,
       "friendsCount": 1786,
       "location": "Free State of Florida "
     },
