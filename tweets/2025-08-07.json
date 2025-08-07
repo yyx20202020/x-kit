@@ -1,11 +1,77 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30505,
+      "friendsCount": 147,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxtaOGfaYAAtTA1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1953254064474735051",
+    "fullText": "画画还是要有默契的老师教啊，小朋友最近在学色彩，进步很快 https://t.co/y4Anolkc5L"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 13358,
+      "friendsCount": 3880,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxtVO1fXQAE43dH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1953248589834002568",
+    "fullText": "内容创作的演变：\n从工匠手作（Photoshop）\n到工业模板（Canva 剪映）\n再到写意生成（Midjourney Runway）\n\n我们塑造工具，然后工具塑造我们。 https://t.co/BtmFhWZz7B"
+  },
+  {
+    "user": {
+      "screenName": "ScientologyTV",
+      "name": "Scientology Network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1624465216401727493/SgA--cXs_normal.jpg",
+      "description": "Watch on DIRECTV 320, DIRECTV STREAM, AT&T U-verse, Roku, Apple TV, Fire TV and https://t.co/OQcPQOkOda!",
+      "followersCount": 31162,
+      "friendsCount": 56,
+      "location": "Hollywood, Los Angeles"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ScientologyTV/status/1953244951023894992",
+    "fullText": "☆ Watch the premiere of Voices for Humanity: Ladislas Nkundabanyanga TONIGHT! \n\nAlso in tonight’s broadcast schedule:\n ⏵ Meet a Scientologist: Alejandro Gomez\n ⏵ Inside Scientology: Archival Project\n\n    ...and much more!\nhttps://t.co/9b4O2SJuMl"
+  },
+  {
+    "user": {
+      "screenName": "lpxjulien",
+      "name": "Julien",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1759583091910184960/YaIGhFYT_normal.jpg",
+      "description": "Scaling MoldCo to detox America",
+      "followersCount": 209,
+      "friendsCount": 423,
+      "location": "Miami"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxsxIqeXMAA_6c3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lpxjulien/status/1953209656899244235",
+    "fullText": "Tim Apple does it again.\n\nSay what you want about his stewardship, but no one has navigated geopolitics like him.\n\nOutsourced to China to build the most efficient supply chain in history.\n\nNow re-shoring just enough to unlock $100B+ in incentives and political immunity. https://t.co/i2mn4psdvk"
+  },
+  {
+    "user": {
       "screenName": "kencheney",
       "name": "Ken Cheney",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631387168764739585/ka4xrwkh_normal.jpg",
       "description": "Multiple startups (some mine, some not). Wins, flops, no regrets. On the edge of AI/ML. Great strategies flop without great execution. Husband, dad, GTM.",
-      "followersCount": 1225,
+      "followersCount": 1226,
       "friendsCount": 7500,
       "location": "California"
     },
@@ -22,7 +88,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129576,
+      "followersCount": 129581,
       "friendsCount": 1352,
       "location": "Chicago, IL"
     },
@@ -58,7 +124,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4264114,
+      "followersCount": 4264272,
       "friendsCount": 3,
       "location": ""
     },
@@ -73,7 +139,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129576,
+      "followersCount": 129581,
       "friendsCount": 1352,
       "location": "Chicago, IL"
     },
@@ -88,7 +154,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18603,
+      "followersCount": 18605,
       "friendsCount": 2260,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -103,7 +169,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33850,
+      "followersCount": 33862,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -113,6 +179,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1953131039603532066",
     "fullText": "分享一个Vibe Coding的技巧。大家知道AI模型对于国内的很多产品的代码生成能力，是没有海外主流产品好，我拿小程序的TDesign这个组件库为例，经常AI会引用一些根本不存在的UI组件。\n\n遇到这类问题的时候，我会这么做：\n1. 去把产品的Github开源项目整个下载下来\n2. 让Claude https://t.co/nTYskkpLQ1"
+  },
+  {
+    "user": {
+      "screenName": "ComfyUI",
+      "name": "ComfyUI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919720314952368128/eVGz7f4Q_normal.jpg",
+      "description": "NEW NEW COMFY\n\n🙌 Join us: https://t.co/5pBhlJoDqF",
+      "followersCount": 24276,
+      "friendsCount": 83,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxrompRawAAR2Z7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ComfyUI/status/1953129740900155854",
+    "fullText": "1 million+ downloads under one week\n\n95%+ of those originated from ComfyUI users\n\nCongrats again to the @Alibaba_Wan team! https://t.co/e5Ob7pa4F4"
   },
   {
     "user": {
@@ -130,6 +213,23 @@
     ],
     "tweetUrl": "https://x.com/CozyHoles/status/1953124412158296090",
     "fullText": "Hey cozy gamers!  👋\n\n🏝️ I'm making a magical sandbox game and we release on steam ⭐️NOW⭐️\n\nCome &amp; take a stress-free break, dig an entire island with clues &amp; magic around every corner, pet the dog 🐕\n\nRT + 💙 + ⭐️BUY THE GAME⭐️ 2 help our tiny team🙏🌊\n\nLink below! 👇 https://t.co/Q8yYrMHL7h"
+  },
+  {
+    "user": {
+      "screenName": "AllanHarris369",
+      "name": "Allan H",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1029396103920316417/2wVGjewQ_normal.jpg",
+      "description": "\"All lies and jest, still a man hears what he wants to hear and disregards the rest.\"",
+      "followersCount": 336,
+      "friendsCount": 145,
+      "location": "Arizona"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxrWoERawAI92kO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AllanHarris369/status/1953109856942211136",
+    "fullText": "This is a clear example of how Wave 5 Buy Signals come in pairs, first upon the breakout of the descending parallel trend channel (May 23) and second, upon the breakout of the horizontal parallel trend channel (Jun 13). So long as the target allows for a generous return on https://t.co/2UrRxODCOq"
   },
   {
     "user": {
@@ -152,7 +252,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7369,
+      "followersCount": 7370,
       "friendsCount": 1525,
       "location": ""
     },
@@ -167,7 +267,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33850,
+      "followersCount": 33862,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -184,7 +284,7 @@
       "name": "M0",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912499168616071168/YwutsRBu_normal.jpg",
       "description": "M0 is the universal platform powering builders of application-specific stablecoins.",
-      "followersCount": 13634,
+      "followersCount": 13633,
       "friendsCount": 8,
       "location": ""
     },
@@ -201,7 +301,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33850,
+      "followersCount": 33862,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -218,7 +318,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18603,
+      "followersCount": 18605,
       "friendsCount": 2260,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -231,11 +331,26 @@
   },
   {
     "user": {
+      "screenName": "TopstepTV",
+      "name": "TopstepTV",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
+      "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
+      "followersCount": 7312,
+      "friendsCount": 32,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TopstepTV/status/1953071441995300902",
+    "fullText": "🚨 Tune in today to win FREE RESETS!\nBe sure you’re following @TopstepTV on X and subscribed on YouTube.\nLet's go! https://t.co/wvR72kFCaB"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23707,
+      "followersCount": 23706,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -250,7 +365,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74546,
+      "followersCount": 74547,
       "friendsCount": 3434,
       "location": ""
     },
@@ -265,7 +380,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151264,
+      "followersCount": 151268,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -283,7 +398,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56374,
+      "followersCount": 56379,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -313,7 +428,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33850,
+      "followersCount": 33862,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -347,7 +462,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13351,
+      "followersCount": 13358,
       "friendsCount": 3880,
       "location": ""
     },
@@ -364,7 +479,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18603,
+      "followersCount": 18605,
       "friendsCount": 2260,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -394,7 +509,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13351,
+      "followersCount": 13358,
       "friendsCount": 3880,
       "location": ""
     },
@@ -411,7 +526,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 151264,
+      "followersCount": 151268,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -426,7 +541,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 33850,
+      "followersCount": 33862,
       "friendsCount": 649,
       "location": "Hong Kong"
     },
@@ -441,7 +556,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129576,
+      "followersCount": 129581,
       "friendsCount": 1352,
       "location": "Chicago, IL"
     },
@@ -458,7 +573,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13351,
+      "followersCount": 13358,
       "friendsCount": 3880,
       "location": ""
     },
@@ -507,7 +622,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18603,
+      "followersCount": 18605,
       "friendsCount": 2260,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -547,5 +662,39 @@
     "videos": [],
     "tweetUrl": "https://x.com/JamesAshcroft/status/1952848638297948186",
     "fullText": "Here's a framework I teach my Executive Team clients. \nIt's based on Charlie Munger's inversion thinking. \nEnjoy! https://t.co/FYJJfzppKY"
+  },
+  {
+    "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952736919000875009/iIz_722T_normal.jpg",
+      "description": "📍McDonaldland 8.12",
+      "followersCount": 4759764,
+      "friendsCount": 12997,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxmImC7WMAAMpXD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1952742104611881102",
+    "fullText": "the reunion I’ve been waiting for...\ntake a trip to get the mcdonaldland meal 8.12 https://t.co/sNtSd2j54S"
+  },
+  {
+    "user": {
+      "screenName": "hekint",
+      "name": "Hektoen International",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/643454784733757440/YB1RLmOz_normal.png",
+      "description": "An online journal that publishes articles on medical humanities, history, art, ethics, and education.",
+      "followersCount": 14458,
+      "friendsCount": 4152,
+      "location": "Chicago, IL, US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxkLrC7XAAARu6M.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hekint/status/1952604792494108741",
+    "fullText": "Childhood is an important time of learning and development. Play is the work of childhood, affecting sensorimotor,  emotional, and social development. Throughout history, children’s games have changed with the social environment. In past centuries, children’s play began in the https://t.co/RlR7llg9Kl"
   }
 ]
