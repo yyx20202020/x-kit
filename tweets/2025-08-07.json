@@ -5,7 +5,70 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4274545,
+      "followersCount": 4275512,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1953526577297600557",
+    "fullText": "Introducing GPT-5\n\nOur best AI system yet, rolling out to all ChatGPT users and developers starting today.\n\nhttps://t.co/14Hf1Av6n6"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 129664,
+      "friendsCount": 1353,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxxPZEpXsAEDQFs.jpg",
+      "https://pbs.twimg.com/media/GxxPfAdWkAE-pU3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1953523741431894331",
+    "fullText": "gpt-5-coding-examples 这个 Repo 推荐对 AI 编程有兴趣的看看，里面有大量的 GPT-5 编程示例，包括原始提示词、生成结果，结果展示。 https://t.co/dq5fRuU5mM"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18635,
+      "friendsCount": 2270,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1953520897937355059",
+    "fullText": "碰到枕头就能睡着的人，每天生活肯定很规律，精力很充沛吧，真羡慕。我除了周末熬夜后爽睡到中午之外几乎没有过优质睡眠，我好累我好困眼睛好酸，但是我躺着就觉得光躺着，一点入睡的感觉都没有，是时候再买一罐褪黑素软糖了🫩"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34213,
+      "friendsCount": 654,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1953517318585430222",
+    "fullText": "我没想到最近熬夜的原因居然是：Claude Code的credits没用完....."
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4275512,
       "friendsCount": 3,
       "location": ""
     },
@@ -22,7 +85,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4274545,
+      "followersCount": 4275512,
       "friendsCount": 3,
       "location": ""
     },
@@ -65,11 +128,28 @@
   },
   {
     "user": {
+      "screenName": "AndrewPMayer",
+      "name": "The Vintage Nerd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901778345337196544/ZUM5DZ5__normal.jpg",
+      "description": "Designer/Producer of many games including video, board, roleplaying and beyond. Currently crafting TTRPG supplements and rules as founder of WyrdFall Press.",
+      "followersCount": 1051,
+      "friendsCount": 1269,
+      "location": "Portland, OR"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxwriCMbkAAwYMF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AndrewPMayer/status/1953484758748684641",
+    "fullText": "Crawl Breakers Handbook of Fighting &amp; Dying is the first of a new series from WyrdFall Press. It's packed full of ideas to help focus and explore the games you play at your table and contains a complete new adventure. \nCheck it out today and get notified on launch! https://t.co/hIBNVC2w26"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129670,
+      "followersCount": 129664,
       "friendsCount": 1353,
       "location": "Chicago, IL"
     },
@@ -86,7 +166,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34203,
+      "followersCount": 34213,
       "friendsCount": 654,
       "location": "Hong Kong"
     },
@@ -137,7 +217,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18635,
-      "friendsCount": 2268,
+      "friendsCount": 2270,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -168,7 +248,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4274545,
+      "followersCount": 4275512,
       "friendsCount": 3,
       "location": ""
     },
@@ -200,7 +280,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34203,
+      "followersCount": 34213,
       "friendsCount": 654,
       "location": "Hong Kong"
     },
@@ -217,7 +297,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56375,
+      "followersCount": 56374,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -232,7 +312,7 @@
       "name": "TopstepTV",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
       "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
-      "followersCount": 7364,
+      "followersCount": 7367,
       "friendsCount": 32,
       "location": "Chicago, IL"
     },
@@ -247,7 +327,7 @@
       "name": "Anything",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1953219821501595650/I_gBVKvV_normal.png",
       "description": "what if the future was already here?",
-      "followersCount": 7856,
+      "followersCount": 8485,
       "friendsCount": 9,
       "location": "SF"
     },
@@ -296,7 +376,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30465,
+      "followersCount": 30477,
       "friendsCount": 147,
       "location": "China"
     },
@@ -331,7 +411,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18635,
-      "friendsCount": 2268,
+      "friendsCount": 2270,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -345,7 +425,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151315,
+      "followersCount": 151321,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -413,7 +493,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7403,
+      "followersCount": 7406,
       "friendsCount": 1525,
       "location": ""
     },
@@ -428,7 +508,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13394,
+      "followersCount": 13396,
       "friendsCount": 3884,
       "location": ""
     },
@@ -462,7 +542,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7403,
+      "followersCount": 7406,
       "friendsCount": 1525,
       "location": ""
     },
@@ -477,7 +557,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30465,
+      "followersCount": 30477,
       "friendsCount": 147,
       "location": "China"
     },
@@ -509,7 +589,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151315,
+      "followersCount": 151321,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -524,7 +604,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151315,
+      "followersCount": 151321,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -539,7 +619,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34203,
+      "followersCount": 34213,
       "friendsCount": 654,
       "location": "Hong Kong"
     },
@@ -2018,7 +2098,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129670,
+      "followersCount": 129664,
       "friendsCount": 1353,
       "location": "Chicago, IL"
     },
@@ -2297,7 +2377,7 @@
       "name": "Brex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798046733815136256/BbynhUkt_normal.jpg",
       "description": "High-limit cards, high-yield banking, and more — trusted by 30,000+ companies, including 1 in 3 US startups.",
-      "followersCount": 18993,
+      "followersCount": 19000,
       "friendsCount": 1760,
       "location": "San Francisco, CA"
     },
