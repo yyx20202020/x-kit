@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 56392,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1953451750322798770",
+    "fullText": "这个 KittenTTS 是最近最有趣的一个模型了：https://t.co/kZI4sQgXQ9\n\ntext-to-speech 的模型，超轻量级啊，大小只有 25 Mb，无需 GPU，支持在任何设备上运行，提供了四种语音选项，这里有个 Demo，使用 ONNX Runtime Web 加载模型文件，对于这样的大小，效果非常惊艳啊，大家也可以试试看。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30513,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -39,8 +54,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18635,
-      "friendsCount": 2264,
+      "followersCount": 18636,
+      "friendsCount": 2265,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -54,7 +69,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151304,
+      "followersCount": 151307,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -88,7 +103,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4951,
+      "followersCount": 4952,
       "friendsCount": 507,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -105,7 +120,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7389,
+      "followersCount": 7392,
       "friendsCount": 1524,
       "location": ""
     },
@@ -120,7 +135,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13398,
+      "followersCount": 13396,
       "friendsCount": 3882,
       "location": ""
     },
@@ -154,7 +169,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7389,
+      "followersCount": 7392,
       "friendsCount": 1524,
       "location": ""
     },
@@ -169,7 +184,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30513,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -201,7 +216,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151304,
+      "followersCount": 151307,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -216,7 +231,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151304,
+      "followersCount": 151307,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -231,7 +246,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34123,
+      "followersCount": 34131,
       "friendsCount": 652,
       "location": "Hong Kong"
     },
@@ -263,7 +278,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151304,
+      "followersCount": 151307,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -280,7 +295,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30513,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -318,8 +333,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18635,
-      "friendsCount": 2264,
+      "followersCount": 18636,
+      "friendsCount": 2265,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -350,7 +365,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13398,
+      "followersCount": 13396,
       "friendsCount": 3882,
       "location": ""
     },
@@ -365,7 +380,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13398,
+      "followersCount": 13396,
       "friendsCount": 3882,
       "location": ""
     },
@@ -382,7 +397,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19481,
+      "followersCount": 19482,
       "friendsCount": 838,
       "location": "San Jose, CA"
     },
@@ -397,7 +412,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30513,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -431,7 +446,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30513,
+      "followersCount": 30515,
       "friendsCount": 147,
       "location": "China"
     },
@@ -467,7 +482,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13398,
+      "followersCount": 13396,
       "friendsCount": 3882,
       "location": ""
     },
@@ -631,7 +646,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129662,
+      "followersCount": 129665,
       "friendsCount": 1353,
       "location": "Chicago, IL"
     },
@@ -770,7 +785,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4268508,
+      "followersCount": 4268741,
       "friendsCount": 3,
       "location": ""
     },
@@ -802,7 +817,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129662,
+      "followersCount": 129665,
       "friendsCount": 1353,
       "location": "Chicago, IL"
     },
@@ -1593,6 +1608,38 @@
   },
   {
     "user": {
+      "screenName": "DobzMiles",
+      "name": "Miles Dobrzynski",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891381129292218368/6NUlkjSr_normal.jpg",
+      "description": "Depaul 29´\nCRAZY Chicago Sports fan\nHave a Blog about the Cubs PLEASE FOLLOW\nhttps://t.co/hSve6Pgm6j\nBusiness EMAIL- milesdobz24@gmail.com",
+      "followersCount": 556,
+      "friendsCount": 1254,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DobzMiles/status/1952933627974586682",
+    "fullText": "I'm hearing a lot of Jed hate on twitter right now. But he just simply isn't the biggest issue. I understand the Soroka injury is inexcusable and a blunder by Andrew Kittredge.\n\nHowever the main issue is performance by the offense here are some stats the last 15 games\n(Batting"
+  },
+  {
+    "user": {
+      "screenName": "IGN",
+      "name": "IGN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1951030725576192000/v8n5u0qe_normal.jpg",
+      "description": "We're all about movies, TV, and video games!",
+      "followersCount": 10182254,
+      "friendsCount": 1443,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952835822832828416/vid/avc1/1920x1080/k9GWCvnggoSTQTSh.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/IGN/status/1952927861645447380",
+    "fullText": "The powerful pink puff is back!\n\nGet a new look at Kirby and the Forgotten Land Nintendo Switch 2 Edition + Star-Crossed World, coming on August 28. https://t.co/eIDxdCeHfL"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -1669,6 +1716,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1952894756758888871",
     "fullText": "老妈又催生了，说表哥已经三胎了。表哥比我大六七岁，初中学历，当兵回来后各种创业折腾，后来进厂，现在失业在家。二婚，头婚一儿一女，已上小学，净身出户后，今年二婚娶了个比我还小的，然后要生三胎了。舅舅、舅妈也是农民，攒点钱这些年拿去创业也花差不多了，表哥说要送老大去私立学校，现在又要"
+  },
+  {
+    "user": {
+      "screenName": "MLB",
+      "name": "MLB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945347816164913152/VJnZFzJZ_normal.jpg",
+      "description": "The official account of Major League Baseball ⚾",
+      "followersCount": 12654707,
+      "friendsCount": 3735,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952878176176099329/vid/avc1/1280x720/xOGGXUaz-aYdIzDQ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MLB/status/1952878382053536146",
+    "fullText": "Stott what you're doing and watch this amazing play 😮 https://t.co/HxGKkLg1Z0"
+  },
+  {
+    "user": {
+      "screenName": "agilepoll",
+      "name": "AgilePoll.Com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1783646067860606976/GRG46OfT_normal.png",
+      "description": "Building Evidence-Based Agility",
+      "followersCount": 76,
+      "friendsCount": 367,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/agilepoll/status/1952857893931499675",
+    "fullText": "Learning how, when, how not and when not to apply a continuous stream of AI tools in a way that makes sense for an organization, its people and its clients is foundational to current and future success and day-to-day happiness. \n\nWe're integrating follow-on adaptive learning"
   },
   {
     "user": {
@@ -1824,6 +1903,23 @@
     ],
     "tweetUrl": "https://x.com/VocalPolitics1/status/1952776614447857686",
     "fullText": "After 40 years in French prisons, Georges Abdallah walks free, unbroken, unwavering, and celebrated across Lebanon and the Arab world as a symbol of r-sist-nce.\n\n▪️Imprisoned in 1984, in France, over the ass-ssin-tions of US and Israeli officials, Abdallah became eligible for https://t.co/LXhKfguBga"
+  },
+  {
+    "user": {
+      "screenName": "aheadachemical",
+      "name": "Aheadachemical",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912587981715652608/GD5mKsiF_normal.jpg",
+      "description": "we are but clay vessels decieved to think our containers desires and worries mean anything",
+      "followersCount": 28,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxmkXEKW8AAcJy4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aheadachemical/status/1952772633558143063",
+    "fullText": "God revealed the Truth to me yesterday, after following Jesus' instructions for the past year.\n\nI often failed, but every day gave me a chance to walk the path again.  Every step I made correctly was another brick in my faith, another understanding of what Jesus meant.\n\nAnd now https://t.co/72yHd3B4fU"
   },
   {
     "user": {
