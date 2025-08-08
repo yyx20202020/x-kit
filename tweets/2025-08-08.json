@@ -1,6 +1,77 @@
 [
   {
     "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 189438,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxy4JvPbsAIR26t.jpg",
+      "https://pbs.twimg.com/media/Gxy4JvQbsAA7l1K.png",
+      "https://pbs.twimg.com/media/Gxy4JvVbsAEIxDu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1953638839068897789",
+    "fullText": "周五软件分享\n\n- Tinyauth：自架设的身份认证服务 https://t.co/1koEgONceX\n\n- copyparty：将目录变成文件服务器 https://t.co/TzKwDNZI3K\n\n- Termix：为网页添加命令行窗口，SSH连接服务器 https://t.co/2kxR90fxQb\n\n更多软件 #科技爱好者周刊（第360期）https://t.co/DRTMrnkrq3 https://t.co/isQEeRluuL"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 13406,
+      "friendsCount": 3884,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxy1NzFXQAA4c7Q.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1953635630770270435",
+    "fullText": "一人公司的另一种可能性：大团队蹚水探索，跑通闭环，然后开始降本增效，AI 替代，最后团队只剩一个人了，业务还能 run，现金流也回正...... https://t.co/yvk7jB5tub"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 189438,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxywQH6bsAIK4UO.jpg",
+      "https://pbs.twimg.com/media/GxywQGhbsAM2sQX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1953630139067379798",
+    "fullText": "美国经济分析师Dan Wang（图一），在官网宣布新书《冲：中国对未来的探索》（图二）本月就要出版了。\n\n他写了一篇文章，介绍新书主要观点，内容很有趣，我做了摘录。https://t.co/DRTMrnkrq3\n\n他认为，中国是一个工程国家，使用大规模工程解决物质和社会问题。美国是一个律师社会，使用法律否决一切。 https://t.co/CHdxL4PXuA"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 129695,
+      "friendsCount": 1356,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxyv0M2WAAAyeQW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1953629654289395819",
+    "fullText": "GPT-5 vs GPT-4 https://t.co/T02kRh06or"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
@@ -23,8 +94,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129679,
-      "friendsCount": 1354,
+      "followersCount": 129695,
+      "friendsCount": 1356,
       "location": "Chicago, IL"
     },
     "images": [],
@@ -38,7 +109,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13402,
+      "followersCount": 13406,
       "friendsCount": 3884,
       "location": ""
     },
@@ -55,7 +126,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151342,
+      "followersCount": 151349,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -70,8 +141,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129679,
-      "friendsCount": 1354,
+      "followersCount": 129695,
+      "friendsCount": 1356,
       "location": "Chicago, IL"
     },
     "images": [
@@ -122,8 +193,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129679,
-      "friendsCount": 1354,
+      "followersCount": 129695,
+      "friendsCount": 1356,
       "location": "Chicago, IL"
     },
     "images": [
@@ -154,7 +225,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4279477,
+      "followersCount": 4279797,
       "friendsCount": 3,
       "location": ""
     },
@@ -169,7 +240,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19492,
+      "followersCount": 19495,
       "friendsCount": 839,
       "location": "San Jose, CA"
     },
@@ -184,7 +255,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4279477,
+      "followersCount": 4279797,
       "friendsCount": 3,
       "location": ""
     },
@@ -201,7 +272,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4279477,
+      "followersCount": 4279797,
       "friendsCount": 3,
       "location": ""
     },
@@ -216,8 +287,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129679,
-      "friendsCount": 1354,
+      "followersCount": 129695,
+      "friendsCount": 1356,
       "location": "Chicago, IL"
     },
     "images": [
@@ -249,7 +320,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34251,
+      "followersCount": 34254,
       "friendsCount": 654,
       "location": "Hong Kong"
     },
@@ -284,7 +355,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4279477,
+      "followersCount": 4279797,
       "friendsCount": 3,
       "location": ""
     },
@@ -318,7 +389,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4279477,
+      "followersCount": 4279797,
       "friendsCount": 3,
       "location": ""
     },
@@ -333,7 +404,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6114,
+      "followersCount": 6113,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -348,8 +419,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129679,
-      "friendsCount": 1354,
+      "followersCount": 129695,
+      "friendsCount": 1356,
       "location": "Chicago, IL"
     },
     "images": [
@@ -382,7 +453,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34251,
+      "followersCount": 34254,
       "friendsCount": 654,
       "location": "Hong Kong"
     },
@@ -393,6 +464,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1953476727017243059",
     "fullText": "【i人随笔】从上周六持续到本周四，是我这个超级大i人社交爆炸的6天。对于一个i人来说，社交是一件很耗费能量的事情。\n\n比如上周六的Vibe https://t.co/1L93JwCfvl"
+  },
+  {
+    "user": {
+      "screenName": "SERVPRO",
+      "name": "SERVPRO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1454198020455735296/q5kOCNgk_normal.jpg",
+      "description": "Cleaning. Restoration. Construction. 1-800-SERVPRO.",
+      "followersCount": 6158,
+      "friendsCount": 48,
+      "location": "USA and Canada"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxwSEo6XwAAk7cp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SERVPRO/status/1953467345671684384",
+    "fullText": "SERVPRO Team Dobson supports their local Ohio schools' football teams by tackling the laundry for them. They take on tough stains and return uniforms fresh, folded, and ready for kickoff every week.\n\nNow that’s what we call a clean win! 🏈 https://t.co/0iVPbWMzww"
   },
   {
     "user": {
@@ -415,7 +503,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4279477,
+      "followersCount": 4279797,
       "friendsCount": 3,
       "location": ""
     },
@@ -432,7 +520,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34251,
+      "followersCount": 34254,
       "friendsCount": 654,
       "location": "Hong Kong"
     },
@@ -477,11 +565,28 @@
   },
   {
     "user": {
+      "screenName": "ArcherAviation",
+      "name": "Archer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1262881525994909697/hpEA_MA0_normal.jpg",
+      "description": "Archer’s mission is to unlock the skies, freeing us to reimagine how we live and spend time. (NYSE: $ACHR)",
+      "followersCount": 46410,
+      "friendsCount": 488,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxuZekPawAAP0v0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ArcherAviation/status/1953433442383016132",
+    "fullText": "Two strategic acquisitions. One mission: Accelerate the development of our next-gen VTOL defense aircraft.\n\nWe’re supporting our defense program with two key acquisitions that bolster our team, tech and specialized defense production capabilities to meet the growing demand we’re https://t.co/RRZ13YiGBq"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30486,
+      "followersCount": 30484,
       "friendsCount": 147,
       "location": "China"
     },
@@ -641,6 +746,23 @@
   },
   {
     "user": {
+      "screenName": "Topstep",
+      "name": "Topstep",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1410674225577332738/V9fNEU-H_normal.jpg",
+      "description": "1 Step. 1 Rule.™ The #1 Prop Firm. 💰 Earn funding in 2 days! 💸 Trusted Payouts 🚀 Free Coaching ⭐️⭐️⭐️⭐️⭐️ Live Support https://t.co/HRRl3ojJii",
+      "followersCount": 64670,
+      "friendsCount": 21,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxsU8v1XYAAtLDX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Topstep/status/1953177918290497867",
+    "fullText": "🔥 $65,000 in Live Performance Bonuses just went out to TopstepX traders!\n\nReal traders. Real bonuses. Are you next? https://t.co/n8yfIBN1m8"
+  },
+  {
+    "user": {
       "screenName": "TarunAmasa",
       "name": "Tarun Amasa",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729655639603810304/YqqJAFCc_normal.jpg",
@@ -696,8 +818,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129679,
-      "friendsCount": 1354,
+      "followersCount": 129695,
+      "friendsCount": 1356,
       "location": "Chicago, IL"
     },
     "images": [],
