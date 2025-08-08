@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34312,
+      "friendsCount": 655,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1953802228327645663",
+    "fullText": "搜小程序生态的东西，我发现腾讯元宝居然远远没ChatGPT好用，真有意思"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 823,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx1KcLYbsAInfBt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1953799713100079314",
+    "fullText": "你喜欢哪个模型生成的图呢？ https://t.co/KoTYESHSV1"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 823,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx1J0DrbQAAmLI-.jpg",
+      "https://pbs.twimg.com/media/Gx1J1wqawAAI5Ln.jpg",
+      "https://pbs.twimg.com/media/Gx1J45dbsAIYk6m.jpg",
+      "https://pbs.twimg.com/media/Gx1J6fYaEAAK610.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1953799484497883419",
+    "fullText": "不同的绘图模型，相同的提示词，生成的内容差异还是很大的。 https://t.co/5uA7FoLX2p"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13411,
+      "followersCount": 13413,
       "friendsCount": 3891,
       "location": ""
     },
@@ -15,6 +67,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1953799111808876696",
     "fullText": "原来年轻人不买房是因为限购呀，一直还以为是没钱🤭 https://t.co/l6Vk9vRDSp"
+  },
+  {
+    "user": {
+      "screenName": "TopstepTV",
+      "name": "TopstepTV",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
+      "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
+      "followersCount": 7441,
+      "friendsCount": 32,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TopstepTV/status/1953797990629437733",
+    "fullText": "Let’s go! It’s Friday and we’re LIVE on @TopstepTV 🔥\nLive futures trading, news, and giveaways you don’t want to miss.\nFollow us on X and subscribe on YouTube https://t.co/QgogazqYj9"
   },
   {
     "user": {
@@ -37,7 +104,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18627,
+      "followersCount": 18628,
       "friendsCount": 2271,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -54,7 +121,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30507,
+      "followersCount": 30509,
       "friendsCount": 148,
       "location": "China"
     },
@@ -137,7 +204,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 108536,
+      "followersCount": 108543,
       "friendsCount": 248,
       "location": "Singapore"
     },
@@ -167,7 +234,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13411,
+      "followersCount": 13413,
       "friendsCount": 3891,
       "location": ""
     },
@@ -182,7 +249,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13411,
+      "followersCount": 13413,
       "friendsCount": 3891,
       "location": ""
     },
@@ -199,7 +266,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13411,
+      "followersCount": 13413,
       "friendsCount": 3891,
       "location": ""
     },
@@ -214,7 +281,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129738,
+      "followersCount": 129741,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -248,7 +315,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30507,
+      "followersCount": 30509,
       "friendsCount": 148,
       "location": "China"
     },
@@ -285,7 +352,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30507,
+      "followersCount": 30509,
       "friendsCount": 148,
       "location": "China"
     },
@@ -302,7 +369,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21357,
+      "followersCount": 21358,
       "friendsCount": 1039,
       "location": ""
     },
@@ -319,7 +386,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13411,
+      "followersCount": 13413,
       "friendsCount": 3891,
       "location": ""
     },
@@ -336,7 +403,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13411,
+      "followersCount": 13413,
       "friendsCount": 3891,
       "location": ""
     },
@@ -370,7 +437,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30507,
+      "followersCount": 30509,
       "friendsCount": 148,
       "location": "China"
     },
@@ -404,7 +471,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189463,
+      "followersCount": 189466,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -423,7 +490,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13411,
+      "followersCount": 13413,
       "friendsCount": 3891,
       "location": ""
     },
@@ -457,7 +524,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189463,
+      "followersCount": 189466,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -475,7 +542,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129738,
+      "followersCount": 129741,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -510,7 +577,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129738,
+      "followersCount": 129741,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -525,7 +592,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13411,
+      "followersCount": 13413,
       "friendsCount": 3891,
       "location": ""
     },
@@ -542,7 +609,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151412,
+      "followersCount": 151414,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -557,7 +624,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129738,
+      "followersCount": 129741,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -626,7 +693,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129738,
+      "followersCount": 129741,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -720,7 +787,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4283176,
+      "followersCount": 4283328,
       "friendsCount": 3,
       "location": ""
     },
@@ -735,7 +802,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19518,
+      "followersCount": 19520,
       "friendsCount": 839,
       "location": "San Jose, CA"
     },
@@ -1099,6 +1166,23 @@
   },
   {
     "user": {
+      "screenName": "GUNXHER",
+      "name": "Stephen G",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875221772972314624/UCiqI5vA_normal.jpg",
+      "description": "There is a fine line between genius & insanity - I am this LINE 🥸\nStirRing pots of narciSsist w/seMi pro Stick in a 6 ball RAcK. Generational Degenerate LLC",
+      "followersCount": 799,
+      "friendsCount": 699,
+      "location": "Pennsylvania, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GxwndQRWsAA3Ubb.mp4"
+    ],
+    "tweetUrl": "https://x.com/GUNXHER/status/1953479728179851448",
+    "fullText": "Life is a two-way street \nIf you trust a broken system you are all destined learn the hard way!¡!\nGo with your own FLOW!!¡ https://t.co/gaaPFwlocz"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -1285,7 +1369,7 @@
       "name": "Archer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1262881525994909697/hpEA_MA0_normal.jpg",
       "description": "Archer’s mission is to unlock the skies, freeing us to reimagine how we live and spend time. (NYSE: $ACHR)",
-      "followersCount": 46421,
+      "followersCount": 46425,
       "friendsCount": 488,
       "location": "Santa Clara, CA"
     },
@@ -1517,7 +1601,7 @@
       "name": "National Conservatism",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1674426671741698054/Jx3N3MiM_normal.jpg",
       "description": "Register for NatCon 5 | Washington, DC | Sept. 2-4, 2025 \nhttps://t.co/lMbMgignE0",
-      "followersCount": 28063,
+      "followersCount": 28061,
       "friendsCount": 498,
       "location": ""
     },
@@ -1759,6 +1843,23 @@
     ],
     "tweetUrl": "https://x.com/maxmarchione/status/1953123903066550431",
     "fullText": "Only hire two kinds of people:        \n\n1) The best in the world at a certain function\n\n2) Brilliant 20-year-olds with steep growth curves https://t.co/RS9ANDoTut"
+  },
+  {
+    "user": {
+      "screenName": "lilyjclifford",
+      "name": "lily clifford",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581671150429446144/JSENvnAS_normal.jpg",
+      "description": "founder, chief celery man officer @rimelabs, human-centered speech technologies\nalso @stanfordnlp",
+      "followersCount": 1136,
+      "friendsCount": 230,
+      "location": "san francisco, california"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1953123345228062720/pu/vid/avc1/1280x720/E6sQLOop61TwJBFU.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/lilyjclifford/status/1953123435086811458",
+    "fullText": "⚠️ This isn’t your average sales demo. ⚠️\n\nOne of Rime's resellers wanted to show off our voices, so Michael, one of our cracked engineers whipped this up in a week!\n\n👂🏼Luxury bedding pitch? ✔️\n👩‍⚕️Calm clinic receptionist? ✔️\n🧠 Voices that actually sound human? ✔️✔️✔️\n\nWe’re not https://t.co/aOGFjVpiY6"
   },
   {
     "user": {
