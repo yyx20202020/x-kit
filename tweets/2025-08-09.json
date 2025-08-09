@@ -1,11 +1,76 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6106,
+      "friendsCount": 378,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1954160150228463712",
+    "fullText": "Switch 2 还是太大太重了，用了有一段时间了，确实是手持太累，对于女生来说双手持应该都握不住。\n我都想重新再入一个 SwitchLite 限定版了，感觉 Lite 大小才是真正适合在手上把玩的大小啊"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34328,
+      "friendsCount": 656,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx6L3czakAAZEkA.jpg",
+      "https://pbs.twimg.com/media/Gx6OIFBaEAAvaTY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1954159121357504743",
+    "fullText": "🎉看到学员分享自己赚了第一笔美金！真的很为其开心啊！第一时间在群里报喜@我😆 https://t.co/PNbCMlXHCy"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8512,
+      "friendsCount": 291,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx6P_u8aQAA9zRU.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1954158416944910741",
+    "fullText": "PayPal 入账 $110，以前发了两条搬瓦工活动 VPS 获得的返佣😂 难怪 hostloc、nodeseek、v2ex 那么多人发各种 VPS 的活动推荐链接，aff 收入还是很不错的。 https://t.co/PtRZIDleWC"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6106,
+      "friendsCount": 378,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1954154345920094673",
+    "fullText": "今天体会到了冤家路窄。\n来黄山这边玩，玩水的时候有一家人，其中女儿出口不逊，算是结怨了。这倒是小事，也没起冲突。当时我就说，不会今天再次碰到吧。\n结果，吃完饭到了入住的民宿，就说巧了吧，大堂一眼就看到了他们，关键我们还不是定的啥高级民宿，很不起眼的普通民宿，真是绝了。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30591,
+      "followersCount": 30592,
       "friendsCount": 149,
       "location": "China"
     },
@@ -22,7 +87,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151424,
+      "followersCount": 151425,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -73,7 +138,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34332,
+      "followersCount": 34328,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -88,7 +153,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74577,
+      "followersCount": 74574,
       "friendsCount": 3433,
       "location": ""
     },
@@ -123,7 +188,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56436,
+      "followersCount": 56439,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -140,7 +205,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34332,
+      "followersCount": 34328,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -177,7 +242,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4287051,
+      "followersCount": 4287173,
       "friendsCount": 3,
       "location": ""
     },
@@ -192,7 +257,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151424,
+      "followersCount": 151425,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -207,7 +272,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4953,
+      "followersCount": 4952,
       "friendsCount": 508,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -224,7 +289,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74577,
+      "followersCount": 74574,
       "friendsCount": 3433,
       "location": ""
     },
@@ -256,7 +321,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30591,
+      "followersCount": 30592,
       "friendsCount": 149,
       "location": "China"
     },
@@ -275,7 +340,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30591,
+      "followersCount": 30592,
       "friendsCount": 149,
       "location": "China"
     },
@@ -292,7 +357,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13469,
+      "followersCount": 13470,
       "friendsCount": 3898,
       "location": ""
     },
@@ -493,6 +558,23 @@
   },
   {
     "user": {
+      "screenName": "zntrading",
+      "name": "Nicholas-Kent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832329114746798080/9DlpcegO_normal.jpg",
+      "description": "Informed coin-flipper, product guy, and muso 🎸 | Head of Strategic Development @raentrading",
+      "followersCount": 1208,
+      "friendsCount": 415,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1953925142217646080/vid/avc1/1920x1080/g8_b_8ivUtfpakkw.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/zntrading/status/1953927553158164930",
+    "fullText": "Get a seat on a desk that actually wants you to win, a team dedicated to the success of traders with edge.\n\nWe’ll push for your best but give you space to get going when needed.\n\n@DMG_RiskAtRaen with Phase 2 in Friday's meeting. https://t.co/WS1qGuDvaW"
+  },
+  {
+    "user": {
       "screenName": "CooDog5",
       "name": "CooDog",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1855064496575754240/i8xHyB4S_normal.jpg",
@@ -593,6 +675,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/VCardTCG/status/1953895546693071254",
     "fullText": "VCard: Awakened Worlds is almost here! \n\nNEW card types, fresh mechanics + more VTubers and creators\n\nComment, like, and retweet for a chance to win 1 of these 3 Awakened Worlds booster boxes!\n\nDropping 8/15 @ 3PM EST ✨ https://t.co/QNt3PT0xuK"
+  },
+  {
+    "user": {
+      "screenName": "Statz_Ai",
+      "name": "Statz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878836987177611266/T72GQKWf_normal.jpg",
+      "description": "Statz is a cutting-edge sports analytics platform perfect for Bet Builders and Fantasy Players. Free Telegram: https://t.co/bDOr2Hc394",
+      "followersCount": 795,
+      "friendsCount": 207,
+      "location": "London, England"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx2a1ffWQAARu_N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Statz_Ai/status/1953888389633360197",
+    "fullText": "Our Projections are now live on site.\n\nFull Team Projections available for our Pro Users for 10+ competitions including PL-L2 for the Full Season. \n\nOur Data Science team go into granular detail with our Projections, so you can win your Bet Builders! https://t.co/uaa3ER135Q"
   },
   {
     "user": {
@@ -877,7 +976,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56436,
+      "followersCount": 56439,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -926,7 +1025,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34332,
+      "followersCount": 34328,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -978,7 +1077,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13469,
+      "followersCount": 13470,
       "friendsCount": 3898,
       "location": ""
     },
@@ -1035,6 +1134,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1953776403591143487",
     "fullText": "来吃冒菜，非常小心的夹了一点，称出45块钱。失策失策 https://t.co/Tqc2mz4BCt"
+  },
+  {
+    "user": {
+      "screenName": "VeritasBrit",
+      "name": "Veritas Britannia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1821350093993254913/81TkdqXf_normal.jpg",
+      "description": "Publisher of luxury hardcover, cloth-bound, and slipcased books. Bespoke, handcrafted stationery and accessories. Founded by @AndreasKoureas_",
+      "followersCount": 1462,
+      "friendsCount": 33,
+      "location": "London, United Kingdom"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VeritasBrit/status/1953773870185689242",
+    "fullText": "The Trafalgar Pouch Bag. Handcrafted in London."
   },
   {
     "user": {
@@ -1202,7 +1316,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129779,
+      "followersCount": 129784,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
