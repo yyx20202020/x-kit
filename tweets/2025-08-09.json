@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "ChainOpera_AI",
+      "name": "ChainOpera AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1944988694793826304/SyzaPKCp_normal.jpg",
+      "description": "Collaborative intelligence of AI Agent Network co-created and co-owned by the community Built on a super AI app, a full-stack AI infra, and AI-native blockchain",
+      "followersCount": 572037,
+      "friendsCount": 104,
+      "location": "San Francisco, CA, US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChainOpera_AI/status/1953970718066323546",
+    "fullText": "1/ 🚀 2M+ Users Powering Decentralized LLM Training? Let’s Go!\n\nWith GPT-5 now the world’s most powerful LLM, our community is asking:\n\n“How far are we from a community-collaborated, decentralized training of an open-source LLM owned by all of us?”\n\nThis isn’t just a dream —"
+  },
+  {
+    "user": {
       "screenName": "camerynagp",
       "name": "Cam",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904272823025086465/G5KPaabc_normal.jpg",
@@ -20,7 +35,7 @@
       "name": "Microsoft Azure",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1268207800313774080/KF9pXfXU_normal.jpg",
       "description": "Limitless innovation. ☁️ Follow along for the latest news and resources from the official #MicrosoftAzure team. For help, contact @AzureSupport.",
-      "followersCount": 1065075,
+      "followersCount": 1065084,
       "friendsCount": 20,
       "location": "Redmond, WA"
     },
@@ -30,6 +45,23 @@
     ],
     "tweetUrl": "https://x.com/Azure/status/1953910083617800384",
     "fullText": "GPT-5 just dropped in Azure AI Foundry. Devs can tap into the full suite of GPT-5 models with a single endpoint using Foundry’s AI-powered model router.\n\nIntelligent model selection, so you can build with ease. https://t.co/wQwFNJlG2A"
+  },
+  {
+    "user": {
+      "screenName": "sterlingmsnow",
+      "name": "Sterling Snow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1129488159593512960/AnzKjqZf_normal.png",
+      "description": "Current: CEO / REDO + VP @Pelion_vp Ex SVP: @ https://t.co/jmRRGFLLUv Ex CRO @ Divvy - marketing, sales, implementations, customer success, customer support, rev ops.",
+      "followersCount": 2635,
+      "friendsCount": 517,
+      "location": "Park City, UT"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx10AsJaEAA_jnR.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sterlingmsnow/status/1953845373987877222",
+    "fullText": "Update:\n\nThey picked Redo and we're stoked to work with Yatta, I'm buying some of their gear right now.\n\nCoolest part of this post was seeing all the brands we've worked with vouch for us.\n\nMeans the world. \n\nRedo &gt; https://t.co/BBzBpBmB7h"
   },
   {
     "user": {
@@ -69,7 +101,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56413,
+      "followersCount": 56415,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -101,7 +133,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34330,
+      "followersCount": 34332,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -153,8 +185,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13428,
-      "friendsCount": 3896,
+      "followersCount": 13434,
+      "friendsCount": 3897,
       "location": ""
     },
     "images": [
@@ -170,7 +202,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DeepLearning #DataScience",
-      "followersCount": 7470,
+      "followersCount": 7472,
       "friendsCount": 1526,
       "location": ""
     },
@@ -202,7 +234,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30544,
+      "followersCount": 30549,
       "friendsCount": 149,
       "location": "China"
     },
@@ -219,7 +251,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34330,
+      "followersCount": 34332,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -236,7 +268,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 108539,
+      "followersCount": 108535,
       "friendsCount": 248,
       "location": "Singapore"
     },
@@ -266,8 +298,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13428,
-      "friendsCount": 3896,
+      "followersCount": 13434,
+      "friendsCount": 3897,
       "location": ""
     },
     "images": [],
@@ -281,8 +313,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13428,
-      "friendsCount": 3896,
+      "followersCount": 13434,
+      "friendsCount": 3897,
       "location": ""
     },
     "images": [],
@@ -298,8 +330,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13428,
-      "friendsCount": 3896,
+      "followersCount": 13434,
+      "friendsCount": 3897,
       "location": ""
     },
     "images": [],
@@ -313,7 +345,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129759,
+      "followersCount": 129761,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -330,7 +362,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30544,
+      "followersCount": 30549,
       "friendsCount": 149,
       "location": "China"
     },
@@ -349,7 +381,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8513,
+      "followersCount": 8511,
       "friendsCount": 291,
       "location": ""
     },
@@ -367,7 +399,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21359,
+      "followersCount": 21361,
       "friendsCount": 1039,
       "location": ""
     },
@@ -384,8 +416,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13428,
-      "friendsCount": 3896,
+      "followersCount": 13434,
+      "friendsCount": 3897,
       "location": ""
     },
     "images": [
@@ -401,8 +433,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13428,
-      "friendsCount": 3896,
+      "followersCount": 13434,
+      "friendsCount": 3897,
       "location": ""
     },
     "images": [
@@ -418,7 +450,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30544,
+      "followersCount": 30549,
       "friendsCount": 149,
       "location": "China"
     },
@@ -431,11 +463,26 @@
   },
   {
     "user": {
+      "screenName": "Pharmdca",
+      "name": "Pharmdca",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1461368864525013010/Eih1ekJE_normal.jpg",
+      "description": "USC Pharmacy Alumni, Full Time Investor. My tweets are a general reflection of my Investments and not a recommendation. Please do your own due diligence.",
+      "followersCount": 131042,
+      "friendsCount": 159,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Pharmdca/status/1953647756951892298",
+    "fullText": "$VKTX Here's my full synopsis on how $LLY data miss has changed the dynamics for Viking therapeutics. \nSo what has changed today for Viking therapeutics and how this will tilt the dynamics towards Viking's oral drug to be the BIC when PH2 results pour in. I believe upcoming"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189510,
+      "followersCount": 189506,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -454,8 +501,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13428,
-      "friendsCount": 3896,
+      "followersCount": 13434,
+      "friendsCount": 3897,
       "location": ""
     },
     "images": [
@@ -464,6 +511,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1953635630770270435",
     "fullText": "一人公司的另一种可能性：大团队蹚水探索，跑通闭环，然后开始降本增效，AI 替代，最后团队只剩一个人了，业务还能 run，现金流也回正...... https://t.co/yvk7jB5tub"
+  },
+  {
+    "user": {
+      "screenName": "BodySpec",
+      "name": "BodySpec",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1944400780867317761/X_Oy89fp_normal.jpg",
+      "description": "★★★★★\nBodySpec® is America's #1 full-body health & fitness scan. Get life-changing insight in under 10 minutes, for under $50. Over 300,000 five-star reviews.",
+      "followersCount": 669,
+      "friendsCount": 82,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1953630154858577920/vid/avc1/720x720/58I7sb5Vue7Sj7BF.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/BodySpec/status/1953630228485492857",
+    "fullText": "Introducing BodySpec AI: Precision Body Data Meets Intelligence.\n\nYour scan isn’t just numbers—it’s a living dataset.\nBodySpec AI integrates directly with GPT &amp; Claude to interpret every gram of muscle, every body fat number, every variance in bone density, every metabolic trend. https://t.co/4YZYsWtaVA"
   },
   {
     "user": {
@@ -489,7 +553,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129759,
+      "followersCount": 129761,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -529,6 +593,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/TheCyberChris/status/1953587839670923466",
     "fullText": "The powerful releases from @ChuckGrassley remind me:  @FBIDirectorKash needs to order a second look at the FBI's indictments of China's hackers out of Chicago. As the lead IC analyst for election-threats in 2020 we identified some of the key operatives who sought to affect the"
+  },
+  {
+    "user": {
+      "screenName": "rohildev",
+      "name": "rohildev",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1939681621369659393/arOaQh4C_normal.jpg",
+      "description": "Founder and Tech-CEO at @nimoinfinity - An AI canvas to organize, manage, and run all your AI Apps and Agents. We are changing Browser to Orchestrator.",
+      "followersCount": 3054,
+      "friendsCount": 1404,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1953517043657191427/vid/avc1/2880x1800/vvIpV2_DykYOm6y3.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/rohildev/status/1953524367515955453",
+    "fullText": "The Magic Starts here... Introducing Dynamic Apps in @nimoinfinity . \n\nCreate beautiful Personal Dynamic Apps that connect with your data and tools like Gmail, Sheets, Notion, Slack, and more. Check out some stunning Dynamic Apps below.\n\nNow with GPT-5, creating fast, reliable, https://t.co/0A4bhZjFD9"
+  },
+  {
+    "user": {
+      "screenName": "Box",
+      "name": "Box",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895242965435486208/Wfw2p9DY_normal.png",
+      "description": "Secure your content and power collaboration on one platform with Box. Questions about your account or need product support? Tweet @BoxSupport.",
+      "followersCount": 77280,
+      "friendsCount": 3163,
+      "location": "Content + AI "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1953491968786653184/vid/avc1/3836x2160/Vhl9XObRTgOLDRj_.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Box/status/1953501597826527689",
+    "fullText": "GPT-5 from @OpenAI is now available in Box AI Studio and via Box AI APIs, with more access coming to additional plans soon! In the latest Box AI Enterprise Evaluation, we tested OpenAI's GPT-5 performance on enterprise and content use cases. \n\n👉 Key Highlights\n\n→ On our hardest https://t.co/XGSdHqbr0y"
   },
   {
     "user": {
