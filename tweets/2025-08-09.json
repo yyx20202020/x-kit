@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 823,
+      "friendsCount": 502,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx6W_kmbcAANGoC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1954165348586193225",
+    "fullText": "那么多的模型，还是GPT-4O生图好。 https://t.co/AiuvdJt2qm"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34327,
+      "friendsCount": 656,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx6WXCRaUAI42TO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1954165104230220084",
+    "fullText": "每次在做产品的时候，都会觉得买的Zipic真的太值了！太好用，太顺手~我又想来安利一波 https://t.co/v9gPh3gfsD"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30591,
+      "friendsCount": 149,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx6UjmHbQAAPYiu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1954163007925481643",
+    "fullText": "售后的小伙子周末移植了个闲鱼智能监控，太搞笑了哈哈哈\n居然还有AI推荐值不值得买，唉要是我当年那会有这些东西该多好，那时候天天淘ThinkPad来玩，有这个方便多了 https://t.co/aO1kn86J8d"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30591,
+      "friendsCount": 149,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx6UAjjaQAAP6RC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1954162500812841398",
+    "fullText": "跑在懒猫算力舱下内ComfyUI，哈哈哈这个效果感觉如何 https://t.co/pfXpiE21Qh"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6106,
+      "followersCount": 6108,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -20,7 +88,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34328,
+      "followersCount": 34327,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -55,7 +123,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6106,
+      "followersCount": 6108,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -70,7 +138,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30592,
+      "followersCount": 30591,
       "friendsCount": 149,
       "location": "China"
     },
@@ -87,7 +155,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151425,
+      "followersCount": 151426,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -121,7 +189,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -138,7 +206,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34328,
+      "followersCount": 34327,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -153,7 +221,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74574,
+      "followersCount": 74573,
       "friendsCount": 3433,
       "location": ""
     },
@@ -205,7 +273,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34328,
+      "followersCount": 34327,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -242,7 +310,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4287173,
+      "followersCount": 4287309,
       "friendsCount": 3,
       "location": ""
     },
@@ -257,7 +325,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151425,
+      "followersCount": 151426,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -289,7 +357,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74574,
+      "followersCount": 74573,
       "friendsCount": 3433,
       "location": ""
     },
@@ -306,7 +374,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -321,7 +389,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30592,
+      "followersCount": 30591,
       "friendsCount": 149,
       "location": "China"
     },
@@ -340,7 +408,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30592,
+      "followersCount": 30591,
       "friendsCount": 149,
       "location": "China"
     },
@@ -374,7 +442,7 @@
       "name": "Edward Tufte",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/458847900957556736/uArnnoBy_normal.png",
       "description": "data visualization & analysis, artist, publisher. Founder: Graphics Press, Hogpen Hill Farms, ET Modern Gallery",
-      "followersCount": 102723,
+      "followersCount": 102724,
       "friendsCount": 5264,
       "location": "Null Island  0°N  0°E"
     },
@@ -406,7 +474,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -502,7 +570,7 @@
       "name": "ChainOpera AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1944988694793826304/SyzaPKCp_normal.jpg",
       "description": "Collaborative intelligence of AI Agent Network co-created and co-owned by the community Built on a super AI app, a full-stack AI infra, and AI-native blockchain",
-      "followersCount": 572037,
+      "followersCount": 574446,
       "friendsCount": 104,
       "location": "San Francisco, CA, US"
     },
@@ -616,7 +684,7 @@
       "name": "Microsoft Azure",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1268207800313774080/KF9pXfXU_normal.jpg",
       "description": "Limitless innovation. ☁️ Follow along for the latest news and resources from the official #MicrosoftAzure team. For help, contact @AzureSupport.",
-      "followersCount": 1065190,
+      "followersCount": 1065205,
       "friendsCount": 20,
       "location": "Redmond, WA"
     },
@@ -665,7 +733,7 @@
       "name": "VCard TCG: August 15th",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836853054303522816/OWM0zvdf_normal.jpg",
       "description": "A physical trading card game for VTubers",
-      "followersCount": 42596,
+      "followersCount": 42621,
       "friendsCount": 59,
       "location": ""
     },
@@ -784,7 +852,7 @@
       "name": "Vuong Nguyen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908513609975566336/Kq1QUoX6_normal.jpg",
       "description": "#Web3 Native | Building the technology that empowers faster, cheaper, and more transparent cross-border payments @ConduitPay 🚀",
-      "followersCount": 10716,
+      "followersCount": 10717,
       "friendsCount": 2091,
       "location": "Boston, MA"
     },
@@ -838,7 +906,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -944,7 +1012,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18632,
+      "followersCount": 18631,
       "friendsCount": 2275,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1316,7 +1384,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129784,
+      "followersCount": 129786,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -1803,7 +1871,7 @@
       "name": "Hebbia",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1810137626638483456/bUFO8ceN_normal.jpg",
       "description": "The AI platform for finance.\n\nAdd the power of generative AI to your firm.\n\nBook a demo 👉",
-      "followersCount": 11209,
+      "followersCount": 11214,
       "friendsCount": 258,
       "location": "hello@hebbia.com"
     },
