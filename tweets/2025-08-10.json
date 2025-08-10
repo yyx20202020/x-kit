@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18640,
+      "friendsCount": 2280,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1954486227056632189",
+    "fullText": "好日子像尿一样流走了，明天又到了周一"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30657,
+      "friendsCount": 149,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx-44KiacAAQBOp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1954484041350304122",
+    "fullText": "羊排炖烂了，好吃😋 https://t.co/cxUpBbaX9K"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7480,
+      "followersCount": 7477,
       "friendsCount": 1532,
       "location": ""
     },
@@ -54,7 +86,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34347,
+      "followersCount": 34344,
       "friendsCount": 657,
       "location": "Hong Kong"
     },
@@ -103,7 +135,7 @@
       "name": "Ankush",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904390679834554368/EWpipUHZ_normal.jpg",
       "description": "Thinker & Engineer • Building AI infra @AIONxyz • Prev: @Google, @koinexindia • Alum @IITBHU_Varanasi",
-      "followersCount": 589,
+      "followersCount": 588,
       "friendsCount": 1332,
       "location": "Earth"
     },
@@ -137,7 +169,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13610,
+      "followersCount": 13619,
       "friendsCount": 3909,
       "location": ""
     },
@@ -155,7 +187,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151493,
+      "followersCount": 151494,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -187,7 +219,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13610,
+      "followersCount": 13619,
       "friendsCount": 3909,
       "location": ""
     },
@@ -312,7 +344,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34347,
+      "followersCount": 34344,
       "friendsCount": 657,
       "location": "Hong Kong"
     },
@@ -329,7 +361,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13610,
+      "followersCount": 13619,
       "friendsCount": 3909,
       "location": ""
     },
@@ -396,7 +428,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
       "followersCount": 8523,
-      "friendsCount": 291,
+      "friendsCount": 292,
       "location": ""
     },
     "images": [
@@ -413,7 +445,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
       "followersCount": 8523,
-      "friendsCount": 291,
+      "friendsCount": 292,
       "location": ""
     },
     "images": [
@@ -561,7 +593,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34347,
+      "followersCount": 34344,
       "friendsCount": 657,
       "location": "Hong Kong"
     },
@@ -627,7 +659,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34347,
+      "followersCount": 34344,
       "friendsCount": 657,
       "location": "Hong Kong"
     },
@@ -646,7 +678,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
       "followersCount": 8523,
-      "friendsCount": 291,
+      "friendsCount": 292,
       "location": ""
     },
     "images": [
@@ -694,7 +726,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151493,
+      "followersCount": 151494,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -745,7 +777,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34347,
+      "followersCount": 34344,
       "friendsCount": 657,
       "location": "Hong Kong"
     },
@@ -760,7 +792,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74615,
+      "followersCount": 74614,
       "friendsCount": 3433,
       "location": ""
     },
@@ -795,7 +827,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56476,
+      "followersCount": 56479,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -832,7 +864,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4290023,
+      "followersCount": 4290081,
       "friendsCount": 3,
       "location": ""
     },
@@ -1001,7 +1033,7 @@
       "name": "Edward Tufte",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/458847900957556736/uArnnoBy_normal.png",
       "description": "data visualization & analysis, artist, publisher. Founder: Graphics Press, Hogpen Hill Farms, ET Modern Gallery",
-      "followersCount": 102731,
+      "followersCount": 102730,
       "friendsCount": 5263,
       "location": "Null Island  0°N  0°E"
     },
@@ -1082,7 +1114,7 @@
       "name": "Pop Site",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909604466380152833/VCxRmEh3_normal.jpg",
       "description": "Join 1.9k+ people generating stunning personal sites. Pick a theme and go live, for free.",
-      "followersCount": 773,
+      "followersCount": 778,
       "friendsCount": 169,
       "location": "United States"
     },
@@ -1116,7 +1148,7 @@
       "name": "Microsoft Azure",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1268207800313774080/KF9pXfXU_normal.jpg",
       "description": "Limitless innovation. ☁️ Follow along for the latest news and resources from the official #MicrosoftAzure team. For help, contact @AzureSupport.",
-      "followersCount": 1065363,
+      "followersCount": 1065409,
       "friendsCount": 20,
       "location": "Redmond, WA"
     },
