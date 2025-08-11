@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18625,
+      "friendsCount": 2284,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyD0ck2bYAAVRvq.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1954831831762641319",
+    "fullText": "Cursor 多了一个提醒「上下文使用率」的东西，进度条满的时候就会提示新开一个 Chat 继续，这个能很好的避免长时间使用导致的降智。之前没有这个功能，通宵写 App 都得时刻盯着，因为真的有可能死循环然后把代码全删掉。现在也可能，但是直观了，几率小了很多 https://t.co/S5pQ5CoIPs"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 151558,
+      "friendsCount": 479,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1954831158145122466",
+    "fullText": "最近刷到好多深度解读、学习孙宇晨的内容，真的是自有大儒为我辩经啊。"
+  },
+  {
+    "user": {
       "screenName": "pango_radio",
       "name": "Pango Radio",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1670737180560334848/D1Gxt_vj_normal.jpg",
       "description": "",
-      "followersCount": 1211,
+      "followersCount": 1212,
       "friendsCount": 1833,
       "location": ""
     },
@@ -20,7 +52,7 @@
       "name": "Fauzi Setiadi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1890538196746006529/iekvNNYU_normal.jpg",
       "description": ".",
-      "followersCount": 2852,
+      "followersCount": 2853,
       "friendsCount": 321,
       "location": "Bandung, indonesia"
     },
@@ -197,7 +229,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151554,
+      "followersCount": 151558,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -229,7 +261,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129924,
+      "followersCount": 129925,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -449,7 +481,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30704,
+      "followersCount": 30705,
       "friendsCount": 149,
       "location": "China"
     },
@@ -483,7 +515,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18624,
+      "followersCount": 18625,
       "friendsCount": 2284,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -503,7 +535,7 @@
       "name": "Teamsters",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1535321370032234497/osKtsL6w_normal.jpg",
       "description": "North America's strongest union.",
-      "followersCount": 132531,
+      "followersCount": 132533,
       "friendsCount": 9288,
       "location": "Washington, D.C."
     },
@@ -555,7 +587,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8524,
+      "followersCount": 8525,
       "friendsCount": 292,
       "location": ""
     },
@@ -570,7 +602,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23757,
+      "followersCount": 23754,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -637,7 +669,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30704,
+      "followersCount": 30705,
       "friendsCount": 149,
       "location": "China"
     },
@@ -671,7 +703,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18624,
+      "followersCount": 18625,
       "friendsCount": 2284,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -686,7 +718,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30704,
+      "followersCount": 30705,
       "friendsCount": 149,
       "location": "China"
     },
@@ -738,7 +770,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151554,
+      "followersCount": 151558,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -800,7 +832,7 @@
       "name": "MOONBERG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912594135925575680/bBuGllwu_normal.jpg",
       "description": "All Crypto Data Unified, Analyzed, and Automated for Decisive Action | ●● | TG: https://t.co/3Fw6vxWn6i | Support: @MoonbergSupport",
-      "followersCount": 206224,
+      "followersCount": 206222,
       "friendsCount": 125,
       "location": "Manhattan, NY"
     },
