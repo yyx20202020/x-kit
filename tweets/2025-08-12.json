@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34408,
+      "friendsCount": 656,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyIFS4IaoAAUfv9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1955131673508720691",
+    "fullText": "【Youtube推荐】如何开发一个小红书专属的Agent？实现：\n1. 小红书作者笔记自动抓取\n2. MCP实现N8N Agent快速开发\n3. Agent自动出分析报告\n4. AI笔记仿写功能\n\n这期大家很感兴趣，放Youtube来，感觉学起来👇 https://t.co/R3uewU3IrA"
+  },
+  {
+    "user": {
+      "screenName": "SemiAnalysis_",
+      "name": "SemiAnalysis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947370460192378882/rA6oRuv-_normal.jpg",
+      "description": "",
+      "followersCount": 29640,
+      "friendsCount": 13,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyHgxBRa8AAUr5H.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SemiAnalysis_/status/1955127498402041937",
+    "fullText": "Our deep dive into HBM is here! For subscribers, we will also address the major questions on Samsung’s future viability as a supplier. In view of this piece, we will like to share more about the Hanmi and Hanwha Drama. https://t.co/RtfqGGc7UR"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -52,7 +86,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23769,
+      "followersCount": 23771,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -272,7 +306,7 @@
       "name": "Ohara",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902457858232287232/lLiKq_s__normal.jpg",
       "description": "A software engineering agent company. AI software engineering team research preview: @askModuAI. Join: https://t.co/nyaHHQKSFh",
-      "followersCount": 17009,
+      "followersCount": 17010,
       "friendsCount": 487,
       "location": "San Francisco, CA"
     },
@@ -297,6 +331,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/Robert62201867/status/1955007304904175928",
     "fullText": "Mary Mother of Jesus is not in Heaven because of her virtues, she was a sinner just as we are. Romans 3:23 For ALL have sinned and fall short of the glory of God.\nShe is only in Heaven because she put her Faith and Trust in Jesus that He died because of her sins."
+  },
+  {
+    "user": {
+      "screenName": "diana_freed",
+      "name": "Diana",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860477953110405120/eagnj8Eg_normal.jpg",
+      "description": "Assistant  Prof. @BrownUniversity / @PetrieFlom @BKCHarvard @hseas / CRA & Microsoft Trustworthy AI Fellow / HCI, computer security, privacy, policy, health.",
+      "followersCount": 896,
+      "friendsCount": 1491,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/diana_freed/status/1955004151584481480",
+    "fullText": "Sharing recent work with collaborators: @marsharko, Jasmine Kim, Kelly Bartlett, Ermira Uldedaj, @nataliebazarova, Lauri Goldkind : Sociotechnical Challenges in Implementing Domestic Violence Screening via Telehealth and In-Person Care: Qualitative Study on Clinicians'"
   },
   {
     "user": {
@@ -385,7 +434,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6109,
+      "followersCount": 6110,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -400,7 +449,7 @@
       "name": "Cardstack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790104149029269504/KIvPaVy0_normal.jpg",
       "description": "Building Software for an Open World. Official Twitter of Cardstack Foundation | $CARD | Join Discord: https://t.co/Eki0hHHMRL",
-      "followersCount": 24367,
+      "followersCount": 24368,
       "friendsCount": 190,
       "location": "Zug, Switzerland"
     },
@@ -479,7 +528,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23769,
+      "followersCount": 23771,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -513,7 +562,7 @@
       "name": "Kevin W. Tung",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1787557586193072129/1FK6pk7y_normal.jpg",
       "description": "Senior Partner @Interplay. (VC+Accelerator+Studio+Family Office)",
-      "followersCount": 10641,
+      "followersCount": 10640,
       "friendsCount": 1379,
       "location": "NYC"
     },
@@ -530,7 +579,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56516,
+      "followersCount": 56522,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -628,7 +677,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6109,
+      "followersCount": 6110,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -709,7 +758,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74648,
+      "followersCount": 74649,
       "friendsCount": 3436,
       "location": ""
     },
@@ -724,7 +773,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34407,
+      "followersCount": 34408,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
