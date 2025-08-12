@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34429,
+      "friendsCount": 656,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1955327120584085678",
+    "fullText": "今天在尝试用Claude Code开发一个非常复杂的功能，我知道它一定没有办法一次性开发完成。按理说一般这种功能尝试一次后失败了我就会回退，然后采取小步快走。\n\n但是今天尝试了一下真的Vibe，发报错 &gt; 测试 -&gt;发报错 -&gt; 测试。10个轮回下来，居然真的给他开发出来了。"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
@@ -81,6 +96,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/FASEBPubs/status/1955284622608081299",
     "fullText": "🚀 Can pre-flight training protect astronauts from spaceflight’s toll?\nThe NEBULA Project shows that targeted, high-intensity resistance + aerobic preconditioning can delay microgravity’s damaging effects on muscles, bones, immunity, &amp; brain health—at least during the first days https://t.co/c0vfJkm3ea"
+  },
+  {
+    "user": {
+      "screenName": "Curtis_B33",
+      "name": "Curtis Blackmore",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1461121874176266242/9Nqwvzud_normal.jpg",
+      "description": "👉 https://t.co/RkZYDtfbjZ\n\nCo-Founder at @MyDesignsio and @MerchTitans.\nMaking it easy to create, sell, and fulfill custom Print on Demand and digital products.",
+      "followersCount": 4820,
+      "friendsCount": 1802,
+      "location": "Las Vegas, NV"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1955281253277810689/vid/avc1/1920x1080/7N83l_5cWPEUOEUM.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Curtis_B33/status/1955282906093346925",
+    "fullText": "Does selling digital product bundles on Etsy feel like too much work?\n\nThis AI tool automates the entire process from designs to mockups to publishing - in bulk. See exactly how I do it in my new video! 👇 https://t.co/1Hl4gw62un"
   },
   {
     "user": {
@@ -331,7 +363,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30740,
+      "followersCount": 30743,
       "friendsCount": 149,
       "location": "China"
     },
@@ -431,7 +463,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56547,
+      "followersCount": 56538,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -666,7 +698,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30740,
+      "followersCount": 30743,
       "friendsCount": 149,
       "location": "China"
     },
@@ -747,7 +779,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34427,
+      "followersCount": 34429,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -845,7 +877,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30740,
+      "followersCount": 30743,
       "friendsCount": 149,
       "location": "China"
     },
@@ -924,7 +956,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23807,
+      "followersCount": 23808,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -988,7 +1020,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21356,
+      "followersCount": 21358,
       "friendsCount": 1039,
       "location": ""
     },
@@ -1114,7 +1146,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59668,
+      "followersCount": 59669,
       "friendsCount": 383,
       "location": ""
     },
@@ -1191,7 +1223,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59668,
+      "followersCount": 59669,
       "friendsCount": 383,
       "location": ""
     },
@@ -1558,7 +1590,7 @@
       "name": "RocVillani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1915102460051369984/BaT7d3Fq_normal.jpg",
       "description": "Manufacturing; SARSAM LLC. Interest: talking about economics, physics, chemistry, biochemistry. Intelligence is manifested uniquely across the universe!",
-      "followersCount": 373,
+      "followersCount": 378,
       "friendsCount": 237,
       "location": "GPW, MI"
     },
@@ -1605,7 +1637,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23807,
+      "followersCount": 23808,
       "friendsCount": 298,
       "location": "Guangdong"
     },
