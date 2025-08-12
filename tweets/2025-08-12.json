@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 151591,
+      "friendsCount": 479,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyKhWuzbIAAgnts.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1955306247701622885",
+    "fullText": "内网速度还真的成瓶颈了，NAS 读写跑满了 2.5G 无法发挥硬盘性能了。幸亏装修时没听推上说 “千兆够用” “万兆用不到”，坚定的上车了万兆内网。虽然设备只有 2.5G 口，但这速度也能接受了。 https://t.co/uw8FDDwEvr"
+  },
+  {
+    "user": {
+      "screenName": "_arshbot",
+      "name": "Harsha Goli",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1442283442423562242/cPvc7c8T_normal.jpg",
+      "description": "founder @joinMagnolia - unifying banking and bitcoin for business",
+      "followersCount": 2427,
+      "friendsCount": 846,
+      "location": "NYC 🗽"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/_arshbot/status/1955287380497240097",
+    "fullText": "stripe/circle private blockchains are very bearish for ethereum\n\nsignals long term planning against eth's success"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13772,
+      "followersCount": 13773,
       "friendsCount": 3928,
       "location": ""
     },
@@ -15,6 +47,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1955286318516211985",
     "fullText": "媳妇儿说， @elonmusk  和 @sama  他俩活人感好重，为啥国内企业家很少有这样的。\n我只能说...口无遮拦的都进去了，或者出去了... https://t.co/U9uFw4IYkf"
+  },
+  {
+    "user": {
+      "screenName": "FASEBPubs",
+      "name": "FASEBPubs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879176071070765056/7XGuNlr8_normal.jpg",
+      "description": "Connecting scientists through FASEB Publications—home to The FASEB Journal & FASEB BioAdvances. By scientists, for scientists. Part of @FASEBorg. 📚🔬",
+      "followersCount": 117,
+      "friendsCount": 136,
+      "location": "Rockville, MD"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyKRAG7XAAAF--e.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FASEBPubs/status/1955284622608081299",
+    "fullText": "🚀 Can pre-flight training protect astronauts from spaceflight’s toll?\nThe NEBULA Project shows that targeted, high-intensity resistance + aerobic preconditioning can delay microgravity’s damaging effects on muscles, bones, immunity, &amp; brain health—at least during the first days https://t.co/c0vfJkm3ea"
   },
   {
     "user": {
@@ -54,7 +103,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13772,
+      "followersCount": 13773,
       "friendsCount": 3928,
       "location": ""
     },
@@ -64,6 +113,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1955269795898667113",
     "fullText": "上午看时间线还讨论 Tim 还想打抱不平来着，刚小红书刷到这个，瞬间觉得哥们戏太多了。这荒岛求生直播个鬼，还不如挑战陪外卖小哥送外卖 100 小时呢，策划团队也太拉垮了。 https://t.co/WkyhhV7vyb"
+  },
+  {
+    "user": {
+      "screenName": "MattInWeb3",
+      "name": "Matt 💰💰",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1867950914356563968/jcmArXAA_normal.jpg",
+      "description": "Sold my IRL company for 7 figs just so that I could spend every day at this circus 🤝 @Rainbetcom Partner",
+      "followersCount": 111654,
+      "friendsCount": 1832,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyKBJyoXYAAGzbz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MattInWeb3/status/1955269525521186881",
+    "fullText": "Good to see $VADER continuing to deliver a healthy amount of Virtuals points each day.\n\nEspecially as rumors are swirling that Season 3 is right around the corner now and some major shake-ups are coming down the pipeline.\n\nThe big comeback is beginning, it seems... 😏 https://t.co/M45MRG6WrM"
   },
   {
     "user": {
@@ -180,7 +246,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8531,
+      "followersCount": 8529,
       "friendsCount": 292,
       "location": ""
     },
@@ -248,7 +314,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30736,
+      "followersCount": 30733,
       "friendsCount": 149,
       "location": "China"
     },
@@ -265,7 +331,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18621,
+      "followersCount": 18622,
       "friendsCount": 2298,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -348,7 +414,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56540,
+      "followersCount": 56542,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -365,7 +431,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18621,
+      "followersCount": 18622,
       "friendsCount": 2298,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -390,6 +456,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/legnica24h/status/1955182803257024782",
     "fullText": "Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."
+  },
+  {
+    "user": {
+      "screenName": "CoinQuantX",
+      "name": "CoinQuant",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1951333379997052928/pFFc3rFm_normal.jpg",
+      "description": "A no-code platform empowering traders to build, analyze & automate trading strategies across hundreds of assets seamlessly.",
+      "followersCount": 26,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CoinQuantX/status/1955176961992495469",
+    "fullText": "Bitcoin around CPI: what the data says\nWe studied 90 CPI reports from 2018 to 2025 and sliced the day into six parts. (1/9)"
   },
   {
     "user": {
@@ -444,7 +525,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13772,
+      "followersCount": 13773,
       "friendsCount": 3928,
       "location": ""
     },
@@ -474,7 +555,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13772,
+      "followersCount": 13773,
       "friendsCount": 3928,
       "location": ""
     },
@@ -568,7 +649,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30736,
+      "followersCount": 30733,
       "friendsCount": 149,
       "location": "China"
     },
@@ -583,7 +664,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13772,
+      "followersCount": 13773,
       "friendsCount": 3928,
       "location": ""
     },
@@ -632,7 +713,7 @@
       "name": "yuyu n",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954001983645294592/oqmyFbHO_normal.jpg",
       "description": "TENNIS COOL",
-      "followersCount": 527,
+      "followersCount": 516,
       "friendsCount": 2,
       "location": "US"
     },
@@ -649,7 +730,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34431,
+      "followersCount": 34426,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -747,7 +828,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30736,
+      "followersCount": 30733,
       "friendsCount": 149,
       "location": "China"
     },
@@ -796,7 +877,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13772,
+      "followersCount": 13773,
       "friendsCount": 3928,
       "location": ""
     },
@@ -811,7 +892,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8531,
+      "followersCount": 8529,
       "friendsCount": 292,
       "location": ""
     },
@@ -826,7 +907,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23801,
+      "followersCount": 23802,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -860,7 +941,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13772,
+      "followersCount": 13773,
       "friendsCount": 3928,
       "location": ""
     },
@@ -890,7 +971,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21358,
+      "followersCount": 21356,
       "friendsCount": 1039,
       "location": ""
     },
@@ -1016,7 +1097,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59670,
+      "followersCount": 59668,
       "friendsCount": 383,
       "location": ""
     },
@@ -1093,7 +1174,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59670,
+      "followersCount": 59668,
       "friendsCount": 383,
       "location": ""
     },
@@ -1471,11 +1552,28 @@
   },
   {
     "user": {
+      "screenName": "Moms4Liberty",
+      "name": "Moms for Liberty",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1338931301223718915/BZ46xN1N_normal.jpg",
+      "description": "Started by 2 Moms, now 300 chapters/48 states/130k members & growing. We are fighting for the survival of America, uniting & empowering parents. Join us 👇 🇺🇸",
+      "followersCount": 205844,
+      "friendsCount": 3345,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1954928552979107840/vid/avc1/1920x1056/9dLsk8iPcEvZgljo.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Moms4Liberty/status/1954928664392737097",
+    "fullText": "“They haven’t changed a thing. They just don’t get it,” says an exasperated @POTUS, discussing commonsense policies the Democrats oppose, such as protecting female sports and removing radical K-12 curricula promoted by trans activists. https://t.co/g2uGqOkV7d"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23801,
+      "followersCount": 23802,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -1826,6 +1924,21 @@
     ],
     "tweetUrl": "https://x.com/AmericaGrooves/status/1954787507024830770",
     "fullText": "Dear @POTUS @MFA_China @KremlinRussia_E @mfa_russia @MFA_Ukraine @netanyahu @Palestine_UN @StateDept @UN\n\nPost 2/2\n\nRe: the upcoming summit in Alaska on August 15... why don't all of you attend? Make it a cooperative group effort.\n\n1980 Winter Olympics: Team USA defeated the https://t.co/yYdNtgHiE8"
+  },
+  {
+    "user": {
+      "screenName": "AbdelSmires",
+      "name": "Abdelkader Smires",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1325305513744142338/Hj1hXsO4_normal.jpg",
+      "description": "Family, Social Justice, Spirituality, Nasheed/Music, Poetry, Outdoors, Politics, Economy, Investor & Speculator, Crypto/Defi, Student of Life.",
+      "followersCount": 320,
+      "friendsCount": 274,
+      "location": "North Carolina, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AbdelSmires/status/1954786960473514287",
+    "fullText": "Crypto cycle top around October 27 2025."
   },
   {
     "user": {
