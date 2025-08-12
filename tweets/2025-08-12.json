@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 30724,
+      "friendsCount": 149,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyH62H2aEAMIuZE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1955119527588663537",
+    "fullText": "趁着中午继续去自由泳1000米\n\n已经从140降到134了，今天目标133。\n\n中午游泳人超少。 https://t.co/BI1b8ulcK1"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13742,
+      "followersCount": 13745,
       "friendsCount": 3922,
       "location": ""
     },
@@ -20,7 +37,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8528,
+      "followersCount": 8530,
       "friendsCount": 292,
       "location": ""
     },
@@ -35,7 +52,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23768,
+      "followersCount": 23769,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -48,11 +65,28 @@
   },
   {
     "user": {
+      "screenName": "theancientmyst",
+      "name": "The Ancient Mystery School",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1301032824175292418/09n7QKK0_normal.jpg",
+      "description": "Researcher of the Occult, Filmmaker, Music Producer",
+      "followersCount": 29,
+      "friendsCount": 41,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1955081281949065218/vid/avc1/3840x2026/c04SZLBlkmXlSpep.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/theancientmyst/status/1955081493530742946",
+    "fullText": "https://t.co/QHWlc50GV6"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13742,
+      "followersCount": 13745,
       "friendsCount": 3922,
       "location": ""
     },
@@ -82,7 +116,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21356,
+      "followersCount": 21355,
       "friendsCount": 1039,
       "location": ""
     },
@@ -161,7 +195,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59667,
+      "followersCount": 59669,
       "friendsCount": 383,
       "location": ""
     },
@@ -176,7 +210,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59667,
+      "followersCount": 59669,
       "friendsCount": 383,
       "location": ""
     },
@@ -202,11 +236,28 @@
   },
   {
     "user": {
+      "screenName": "Rscott710905",
+      "name": "Rob Leavy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1939961543451451392/fSHjKbk2_normal.jpg",
+      "description": "I enjoy vacationing in New Hampshire , specifically the White Mountains. \n - I am a child of the Most Hight God through my Lord and Savior Yeshua (Jesus).",
+      "followersCount": 43,
+      "friendsCount": 378,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyGcCgrWMAAUltc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Rscott710905/status/1955015282558144754",
+    "fullText": "https://t.co/2BteH8r2FI"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59667,
+      "followersCount": 59669,
       "friendsCount": 383,
       "location": ""
     },
@@ -214,6 +265,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1955013745295626300",
     "fullText": "推荐一个优质视频\nVitalik Buterin: How Ethereum Becomes The World Ledger https://t.co/rLMXUBnQo1 via @YouTube"
+  },
+  {
+    "user": {
+      "screenName": "tryoharaAI",
+      "name": "Ohara",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902457858232287232/lLiKq_s__normal.jpg",
+      "description": "A software engineering agent company. AI software engineering team research preview: @askModuAI. Join: https://t.co/nyaHHQKSFh",
+      "followersCount": 17009,
+      "friendsCount": 487,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyGTpKhW4AAe1kb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tryoharaAI/status/1955011729320206697",
+    "fullText": "Join Us with @coinbase on Monday August 18th. \n\nLets talk @baseapp miniapps and @base appcoins!\n\nRSVP Below⤵️ https://t.co/rkRDj53JP2"
   },
   {
     "user": {
@@ -411,7 +479,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23768,
+      "followersCount": 23769,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -462,7 +530,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56513,
+      "followersCount": 56516,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -575,7 +643,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30725,
+      "followersCount": 30724,
       "friendsCount": 149,
       "location": "China"
     },
@@ -641,7 +709,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74653,
+      "followersCount": 74648,
       "friendsCount": 3436,
       "location": ""
     },
@@ -656,7 +724,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34406,
+      "followersCount": 34407,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
