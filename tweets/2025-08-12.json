@@ -1,6 +1,53 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 13736,
+      "friendsCount": 3920,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1955077880268099772",
+    "fullText": "最近读到程苓峰前辈的《日不落是新长城》，感触良多：\n这一轮出海，不只是做生意，而是扎根——\n举家搬迁、说当地话、换国籍，却依然叫自己 Chinese。\n长城是防御，日不落是融入。\n未来的华人网络，会像新的“日不落帝国”。\n\n千年未有之变局——\n中国掀美国的桌子，\n东亚掀地中海的桌子，\nCrypto"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18631,
+      "friendsCount": 2287,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1955074301604057315",
+    "fullText": "两台手机隔一分钟响一下闹钟，起个床像拆弹"
+  },
+  {
+    "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21356,
+      "friendsCount": 1039,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1955069394616455170/vid/avc1/1184x720/-Ko3zB6N_vT_CUx3.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/1955071564850110664",
+    "fullText": "测了一个 #Noi 真实代码场景，GPT-5 指令遵循超强，第一版基本可用，2-3 轮小迭代，就达到这种效果了。 https://t.co/J2elD76AvY"
+  },
+  {
+    "user": {
       "screenName": "cydelmg",
       "name": "Cydel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1911777863608532993/RD32ZXDX_normal.jpg",
@@ -22,7 +69,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59659,
+      "followersCount": 59663,
       "friendsCount": 383,
       "location": ""
     },
@@ -37,7 +84,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59659,
+      "followersCount": 59663,
       "friendsCount": 383,
       "location": ""
     },
@@ -67,7 +114,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59659,
+      "followersCount": 59663,
       "friendsCount": 383,
       "location": ""
     },
@@ -127,11 +174,28 @@
   },
   {
     "user": {
+      "screenName": "portraitanalyst",
+      "name": "Portrait Analytics",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945150801132892161/_FORp49c_normal.jpg",
+      "description": "An AI-powered research analyst to help you generate high-conviction investment theses in record time\n\nSubstack: https://t.co/PyeIHoCbXW",
+      "followersCount": 375,
+      "friendsCount": 62,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyFqJG2WEAAVq5k.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/portraitanalyst/status/1954960630928007415",
+    "fullText": "Stan Druckenmiller once shared that he reads earnings calls from dozens of cyclical businesses to build his mosaic on real-time macro developments\n\nI built a Portrait Monitor to extract macro read-throughs from 100 industry bellweathers. Some takeaways: (1/n) https://t.co/DoumeLOZgo"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6108,
+      "followersCount": 6109,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -156,6 +220,21 @@
     ],
     "tweetUrl": "https://x.com/heytavus/status/1954949282467024916",
     "fullText": "coming soon https://t.co/xzuVoMCYUR"
+  },
+  {
+    "user": {
+      "screenName": "heterodoxinvest",
+      "name": "Cody",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881761169838419969/UE5rCtQS_normal.jpg",
+      "description": "",
+      "followersCount": 684,
+      "friendsCount": 433,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/heterodoxinvest/status/1954947926561886381",
+    "fullText": "My @theTIKR wishlist:\n\n- API with endpoints for creating/managing screens &amp; watchlist and exporting data\n- More than 75 companies in a watchlist\n- Choose which watchlist when favoriting a company\n- Bulk add companies to a watchlist\n- Import/export tickers and watchlists\n- Export"
   },
   {
     "user": {
@@ -212,7 +291,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56505,
+      "followersCount": 56506,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -259,11 +338,28 @@
   },
   {
     "user": {
+      "screenName": "Israel",
+      "name": "Israel ישראל",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
+      "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
+      "followersCount": 1887076,
+      "friendsCount": 5122,
+      "location": "Jerusalem, Israel"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyENXgmW0AAphpk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Israel/status/1954858424115539970",
+    "fullText": "For over 670 days, Evyatar David has been held in Gaza by Palestinian Hamas - one of 50 Israeli hostages abused, starved, and denied hope.\n\nTime is running out.\nLet them go now. 🎗️ https://t.co/5qeqWhON2Z"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6108,
+      "followersCount": 6109,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -278,7 +374,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30720,
+      "followersCount": 30721,
       "friendsCount": 149,
       "location": "China"
     },
@@ -294,7 +390,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
       "followersCount": 18631,
-      "friendsCount": 2285,
+      "friendsCount": 2287,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -310,7 +406,7 @@
       "name": "Star Fire: Eternal Cycle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939968907252486144/1Hg2Uvju_normal.jpg",
       "description": "Star Fire is a love letter to classic arcade side-scrollers, reimagined with roguelite progression, modern action polish, and that “just one more run” itch.",
-      "followersCount": 26743,
+      "followersCount": 26740,
       "friendsCount": 181,
       "location": ""
     },
@@ -359,7 +455,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19596,
+      "followersCount": 19593,
       "friendsCount": 840,
       "location": "San Jose, CA"
     },
@@ -391,7 +487,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6108,
+      "followersCount": 6109,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -465,5 +561,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/1954692317736239353",
     "fullText": "如果你今天选择上班摸鱼，你可以看完 @tsoding 的一整个 8 小时的视频😂\n\nhttps://t.co/g3jSgP7yu4 https://t.co/8YwVNCuIDQ"
+  },
+  {
+    "user": {
+      "screenName": "MenWakeUPP",
+      "name": "Men Wake Up",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920240197913960448/JjujFw_i_normal.jpg",
+      "description": "Men under siege\nAsleep @ the wheel\nVICTIMS OF NEO-FEMINIST BIGOTRY & ABUSE OF POWER\n\nARISE !!\nJOIN THE MALE COUNTER-OFFENSIVE\nVOTE MALE\nFollow me & I follow you",
+      "followersCount": 48,
+      "friendsCount": 91,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MenWakeUPP/status/1954681604921593984",
+    "fullText": "MEN WAKE UP !\nREMEDY: DO NOT WATCH \"THE VIEW\" EVER\n\nTHE VIEW IS AN ALL-FEMALE SHOW NEO-FEMINIST PANEL SHOW\n-Men would never be allowed a newsy editorial show on their own \n-IT PROVES THAT WOMEN DO NOT CARE IF MEN ARE REPRESENTED\n-THEY ONLY THAT WOMEN HAVE THEIR NEO-FEMINIST SAY"
   }
 ]
