@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
+      "followersCount": 8529,
+      "friendsCount": 292,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyJuxuLaEAIG5z9.jpg",
+      "https://pbs.twimg.com/media/GyJu2DTaEAQCI-R.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1955247281588015398",
+    "fullText": "我特别讨厌这种像牛皮癣一样的侵入式 Chrome 插件，想关闭还很费劲。 https://t.co/0jTn8y2eks"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30727,
+      "followersCount": 30730,
       "friendsCount": 149,
       "location": "China"
     },
@@ -22,7 +40,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18626,
+      "followersCount": 18628,
       "friendsCount": 2294,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -107,7 +125,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18626,
+      "followersCount": 18628,
       "friendsCount": 2294,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -170,7 +188,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13765,
-      "friendsCount": 3924,
+      "friendsCount": 3928,
       "location": ""
     },
     "images": [],
@@ -200,7 +218,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13765,
-      "friendsCount": 3924,
+      "friendsCount": 3928,
       "location": ""
     },
     "images": [],
@@ -278,7 +296,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30727,
+      "followersCount": 30730,
       "friendsCount": 149,
       "location": "China"
     },
@@ -294,7 +312,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13765,
-      "friendsCount": 3924,
+      "friendsCount": 3928,
       "location": ""
     },
     "images": [],
@@ -342,7 +360,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34424,
+      "followersCount": 34418,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -440,7 +458,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30727,
+      "followersCount": 30730,
       "friendsCount": 149,
       "location": "China"
     },
@@ -490,7 +508,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13765,
-      "friendsCount": 3924,
+      "friendsCount": 3928,
       "location": ""
     },
     "images": [],
@@ -504,7 +522,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8530,
+      "followersCount": 8529,
       "friendsCount": 292,
       "location": ""
     },
@@ -519,7 +537,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23790,
+      "followersCount": 23792,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -554,7 +572,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13765,
-      "friendsCount": 3924,
+      "friendsCount": 3928,
       "location": ""
     },
     "images": [],
@@ -583,7 +601,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21359,
+      "followersCount": 21360,
       "friendsCount": 1039,
       "location": ""
     },
@@ -694,7 +712,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59669,
+      "followersCount": 59667,
       "friendsCount": 383,
       "location": ""
     },
@@ -756,7 +774,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59669,
+      "followersCount": 59667,
       "friendsCount": 383,
       "location": ""
     },
@@ -826,6 +844,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/diana_freed/status/1955004151584481480",
     "fullText": "Sharing recent work with collaborators: @marsharko, Jasmine Kim, Kelly Bartlett, Ermira Uldedaj, @nataliebazarova, Lauri Goldkind : Sociotechnical Challenges in Implementing Domestic Violence Screening via Telehealth and In-Person Care: Qualitative Study on Clinicians'"
+  },
+  {
+    "user": {
+      "screenName": "TheStreet",
+      "name": "TheStreet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1438558308164644866/JLxN88qJ_normal.jpg",
+      "description": "How to make money, invest your money, save your money, and spend your money.",
+      "followersCount": 851445,
+      "friendsCount": 1505,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1954989772285399040/vid/avc1/1920x1080/EmTOKc-M1jm93VVQ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheStreet/status/1954990597929898217",
+    "fullText": "Getting into crypto can be confusing, but there are investing strategies that might be able to help. This simple rule explains how much of your portfolio should be allocated to crypto: https://t.co/b8Z8rN4LTp"
   },
   {
     "user": {
@@ -1076,7 +1111,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23790,
+      "followersCount": 23792,
       "friendsCount": 298,
       "location": "Guangdong"
     },
@@ -1195,7 +1230,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
-      "followersCount": 835,
+      "followersCount": 836,
       "friendsCount": 505,
       "location": ""
     },
@@ -1638,6 +1673,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/PulseInDc/status/1954620587571069062",
     "fullText": "New poll: Most Americans stressed over grocery costs, with many pointing to tariffs as a key reason. Is your bill higher this year? https://t.co/gL4e7aFiHa"
+  },
+  {
+    "user": {
+      "screenName": "nuggets",
+      "name": "Denver Nuggets",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1924224859883638784/NIop15pU_normal.jpg",
+      "description": "2023 NBA Champs ⚒",
+      "followersCount": 1491881,
+      "friendsCount": 1048,
+      "location": "Ball Arena "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1954588846932570112/vid/avc1/1080x1080/cl8zDlYgoRCo0GLQ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/nuggets/status/1954589653337821477",
+    "fullText": "Dikembe Mutombo, one of the best defenders of all time https://t.co/I285k93Dz2"
   },
   {
     "user": {
