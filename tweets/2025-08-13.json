@@ -48,11 +48,26 @@
   },
   {
     "user": {
+      "screenName": "TraycerAI",
+      "name": "Traycer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1781376710526824449/hpR7sSEW_normal.png",
+      "description": "An AI-powered coding assistant that plans, implements, and reviews every change https://t.co/bqstetMpZ1",
+      "followersCount": 4053,
+      "friendsCount": 6,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TraycerAI/status/1955680766236725756",
+    "fullText": "🚀 We’ve upgraded Traycer’s internals: GPT-5 now powers code reviews and verification.\n\nWe found GPT-5 excels at code review and verification. That’s why it now powers our Review feature (previously backed by o4-mini) and plays a critical role in verifying each Phase of your Task"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18620,
+      "followersCount": 18621,
       "friendsCount": 2312,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -60,6 +75,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1955678762684793237",
     "fullText": "很快就能看到 ETH 新高了，这两天顶一下的事儿。\n\n届时一定会有 KOL 说：“以太坊没有辜负任何人！所有买以太现货的人都拿到了结果！”\n\n和春晚似的，只要有新高，就有这个保留节目。"
+  },
+  {
+    "user": {
+      "screenName": "ikechi0x1",
+      "name": "Ikechi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1941805074969219072/842gf3HX_normal.jpg",
+      "description": "Gall's law. \nBuilding software that lets your granny build software that lives and breathes in her DMs @OnepodAI, ex - @Twitter, @Twilio",
+      "followersCount": 1471,
+      "friendsCount": 1412,
+      "location": "some LLM "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ikechi0x1/status/1955669540974760353",
+    "fullText": "You need a fundamentally new primitive into which to translate behavior from an LLM for your app builder.\n\nThe reason app builders are inconsistent is because these tools don't own their translation primitive. It's just JavaScript, etc. great for training, bad for enforcing"
   },
   {
     "user": {
@@ -84,7 +114,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18620,
+      "followersCount": 18621,
       "friendsCount": 2312,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -165,7 +195,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13814,
+      "followersCount": 13813,
       "friendsCount": 3935,
       "location": ""
     },
@@ -199,7 +229,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13814,
+      "followersCount": 13813,
       "friendsCount": 3935,
       "location": ""
     },
@@ -261,7 +291,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13814,
+      "followersCount": 13813,
       "friendsCount": 3935,
       "location": ""
     },
@@ -314,7 +344,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30893,
+      "followersCount": 30894,
       "friendsCount": 149,
       "location": "China"
     },
@@ -331,7 +361,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30893,
+      "followersCount": 30894,
       "friendsCount": 149,
       "location": "China"
     },
@@ -450,7 +480,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18620,
+      "followersCount": 18621,
       "friendsCount": 2312,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -531,7 +561,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30893,
+      "followersCount": 30894,
       "friendsCount": 149,
       "location": "China"
     },
@@ -548,7 +578,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30893,
+      "followersCount": 30894,
       "friendsCount": 149,
       "location": "China"
     },
@@ -597,7 +627,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18620,
+      "followersCount": 18621,
       "friendsCount": 2312,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -632,7 +662,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18620,
+      "followersCount": 18621,
       "friendsCount": 2312,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -694,7 +724,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30893,
+      "followersCount": 30894,
       "friendsCount": 149,
       "location": "China"
     },
@@ -775,7 +805,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151619,
+      "followersCount": 151618,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -822,7 +852,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30893,
+      "followersCount": 30894,
       "friendsCount": 149,
       "location": "China"
     },
@@ -925,7 +955,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13814,
+      "followersCount": 13813,
       "friendsCount": 3935,
       "location": ""
     },
@@ -976,7 +1006,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30893,
+      "followersCount": 30894,
       "friendsCount": 149,
       "location": "China"
     },
@@ -1040,7 +1070,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18620,
+      "followersCount": 18621,
       "friendsCount": 2312,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1537,6 +1567,23 @@
   },
   {
     "user": {
+      "screenName": "realSharonZhou",
+      "name": "Sharon Zhou",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1328750370798133253/yjVjhDTU_normal.png",
+      "description": "Building & teaching AI | VP of AI, @AMD | Prev: Founder & CEO, Lamini. CS Faculty & PhD @Stanford. @Google. @Harvard | @MIT 35 under 35. Angel investor.",
+      "followersCount": 25124,
+      "friendsCount": 0,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyGvtlsbUAAqJiF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/realSharonZhou/status/1955290683515834477",
+    "fullText": "AMD Mi300 GPUs have 192GB of VRAM *each*, or 1.5TB on a 8x GPU node 🤯\n\nTo compare, Nvidia H100 GPUs only have 80GB each.\n\nThe absurd amount of memory is for your model weights, and for your long contexts (KV cache).\n\nMI300 GPUs available on the AMD Developer Cloud today at https://t.co/HcSu8UgJOt"
+  },
+  {
+    "user": {
       "screenName": "XonaSpace",
       "name": "Xona Space Systems",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1925668681704443904/Go7zS1vV_normal.jpg",
@@ -1592,7 +1639,7 @@
       "name": "Mr. Tyrion",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1851712536917196800/3AQZs85Q_normal.jpg",
       "description": "I drink wine and I know things. Observing patterns, not trends.",
-      "followersCount": 58,
+      "followersCount": 64,
       "friendsCount": 85,
       "location": ""
     },
@@ -2068,8 +2115,8 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1952736919000875009/iIz_722T_normal.jpg",
       "description": "📍McDonaldland",
-      "followersCount": 4763343,
-      "friendsCount": 12995,
+      "followersCount": 4763358,
+      "friendsCount": 12994,
       "location": ""
     },
     "images": [],
