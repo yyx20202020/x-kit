@@ -20,7 +20,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18613,
+      "followersCount": 18617,
       "friendsCount": 2298,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -84,7 +84,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34453,
+      "followersCount": 34455,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -101,7 +101,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34453,
+      "followersCount": 34455,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -118,7 +118,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34453,
+      "followersCount": 34455,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -178,12 +178,29 @@
   },
   {
     "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16606,
+      "friendsCount": 1198,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyKe6YVW8AAGjgm.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1955299940717998141",
+    "fullText": "While headlines warn of tariffs, weak consumption and a tough August, the data tells a different story.\n\nU.S. companies announced a record $166 billion in stock buybacks last month, more than double the previous July high.\n\nThat’s a strong signal of confidence beneath the noise. https://t.co/rFBzF7Cqsy"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13786,
-      "friendsCount": 3928,
+      "friendsCount": 3929,
       "location": ""
     },
     "images": [
@@ -215,7 +232,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13786,
-      "friendsCount": 3928,
+      "friendsCount": 3929,
       "location": ""
     },
     "images": [
@@ -224,6 +241,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1955269795898667113",
     "fullText": "上午看时间线还讨论 Tim 还想打抱不平来着，刚小红书刷到这个，瞬间觉得哥们戏太多了。这荒岛求生直播个鬼，还不如挑战陪外卖小哥送外卖 100 小时呢，策划团队也太拉垮了。 https://t.co/WkyhhV7vyb"
+  },
+  {
+    "user": {
+      "screenName": "NormalComputing",
+      "name": "Normal Computing 🧠🌡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940925876885245953/y-FLiKiY_normal.jpg",
+      "description": "We build AI systems that natively reason, so they can partner with us on our most important problems. Join us https://t.co/BcjWCoID0G.",
+      "followersCount": 3812,
+      "friendsCount": 123,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyJrkcjbIAAGQAQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NormalComputing/status/1955263423236935841",
+    "fullText": "Today, Normal Computing announces that we have achieved first silicon for CN101: the world’s first thermodynamic computing chip.\n\nCN101 accelerates AI inference, large-scale linear algebra, and stochastic sampling for diffusion models, for up to 1000× more energy-efficient AI. https://t.co/lYfdhBL3uA"
   },
   {
     "user": {
@@ -317,7 +351,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18613,
+      "followersCount": 18617,
       "friendsCount": 2298,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -334,7 +368,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56539,
+      "followersCount": 56540,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -351,7 +385,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18613,
+      "followersCount": 18617,
       "friendsCount": 2298,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -384,7 +418,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13786,
-      "friendsCount": 3928,
+      "friendsCount": 3929,
       "location": ""
     },
     "images": [],
@@ -399,7 +433,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13786,
-      "friendsCount": 3928,
+      "friendsCount": 3929,
       "location": ""
     },
     "images": [],
@@ -430,7 +464,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1952736919000875009/iIz_722T_normal.jpg",
       "description": "📍McDonaldland",
-      "followersCount": 4763200,
+      "followersCount": 4763305,
       "friendsCount": 12995,
       "location": ""
     },
@@ -491,7 +525,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13786,
-      "friendsCount": 3928,
+      "friendsCount": 3929,
       "location": ""
     },
     "images": [],
@@ -501,11 +535,28 @@
   },
   {
     "user": {
+      "screenName": "yuyu_n_ry7",
+      "name": "yuyu n",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954001983645294592/oqmyFbHO_normal.jpg",
+      "description": "TENNIS COOL",
+      "followersCount": 500,
+      "friendsCount": 2,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyIGLKUWQAEL6QE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyu_n_ry7/status/1955132002442809741",
+    "fullText": "Nadal then won his second US Open trophy when he beat Djokovic 6–2, 3–6, 6–4, 6–1 in the final. https://t.co/dCcRygYKTl"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34453,
+      "followersCount": 34455,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -515,6 +566,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1955131673508720691",
     "fullText": "【Youtube推荐】如何开发一个小红书专属的Agent？实现：\n1. 小红书作者笔记自动抓取\n2. MCP实现N8N Agent快速开发\n3. Agent自动出分析报告\n4. AI笔记仿写功能\n\n这期大家很感兴趣，放Youtube来，感觉学起来👇 https://t.co/R3uewU3IrA"
+  },
+  {
+    "user": {
+      "screenName": "muruges_mur",
+      "name": "murugesh",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950103621883850752/y-aOpuPM_normal.jpg",
+      "description": "We custom make rosettes for schools, dog shows, horse shows, political parties, hen parties, baby showers and anybody else that will require rosettes.",
+      "followersCount": 344,
+      "friendsCount": 2,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyIAj5nWIAAuJru.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/muruges_mur/status/1955125816079126851",
+    "fullText": "Busy busy busy! Get your orders in before it's too late. First Rosettes are very busy this summer. https://t.co/yaBSOhRca4"
   },
   {
     "user": {
@@ -540,7 +608,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13786,
-      "friendsCount": 3928,
+      "friendsCount": 3929,
       "location": ""
     },
     "images": [],
@@ -587,7 +655,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 13786,
-      "friendsCount": 3928,
+      "friendsCount": 3929,
       "location": ""
     },
     "images": [],
@@ -661,6 +729,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1955013745295626300",
     "fullText": "推荐一个优质视频\nVitalik Buterin: How Ethereum Becomes The World Ledger https://t.co/rLMXUBnQo1 via @YouTube"
+  },
+  {
+    "user": {
+      "screenName": "AmMomentOrg",
+      "name": "American Moment",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1795937597631389696/3aJRNjYI_normal.jpg",
+      "description": "We identify, educate, and credential young Americans who will implement public policy that supports strong families, a sovereign nation, and prosperity for all.",
+      "followersCount": 13031,
+      "friendsCount": 526,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1954962459686539264/vid/avc1/1080x1080/6N8UmCKqzsvDK6v6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/AmMomentOrg/status/1954962585742401766",
+    "fullText": "\"They're not even jaywalking, they're just... jaying!\" \n\n@MHowellTweets cannot wait to see Washington D.C.'s crime problem cleaned up. https://t.co/jTpXo2Ci78"
   },
   {
     "user": {
@@ -776,5 +861,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/kevinwtung/status/1954908932394365213",
     "fullText": "Unknown fact but Interplay ran a bitcoin mining facility back in 2017. Should we revisit and build it again for AI? https://t.co/QRrKXjdM2j"
+  },
+  {
+    "user": {
+      "screenName": "WaymoCommunity",
+      "name": "Waymo Community",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1719152717782732800/DehcdBGz_normal.jpg",
+      "description": "",
+      "followersCount": 24769,
+      "friendsCount": 511,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WaymoCommunity/status/1954799946294542805",
+    "fullText": "Know anyone who skates or skateboards? A group of skaters, skateboarders &amp; a unicyclist recently shared the road with Waymo in LA. Discover why they believe Waymo can save lives and make streets safer."
   }
 ]
