@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18617,
+      "friendsCount": 2298,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1955553773692268869",
+    "fullText": "GPT-5 有老年痴呆，记不住事。上一步刚强调了需要输出两个内容，下一步就只输出一个，而且纠正不过来，每次都需要提醒后才补上。先换回 4o 用几天吧。"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34459,
+      "friendsCount": 656,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyODc_DbkAAc9Kp.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1955551622714802439",
+    "fullText": "之前在阿里的时候，Aone会扫描team成员的代码行数，然后发一个团队周报。我想再过1-2年，会不会发送的是API的消耗量的周报了🤣 https://t.co/4KsC0xemOV"
+  },
+  {
+    "user": {
+      "screenName": "TheDeaconGamin",
+      "name": "TheDeaconGaming",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1813058541562761216/rezWzybT_normal.jpg",
+      "description": "Disabled Army Veteran / Content Creator / Variety Streamer / WZ\nhttps://t.co/IWhZwqTrrU\nStreaming Battlefield 6 Beta w/ DROPS ENABLED!",
+      "followersCount": 290,
+      "friendsCount": 597,
+      "location": "The Rabbit Hole"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDeaconGamin/status/1955551399405584727",
+    "fullText": "Tuesdays stream went very well, and we'll be streaming again, 9pm Eastern Standard Time! Remember to follow on Twitch, kick, and check videos on YouTube and TikTok!"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30791,
+      "followersCount": 30801,
       "friendsCount": 149,
       "location": "China"
     },
@@ -54,7 +101,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151623,
+      "followersCount": 151612,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -86,7 +133,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30791,
+      "followersCount": 30801,
       "friendsCount": 149,
       "location": "China"
     },
@@ -101,7 +148,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74688,
+      "followersCount": 74692,
       "friendsCount": 3438,
       "location": ""
     },
@@ -138,7 +185,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13800,
+      "followersCount": 13801,
       "friendsCount": 3930,
       "location": ""
     },
@@ -155,7 +202,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18618,
+      "followersCount": 18617,
       "friendsCount": 2298,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -189,7 +236,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30791,
+      "followersCount": 30801,
       "friendsCount": 149,
       "location": "China"
     },
@@ -253,7 +300,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18618,
+      "followersCount": 18617,
       "friendsCount": 2298,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -428,7 +475,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34460,
+      "followersCount": 34459,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -494,7 +541,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34460,
+      "followersCount": 34459,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -526,7 +573,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34460,
+      "followersCount": 34459,
       "friendsCount": 656,
       "location": "Hong Kong"
     },
@@ -601,6 +648,23 @@
   },
   {
     "user": {
+      "screenName": "MichaelIaun",
+      "name": "MikeyRex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780061431494270977/JsZvslH2_normal.jpg",
+      "description": "A future GOAT.                                          Veteran. Husband. Father.",
+      "followersCount": 371,
+      "friendsCount": 314,
+      "location": "East Coast"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyKlKoEXUAAnrMi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MichaelIaun/status/1955306796140073437",
+    "fullText": "Need all the love I can get!!! https://t.co/RaFnRsA2ia"
+  },
+  {
+    "user": {
       "screenName": "brexHQ",
       "name": "Brex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798046733815136256/BbynhUkt_normal.jpg",
@@ -654,7 +718,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13800,
+      "followersCount": 13801,
       "friendsCount": 3930,
       "location": ""
     },
@@ -718,7 +782,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13800,
+      "followersCount": 13801,
       "friendsCount": 3930,
       "location": ""
     },
@@ -816,7 +880,7 @@
       "name": "SparkStarter | Web3 Token Launchpad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898102944504991744/bWo5K2dp_normal.jpg",
       "description": "Give your project the go-to market strategy it deserves. Kickstart your Web3 journey with SparkStarter\n\nBuilding smarter, faster, together with @yapstarter_io",
-      "followersCount": 4802,
+      "followersCount": 4788,
       "friendsCount": 9,
       "location": ""
     },
@@ -902,7 +966,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30791,
+      "followersCount": 30801,
       "friendsCount": 149,
       "location": "China"
     },
@@ -936,7 +1000,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18618,
+      "followersCount": 18617,
       "friendsCount": 2298,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -987,7 +1051,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56548,
+      "followersCount": 56549,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1004,7 +1068,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18618,
+      "followersCount": 18617,
       "friendsCount": 2298,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1070,7 +1134,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13800,
+      "followersCount": 13801,
       "friendsCount": 3930,
       "location": ""
     },
@@ -1102,7 +1166,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13800,
+      "followersCount": 13801,
       "friendsCount": 3930,
       "location": ""
     },
@@ -1119,7 +1183,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1952736919000875009/iIz_722T_normal.jpg",
       "description": "📍McDonaldland",
-      "followersCount": 4763251,
+      "followersCount": 4763278,
       "friendsCount": 12995,
       "location": ""
     },
@@ -1179,7 +1243,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30791,
+      "followersCount": 30801,
       "friendsCount": 149,
       "location": "China"
     },
@@ -1194,7 +1258,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13800,
+      "followersCount": 13801,
       "friendsCount": 3930,
       "location": ""
     },
