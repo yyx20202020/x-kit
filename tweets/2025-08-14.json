@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 13819,
+      "friendsCount": 3936,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyRnkBFa4AUMpl7.jpg",
+      "https://pbs.twimg.com/media/GyRnomobEAAQsTF.jpg",
+      "https://pbs.twimg.com/media/GyRnxFSbMAAgqwR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1955802599334273225",
+    "fullText": "《帝国黄昏》美剧梗概 https://t.co/muLfTkJ4lf"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 56582,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1955800891065557414",
+    "fullText": "看到最近推上很多帖子在喷“一人公司”这个概念 说要真正赚大钱还是要传统创业 成立真正的公司 这是肯定的啊 一人公司就是像我这样的个体户包装后的说法\n\n但是他们应该不知道世界上还有另外一群像我一样的程序员 就想按照自己的节奏做自己喜欢的产品 用自己喜欢的架构和技术栈 去不断学习和精进自己"
+  },
+  {
+    "user": {
       "screenName": "GovBillingsKS",
       "name": "Doug Billings",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939170891880869888/81_-7ewf_normal.jpg",
@@ -21,7 +55,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1947755333780443136/1D9p0r2s_normal.jpg",
       "description": "building @yoursentinelai (yc s25); prev: @twosigma, @harvard",
       "followersCount": 218,
-      "friendsCount": 711,
+      "friendsCount": 712,
       "location": ""
     },
     "images": [],
@@ -50,7 +84,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19610,
+      "followersCount": 19613,
       "friendsCount": 840,
       "location": "San Jose, CA"
     },
@@ -65,7 +99,7 @@
       "name": "Wallchain Quacks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894702855375794176/37yzBSRq_normal.jpg",
       "description": "The Future of Growth.\nPowered by AI.\nBacked by @alliancedao",
-      "followersCount": 71901,
+      "followersCount": 71926,
       "friendsCount": 218,
       "location": ""
     },
@@ -97,8 +131,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18624,
-      "friendsCount": 2312,
+      "followersCount": 18621,
+      "friendsCount": 2313,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -112,8 +146,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18624,
-      "friendsCount": 2312,
+      "followersCount": 18621,
+      "friendsCount": 2313,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -144,7 +178,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130193,
+      "followersCount": 130194,
       "friendsCount": 1358,
       "location": "Chicago, IL"
     },
@@ -242,7 +276,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130193,
+      "followersCount": 130194,
       "friendsCount": 1358,
       "location": "Chicago, IL"
     },
@@ -259,7 +293,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30910,
+      "followersCount": 30913,
       "friendsCount": 149,
       "location": "China"
     },
@@ -276,7 +310,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30910,
+      "followersCount": 30913,
       "friendsCount": 149,
       "location": "China"
     },
@@ -310,7 +344,7 @@
       "name": "Matt",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836499543388553216/BJl7GZwx_normal.jpg",
       "description": "Futures Trader | Live Stream https://t.co/SIIbVLk5aB | CEO @RocketScooterAI | MFFU TV Host | Former Chem. Engineer | Trading Competition Champ |",
-      "followersCount": 26776,
+      "followersCount": 26778,
       "friendsCount": 602,
       "location": "Houston, TX"
     },
@@ -327,8 +361,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18624,
-      "friendsCount": 2312,
+      "followersCount": 18621,
+      "friendsCount": 2313,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -359,7 +393,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30910,
+      "followersCount": 30913,
       "friendsCount": 149,
       "location": "China"
     },
@@ -376,7 +410,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30910,
+      "followersCount": 30913,
       "friendsCount": 149,
       "location": "China"
     },
@@ -393,8 +427,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18624,
-      "friendsCount": 2312,
+      "followersCount": 18621,
+      "friendsCount": 2313,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -407,12 +441,29 @@
   },
   {
     "user": {
+      "screenName": "imjoeyheo",
+      "name": "Joey",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1951836589803679744/6MKucAiw_normal.jpg",
+      "description": "SWE Intern @ Rocket Startup | Founder of aelvos (@tryaelvos) — AI Platform for School & Amateur Sports (100k+ views)",
+      "followersCount": 49,
+      "friendsCount": 96,
+      "location": "Republic of Korea"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1955573289805627392/vid/avc1/720x1280/ezyPUw-yW-TLEpU5.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/imjoeyheo/status/1955573766588903692",
+    "fullText": "trust the progress.\nit will all come to you one day https://t.co/F0iIJloyXx"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "是谁，带你来看这场庙会？",
-      "followersCount": 18624,
-      "friendsCount": 2312,
+      "followersCount": 18621,
+      "friendsCount": 2313,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -443,7 +494,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30910,
+      "followersCount": 30913,
       "friendsCount": 149,
       "location": "China"
     },
@@ -462,7 +513,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151614,
+      "followersCount": 151612,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -477,7 +528,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30910,
+      "followersCount": 30913,
       "friendsCount": 149,
       "location": "China"
     },
@@ -492,7 +543,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74711,
+      "followersCount": 74706,
       "friendsCount": 3437,
       "location": ""
     },
@@ -512,7 +563,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7486,
+      "followersCount": 7487,
       "friendsCount": 1534,
       "location": ""
     },
@@ -546,7 +597,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 30910,
+      "followersCount": 30913,
       "friendsCount": 149,
       "location": "China"
     },
@@ -595,7 +646,7 @@
       "name": "Liquid AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1702611993327251456/PUUuOA4W_normal.jpg",
       "description": "Build efficient general-purpose AI at every scale.",
-      "followersCount": 13577,
+      "followersCount": 13580,
       "friendsCount": 38,
       "location": "Cambridge, MA"
     },
@@ -622,6 +673,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/brexHQ/status/1955300032527192261",
     "fullText": "Traditional ops = taxis.\nAI-native ops = self-driving cars.\n\nLink in comments to learn how Brex is building the latter, and why it's the future. https://t.co/ffdqDHUsun"
+  },
+  {
+    "user": {
+      "screenName": "realSharonZhou",
+      "name": "Sharon Zhou",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1328750370798133253/yjVjhDTU_normal.png",
+      "description": "Building & teaching AI | VP of AI, @AMD | Prev: Founder & CEO, Lamini. CS Faculty & PhD @Stanford. @Google. @Harvard | @MIT 35 under 35. Angel investor.",
+      "followersCount": 25127,
+      "friendsCount": 0,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyGvtlsbUAAqJiF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/realSharonZhou/status/1955290683515834477",
+    "fullText": "AMD Mi300 GPUs have 192GB of VRAM *each*, or 1.5TB on a 8x GPU node 🤯\n\nTo compare, Nvidia H100 GPUs only have 80GB each.\n\nThe absurd amount of memory is for your model weights, and for your long contexts (KV cache).\n\nMI300 GPUs available on the AMD Developer Cloud today at https://t.co/HcSu8UgJOt"
+  },
+  {
+    "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952736919000875009/iIz_722T_normal.jpg",
+      "description": "📍McDonaldland",
+      "followersCount": 4763541,
+      "friendsCount": 12993,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1955162460459028619",
+    "fullText": "the invite we’ve all been waiting for has finally arrived!!"
   },
   {
     "user": {
