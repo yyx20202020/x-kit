@@ -1,12 +1,80 @@
 [
   {
     "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 189703,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyWudJ5bIAARgT2.jpg",
+      "https://pbs.twimg.com/media/GyWudJ7a4AE7_N-.jpg",
+      "https://pbs.twimg.com/media/GyWudKKa4AIy-3y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1956161446360048108",
+    "fullText": "周五软件分享\n\n- Readeck（图一）：自托管的网址书签服务 https://t.co/StsapEIB3T\n \n- missing.css（图二）：一个精简的 CSS 框架 https://t.co/SW1DGRQEHQ\n\n- Kimu（图三）：在线视频编辑器，可以接入 AI https://t.co/rQlawYOExo\n\n更多软件 #科技爱好者周刊（第361期）https://t.co/5DN2Z0i4qs https://t.co/TxR3VXXrKe"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31053,
+      "friendsCount": 150,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyWudQ0a4AAkCXO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1956161433378676937",
+    "fullText": "昨晚喝酒，哥们送给我的图。\n\n我觉得说的挺对的，这个世界很多结果的原因就是勤奋和执行。\n\n和天赋没关系。 https://t.co/xwn9bgZZAs"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18627,
+      "friendsCount": 2326,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1956160272886055114",
+    "fullText": "老弟，以太坊我4700已经跑了，天下没有不散的筵席，这场盛宴已经到了最后的时刻，山珍海味早就已经吃完了，只剩下残羹冷炙，满眼狼藉。聪明的人已经吃饱了悄然离席，你后知后觉的仍不愿离场，幻想期待下一道美味丰盛的主菜，结果最终迎来的是这场盛宴的巨额账单，盛宴总有人要买单，这次又是你买单"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 189703,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyWp3SEa4AU7j9b.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1956156388876701780",
+    "fullText": "大家知道 Tor 浏览器吧？\n\n它是访问暗网的主要工具。\n\n我一直以为 Tor/暗网很安全，可以保证访问者的匿名，无法找到真人。\n\n上周，我读到一篇文章，彻底动摇了对 Tor 的信心。我震惊地发现，Tor 是美国政府开发的。https://t.co/5DN2Z0i4qs https://t.co/PbGngM0cxX"
+  },
+  {
+    "user": {
       "screenName": "dankimxyz",
       "name": "Dan Kim",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940477994616647681/S-9z_GLb_normal.jpg",
       "description": "VP @Coinbase || GTM, BD & Partnerships for @CoinbaseDev Platform + Head of Digital Asset Listings",
-      "followersCount": 118587,
-      "friendsCount": 5401,
+      "followersCount": 118590,
+      "friendsCount": 5403,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -20,7 +88,7 @@
       "name": "Steven Lombardi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1906511595171356672/ZZRJqrgK_normal.jpg",
       "description": "Software engineer of 15 years, huge fan of the Clojure programming language, church drummer, math nerd, country swing dancer, and an avid gamer.",
-      "followersCount": 86,
+      "followersCount": 87,
       "friendsCount": 271,
       "location": "Phoenix, AZ"
     },
@@ -31,11 +99,46 @@
   },
   {
     "user": {
+      "screenName": "julievj",
+      "name": "J.V. Jones",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/876919546703106048/nQ5Yrtp2_normal.jpg",
+      "description": "Writer, ridiculously cheery chipmunk, donut and science lover, disco-dancing Scouse separatist & bird-watching merry-maker. Let's talk about books and birds",
+      "followersCount": 1422,
+      "friendsCount": 599,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyV2Ez2bwAAzYCb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/julievj/status/1956101231505707088",
+    "fullText": "260,269. That's how many words are in Endlords. It's a long one. How did that happen? Endlords has been revised. Only one final pass through remains before it's done. The first week in September is my target end date https://t.co/CkybfTv34z"
+  },
+  {
+    "user": {
+      "screenName": "Eliseo_Cab",
+      "name": "Eliseo 🇺🇸",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1802116358294953984/POvUPOai_normal.jpg",
+      "description": "Texas-born, Louisiana-livin’. My takes? Just opinions. Yours? Won’t save the world. Serving Uncle Sam since 17 yrs old. 🇺🇸",
+      "followersCount": 913,
+      "friendsCount": 431,
+      "location": "Earth"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyVrEfFWwAEzy3C.jpg",
+      "https://pbs.twimg.com/media/GyVrG-iXwAEP-rg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Eliseo_Cab/status/1956090097972981845",
+    "fullText": "The images slam home a disaster: a crumbling, pothole-riddled road in Villa Los Pinos subdivision, Rio Grande Valley, Texas. Cracks snake across faded asphalt, overgrown bushes encroach, and a lonely orange barrel stands guard like it's given up. Who's owning this mess? https://t.co/tZkLTRjWcL"
+  },
+  {
+    "user": {
       "screenName": "NLPC",
       "name": "NLPC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1675874076403855361/b-GLX7S__normal.jpg",
       "description": "NLPC is a watchdog in pursuit of ethics and integrity in government and Corporate America. Retweet not endorsement.",
-      "followersCount": 3069,
+      "followersCount": 3068,
       "friendsCount": 492,
       "location": "Falls Church, VA "
     },
@@ -86,7 +189,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21385,
+      "followersCount": 21388,
       "friendsCount": 1039,
       "location": ""
     },
@@ -103,7 +206,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13850,
+      "followersCount": 13851,
       "friendsCount": 3950,
       "location": ""
     },
@@ -135,7 +238,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13850,
+      "followersCount": 13851,
       "friendsCount": 3950,
       "location": ""
     },
@@ -199,7 +302,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151604,
+      "followersCount": 151606,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -216,7 +319,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31050,
+      "followersCount": 31053,
       "friendsCount": 150,
       "location": "China"
     },
@@ -235,7 +338,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13850,
+      "followersCount": 13851,
       "friendsCount": 3950,
       "location": ""
     },
@@ -316,7 +419,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31050,
+      "followersCount": 31053,
       "friendsCount": 150,
       "location": "China"
     },
@@ -350,7 +453,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31050,
+      "followersCount": 31053,
       "friendsCount": 150,
       "location": "China"
     },
@@ -399,7 +502,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74711,
+      "followersCount": 74716,
       "friendsCount": 3440,
       "location": ""
     },
@@ -414,7 +517,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31050,
+      "followersCount": 31053,
       "friendsCount": 150,
       "location": "China"
     },
@@ -431,7 +534,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13850,
+      "followersCount": 13851,
       "friendsCount": 3950,
       "location": ""
     },
@@ -448,7 +551,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13850,
+      "followersCount": 13851,
       "friendsCount": 3950,
       "location": ""
     },
@@ -512,7 +615,7 @@
       "name": "Stephen C. Meyer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1233101172086472704/n5pK6wtm_normal.jpg",
       "description": "Official Twitter of Stephen Meyer, managed by his staff. Posts direct from Stephen will be signed with ~S.",
-      "followersCount": 25189,
+      "followersCount": 25192,
       "friendsCount": 132,
       "location": "Seattle, WA"
     },
@@ -576,7 +679,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13850,
+      "followersCount": 13851,
       "friendsCount": 3950,
       "location": ""
     },
