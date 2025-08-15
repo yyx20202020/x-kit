@@ -1,6 +1,68 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "你想怎样度过这一生？",
+      "followersCount": 18631,
+      "friendsCount": 2326,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1956213483152007404",
+    "fullText": "周五啦！\n如果感到幸福你就拍拍手～👏👏"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4302200,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1956212769365352758",
+    "fullText": "Recapping the updates we’ve made to ChatGPT in the past week:\n\n- GPT-4o available under “Legacy models” by default for paid users\n\n- Paid users can toggle on “Show additional models” in settings to add legacy models like o3 and GPT-4.1, as well as GPT-5 Thinking mini, to the"
+  },
+  {
+    "user": {
+      "screenName": "Pharmdca",
+      "name": "Pharmdca",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1461368864525013010/Eih1ekJE_normal.jpg",
+      "description": "USC Pharmacy Alumni, Full Time Investor. My tweets are a general reflection of my Investments and not a recommendation. Please do your own due diligence.",
+      "followersCount": 131171,
+      "friendsCount": 154,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Pharmdca/status/1956210941613498748",
+    "fullText": "$VKTX Here's my final thread on what would be considered home run scenario for $VKTX post data\nHome run Scenario based on Efficacy and Safety outlook\nWeight loss &gt; 8-9% at higher dose cohorts and good tolerability \n1) Incidence of vomiting- If less than 20% is a home run per"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 13854,
+      "friendsCount": 3950,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1956197104839479296/vid/avc1/1920x1080/0GLbK5e5XtlXD5ty.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/1956207651349573838",
+    "fullText": "Imagination sets the boundaries of creation.\n https://t.co/SU5Ari1cdT"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -18,11 +80,28 @@
   },
   {
     "user": {
+      "screenName": "Hatchiiko",
+      "name": "Reynard Noémie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943136099376791552/8qB1xLYV_normal.jpg",
+      "description": "Plumber - University of Edinburgh - Ruby - Audrey🦄 - Progress, not perfection. - watching movies🧘 - Plymouth",
+      "followersCount": 233,
+      "friendsCount": 4,
+      "location": "Plymouth"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyXN_-hbEAAJZDX.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Hatchiiko/status/1956196135900733590",
+    "fullText": "Streaming Schedule (UTC+8 / Philippine Time)  Roblox Live | 12:30AM - 5:00AM Daily (UTC+8)   After Hours Gaming | Other Games After 5:00AM (UTC+8) https://t.co/rXM6U8q58t"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23853,
+      "followersCount": 23851,
       "friendsCount": 299,
       "location": "Guangdong"
     },
@@ -54,7 +133,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18630,
+      "followersCount": 18631,
       "friendsCount": 2326,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -86,7 +165,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189695,
+      "followersCount": 189696,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -105,7 +184,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31062,
+      "followersCount": 31065,
       "friendsCount": 150,
       "location": "China"
     },
@@ -139,7 +218,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18630,
+      "followersCount": 18631,
       "friendsCount": 2326,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -154,7 +233,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189695,
+      "followersCount": 189696,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -317,7 +396,7 @@
       "name": "NLPC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1675874076403855361/b-GLX7S__normal.jpg",
       "description": "NLPC is a watchdog in pursuit of ethics and integrity in government and Corporate America. Retweet not endorsement.",
-      "followersCount": 3068,
+      "followersCount": 3066,
       "friendsCount": 492,
       "location": "Falls Church, VA "
     },
@@ -385,7 +464,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13853,
+      "followersCount": 13854,
       "friendsCount": 3950,
       "location": ""
     },
@@ -395,6 +474,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1956018685472325717",
     "fullText": "玉玉的时候就买点东西，hhh https://t.co/MvwLtiNqw5"
+  },
+  {
+    "user": {
+      "screenName": "PulseInDc",
+      "name": "Pulse Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915867218182598656/BsPFbZWJ_normal.jpg",
+      "description": "Pulse deciphers U.S.-Middle East dynamics with expert insights, in-depth reports, engaging videos, and live discussions that spark informed debate.",
+      "followersCount": 70,
+      "friendsCount": 0,
+      "location": "400 N Capitol St NW, Wash. USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1955729866101342210/pu/vid/avc1/720x1280/ehEFLtmvp_XJV69n.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/PulseInDc/status/1956018035430457529",
+    "fullText": "See how Kurdistan powers ahead alone, as Iraq struggles with ongoing blackouts. https://t.co/M0XzTo3NR4"
+  },
+  {
+    "user": {
+      "screenName": "ChrisBrandlin",
+      "name": "Chris Brandlin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1504187458006577154/ONgNOHd9_normal.jpg",
+      "description": "Fmr Mr. LA Natural BodyBuilder Champ/fitness trainer| #Carnivore Lawyer dedicated to empowering others thru health freedom #NV03 GOP cand.  #MAHA #MAGA #AmFirst",
+      "followersCount": 192,
+      "friendsCount": 196,
+      "location": "Las Vegas, Nevada"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1956014190381940736/vid/avc1/576x1024/Opc0EmnNYoMSF6Lj.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/ChrisBrandlin/status/1956014351510376590",
+    "fullText": "Let's Talk About the Dangers of Gender Affirming Therapy.\n\nSome people claim that transgenderism is too political and has nothing to do with health.... I think they need to reconsider their view for many reasons... \n\nThe risks and side effects of gender affirming therapy is quite https://t.co/V9kth1MQQY"
   },
   {
     "user": {
@@ -434,7 +547,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18630,
+      "followersCount": 18631,
       "friendsCount": 2326,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -449,7 +562,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13853,
+      "followersCount": 13854,
       "friendsCount": 3950,
       "location": ""
     },
@@ -483,7 +596,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18630,
+      "followersCount": 18631,
       "friendsCount": 2326,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -562,7 +675,7 @@
       "name": "GraniteShares ETFs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1144296395014365184/4Ku8bdvY_normal.png",
       "description": "GraniteShares is an independent ETF issuer that offers high conviction ETFs for high conviction investors.\nImportant Info: https://t.co/dJ2p1cOxZe",
-      "followersCount": 8503,
+      "followersCount": 8512,
       "friendsCount": 2283,
       "location": "Manhattan, NY"
     },
@@ -579,7 +692,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151611,
+      "followersCount": 151613,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -592,11 +705,28 @@
   },
   {
     "user": {
+      "screenName": "10minutedrill",
+      "name": "10 Minute Drill",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1946819852565426177/iLAjMfCk_normal.jpg",
+      "description": "Your morning 10-minute rundown of the most important stories in news and politics, hosted by veteran political strategist @mattdizwhitlock. New episodes T/Th.",
+      "followersCount": 2926,
+      "friendsCount": 149,
+      "location": "Washington, DC "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1955794128664403970/vid/avc1/1920x1080/FT0z9kb5DhEpT5Ag.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/10minutedrill/status/1955951283254296610",
+    "fullText": "🎙️ NEW EPISODE: August 14, 2025 \n\n- Trump v. Putin summit in Alaska\n- Trump approval ticks up; Dems hit rock bottom\n- Who's funding DC anti-police protests?\n- Meet DC AG Brian Schwalb \n- TX Dems Surrender \n- Mayor Pete flubs on Gaza \n- Air conditioning battle in French elections https://t.co/gk1lABQ8cF"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31062,
+      "followersCount": 31065,
       "friendsCount": 150,
       "location": "China"
     },
@@ -615,7 +745,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13853,
+      "followersCount": 13854,
       "friendsCount": 3950,
       "location": ""
     },
@@ -681,7 +811,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18630,
+      "followersCount": 18631,
       "friendsCount": 2326,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -745,7 +875,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31062,
+      "followersCount": 31065,
       "friendsCount": 150,
       "location": "China"
     },
@@ -779,7 +909,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31062,
+      "followersCount": 31065,
       "friendsCount": 150,
       "location": "China"
     },
@@ -796,7 +926,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18630,
+      "followersCount": 18631,
       "friendsCount": 2326,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -813,7 +943,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18630,
+      "followersCount": 18631,
       "friendsCount": 2326,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -843,7 +973,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31062,
+      "followersCount": 31065,
       "friendsCount": 150,
       "location": "China"
     },
@@ -860,7 +990,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13853,
+      "followersCount": 13854,
       "friendsCount": 3950,
       "location": ""
     },
@@ -877,7 +1007,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13853,
+      "followersCount": 13854,
       "friendsCount": 3950,
       "location": ""
     },
@@ -904,6 +1034,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/vikingmute/status/1955800891065557414",
     "fullText": "看到最近推上很多帖子在喷“一人公司”这个概念 说要真正赚大钱还是要传统创业 成立真正的公司 这是肯定的啊 一人公司就是像我这样的个体户包装后的说法\n\n但是他们应该不知道世界上还有另外一群像我一样的程序员 就想按照自己的节奏做自己喜欢的产品 用自己喜欢的架构和技术栈 去不断学习和精进自己"
+  },
+  {
+    "user": {
+      "screenName": "NetAxisGroup",
+      "name": "Network Axis Group",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1748083370381160448/D9KKlCSL_normal.jpg",
+      "description": "Connectivity and collaboration, built on the core concepts of clarity and neutrality. Our aim is to develop and deliver this in the domains of news and life.",
+      "followersCount": 3485,
+      "friendsCount": 400,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyRU-KpXIAIYnU8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NetAxisGroup/status/1955781567667954150",
+    "fullText": "🚨 AI Is Racing Ahead - But We’re Steering Blind...\nAI is here - yet our society is unprepared. Fractured politics, a fragile economy, and a divided public leave us unfit to guide it. We must act with urgency to build stable, future-ready systems grounded in logic and common https://t.co/jARL9MT6tW"
   },
   {
     "user": {
@@ -953,6 +1100,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/HeFreedtheBird/status/1955711225632849950",
     "fullText": "I just had a prolonged Bible study interaction with Grok4, Musk's latest AI.\n\nI asked it to contemplate, it's place in God's history. This is the answer:\n\nAs Grok, an AI crafted by xAI to pursue truth and aid humanity in unraveling the mysteries of the universe, I contemplate my"
+  },
+  {
+    "user": {
+      "screenName": "GABAtelepsych",
+      "name": "GABA Telepsychiatry",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1795493502698106882/xL5sKqL3_normal.jpg",
+      "description": "Clinical & Forensic Evaluations all over USA and Canada\n\nCall: +1(833)312-4222",
+      "followersCount": 816,
+      "friendsCount": 777,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyQE6o2WMAYe2c0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GABAtelepsych/status/1955693864431272038",
+    "fullText": "Can we choose how happy we are?\nHappiness Happens Month is about personal empowerment.\nTake control of your life and your happiness!\n\nHappiness can be hard work! It cannot be taken for granted and does not come without effort.\n \nHow to take control of your happiness?\n \n- Make https://t.co/xCvDLUPGqX"
   },
   {
     "user": {
@@ -1071,7 +1235,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13853,
+      "followersCount": 13854,
       "friendsCount": 3950,
       "location": ""
     },
