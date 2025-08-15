@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34487,
+      "friendsCount": 659,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyXRxw-a4AQJHOR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1956201486410768780",
+    "fullText": "嘿嘿，本来想Vibe一个抽奖系统的，想了想还是直接用ChatGPT来抽奖。\n\n给学员群内的朋友抽奖发《这就是MCP》发了一上午！后面手头现书没有了，是通过京东送礼发的，发现这个送礼方式还挺方便的。但发现签名版都没有货了🤣 逗总新书真的大麦了~ https://t.co/ee7TWOLBg4"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -69,7 +86,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189697,
+      "followersCount": 189695,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -88,7 +105,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31061,
+      "followersCount": 31062,
       "friendsCount": 150,
       "location": "China"
     },
@@ -137,7 +154,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189697,
+      "followersCount": 189695,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -147,6 +164,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/ruanyf/status/1956156388876701780",
     "fullText": "大家知道 Tor 浏览器吧？\n\n它是访问暗网的主要工具。\n\n我一直以为 Tor/暗网很安全，可以保证访问者的匿名，无法找到真人。\n\n上周，我读到一篇文章，彻底动摇了对 Tor 的信心。我震惊地发现，Tor 是美国政府开发的。https://t.co/5DN2Z0i4qs https://t.co/PbGngM0cxX"
+  },
+  {
+    "user": {
+      "screenName": "BarringerLynn",
+      "name": "Lynn Barringer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1604179005351120902/r-tbOZAp_normal.jpg",
+      "description": "They were glad and proud and humble to be men in a world where men were valuable. \n\nHost of Orientation.",
+      "followersCount": 1488,
+      "friendsCount": 2368,
+      "location": "Canyon, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyWVunIXUAgXRde.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BarringerLynn/status/1956134299679199578",
+    "fullText": "https://t.co/icX9V6VVBG"
   },
   {
     "user": {
@@ -162,6 +196,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dankimxyz/status/1956132799775433107",
     "fullText": "Developers want easy wallet management without sacrificing security. \n\nThird-party risks like service denial or fund loss are real. @CoinbaseDev's Wallet API solves this, offering simple, secure programmatic wallet creation using @awscloud's Nitro Enclaves."
+  },
+  {
+    "user": {
+      "screenName": "RandomCHN",
+      "name": "Random Childhood Nostalgia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909826829084446720/BuqlxwwO_normal.jpg",
+      "description": "Reliving the magic of childhood! Sharing #nostalgic moments, snacks, toys, and memories that take you back to simpler times.",
+      "followersCount": 775,
+      "friendsCount": 246,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1956120386766000133/vid/avc1/1920x1080/xBoyil991ZOZ8JTB.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/RandomCHN/status/1956120440146964741",
+    "fullText": "Remember being a kid in the early 2000s, popping in a Disney DVD, and getting JUMP-SCARED by that LOUD THX logo? https://t.co/NUm8EP8XKp"
   },
   {
     "user": {
@@ -209,6 +260,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/julievj/status/1956101231505707088",
     "fullText": "260,269. That's how many words are in Endlords. It's a long one. How did that happen? Endlords has been revised. Only one final pass through remains before it's done. The first week in September is my target end date https://t.co/CkybfTv34z"
+  },
+  {
+    "user": {
+      "screenName": "guerillasports_",
+      "name": "Guerilla Sports",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1830661712946614273/U3vTuzbb_normal.jpg",
+      "description": "Resist Ordinary⚡️@gs_off_ice @gsoffcourt @gs_off_field Advertise with us📢: contact@guerillasports.net",
+      "followersCount": 6295,
+      "friendsCount": 410,
+      "location": "Denver, CO"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/guerillasports_/status/1956098547075702991",
+    "fullText": "Broncos Look for Better 60 Minute Effort in Preseason Week 2 | GS Going Deep w/ Jackson &amp; Goodman https://t.co/cHgswfaZuG"
   },
   {
     "user": {
@@ -302,7 +368,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21394,
+      "followersCount": 21395,
       "friendsCount": 1039,
       "location": ""
     },
@@ -319,7 +385,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13852,
+      "followersCount": 13853,
       "friendsCount": 3950,
       "location": ""
     },
@@ -349,6 +415,21 @@
   },
   {
     "user": {
+      "screenName": "VeriFoods",
+      "name": "VeriFoods",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897773346521292800/J-6dM6so_normal.png",
+      "description": "Going beyond the label to discover what's really in our food. Until we restore safety and quality to our food, we will never make America healthy again.",
+      "followersCount": 4,
+      "friendsCount": 15,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VeriFoods/status/1956001092162216260",
+    "fullText": "What if the organic products you purchase for your family, aren't actually organic? What if they also have glyphosate and other contaminants?"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -368,7 +449,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13852,
+      "followersCount": 13853,
       "friendsCount": 3950,
       "location": ""
     },
@@ -449,7 +530,7 @@
       "name": "Eric Jing",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1871418126610685952/GUIuX0Bs_normal.jpg",
       "description": "Cofounder/CEO @Genspark_ai | Serial entrepreneur, built business from 0 to $5.5B | Ex-CPO @Baidu Search, Ex-Principal Dev Mgr @Microsoft Bing",
-      "followersCount": 11688,
+      "followersCount": 11729,
       "friendsCount": 135,
       "location": "Palo Alto, CA"
     },
@@ -515,7 +596,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31061,
+      "followersCount": 31062,
       "friendsCount": 150,
       "location": "China"
     },
@@ -534,7 +615,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13852,
+      "followersCount": 13853,
       "friendsCount": 3950,
       "location": ""
     },
@@ -664,7 +745,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31061,
+      "followersCount": 31062,
       "friendsCount": 150,
       "location": "China"
     },
@@ -698,7 +779,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31061,
+      "followersCount": 31062,
       "friendsCount": 150,
       "location": "China"
     },
@@ -762,7 +843,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31061,
+      "followersCount": 31062,
       "friendsCount": 150,
       "location": "China"
     },
@@ -779,7 +860,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13852,
+      "followersCount": 13853,
       "friendsCount": 3950,
       "location": ""
     },
@@ -796,7 +877,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13852,
+      "followersCount": 13853,
       "friendsCount": 3950,
       "location": ""
     },
@@ -815,7 +896,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56609,
+      "followersCount": 56610,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -847,7 +928,7 @@
       "name": "the rabbit of caerbannog🔋",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1913253595815743488/ac_i9OT8_normal.jpg",
       "description": "human.  ex-google, motorola.  engineer.  tech & business, builder, investor w/ multiple exits, father, greek.  invest at ur own risk.  stock technicals.  NFA.",
-      "followersCount": 1646,
+      "followersCount": 1648,
       "friendsCount": 833,
       "location": "Chicago, IL"
     },
@@ -990,7 +1071,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13852,
+      "followersCount": 13853,
       "friendsCount": 3950,
       "location": ""
     },
@@ -1017,6 +1098,23 @@
     ],
     "tweetUrl": "https://x.com/gkoi0x/status/1955612687184126224",
     "fullText": "Get ready to Win Big at GKOI Fight Night this Thursday!\n\nLivestream with Fighters, Gamers &amp; Influencers\nMeet GKOI Team, learn the Lore &amp; Win Prizes\n\n$1,000 US in GCoins, WL spots &amp; Azuki Beanz!\n\nStart your GKOI Journey \n⛩️Thursday 2 PM EST/8 PM CET\nFollow @gkoi0x https://t.co/uNGGQvTF1g"
+  },
+  {
+    "user": {
+      "screenName": "langflow_ai",
+      "name": "Langflow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1906737039724400640/aUuTetdY_normal.jpg",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents, workflows and MCP servers.",
+      "followersCount": 10149,
+      "friendsCount": 949,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1955575152378318848/vid/avc1/3840x2160/_LlIIIlyEWEy3JZV.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/langflow_ai/status/1955582635176255801",
+    "fullText": "here is how to build a deep research multi-agent system (MAS) with langflow\n\npass it on if helpful 🙏 https://t.co/eAtiOJt6XU"
   },
   {
     "user": {
