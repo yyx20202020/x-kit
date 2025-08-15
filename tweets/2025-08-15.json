@@ -18,11 +18,28 @@
   },
   {
     "user": {
+      "screenName": "agilepoll",
+      "name": "AgilePoll.Com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1783646067860606976/GRG46OfT_normal.png",
+      "description": "Building Evidence-Based Agility",
+      "followersCount": 71,
+      "friendsCount": 375,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GybBVPQbkAA7R1p.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/agilepoll/status/1956465835729711216",
+    "fullText": "If you're an indie consultant, feel free to experiment with our free tools to ask key questions and generate visuals for clients around cultural health, change readiness, and ai governance. \n\nAsk these questions verbally in a workshop or intro session and input later in your free https://t.co/rqAhZJY0G2"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4303334,
+      "followersCount": 4303424,
       "friendsCount": 3,
       "location": ""
     },
@@ -30,6 +47,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/OpenAI/status/1956461718097494196",
     "fullText": "We’re making GPT-5 warmer and friendlier based on feedback that it felt too formal before. Changes are subtle, but ChatGPT should feel more approachable now.\n\nYou'll notice small, genuine touches like “Good question” or “Great start,” not flattery. Internal tests show no rise in"
+  },
+  {
+    "user": {
+      "screenName": "HannahNewsIN",
+      "name": "Hannah News Service",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000675104266/57d893ed6e47fed351947bc6ec8f1d44_normal.png",
+      "description": "Resources for those interested in Indiana government",
+      "followersCount": 1548,
+      "friendsCount": 293,
+      "location": "Indianapolis"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HannahNewsIN/status/1956450411260350676",
+    "fullText": "\"Going Concern: Elevate in Default, IEDC Shortens Leash\" Last week, readers of INDIANA LEGISLATIVE INSIGHT learned that Elevate Ventures failed to fully pay back a $15M loan due this month to IEDC."
   },
   {
     "user": {
@@ -133,7 +165,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34479,
+      "followersCount": 34482,
       "friendsCount": 660,
       "location": "Hong Kong"
     },
@@ -212,7 +244,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4303334,
+      "followersCount": 4303424,
       "friendsCount": 3,
       "location": ""
     },
@@ -246,7 +278,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31076,
+      "followersCount": 31077,
       "friendsCount": 150,
       "location": "China"
     },
@@ -280,7 +312,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31076,
+      "followersCount": 31077,
       "friendsCount": 150,
       "location": "China"
     },
@@ -381,7 +413,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31076,
+      "followersCount": 31077,
       "friendsCount": 150,
       "location": "China"
     },
@@ -445,7 +477,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34479,
+      "followersCount": 34482,
       "friendsCount": 660,
       "location": "Hong Kong"
     },
@@ -693,7 +725,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34479,
+      "followersCount": 34482,
       "friendsCount": 660,
       "location": "Hong Kong"
     },
@@ -742,7 +774,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4303334,
+      "followersCount": 4303424,
       "friendsCount": 3,
       "location": ""
     },
@@ -823,7 +855,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34479,
+      "followersCount": 34482,
       "friendsCount": 660,
       "location": "Hong Kong"
     },
@@ -953,7 +985,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189783,
+      "followersCount": 189785,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -972,7 +1004,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31076,
+      "followersCount": 31077,
       "friendsCount": 150,
       "location": "China"
     },
@@ -1021,7 +1053,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189783,
+      "followersCount": 189785,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -1070,7 +1102,7 @@
       "name": "Dan Kim",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940477994616647681/S-9z_GLb_normal.jpg",
       "description": "VP @Coinbase || GTM, BD & Partnerships for @CoinbaseDev Platform + Head of Digital Asset Listings",
-      "followersCount": 118601,
+      "followersCount": 118602,
       "friendsCount": 5406,
       "location": "San Francisco, CA"
     },
