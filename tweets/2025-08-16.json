@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "alex_holovach",
+      "name": "Alex Holovach",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945705773666828288/EvOG63RH_normal.jpg",
+      "description": "building the future of observability at https://t.co/WwxTqFqdWc",
+      "followersCount": 70,
+      "friendsCount": 227,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1956564446433644545/vid/avc1/1596x1080/IEYlQVWnAoLTY-4j.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/alex_holovach/status/1956564681822269796",
+    "fullText": "debugging AI apps shouldn't be guesswork.\n\nkubiks cli now gives you a local UI that shows every prompt, response, tokens used, and many more.\n\nway faster than digging through logs.\n\nlink in the reply https://t.co/YyKWsM3fDm"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31087,
+      "friendsCount": 152,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyccJvebMAAsSDn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1956563520465559609",
+    "fullText": "武汉今天37度，出去溜个狗，把我热成狗了。\n\n点一点凉菜，下午带小朋友去溯溪玩玩水 https://t.co/bBlVPaxpPA"
+  },
+  {
+    "user": {
       "screenName": "blackhawkce457",
       "name": "J 🎙️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1948555360425705472/i6zrXkcb_normal.jpg",
@@ -20,7 +54,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34482,
+      "followersCount": 34484,
       "friendsCount": 660,
       "location": "Hong Kong"
     },
@@ -106,7 +140,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4303903,
+      "followersCount": 4303966,
       "friendsCount": 3,
       "location": ""
     },
@@ -251,6 +285,23 @@
   },
   {
     "user": {
+      "screenName": "PGATOUR",
+      "name": "PGA TOUR",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_normal.jpg",
+      "description": "🏌️‍♂️ @KornFerryTour | 🏌️ @ChampionsTour | 📝 @PGATOURComms | 🖥 @PGATOURLIVE | 🎓 @PGATOURU | 🌎 @PGATOURAmericas | 🇪🇸 @PGATOUREsp",
+      "followersCount": 3034159,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1956409979600089088/vid/avc1/1080x1350/Gxot_6PESnLYL21Q.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/PGATOUR/status/1956417183396823468",
+    "fullText": "“Give me a car!”\n \nJ.J. Spaun was begging for an ace and new ride @BMWChamps 😅 https://t.co/msfbUEnkl0"
+  },
+  {
+    "user": {
       "screenName": "ericspiegelman",
       "name": "Eric Spiegelman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/798579351893798912/lRBj2-fp_normal.jpg",
@@ -270,7 +321,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34482,
+      "followersCount": 34484,
       "friendsCount": 660,
       "location": "Hong Kong"
     },
@@ -330,11 +381,26 @@
   },
   {
     "user": {
+      "screenName": "jolegq",
+      "name": "Derya Yildiz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1942243013813518336/ZHSfXUFE_normal.jpg",
+      "description": "Tennis coach teaching strategy for singles and doubles matches.",
+      "followersCount": 2476,
+      "friendsCount": 11,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jolegq/status/1956386191408038114",
+    "fullText": "Color selection can define the entire atmosphere of a room, influencing mood and energy."
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4303903,
+      "followersCount": 4303966,
       "friendsCount": 3,
       "location": ""
     },
@@ -368,7 +434,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13872,
+      "followersCount": 13873,
       "friendsCount": 3956,
       "location": ""
     },
@@ -436,7 +502,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31089,
+      "followersCount": 31087,
       "friendsCount": 152,
       "location": "China"
     },
@@ -470,7 +536,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31089,
+      "followersCount": 31087,
       "friendsCount": 152,
       "location": "China"
     },
@@ -507,7 +573,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7474,
+      "followersCount": 7476,
       "friendsCount": 1534,
       "location": ""
     },
@@ -541,7 +607,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18628,
+      "followersCount": 18629,
       "friendsCount": 2329,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -571,7 +637,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74743,
+      "followersCount": 74744,
       "friendsCount": 3440,
       "location": ""
     },
@@ -588,7 +654,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31089,
+      "followersCount": 31087,
       "friendsCount": 152,
       "location": "China"
     },
@@ -605,7 +671,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34482,
+      "followersCount": 34484,
       "friendsCount": 660,
       "location": "Hong Kong"
     },
@@ -620,7 +686,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13872,
+      "followersCount": 13873,
       "friendsCount": 3956,
       "location": ""
     },
@@ -671,7 +737,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18628,
+      "followersCount": 18629,
       "friendsCount": 2329,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -686,7 +752,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151620,
+      "followersCount": 151622,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -703,7 +769,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7474,
+      "followersCount": 7476,
       "friendsCount": 1534,
       "location": ""
     },
@@ -718,7 +784,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74743,
+      "followersCount": 74744,
       "friendsCount": 3440,
       "location": ""
     },
@@ -735,7 +801,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34482,
+      "followersCount": 34484,
       "friendsCount": 660,
       "location": "Hong Kong"
     },
@@ -752,7 +818,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13872,
+      "followersCount": 13873,
       "friendsCount": 3956,
       "location": ""
     },
@@ -769,7 +835,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18628,
+      "followersCount": 18629,
       "friendsCount": 2329,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -784,7 +850,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4303903,
+      "followersCount": 4303966,
       "friendsCount": 3,
       "location": ""
     },
@@ -799,7 +865,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13872,
+      "followersCount": 13873,
       "friendsCount": 3956,
       "location": ""
     },
@@ -865,7 +931,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34482,
+      "followersCount": 34484,
       "friendsCount": 660,
       "location": "Hong Kong"
     },
@@ -882,7 +948,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 23861,
+      "followersCount": 23862,
       "friendsCount": 299,
       "location": "Guangdong"
     },
@@ -916,7 +982,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18628,
+      "followersCount": 18629,
       "friendsCount": 2329,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -931,7 +997,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189810,
+      "followersCount": 189812,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -950,7 +1016,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31089,
+      "followersCount": 31087,
       "friendsCount": 152,
       "location": "China"
     },
@@ -967,7 +1033,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生？",
-      "followersCount": 18628,
+      "followersCount": 18629,
       "friendsCount": 2329,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -982,7 +1048,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 189810,
+      "followersCount": 189812,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -1085,7 +1151,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21410,
+      "followersCount": 21411,
       "friendsCount": 1039,
       "location": ""
     },
@@ -1112,6 +1178,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1956018685472325717",
     "fullText": "玉玉的时候就买点东西，hhh https://t.co/MvwLtiNqw5"
+  },
+  {
+    "user": {
+      "screenName": "CarnelliWriting",
+      "name": "Tina Carnelli",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909652765720125440/6KVIe5X__normal.jpg",
+      "description": "Freelance Writer & Marketer. Former newspaper reporter. Former Democrat. I only post or share what I can verify. I love America. Happily married. No DMs.",
+      "followersCount": 618,
+      "friendsCount": 462,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyUXtiZXQAon7Zg.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CarnelliWriting/status/1955997012337344553",
+    "fullText": "These are my granddaughters enjoying a day at Six Flags with their best buddies.\n\nThis is America - as our children know it.\n\nPlease don't fill their heads with anything otherwise. https://t.co/gcJexEA97s"
   },
   {
     "user": {
