@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31138,
+      "friendsCount": 153,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gym0f1_bwAAfatO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1957293986395116001",
+    "fullText": "自由泳1000米\n\n是管理者控制自己情绪最好的方法，有问题慢慢解决。 https://t.co/MvWJwjbjot"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "你想怎样度过这一生",
+      "followersCount": 18638,
+      "friendsCount": 2338,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gym0VWVbkAApoKw.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1957293830773920224",
+    "fullText": "GPT说内容太长了，要直接用md格式的文件导出给我。\n我打开一看：？？？ https://t.co/Q9T9fh8jQx"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 56628,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GymyzN3bMAAiC0A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1957292436658827673",
+    "fullText": "周末忍受不了基于 Cursor 和 Kiro 的卡顿了，我发现这两个应用开久了，项目大的话，就会莫名其妙的卡，打个字没有那么丝滑，虽然不那么严重，但是还是明显感觉到，应该不是电脑的问题（去年才买的 Mackbook，配置杠杠的，应该是 VSCode 的锅）。\n\n将编程组合换成了 Zed （https://t.co/O5ncALHrvr） https://t.co/MgMIvSMcBp"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34545,
+      "friendsCount": 662,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GymxpCgbEAAYfZ7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1957290841615344069",
+    "fullText": "昨天看第一财经上的一个数据有点震惊，原来短剧的渗透率这么高，现在新一代的乐子是团播🥲 https://t.co/WeTVmEdBa1"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13904,
+      "followersCount": 13905,
       "friendsCount": 3968,
       "location": ""
     },
@@ -54,7 +122,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13904,
+      "followersCount": 13905,
       "friendsCount": 3968,
       "location": ""
     },
@@ -135,7 +203,7 @@
       "name": "Polymarket Sports",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904676376394993664/zrGuqFpZ_normal.jpg",
       "description": "No limits. No house. Instant cashouts. \nThe most accurate sports odds and forecasts in the world. \nPowered by @Polymarket.",
-      "followersCount": 23656,
+      "followersCount": 23661,
       "friendsCount": 226,
       "location": ""
     },
@@ -195,7 +263,7 @@
       "name": "Aaron Dignan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836082264129540100/3-_rLrjg_normal.jpg",
       "description": "Cofounder of @useplumb. Friend to misfit toys.",
-      "followersCount": 15421,
+      "followersCount": 15422,
       "friendsCount": 2133,
       "location": "New York "
     },
@@ -255,7 +323,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18639,
+      "followersCount": 18638,
       "friendsCount": 2338,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -306,7 +374,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74750,
+      "followersCount": 74751,
       "friendsCount": 3443,
       "location": ""
     },
@@ -357,7 +425,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13904,
+      "followersCount": 13905,
       "friendsCount": 3968,
       "location": ""
     },
@@ -392,7 +460,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13904,
+      "followersCount": 13905,
       "friendsCount": 3968,
       "location": ""
     },
@@ -409,7 +477,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18639,
+      "followersCount": 18638,
       "friendsCount": 2338,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -441,7 +509,7 @@
       "name": "Arpit Mangal",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1956966852615426048/s3yPyz2K_normal.jpg",
       "description": "interested in music, AI, QC; \nprev- ML Engineer @intuit,  undergrad from IIT Roorkee(Applied Mathematics), previously student @resonance @central public school",
-      "followersCount": 37,
+      "followersCount": 38,
       "friendsCount": 336,
       "location": ""
     },
@@ -456,7 +524,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13904,
+      "followersCount": 13905,
       "friendsCount": 3968,
       "location": ""
     },
@@ -473,7 +541,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18639,
+      "followersCount": 18638,
       "friendsCount": 2338,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -490,7 +558,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13904,
+      "followersCount": 13905,
       "friendsCount": 3968,
       "location": ""
     },
@@ -507,7 +575,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18639,
+      "followersCount": 18638,
       "friendsCount": 2338,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -539,7 +607,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13904,
+      "followersCount": 13905,
       "friendsCount": 3968,
       "location": ""
     },
@@ -556,7 +624,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18639,
+      "followersCount": 18638,
       "friendsCount": 2338,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -588,7 +656,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18639,
+      "followersCount": 18638,
       "friendsCount": 2338,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -603,7 +671,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 13904,
+      "followersCount": 13905,
       "friendsCount": 3968,
       "location": ""
     },
@@ -709,7 +777,7 @@
       "name": "Openledger",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876981396134416384/lYzcJz9J_normal.jpg",
       "description": "Openledger is the AI Blockchain, unlocking liquidity to monetize data, models and agents | Backed by @polychain, @borderless_cap & @HashKey_Capital",
-      "followersCount": 371046,
+      "followersCount": 370991,
       "friendsCount": 35,
       "location": "San Francisco, CA"
     },
@@ -739,7 +807,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18639,
+      "followersCount": 18638,
       "friendsCount": 2338,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
