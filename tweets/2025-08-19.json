@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21399,
+      "friendsCount": 1040,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gytgv3hacAERNuI.jpg",
+      "https://pbs.twimg.com/media/Gytgv3jacAEEHHy.jpg",
+      "https://pbs.twimg.com/media/Gytg1jJacAAK9nm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1957765177816035675",
+    "fullText": "今天让 GPT-5 优化代码，又学到了一个小知识：\n\\u0001 是 Unicode/ASCII 的控制字符 SOH，历史上用于通信协议标记开头，不可打印。现代几乎不用，常被当作分隔符，但在日志/传输中可能被过滤或转义。 https://t.co/pmoXrzmqs3"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34781,
+      "friendsCount": 666,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GytfnpWa8AA39Ik.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1957763605664866597",
+    "fullText": "傍晚落了一场雨，这晚霞也太好看了吧 https://t.co/Equa2Oqlmb"
+  },
+  {
+    "user": {
       "screenName": "goocarlos",
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19640,
+      "followersCount": 19642,
       "friendsCount": 844,
       "location": "San Jose, CA"
     },
@@ -37,7 +73,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151746,
+      "followersCount": 151749,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -86,7 +122,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151746,
+      "followersCount": 151749,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -137,7 +173,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14202,
+      "followersCount": 14206,
       "friendsCount": 3975,
       "location": ""
     },
@@ -154,7 +190,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151746,
+      "followersCount": 151749,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -169,7 +205,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14202,
+      "followersCount": 14206,
       "friendsCount": 3975,
       "location": ""
     },
@@ -186,7 +222,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130614,
+      "followersCount": 130616,
       "friendsCount": 1362,
       "location": "Chicago, IL"
     },
@@ -201,7 +237,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34780,
+      "followersCount": 34781,
       "friendsCount": 666,
       "location": "Hong Kong"
     },
@@ -218,7 +254,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14202,
+      "followersCount": 14206,
       "friendsCount": 3975,
       "location": ""
     },
@@ -301,7 +337,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130614,
+      "followersCount": 130616,
       "friendsCount": 1362,
       "location": "Chicago, IL"
     },
@@ -369,7 +405,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14202,
+      "followersCount": 14206,
       "friendsCount": 3975,
       "location": ""
     },
@@ -435,7 +471,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74805,
+      "followersCount": 74806,
       "friendsCount": 3442,
       "location": ""
     },
@@ -516,7 +552,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14202,
+      "followersCount": 14206,
       "friendsCount": 3975,
       "location": ""
     },
@@ -780,7 +816,7 @@
       "name": "Market Wire News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1806758575148011521/7uxqERRy_normal.jpg",
       "description": "Real-time stock news & investor tools\nDaily #StockNews at https://t.co/0PViOdLpgF\nFollow for market updates!",
-      "followersCount": 61749,
+      "followersCount": 61726,
       "friendsCount": 0,
       "location": "San Jose, CA"
     },
@@ -814,7 +850,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74805,
+      "followersCount": 74806,
       "friendsCount": 3442,
       "location": ""
     },
@@ -832,7 +868,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130614,
+      "followersCount": 130616,
       "friendsCount": 1362,
       "location": "Chicago, IL"
     },
@@ -990,7 +1026,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34780,
+      "followersCount": 34781,
       "friendsCount": 666,
       "location": "Hong Kong"
     },
