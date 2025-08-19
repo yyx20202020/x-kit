@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34707,
+      "friendsCount": 665,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1957629724290912256/vid/avc1/2560x1440/TiwJdDt_1zJBtD3M.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1957630630457667812",
+    "fullText": "🎉🎉🎉《Dify Agent实战：最强售前！给客户配一个新能源选车Agent》已发布到课程中。\n\n我们将用Dify搭建一个能从车型数据库自动推荐车型、实时搜索、保存收藏的智能Agent，同时自动发送飞书消息把销售线索发到飞书群。\n\n你将学习到：\n1. 如何结合ChatGPT梳理业务和表结构 + https://t.co/7fM12OmzTX"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 14146,
+      "friendsCount": 3973,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1957626865943736321/vid/avc1/896x1680/icKQFAqZTCny5REa.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/1957628154497147092",
+    "fullText": "最近在看 皮特船长，一个中国人环球航海。\n\n突然觉得，互联网也在进入航海时代，或者说整个人类活动进入赛博航海时代。我们不需要一个大路（平台），我们只需要协议（语言 和 美元 或 其他货币）和自己的帆船。\n\n或者说，出海他不是业务在地理范围上的变化，更多应该是心态转变为航海状态。 https://t.co/rvhNLCAzoL"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6113,
+      "followersCount": 6112,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -54,7 +88,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130557,
+      "followersCount": 130564,
       "friendsCount": 1362,
       "location": "Chicago, IL"
     },
@@ -82,11 +116,28 @@
   },
   {
     "user": {
+      "screenName": "ideaordie",
+      "name": "IDEAorDIE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953761959393857536/EOnRGPcv_normal.jpg",
+      "description": "IDEAS to Make America Great Again! 🇺🇸",
+      "followersCount": 14708,
+      "friendsCount": 979,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyrSimoXoAYUJ_b.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ideaordie/status/1957608483018121580",
+    "fullText": "🌡️Unusual weather persists in US with warm Midwest, snowy West, and high fire risks due to jet stream shifts and climate factors.\n\nHow can communities adapt to these erratic weather patterns?\n\nIDEA:\n\nPromote energy independence through domestic fossil fuel production to stabilize https://t.co/uTIuLUvlFl"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14141,
+      "followersCount": 14146,
       "friendsCount": 3973,
       "location": ""
     },
@@ -134,7 +185,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
       "followersCount": 74793,
-      "friendsCount": 3443,
+      "friendsCount": 3442,
       "location": ""
     },
     "images": [],
@@ -148,7 +199,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14141,
+      "followersCount": 14146,
       "friendsCount": 3973,
       "location": ""
     },
@@ -248,8 +299,8 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24056,
-      "friendsCount": 300,
+      "followersCount": 24064,
+      "friendsCount": 299,
       "location": "Guangdong"
     },
     "images": [
@@ -300,7 +351,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
       "followersCount": 74793,
-      "friendsCount": 3443,
+      "friendsCount": 3442,
       "location": ""
     },
     "images": [
@@ -317,7 +368,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130557,
+      "followersCount": 130564,
       "friendsCount": 1362,
       "location": "Chicago, IL"
     },
@@ -332,7 +383,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
-      "followersCount": 840,
+      "followersCount": 841,
       "friendsCount": 510,
       "location": ""
     },
@@ -349,8 +400,8 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24056,
-      "friendsCount": 300,
+      "followersCount": 24064,
+      "friendsCount": 299,
       "location": "Guangdong"
     },
     "images": [],
@@ -398,7 +449,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34701,
+      "followersCount": 34707,
       "friendsCount": 665,
       "location": "Hong Kong"
     },
@@ -411,11 +462,43 @@
   },
   {
     "user": {
+      "screenName": "TopstepTV",
+      "name": "TopstepTV",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
+      "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
+      "followersCount": 7636,
+      "friendsCount": 32,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TopstepTV/status/1957421181331476599",
+    "fullText": "Happy Monday! 🚨 We’re live all day on @TopstepTV.\nNew week, new updates, new opportunity!\nFollow us on X and subscribe on YouTube https://t.co/XL0GMBvF5b"
+  },
+  {
+    "user": {
+      "screenName": "adamgoldstein13",
+      "name": "Adam Goldstein",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864416801582665729/0pLww17O_normal.jpg",
+      "description": "Founder & CEO of @ArcherAviation",
+      "followersCount": 57850,
+      "friendsCount": 408,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gyon7QwaMAAK0wL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/adamgoldstein13/status/1957421116655559123",
+    "fullText": "Full circle moment. One of Archer’s earliest champions, @United CFO Mike Leskinen, came with me to Salinas last week as we flew Midnight 55 miles in 31 minutes at 126 mph, our longest piloted flight yet. Having him there, remarking on just how quiet the aircraft was, really https://t.co/gs2KB8A0A4"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6113,
+      "followersCount": 6112,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -475,11 +558,26 @@
   },
   {
     "user": {
+      "screenName": "options_insight",
+      "name": "Imran Lakha | Options Insight",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1579885489208918018/v8v77UZZ_normal.jpg",
+      "description": "20-Year Professional Options Trader | Macro | Volatility | Crypto | Mentor | FREE Daily Insights 👇 https://t.co/QvFQ7NuXX2",
+      "followersCount": 22779,
+      "friendsCount": 914,
+      "location": "London, England"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/options_insight/status/1957397103614763257",
+    "fullText": "Re-opening for 48 hours (FREE)\n\nThe Options Strategy COMPASS — a 2-video bundle that turns “I like this chart” into a repeatable plan.\n\nInside you’ll get:\n\nHow to pick the right options structure by goal (direction, vol, income, hedge) and by a risk ladder (fixed-premium →"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151689,
+      "followersCount": 151691,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -528,7 +626,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34701,
+      "followersCount": 34707,
       "friendsCount": 665,
       "location": "Hong Kong"
     },
@@ -539,11 +637,28 @@
   },
   {
     "user": {
+      "screenName": "Lagunaberry",
+      "name": "LAGUNABERRY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923893164160462848/HE1efr_B_normal.jpg",
+      "description": "I'M A DISABLED CHRISTIAN AMERICAN, I VOTED FOR TRUMP 3X! I SEEK TRUTH AND AMERICA FIRST POLICIES. GOD, FAMILY, COUNTRY, IN THAT ORDER. 🙏👨‍👩‍👧‍👦🇺🇸",
+      "followersCount": 1762,
+      "friendsCount": 3052,
+      "location": "New Mexico"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1957328226797457409/pu/vid/avc1/720x1280/q1Kd33HLOBAbtJnw.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Lagunaberry/status/1957329358408057090",
+    "fullText": "PSA to the EBT whiners! https://t.co/KWQkTWfswv"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151689,
+      "followersCount": 151691,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -575,7 +690,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14141,
+      "followersCount": 14146,
       "friendsCount": 3973,
       "location": ""
     },
@@ -592,7 +707,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6113,
+      "followersCount": 6112,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -641,7 +756,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18634,
+      "followersCount": 18638,
       "friendsCount": 2342,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -675,7 +790,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34701,
+      "followersCount": 34707,
       "friendsCount": 665,
       "location": "Hong Kong"
     },
@@ -893,7 +1008,7 @@
       "name": "FlyingBeagle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1843282948545552384/eDAE3zh6_normal.jpg",
       "description": "Gaza 🌶️🔻 Palestine  🇵🇸",
-      "followersCount": 8917,
+      "followersCount": 8918,
       "friendsCount": 1898,
       "location": ""
     },
@@ -903,5 +1018,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/FlyingBeagle_/status/1956947653360505068",
     "fullText": "https://t.co/UoRVb6JNC6"
+  },
+  {
+    "user": {
+      "screenName": "potaufan",
+      "name": "Michael Fan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1448362914721656832/ojBkAYcQ_normal.jpg",
+      "description": "I offer insights into future trends in tech and international affairs. Data Scientist in training.",
+      "followersCount": 211,
+      "friendsCount": 137,
+      "location": "Langley, Canada"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/potaufan/status/1956928366516502763",
+    "fullText": "Crimea and a large swath of Donbas were never in the cards for Ukraine.\n\nBecause there is no anti-Russian (anti-imperial, anti-Kremlin) policy that would be sophisticated enough not to come across as or slide into anti-Russophone behaviour. The Ukrainian-speaking Ukrainians are"
   }
 ]
