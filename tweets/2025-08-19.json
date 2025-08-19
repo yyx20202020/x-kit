@@ -1,11 +1,30 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 130656,
+      "friendsCount": 1363,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GywDXn-XwAAq95V.png",
+      "https://pbs.twimg.com/media/GywDY72XMAAIG0u.jpg",
+      "https://pbs.twimg.com/media/GywDackWoAATiK3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1957943708546105465",
+    "fullText": "前几天我在听喜马拉雅的凡人修仙传仙界篇，有个人物叫魔光，我都想不起来是谁了，就分别问了 ChatGPT, Gemini, Claude，只有 Gemini 是回答正确的，其他两都是瞎编 https://t.co/vbgFVin8Ci"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31183,
+      "followersCount": 31186,
       "friendsCount": 154,
       "location": "China"
     },
@@ -86,7 +105,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24133,
+      "followersCount": 24129,
       "friendsCount": 299,
       "location": "Guangdong"
     },
@@ -120,7 +139,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31183,
+      "followersCount": 31186,
       "friendsCount": 154,
       "location": "China"
     },
@@ -137,7 +156,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130655,
+      "followersCount": 130656,
       "friendsCount": 1363,
       "location": "Chicago, IL"
     },
@@ -169,7 +188,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31183,
+      "followersCount": 31186,
       "friendsCount": 154,
       "location": "China"
     },
@@ -189,7 +208,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18620,
+      "followersCount": 18611,
       "friendsCount": 2343,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -216,6 +235,21 @@
     ],
     "tweetUrl": "https://x.com/CortesSteve/status/1957818810142224880",
     "fullText": "Republicans in Washington: WAKE UP! \n\nYou’re losing on THE most important issue in America: the economy.\n\nBut there are solutions…see my video, polling, and article 👇 https://t.co/W324dnk6Gk"
+  },
+  {
+    "user": {
+      "screenName": "PCGAdvisory",
+      "name": "PCG Advisory Group",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1138884835576111105/GtMtBAlH_normal.png",
+      "description": "An integrated digital media and global distribution platform for transformative, emerging-growth companies.\nhttps://t.co/elLmuuxiFl",
+      "followersCount": 8397,
+      "friendsCount": 1563,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PCGAdvisory/status/1957818712062366010",
+    "fullText": "COYA Therapeutics $COYA &amp; Dr. Reddy’s discuss advancing investigational candidate COYA 302 for ALS in a new podcast. With an FDA IND decision expected by Aug 29 and key trial readouts ahead, the partnership is focused on near-term milestones and long-term value. Watch on YouTube:"
   },
   {
     "user": {
@@ -287,7 +321,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18620,
+      "followersCount": 18611,
       "friendsCount": 2343,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -302,7 +336,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18620,
+      "followersCount": 18611,
       "friendsCount": 2343,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -332,7 +366,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34822,
+      "followersCount": 34820,
       "friendsCount": 667,
       "location": "Hong Kong"
     },
@@ -385,7 +419,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34822,
+      "followersCount": 34820,
       "friendsCount": 667,
       "location": "Hong Kong"
     },
@@ -434,7 +468,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151773,
+      "followersCount": 151775,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -466,7 +500,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24133,
+      "followersCount": 24129,
       "friendsCount": 299,
       "location": "Guangdong"
     },
@@ -483,7 +517,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151773,
+      "followersCount": 151775,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -516,7 +550,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31183,
+      "followersCount": 31186,
       "friendsCount": 154,
       "location": "China"
     },
@@ -551,7 +585,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151773,
+      "followersCount": 151775,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -583,7 +617,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130655,
+      "followersCount": 130656,
       "friendsCount": 1363,
       "location": "Chicago, IL"
     },
@@ -598,7 +632,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34822,
+      "followersCount": 34820,
       "friendsCount": 667,
       "location": "Hong Kong"
     },
@@ -681,7 +715,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31183,
+      "followersCount": 31186,
       "friendsCount": 154,
       "location": "China"
     },
@@ -698,7 +732,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130655,
+      "followersCount": 130656,
       "friendsCount": 1363,
       "location": "Chicago, IL"
     },
@@ -1073,7 +1107,7 @@
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
       "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
-      "followersCount": 16636,
+      "followersCount": 16637,
       "friendsCount": 1198,
       "location": "San Antonio, TX"
     },
@@ -1500,7 +1534,7 @@
       "name": "matt.smith",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1603377771526475776/WyCRnyBP_normal.jpg",
       "description": "Entrepreneur in the \"before times\", now a cattle rancher in Uruguay. Also the guy who does the podcast with the legendary Doug Casey.",
-      "followersCount": 15311,
+      "followersCount": 15316,
       "friendsCount": 1466,
       "location": "Uruguay"
     },
