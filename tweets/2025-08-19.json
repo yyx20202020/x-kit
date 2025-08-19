@@ -1,11 +1,92 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6113,
+      "friendsCount": 378,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1957624776626987422",
+    "fullText": "明天820了，黑神话DLC是不是要来了"
+  },
+  {
+    "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953014077409959936/-rMLq_yS_normal.jpg",
+      "description": "💻 技术创业者，脱离9-5，屡败屡创\n📸 自启动构建1tongkuan、saasdirs和其他工具\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 81,
+      "friendsCount": 91,
+      "location": "免费AI工具 →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyrgN48aoAArHWz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/1957623528406282360",
+    "fullText": "TIL：女性婚后随夫姓在英语国家比任何其他文化中更常见。\n\n其中以美国80%女性婚后改姓为最，后面依次是英国、澳大利亚、新西兰。日本在这方面又一次是例外。 https://t.co/3t8VuUbvn3"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31132,
+      "friendsCount": 153,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyrZ8jJacAElKfF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1957616633780006945",
+    "fullText": "一个技术型CEO每天都在想啥？\n\n曾经的代码狂魔，被团队限制写代码后，他每天都在干嘛？\n\n7点，起床蹲马桶的时候看看推特AI新闻，有趣的就转发mark，以后团队开发素材。对每个友好的评论，尽量必回，最少也点个赞 https://t.co/Yhgkq9ERIZ"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 130557,
+      "friendsCount": 1362,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1957616017829675438",
+    "fullText": "朋友问我对于 Figma 生成代码有没有好的方法，他目前做法是：Figma 导出 HTML 代码，然后把导出的代码让 GitHub Copilot 按照代码库中的组件格式重写。他觉得这样还要复制粘贴代码，再写一堆提示词让 Copilot 重写很麻烦。\n\n我对 Figma 不是很熟悉，建议他可以试试把 Figma 的结果直接截图或者导出"
+  },
+  {
+    "user": {
+      "screenName": "navigate_ai",
+      "name": "Navigate",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1803822113008013312/IXX0hEtf_normal.jpg",
+      "description": "Own your hardware. Monetize your data.\nDecentralized AI & Ethereum infra — powered by @base.\n\nCA: 0x5d6Cae0422A950dbd7918D1e74434A35156b3Ba4",
+      "followersCount": 200963,
+      "friendsCount": 2062,
+      "location": "Everywhere"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyrVC2tWYAEsbNV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/navigate_ai/status/1957611235236557199",
+    "fullText": "The internet was built to be open, and accessible to everyone, powered by everyone. \n\nBut somewhere along the way, Big Tech took the wheel, monetizing your data without ever cutting you in. \n\nAt Navigate we believe the data economy should work for the people who power it and https://t.co/Idkm6q7Bn1"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14135,
+      "followersCount": 14141,
       "friendsCount": 3973,
       "location": ""
     },
@@ -52,7 +133,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74789,
+      "followersCount": 74793,
       "friendsCount": 3443,
       "location": ""
     },
@@ -67,7 +148,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14135,
+      "followersCount": 14141,
       "friendsCount": 3973,
       "location": ""
     },
@@ -101,7 +182,7 @@
       "name": "Roger Ledbetter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1717348526911336448/dbQvj44b_normal.jpg",
       "description": "I lower cost of capital for SMB and Real Estate owners through tax and accounting | Tax and Accounting niche emails in 🔗👇",
-      "followersCount": 18451,
+      "followersCount": 18454,
       "friendsCount": 786,
       "location": "Katy, TX"
     },
@@ -167,7 +248,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24045,
+      "followersCount": 24056,
       "friendsCount": 300,
       "location": "Guangdong"
     },
@@ -218,7 +299,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74789,
+      "followersCount": 74793,
       "friendsCount": 3443,
       "location": ""
     },
@@ -236,7 +317,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130553,
+      "followersCount": 130557,
       "friendsCount": 1362,
       "location": "Chicago, IL"
     },
@@ -268,7 +349,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24045,
+      "followersCount": 24056,
       "friendsCount": 300,
       "location": "Guangdong"
     },
@@ -283,7 +364,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31133,
+      "followersCount": 31132,
       "friendsCount": 153,
       "location": "China"
     },
@@ -300,7 +381,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31133,
+      "followersCount": 31132,
       "friendsCount": 153,
       "location": "China"
     },
@@ -317,7 +398,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34690,
+      "followersCount": 34701,
       "friendsCount": 665,
       "location": "Hong Kong"
     },
@@ -345,11 +426,26 @@
   },
   {
     "user": {
+      "screenName": "mattpheus",
+      "name": "matt.smith",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1603377771526475776/WyCRnyBP_normal.jpg",
+      "description": "Entrepreneur in the \"before times\", now a cattle rancher in Uruguay. Also the guy who does the podcast with the legendary Doug Casey.",
+      "followersCount": 15303,
+      "friendsCount": 1464,
+      "location": "Uruguay"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mattpheus/status/1957413847985180712",
+    "fullText": "The Preparation: Today is the day. \nWe’ve been talking about this book for ages and the day has finally arrived. The book that Doug Casey, my son Maxim, and I wrote is finally published and ready for release.\n\nWe recognize that most of our readers are not college age. However,"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31133,
+      "followersCount": 31132,
       "friendsCount": 153,
       "location": "China"
     },
@@ -362,11 +458,28 @@
   },
   {
     "user": {
+      "screenName": "NinjaTrader",
+      "name": "NinjaTrader",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631993074011217923/dItVVjfo_normal.jpg",
+      "description": "NinjaTrader is an industry leading trading platform and futures broker supporting over 1 million users globally. Risk Disclosure: https://t.co/EnRryKzghi",
+      "followersCount": 24272,
+      "friendsCount": 4,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gyoa9GgXAAEMGLN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NinjaTrader/status/1957406646407176346",
+    "fullText": "Step into the NinjaTrader Arena, where you can test your futures trading skills in a simulated, risk-free environment. Compete for cash prizes while trading popular futures contracts like the E-mini S&amp;P, E-mini Nasdaq, crude oil, and gold. Track your progress on live leaderboards https://t.co/bq3n1F0JFZ"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151686,
+      "followersCount": 151689,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -383,7 +496,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31133,
+      "followersCount": 31132,
       "friendsCount": 153,
       "location": "China"
     },
@@ -398,7 +511,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31133,
+      "followersCount": 31132,
       "friendsCount": 153,
       "location": "China"
     },
@@ -415,7 +528,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34690,
+      "followersCount": 34701,
       "friendsCount": 665,
       "location": "Hong Kong"
     },
@@ -430,7 +543,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151686,
+      "followersCount": 151689,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -462,7 +575,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14135,
+      "followersCount": 14141,
       "friendsCount": 3973,
       "location": ""
     },
@@ -511,7 +624,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31133,
+      "followersCount": 31132,
       "friendsCount": 153,
       "location": "China"
     },
@@ -528,7 +641,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18635,
+      "followersCount": 18634,
       "friendsCount": 2342,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -545,7 +658,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56645,
+      "followersCount": 56646,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -562,7 +675,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34690,
+      "followersCount": 34701,
       "friendsCount": 665,
       "location": "Hong Kong"
     },
@@ -594,7 +707,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14135,
+      "followersCount": 14141,
       "friendsCount": 3973,
       "location": ""
     },
@@ -611,7 +724,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14135,
+      "followersCount": 14141,
       "friendsCount": 3973,
       "location": ""
     },
@@ -773,5 +886,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1956994571759722981",
     "fullText": "“当新技术被引入到不合时宜的环境中，势必造成社会混乱和道德危机。” https://t.co/9uRXvANHz4"
+  },
+  {
+    "user": {
+      "screenName": "FlyingBeagle_",
+      "name": "FlyingBeagle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1843282948545552384/eDAE3zh6_normal.jpg",
+      "description": "Gaza 🌶️🔻 Palestine  🇵🇸",
+      "followersCount": 8917,
+      "friendsCount": 1898,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gyh5CoFWcAEa7aQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FlyingBeagle_/status/1956947653360505068",
+    "fullText": "https://t.co/UoRVb6JNC6"
   }
 ]
