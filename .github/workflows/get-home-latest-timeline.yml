@@ -29,7 +29,7 @@ jobs:
       - name: Run fetch script
         env:
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
-        run: bun run scripts/fetch-tweets.ts
+        run: bun run scripts/fetch-and-generate.ts
         
       - name: Commit and push changes
         run: |
