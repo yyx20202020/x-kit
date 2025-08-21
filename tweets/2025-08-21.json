@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 74875,
+      "friendsCount": 3443,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1958391121245323448",
+    "fullText": "有个挺反直觉的。\n现在的 LLM 非常适合 Rust 项目，一是因为训练集相对其它的健康，另一个是因为胡乱 vibe 的看都不看 apply 的，它编译就过不了。"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -35,7 +50,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31251,
+      "followersCount": 31252,
       "friendsCount": 154,
       "location": "China"
     },
@@ -65,7 +80,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31251,
+      "followersCount": 31252,
       "friendsCount": 154,
       "location": "China"
     },
@@ -83,7 +98,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14360,
+      "followersCount": 14364,
       "friendsCount": 3983,
       "location": ""
     },
@@ -130,11 +145,28 @@
   },
   {
     "user": {
+      "screenName": "rbradthomas",
+      "name": "Brad Thomas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1725935981612716032/Xfj-EnKA_normal.jpg",
+      "description": "Founder Wide Moat Research, Creator of iREIT®, Author of REITs For Dummies: https://t.co/PkB9GqCeB4",
+      "followersCount": 20638,
+      "friendsCount": 4437,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy1-1u0XgAEPUII.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rbradthomas/status/1958361146278154288",
+    "fullText": "Buffett bets on billboards (i.e. $LAMR) \n\nRead my latest article on Wide Moat Daily (link below) https://t.co/x9EPPPlLLU"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14360,
+      "followersCount": 14364,
       "friendsCount": 3983,
       "location": ""
     },
@@ -151,7 +183,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130872,
+      "followersCount": 130878,
       "friendsCount": 1363,
       "location": "Chicago, IL"
     },
@@ -170,7 +202,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130872,
+      "followersCount": 130878,
       "friendsCount": 1363,
       "location": "Chicago, IL"
     },
@@ -180,6 +212,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1958357269499781178",
     "fullText": "告别人工智能泡沫，准备迎接崩盘\n作者：Michael Hiltzik\n\n对于那些没有深度参与这场人工智能狂热的人来说，可能没注意到一个重要变化：一直以来，人们觉得AI正势不可挡地变得比人还聪明，甚至会威胁人类。但这种看法，在8月7日那天，被踩了个急刹车。 https://t.co/Fgfib0lW56"
+  },
+  {
+    "user": {
+      "screenName": "MrsDrLinda",
+      "name": "Dr. Linda Tarpley",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952128835996065792/oF_gBM9X_normal.jpg",
+      "description": "like @datarepublican\nlike @mikebenzcyber\nlike @elonmusk\nlike @DOGE\nlike #BJUPressHomeschool",
+      "followersCount": 1031,
+      "friendsCount": 515,
+      "location": "South Carolina, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1958354643748114432/pu/vid/avc1/720x1280/fRsKPmOyeA2uOM8-.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/MrsDrLinda/status/1958354670558093807",
+    "fullText": "This is what my husband thinks of me. Ya can't please everybody. 🤷‍♀️ https://t.co/0S2EnxfKQl"
   },
   {
     "user": {
@@ -281,7 +330,7 @@
       "name": "Americans For Pharma Reform",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828106758167949325/pn7PQFYv_normal.jpg",
       "description": "A grassroots organization exposing the corruption and insane influence of Big Pharma. 1st step: 🚫Banning Pharma TV Ads",
-      "followersCount": 3086,
+      "followersCount": 3085,
       "friendsCount": 23,
       "location": "Virginia"
     },
@@ -375,7 +424,7 @@
       "name": "🆉🆄🆄🅷🅻82",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943226140673429504/xtTSTUb4_normal.jpg",
       "description": "•ⒸⓎⒷⒺⓇⓅⓊⓃⓀ • 🄰🄽🄸🄼🄴 •ⒹⒶⓇⓀ-ⒶⓇⓉ • ᴍᴀɴᴜᴀʟ ʀᴇᴛᴏᴜᴄʜɪɴɢ•◾◽ART-2021◽◾ support me https://t.co/7kuxwJeVwO\n\n𝐜𝐨𝐧𝐭𝐚𝐜𝐭: 𝚒𝚗𝚏𝚘@𝚣𝚞𝚞𝚑𝚕.𝚍𝚎",
-      "followersCount": 80446,
+      "followersCount": 80447,
       "friendsCount": 856,
       "location": "pn commissions"
     },
@@ -385,6 +434,25 @@
     "videos": [],
     "tweetUrl": "https://x.com/Zuuhl82/status/1958270852786438425",
     "fullText": "Good night to my Hussar warriors \n\n– steel never sleeps. https://t.co/zUReArErzw"
+  },
+  {
+    "user": {
+      "screenName": "JasonJonesVPP",
+      "name": "The Jason Jones Show",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1782447600462913536/ZJXFw9OZ_normal.jpg",
+      "description": "Jason Jones is a film producer, author, activist, podcast host, and human rights worker. Author of The Great Campaign Against the Great Reset.",
+      "followersCount": 5413,
+      "friendsCount": 1746,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy0ixGhbQAAn589.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1958259639969259520/vid/avc1/1080x1920/hV_S8MmDyP4Jc42q.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/JasonJonesVPP/status/1958260208096170245",
+    "fullText": "Join us as we celebrate a legacy of love and hope.\n\nHappy Birthday, Ron Paul! https://t.co/MLR42CnW1t"
   },
   {
     "user": {
@@ -471,7 +539,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4314532,
+      "followersCount": 4314578,
       "friendsCount": 3,
       "location": ""
     },
@@ -588,7 +656,7 @@
       "name": "Israel Democracy Institute",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1750547612837588992/2eF6KINW_normal.jpg",
       "description": "IDI is an independent, non-partisan think-and-do tank dedicated to strengthening the foundations of Israeli democracy.\ninfo@idi.org.il",
-      "followersCount": 7017,
+      "followersCount": 7018,
       "friendsCount": 1075,
       "location": "Jerusalem, Israel"
     },
@@ -733,7 +801,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31251,
+      "followersCount": 31252,
       "friendsCount": 154,
       "location": "China"
     },
@@ -818,7 +886,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151849,
+      "followersCount": 151854,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -884,7 +952,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14360,
+      "followersCount": 14364,
       "friendsCount": 3983,
       "location": ""
     },
