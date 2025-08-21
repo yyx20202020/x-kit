@@ -1,11 +1,80 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31250,
+      "friendsCount": 154,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy2Fis1bUAAd5zN.jpg",
+      "https://pbs.twimg.com/media/Gy2FiuqacAAW-2V.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1958368247323251138",
+    "fullText": "懒猫网盘的文件细腻度的快照恢复，广受好评。\n\n误删文件秒后悔 https://t.co/HX86V25ZxS"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14350,
+      "followersCount": 14352,
+      "friendsCount": 3983,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy2Es1PawAAh07B.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1958367704836182123",
+    "fullText": "品牌就是资产，\n这个还是要多花点心思。\n\n我年初 注册的 小火炉播客 商标现在还没下来，严重点说，项目都黄了，商标还没下来...\n不过，这次长教训了，注册 不和 项目强绑定的 商标，这样铁打的商标、流水的项目。 https://t.co/HICYfCFlkR"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 841,
+      "friendsCount": 514,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy2Bipja0AARcvK.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1958364046727713088",
+    "fullText": "YOOART Image 已上线 qwen-image-edit 编辑模型啦！！！https://t.co/wgvRwFNpeW https://t.co/MVKzP8vT9f"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 841,
+      "friendsCount": 514,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy2A8OCboAAOJHe.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1958363705172996501",
+    "fullText": "YOOART IMAGE 搞了个 SeeDream 2K 生图模型，可以直出2K（2560x1440）级别尺寸，快来试试吧！！https://t.co/wgvRwFNpeW https://t.co/CNcVeRzaqj"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 14352,
       "friendsCount": 3983,
       "location": ""
     },
@@ -22,7 +91,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130866,
+      "followersCount": 130868,
       "friendsCount": 1363,
       "location": "Chicago, IL"
     },
@@ -41,7 +110,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130866,
+      "followersCount": 130868,
       "friendsCount": 1363,
       "location": "Chicago, IL"
     },
@@ -73,8 +142,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18621,
-      "friendsCount": 2347,
+      "followersCount": 18622,
+      "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -98,6 +167,36 @@
     ],
     "tweetUrl": "https://x.com/individual1st/status/1958328565960990899",
     "fullText": "Hatteras Island—just north of hatteras village, feeling the effects of Hurricane Erin.\n\nvideo by Brian MacArthur https://t.co/QGJ7W1DdQk"
+  },
+  {
+    "user": {
+      "screenName": "Georgysogood",
+      "name": "Georgysogood",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945145109814640640/JSzA8E6n_normal.jpg",
+      "description": "Slightly Curious 🐶| @Web3 Enthusiast | 28 Years in @Gaming 🎮 | Exploring the Nexus of Tech, Gaming, and Decentralization.\nMultilingual Speaker 🗣️",
+      "followersCount": 111,
+      "friendsCount": 1283,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Georgysogood/status/1958322190228840496",
+    "fullText": "@playbigtime Imagine what???? Can you hire a CM or start being open and talk to your community???? Worse communication ever seen in any web2/3 team ever. @arimeilich"
+  },
+  {
+    "user": {
+      "screenName": "ScientologyTV",
+      "name": "Scientology Network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1624465216401727493/SgA--cXs_normal.jpg",
+      "description": "Watch on DIRECTV 320, DIRECTV STREAM, AT&T U-verse, Roku, Apple TV, Fire TV and https://t.co/OQcPQOkOda!",
+      "followersCount": 31167,
+      "friendsCount": 57,
+      "location": "Hollywood, Los Angeles"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ScientologyTV/status/1958317825422160335",
+    "fullText": "Watch the LIVE PREMIERE of Voices for Humanity: Chief Marcos Santos Jr.!\n\nAlso in tonight’s broadcast:\n - Destination: Scientology, Denver\n - Meet a Scientologist: Claude Racine &amp; Noah Valinsky\nhttps://t.co/GseYelmO47"
   },
   {
     "user": {
@@ -169,7 +268,7 @@
       "name": "🆉🆄🆄🅷🅻82",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943226140673429504/xtTSTUb4_normal.jpg",
       "description": "•ⒸⓎⒷⒺⓇⓅⓊⓃⓀ • 🄰🄽🄸🄼🄴 •ⒹⒶⓇⓀ-ⒶⓇⓉ • ᴍᴀɴᴜᴀʟ ʀᴇᴛᴏᴜᴄʜɪɴɢ•◾◽ART-2021◽◾ support me https://t.co/7kuxwJeVwO\n\n𝐜𝐨𝐧𝐭𝐚𝐜𝐭: 𝚒𝚗𝚏𝚘@𝚣𝚞𝚞𝚑𝚕.𝚍𝚎",
-      "followersCount": 80544,
+      "followersCount": 80541,
       "friendsCount": 856,
       "location": "pn commissions"
     },
@@ -250,7 +349,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4314404,
+      "followersCount": 4314455,
       "friendsCount": 3,
       "location": ""
     },
@@ -384,8 +483,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18621,
-      "friendsCount": 2347,
+      "followersCount": 18622,
+      "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -418,8 +517,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18621,
-      "friendsCount": 2347,
+      "followersCount": 18622,
+      "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -433,8 +532,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18621,
-      "friendsCount": 2347,
+      "followersCount": 18622,
+      "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -495,7 +594,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31249,
+      "followersCount": 31250,
       "friendsCount": 154,
       "location": "China"
     },
@@ -529,8 +628,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18621,
-      "friendsCount": 2347,
+      "followersCount": 18622,
+      "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -563,7 +662,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151839,
+      "followersCount": 151846,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -580,7 +679,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56705,
+      "followersCount": 56704,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -629,7 +728,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14350,
+      "followersCount": 14352,
       "friendsCount": 3983,
       "location": ""
     },
@@ -639,6 +738,26 @@
     ],
     "tweetUrl": "https://x.com/cellinlab/status/1958008590003843310",
     "fullText": "把播客变成你的第二大脑：Searchable！Citable！Discussable！\n\nPodNote 用 智能摘要 / 关键词追踪 / 一键溯源 / 中英双语，把 1h 节目压缩到≈ 15min，省时≈70%。（划重点：支持订阅后随节目更新自动转写总结！\n\n@PodnoteX  对症三件事：\n🌍 错过海外Top？🔍 直接搜\n📝 金句没出处？⏪ 点字回听原音 https://t.co/mVpRKRhejV"
+  },
+  {
+    "user": {
+      "screenName": "CAanime_GLOBAL",
+      "name": "CyberAgent ANIME Global",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1933426367619801088/nvxb8EDY_normal.jpg",
+      "description": "The official English account of CyberAgent Anime. Follow us for the latest updates!\n\n【YouTube】https://t.co/DdFbGPEZnU",
+      "followersCount": 467,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GywwKPOacAE9Auf.png",
+      "https://pbs.twimg.com/media/GywwQ5macAEkcEn.png",
+      "https://pbs.twimg.com/media/Gyww6qKacAMq-qd.png",
+      "https://pbs.twimg.com/media/Gyww_eEakAAwn91.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CAanime_GLOBAL/status/1957994128169660477",
+    "fullText": "Have you watched The Summer Hikaru Died?\nSummer heat. Festivals. Mystery.\nCatch it now on Netflix! https://t.co/OWO3uTnchA"
   },
   {
     "user": {
@@ -756,5 +875,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/FlyingBeagle_/status/1957729653763788840",
     "fullText": "28 children are killed daily in Gaza—one every 40 minutes."
+  },
+  {
+    "user": {
+      "screenName": "RussiasPivot",
+      "name": "Russia's Pivot to Asia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1769982993785917440/XBzb36SX_normal.jpg",
+      "description": "Russia's geopolitical, trade and investment pivot to the BRICS, EAEU, CIS, SCO, GCC, African Union, ASEAN, Mercosur, and the Belt & Road Initiative.",
+      "followersCount": 2929,
+      "friendsCount": 10,
+      "location": "Asia "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GysR21VXYAIHrDC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RussiasPivot/status/1957678394885230812",
+    "fullText": "The Proposed Putin-Zelensky Meeting: Legal Analysis\nWill Putin agree to meet Zelensky? Is a legitimate question as Zelensky is not in a position to negotiate territory with Russia - he simply doesn't have the authority. We discuss why and identify three problematic issues that https://t.co/vCokCg0q1I"
   }
 ]
